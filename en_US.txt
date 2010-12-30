@@ -19625,6 +19625,7 @@ aftertastes
 afterthought
 afterthought's
 afterthoughts
+afterward
 afterwards
 afterword
 afterword's
@@ -78506,6 +78507,10 @@ ointments
 okapi
 okapi's
 okapis
+okay
+okay's
+okaying
+okays
 okra
 okra's
 okras
