@@ -20794,6 +20794,7 @@ analogy's
 analysand
 analysand's
 analysands
+analyses
 analysis
 analysis's
 analyst
@@ -25329,7 +25330,6 @@ behave
 behaved
 behaves
 behaving
-behaviorist's
 behaviour
 behaviour's
 behavioural
@@ -25337,6 +25337,7 @@ behaviourally
 behaviourism
 behaviourism's
 behaviourist
+behaviourist's
 behaviourists
 behaviours
 behead
@@ -31698,7 +31699,6 @@ centennial
 centennial's
 centennially
 centennials
-centerfold's
 centigrade
 centigram
 centigram's
@@ -31739,6 +31739,7 @@ centreboard's
 centreboards
 centred
 centrefold
+centrefold's
 centrefolds
 centrepiece
 centrepiece's
@@ -32805,8 +32806,6 @@ chitchatting
 chitin
 chitin's
 chitinous
-chitlings's
-chitlins's
 chits
 chitterlings
 chitterlings's
@@ -32850,7 +32849,6 @@ chloroform's
 chloroformed
 chloroforming
 chloroforms
-chlorophyl's
 chlorophyll
 chlorophyll's
 chloroplast
@@ -34253,7 +34251,6 @@ cobwebby
 cobwebs
 coca
 coca's
-cocain's
 cocaine
 cocaine's
 cocci
@@ -34805,7 +34802,6 @@ coloration's
 coloratura
 coloratura's
 coloraturas
-colorblindness's
 colossal
 colossally
 colossi
@@ -34823,6 +34819,7 @@ colourant's
 colourants
 colourblind
 colourblindness
+colourblindness's
 coloured
 coloured's
 coloureds
@@ -40275,7 +40272,6 @@ dear's
 dearer
 dearest
 dearests
-dearie's
 dearies
 dearly
 dearness
@@ -41308,10 +41304,8 @@ demagnetize
 demagnetized
 demagnetizes
 demagnetizing
-demagog's
 demagogic
 demagogically
-demagogs
 demagogue
 demagogue's
 demagoguery
@@ -44623,7 +44617,6 @@ dogtrotting
 dogwood
 dogwood's
 dogwoods
-doh's
 doilies
 doily
 doily's
@@ -47498,7 +47491,6 @@ ency
 encyclical
 encyclical's
 encyclicals
-encyclopaedia's
 encyclopedia
 encyclopedia's
 encyclopedias
@@ -51090,12 +51082,12 @@ fibber
 fibber's
 fibbers
 fibbing
-fiberfill's
 fibre
 fibre's
 fibreboard
 fibreboard's
 fibrefill
+fibrefill's
 fibreglass
 fibreglass's
 fibres
@@ -51897,7 +51889,6 @@ flanking
 flanks
 flannel
 flannel's
-flannelet's
 flannelette
 flannelette's
 flannelled
@@ -54994,9 +54985,6 @@ gay
 gay's
 gayer
 gayest
-gayety
-gayety's
-gayly
 gayness
 gayness's
 gays
@@ -57861,7 +57849,6 @@ haddocks
 hadjes
 hadn't
 hadst
-haemoglobin's
 hafnium
 hafnium's
 haft
@@ -60372,8 +60359,6 @@ honorarium
 honorarium's
 honorariums
 honorary
-honoree's
-honorees
 honorific
 honorific's
 honorifics
@@ -60385,6 +60370,8 @@ honourableness's
 honourably
 honoured
 honouree
+honouree's
+honourees
 honourer
 honourer's
 honourers
@@ -61294,7 +61281,6 @@ hwy
 hyacinth
 hyacinth's
 hyacinths
-hyaena's
 hyaenas
 hybrid
 hybrid's
@@ -70227,11 +70213,9 @@ lungs
 lunkhead
 lunkhead's
 lunkheads
-lupin's
 lupine
 lupine's
 lupines
-lupins
 lupus
 lupus's
 lurch
@@ -81950,11 +81934,9 @@ peculiarity
 peculiarity's
 peculiarly
 pecuniary
-pedagog's
 pedagogic
 pedagogical
 pedagogically
-pedagogs
 pedagogue
 pedagogue's
 pedagogues
@@ -85777,7 +85759,6 @@ practicum
 practicum's
 practicums
 practise
-practise's
 practised
 practises
 practising
@@ -106404,7 +106385,6 @@ sweepingly
 sweepings
 sweepings's
 sweeps
-sweepstake's
 sweepstakes
 sweepstakes's
 sweet

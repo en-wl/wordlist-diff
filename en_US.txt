@@ -20778,6 +20778,7 @@ analogy's
 analysand
 analysand's
 analysands
+analyses
 analysis
 analysis's
 analyst
@@ -32804,8 +32805,6 @@ chitchatting
 chitin
 chitin's
 chitinous
-chitlings's
-chitlins's
 chits
 chitterlings
 chitterlings's
@@ -32849,7 +32848,6 @@ chloroform's
 chloroformed
 chloroforming
 chloroforms
-chlorophyl's
 chlorophyll
 chlorophyll's
 chloroplast
@@ -34252,7 +34250,6 @@ cobwebby
 cobwebs
 coca
 coca's
-cocain's
 cocaine
 cocaine's
 cocci
@@ -40274,7 +40271,6 @@ dear's
 dearer
 dearest
 dearests
-dearie's
 dearies
 dearly
 dearness
@@ -41308,10 +41304,8 @@ demagnetize
 demagnetized
 demagnetizes
 demagnetizing
-demagog's
 demagogic
 demagogically
-demagogs
 demagogue
 demagogue's
 demagoguery
@@ -44619,7 +44613,6 @@ dogtrotting
 dogwood
 dogwood's
 dogwoods
-doh's
 doilies
 doily
 doily's
@@ -47494,7 +47487,6 @@ ency
 encyclical
 encyclical's
 encyclicals
-encyclopaedia's
 encyclopedia
 encyclopedia's
 encyclopedias
@@ -51899,7 +51891,6 @@ flanks
 flannel
 flannel's
 flanneled
-flannelet's
 flannelette
 flannelette's
 flanneling
@@ -54987,9 +54978,6 @@ gay
 gay's
 gayer
 gayest
-gayety
-gayety's
-gayly
 gayness
 gayness's
 gays
@@ -57858,7 +57846,6 @@ haddocks
 hadjes
 hadn't
 hadst
-haemoglobin's
 hafnium
 hafnium's
 haft
@@ -61293,7 +61280,6 @@ hwy
 hyacinth
 hyacinth's
 hyacinths
-hyaena's
 hyaenas
 hybrid
 hybrid's
@@ -70225,11 +70211,9 @@ lungs
 lunkhead
 lunkhead's
 lunkheads
-lupin's
 lupine
 lupine's
 lupines
-lupins
 lupus
 lupus's
 lurch
@@ -81936,11 +81920,9 @@ peculiarity
 peculiarity's
 peculiarly
 pecuniary
-pedagog's
 pedagogic
 pedagogical
 pedagogically
-pedagogs
 pedagogue
 pedagogue's
 pedagogues
@@ -85767,7 +85749,6 @@ practicing
 practicum
 practicum's
 practicums
-practise's
 practitioner
 practitioner's
 practitioners
@@ -106383,7 +106364,6 @@ sweepingly
 sweepings
 sweepings's
 sweeps
-sweepstake's
 sweepstakes
 sweepstakes's
 sweet
@@ -109373,7 +109353,6 @@ tiresomely
 tiresomeness
 tiresomeness's
 tiring
-tiro's
 tissue
 tissue's
 tissues
@@ -112093,6 +112072,7 @@ tyrant
 tyrant's
 tyrants
 tyro
+tyro's
 tyros
 tzarists
 u
