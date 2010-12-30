@@ -30050,7 +30050,6 @@ callings
 calliope
 calliope's
 calliopes
-callisthenics's
 callosities
 callosity
 callosity's
@@ -33382,7 +33381,6 @@ civets
 civic
 civics
 civics's
-civies's
 civil
 civilian
 civilian's
@@ -48601,7 +48599,6 @@ esteems
 ester
 ester's
 esters
-esthetics's
 estimable
 estimate
 estimate's
@@ -50126,9 +50123,7 @@ fagging
 faggot
 faggot's
 faggoting
-faggoting's
 faggots
-fagoting's
 fags
 faience
 faience's
@@ -57867,7 +57862,6 @@ hadjes
 hadn't
 hadst
 haemoglobin's
-haemorrhoids's
 hafnium
 hafnium's
 haft
@@ -71778,7 +71772,6 @@ matron's
 matronly
 matrons
 mats
-matt's
 matte
 matte's
 matted
@@ -74244,7 +74237,6 @@ molluscan
 molluscan's
 molluscans
 molluscs
-molluskan's
 molluskans
 molly
 molly's
@@ -80481,7 +80473,6 @@ pads
 paean
 paean's
 paeans
-paediatrics's
 paedophilia
 paella
 paella's
@@ -97728,7 +97719,6 @@ serapes
 seraph
 seraph's
 seraphic
-seraphim's
 seraphs
 sere
 serenade
@@ -98598,7 +98588,6 @@ shivering
 shivers
 shivery
 shivs
-shlock's
 shoal
 shoal's
 shoaled
