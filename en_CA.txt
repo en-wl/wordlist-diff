@@ -19456,18 +19456,12 @@ aerodynamic
 aerodynamically
 aerodynamics
 aerodynamics's
-aerofoil
-aerofoil's
-aerofoils
 aerogram
 aerograms
 aeronautic
 aeronautical
 aeronautics
 aeronautics's
-aeroplane
-aeroplane's
-aeroplanes
 aerosol
 aerosol's
 aerosols
@@ -19886,6 +19880,9 @@ airfield's
 airfields
 airflow
 airflow's
+airfoil
+airfoil's
+airfoils
 airfreight
 airfreight's
 airguns
@@ -19926,6 +19923,9 @@ airmails
 airman
 airman's
 airmen
+airplane
+airplane's
+airplanes
 airplay
 airplay's
 airport
@@ -60451,6 +60451,7 @@ hooping
 hoopla
 hoopla's
 hoops
+hooray
 hoosegow
 hoosegow's
 hoosegows
