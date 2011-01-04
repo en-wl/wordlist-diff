@@ -24826,6 +24826,8 @@ batting
 batting's
 battle
 battle's
+battleaxe
+battleaxe's
 battleaxes
 battled
 battledore
@@ -46331,6 +46333,7 @@ edelweiss
 edelweiss's
 edema
 edema's
+edemas
 edge
 edge's
 edged
@@ -54484,16 +54487,11 @@ gaffs
 gag
 gag's
 gaga
-gage
-gage's
-gaged
-gages
 gagged
 gagging
 gaggle
 gaggle's
 gaggles
-gaging
 gags
 gaiety
 gaiety's
@@ -78356,9 +78354,6 @@ odyssey
 odyssey's
 odysseys
 oecus
-oedema
-oedema's
-oedemas
 oedipal
 oenology
 oenology's
@@ -84029,6 +84024,7 @@ pixies
 pizza
 pizza's
 pizzas
+pizzazz
 pizzazz's
 pizzeria
 pizzeria's
@@ -86445,7 +86441,6 @@ president's
 presidential
 presidents
 presides
-presidia
 presiding
 presidium
 presidium's
@@ -106784,9 +106779,6 @@ synthetic
 synthetic's
 synthetically
 synthetics
-synthetize
-synthetized
-synthetizing
 syphilis
 syphilis's
 syphilitic

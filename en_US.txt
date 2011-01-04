@@ -24821,6 +24821,8 @@ batting
 batting's
 battle
 battle's
+battleaxe
+battleaxe's
 battleaxes
 battled
 battledore
@@ -54471,16 +54473,11 @@ gaffs
 gag
 gag's
 gaga
-gage
-gage's
-gaged
-gages
 gagged
 gagging
 gaggle
 gaggle's
 gaggles
-gaging
 gags
 gaiety
 gaiety's
@@ -55685,10 +55682,6 @@ gladness's
 glads
 gladsome
 glam
-glamor
-glamor's
-glamored
-glamoring
 glamorization
 glamorization's
 glamorize
@@ -55697,9 +55690,11 @@ glamorizes
 glamorizing
 glamorous
 glamorously
-glamors
 glamour
 glamour's
+glamoured
+glamouring
+glamours
 glance
 glance's
 glanced
@@ -56798,7 +56793,6 @@ grayer
 grayest
 graying
 grayish
-grayist
 grayness
 grayness's
 grays
@@ -65919,10 +65913,9 @@ jewel's
 jeweled
 jeweler
 jeweler's
-jeweleries
 jewelers
-jewelery
 jeweling
+jewelleries
 jewelries
 jewelry
 jewelry's
@@ -86425,7 +86418,6 @@ president's
 presidential
 presidents
 presides
-presidia
 presiding
 presidium
 presidium's
@@ -88527,6 +88519,7 @@ pythons
 pyx
 pyx's
 pyxes
+pzazz
 q
 qr
 qt
@@ -106756,9 +106749,6 @@ synthetic
 synthetic's
 synthetically
 synthetics
-synthetize
-synthetized
-synthetizing
 syphilis
 syphilis's
 syphilitic
