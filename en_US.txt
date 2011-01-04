@@ -6239,8 +6239,6 @@ Gdansk
 Gdansk's
 Ge
 Ge's
-Geer
-Geer's
 Geffen
 Geffen's
 Gehenna
@@ -6309,6 +6307,8 @@ Gerardo
 Gerardo's
 Gerber
 Gerber's
+Gere
+Gere's
 Geritol
 Geritol's
 German
@@ -18634,6 +18634,7 @@ accoutering
 accouterments
 accouterments's
 accouters
+accoutrements's
 accredit
 accreditation
 accreditation's
@@ -29226,6 +29227,8 @@ bunching
 bunchy
 bunco
 bunco's
+buncoed
+buncoing
 buncos
 bundle
 bundle's
@@ -29267,8 +29270,6 @@ bunkhouse
 bunkhouse's
 bunkhouses
 bunking
-bunko
-bunko's
 bunks
 bunkum
 bunkum's
@@ -31974,6 +31975,7 @@ chambray's
 chameleon
 chameleon's
 chameleons
+chammies
 chamois
 chamois's
 chamomile
@@ -33167,7 +33169,6 @@ ciaos
 cicada
 cicada's
 cicadas
-cicatrice
 cicatrices
 cicatrix
 cicatrix's
@@ -40796,7 +40797,6 @@ deepness's
 deeps
 deer
 deer's
-deers
 deerskin
 deerskin's
 deerstalker
@@ -47229,8 +47229,6 @@ emotionless
 emotions
 emotive
 emotively
-empaneled
-empaneling
 empathetic
 empathize
 empathized
@@ -60103,7 +60101,6 @@ hollered
 hollering
 hollers
 hollies
-holloed
 hollow
 hollow's
 hollowed
@@ -67420,7 +67417,6 @@ lakefront
 lakefronts
 lakes
 lakeside
-lallygagging
 lam
 lam's
 lama
@@ -71387,7 +71383,6 @@ marlinespike
 marlinespike's
 marlinespikes
 marlins
-marlinspike
 marmalade
 marmalade's
 marmoreal
@@ -78332,6 +78327,8 @@ oenology's
 oenophile
 oenophile's
 oenophiles
+oesophagus
+oesophagus's
 oeuvre
 oeuvre's
 oeuvres
@@ -98081,6 +98078,7 @@ shamelessness's
 shames
 shaming
 shammed
+shammies
 shamming
 shampoo
 shampoo's
@@ -107095,7 +107093,6 @@ tambourine
 tambourine's
 tambourines
 tame
-tameable
 tamed
 tamely
 tameness
@@ -117518,7 +117515,7 @@ whoa
 whodunit
 whodunit's
 whodunits
-whodunnits
+whodunnit's
 whoever
 whole
 whole's

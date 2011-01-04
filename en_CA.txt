@@ -22351,7 +22351,7 @@ arroyo
 arroyo's
 arroyos
 arse
-arse's
+arse's :2
 arsed
 arsehole
 arsehole's
@@ -22619,7 +22619,6 @@ aspirin's
 aspiring
 aspirins
 asps
-ass
 ass's
 assail
 assailable
@@ -29232,6 +29231,8 @@ bunching
 bunchy
 bunco
 bunco's
+buncoed
+buncoing
 buncos
 bundle
 bundle's
@@ -29273,8 +29274,6 @@ bunkhouse
 bunkhouse's
 bunkhouses
 bunking
-bunko
-bunko's
 bunks
 bunkum
 bunkum's
@@ -31976,6 +31975,7 @@ chambray's
 chameleon
 chameleon's
 chameleons
+chammies
 chamois
 chamois's
 chamomile
@@ -33175,9 +33175,8 @@ cicada
 cicada's
 cicadas
 cicatrice
+cicatrice's
 cicatrices
-cicatrix
-cicatrix's
 cicerone
 cicerone's
 cicerones
@@ -45354,7 +45353,6 @@ dredger's
 dredgers
 dredges
 dredging
-drees
 dregs
 dregs's
 drench
@@ -47240,8 +47238,10 @@ emotionless
 emotions
 emotive
 emotively
+empanel
 empanelled
 empanelling
+empanels
 empathetic
 empathize
 empathized
@@ -48529,6 +48529,7 @@ escutcheons
 esophageal
 esophagi
 esophagus
+esophagus's
 esoteric
 esoterically
 esp
@@ -58042,6 +58043,7 @@ hallmarking
 hallmarks
 halloo
 halloo's
+hallooed
 hallooing
 halloos
 hallow
@@ -60119,8 +60121,6 @@ hollered
 hollering
 hollers
 hollies
-holloaed
-hollooed
 hollow
 hollow's
 hollowed
@@ -62120,10 +62120,6 @@ impales
 impaling
 impalpable
 impalpably
-impanel
-impanelled
-impanelling
-impanels
 impart
 imparted
 impartial
@@ -67436,7 +67432,6 @@ lakefront
 lakefronts
 lakes
 lakeside
-lallygagging
 lam
 lam's
 lama
@@ -71405,7 +71400,6 @@ marlinespike
 marlinespike's
 marlinespikes
 marlins
-marlinspike
 marmalade
 marmalade's
 marmoreal
@@ -78360,6 +78354,7 @@ oenology's
 oenophile
 oenophile's
 oenophiles
+oesophagus
 oesophagus's
 oeuvre
 oeuvre's
@@ -98108,6 +98103,7 @@ shamelessness's
 shames
 shaming
 shammed
+shammies
 shamming
 shampoo
 shampoo's
@@ -107126,7 +107122,6 @@ tambourine
 tambourine's
 tambourines
 tame
-tameable
 tamed
 tamely
 tameness
@@ -117548,7 +117543,7 @@ whoa
 whodunit
 whodunit's
 whodunits
-whodunnits
+whodunnit's
 whoever
 whole
 whole's
