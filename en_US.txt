@@ -2100,6 +2100,7 @@ Bloomfield
 Bloomingdale
 Bloomingdale's
 Bloomsbury
+Blu
 Blucher
 Blucher's
 Bluebeard
@@ -4959,6 +4960,8 @@ ET
 ETA
 ETD
 EU
+EULA
+EULAs
 Eakins
 Earhart
 Earl
@@ -16750,6 +16753,7 @@ US's
 USA
 USA's
 USAF
+USB
 USCG
 USDA
 USIA
@@ -18634,7 +18638,6 @@ accoutering
 accouterments
 accouterments's
 accouters
-accoutrements's
 accredit
 accreditation
 accreditation's
