@@ -48604,6 +48604,9 @@ ewers
 ewes
 ex
 ex's
+exabyte
+exabyte's
+exabytes
 exacerbate
 exacerbated
 exacerbates
@@ -55098,6 +55101,9 @@ gifting
 gifts
 gig
 gig's
+gigabit
+gigabit's
+gigabits
 gigabyte
 gigabyte's
 gigabytes
@@ -55105,6 +55111,9 @@ gigahertz
 gigahertz's
 gigantic
 gigantically
+gigawatt
+gigawatt's
+gigawatts
 gigged
 gigging
 giggle
@@ -71690,6 +71699,7 @@ megaphoned
 megaphones
 megaphoning
 megapixel
+megapixel's
 megapixels
 megastar
 megastars
@@ -82380,6 +82390,9 @@ pesto's
 pests
 pet
 pet's
+petabyte
+petabyte's
+petabytes
 petal
 petal's
 petaled
@@ -84012,6 +84025,9 @@ plugged
 plugging
 plughole
 plugholes
+plugin
+plugin's
+plugins
 plugs
 plum
 plum's
@@ -107512,9 +107528,14 @@ tepidness's
 tequila
 tequila's
 tequilas
+terabit
+terabit's
+terabits
 terabyte
 terabyte's
 terabytes
+terahertz
+terahertz's
 terbium
 terbium's
 tercentenaries
