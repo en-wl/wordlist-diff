@@ -29478,6 +29478,7 @@ cabbage
 cabbage's
 cabbages
 cabbed
+cabbies
 cabbing
 cabby
 cabby's
@@ -29879,6 +29880,7 @@ camcorders
 came
 camel
 camel's
+camelhair
 camellia
 camellia's
 camellias
@@ -59551,6 +59553,7 @@ ho
 ho's
 hoagie
 hoagie's
+hoagies
 hoard
 hoard's
 hoarded
@@ -70471,6 +70474,7 @@ mamboed
 mamboing
 mambos
 mamma
+mamma's
 mammal
 mammal's
 mammalian
@@ -84297,6 +84301,8 @@ poker's
 pokers
 pokes
 pokey
+pokey's
+pokeys
 pokier
 pokiest
 poking
@@ -93922,6 +93928,8 @@ roper
 roper's
 ropers
 ropes
+ropier
+ropiest
 roping
 ropy
 rosaries
@@ -100734,6 +100742,7 @@ sogginess
 sogginess's
 soggy
 soigne
+soignee
 soil
 soil's
 soiled
@@ -116409,6 +116418,7 @@ weep's
 weeper
 weeper's
 weepers
+weepie
 weepier
 weepies
 weepiest
