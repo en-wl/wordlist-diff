@@ -21020,6 +21020,7 @@ antenatal
 antenna
 antenna's
 antennae
+antennas
 anterior
 anteroom
 anteroom's
@@ -21484,6 +21485,7 @@ appendectomies
 appendectomy
 appendectomy's
 appended
+appendices
 appendicitis
 appendicitis's
 appending
@@ -22115,7 +22117,7 @@ arroyo
 arroyo's
 arroyos
 arse
-arse's :2
+arse's
 arsed
 arsehole
 arsehole's
@@ -42215,6 +42217,7 @@ dialogue
 dialogue's
 dialogues
 dials
+dialyses
 dialysis
 dialysis's
 dialyzes
@@ -54223,6 +54226,7 @@ galoots
 galore
 galosh
 galosh's
+galoshes
 gals
 galumph
 galumphed
@@ -80526,6 +80530,7 @@ parallelogram
 parallelogram's
 parallelograms
 parallels
+paralyses
 paralysingly
 paralysis
 paralysis's
@@ -89514,6 +89519,7 @@ reamer's
 reamers
 reaming
 reams
+reanalyses
 reanalysis
 reanalysis's
 reanalyze
@@ -107386,6 +107392,7 @@ temporizer's
 temporizers
 temporizes
 temporizing
+tempos
 temps
 tempt
 temptation
@@ -117635,6 +117642,7 @@ wolfing
 wolfish
 wolfram
 wolfram's
+wolfs
 wolverine
 wolverine's
 wolverines
