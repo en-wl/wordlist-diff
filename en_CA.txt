@@ -731,6 +731,8 @@ Andrew's
 Andrews
 Andrianampoinimerina
 Andrianampoinimerina's
+Android
+Android's
 Andromache
 Andromeda
 Andromeda's
@@ -2105,6 +2107,8 @@ Blucher
 Blucher's
 Bluebeard
 Bluebeard's
+Bluetooth
+Bluetooth's
 Blvd
 Blythe
 Blythe's
@@ -4924,6 +4928,8 @@ E's
 EC
 ECG
 ECG's
+ECMAScript
+ECMAScript's
 EDP
 EDP's
 EDT
@@ -5576,6 +5582,7 @@ FOFL
 FORTRAN
 FORTRAN's
 FPO
+FSF
 FSLIC
 FTC
 FUD
@@ -5587,6 +5594,8 @@ Faberge
 Fabian
 Fabian's
 Fabians
+Facebook
+Facebook's
 Faeroe
 Faeroe's
 Fafnir
@@ -6060,6 +6069,7 @@ GMT
 GMT's
 GNP
 GNP's
+GNU
 GOP
 GOP's
 GP
@@ -11872,6 +11882,8 @@ Nestle's
 Nestor
 Nestor's
 Nestorius
+Netflix
+Netflix's
 Netherlander
 Netherlander's
 Netherlanders
@@ -14063,6 +14075,8 @@ Roget
 Roget's
 Rojas
 Rojas's
+Roku
+Roku's
 Rolaids
 Rolaids's
 Roland
@@ -17307,6 +17321,8 @@ Waller
 Wallis
 Walloon
 Walls
+Walmart
+Walmart's
 Walpole
 Walpole's
 Walpurgisnacht
@@ -46041,6 +46057,7 @@ e'en
 e'er
 eBay
 eBay's
+eMusic
 ea
 each
 eager
@@ -61573,6 +61590,8 @@ hysterically
 hysterics
 hysterics's
 i
+iPad
+iPhone
 iPod
 iPod's
 iTunes
