@@ -88635,9 +88635,12 @@ racks
 raconteur
 raconteur's
 raconteurs
+racquet
+racquet's
 racquetball
 racquetball's
 racquetballs
+racquets
 racy
 rad
 rad's
