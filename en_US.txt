@@ -766,6 +766,8 @@ Angel
 Angel's
 Angela
 Angela's
+Angeles
+Angeles's
 Angelia
 Angelia's
 Angelica
@@ -9486,6 +9488,7 @@ Larsen
 Larsen's
 Larson
 Larson's
+Las
 Lascaux
 Lascaux's
 Lassa
@@ -10023,6 +10026,7 @@ Lorre
 Lorre's
 Lorrie
 Lorrie's
+Los
 Lot
 Lot's
 Lothario
@@ -15140,6 +15144,8 @@ Scotchmen
 Scotchwoman
 Scotchwoman's
 Scotchwomen
+Scotia
+Scotia's
 Scotland
 Scotland's
 Scots
@@ -17895,6 +17901,7 @@ Whitsunday
 Whitsunday's
 Whitsundays
 Whittier
+WiFi
 Wicca
 Wichita
 Wichita's
