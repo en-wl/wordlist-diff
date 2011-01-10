@@ -12515,6 +12515,8 @@ OHSA's
 OJ
 OK
 OK's
+OKed
+OKing
 OKs
 OMB
 OMB's
