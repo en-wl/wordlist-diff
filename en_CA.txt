@@ -23045,6 +23045,7 @@ aspirin's
 aspiring
 aspirins
 asps
+ass
 ass's
 assail
 assailable
@@ -25245,6 +25246,7 @@ battle
 battle's
 battleaxe
 battleaxe's
+battleaxes
 battled
 battledore
 battledore's
@@ -31615,6 +31617,7 @@ cataloguing
 catalpa
 catalpa's
 catalpas
+catalyses
 catalysis
 catalysis's
 catalyst
@@ -42304,8 +42307,6 @@ descendant's
 descendants
 descended
 descendent
-descendent's
-descendents
 descender
 descending
 descends
@@ -61551,7 +61552,6 @@ hwy
 hyacinth
 hyacinth's
 hyacinths
-hyaenas
 hybrid
 hybrid's
 hybridism
@@ -61614,6 +61614,7 @@ hydrologist's
 hydrologists
 hydrology
 hydrology's
+hydrolyses
 hydrolysis
 hydrolysis's
 hydrolyze
@@ -76204,13 +76205,11 @@ naturism
 naturist
 naturists
 naught
-naught's
 naughtier
 naughtiest
 naughtily
 naughtiness
 naughtiness's
-naughts
 naughty
 nausea
 nausea's
@@ -83407,6 +83406,8 @@ phonetician's
 phoneticians
 phonetics
 phonetics's
+phoneyed
+phoneying
 phonic
 phonically
 phonics
@@ -88024,6 +88025,7 @@ psyching
 psycho
 psycho's
 psychoactive
+psychoanalyses
 psychoanalysis
 psychoanalysis's
 psychoanalyst
