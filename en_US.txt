@@ -919,6 +919,7 @@ Apennines
 Aphrodite
 Aphrodite's
 Apia
+Apia's
 Apocalypse
 Apocalypse's
 Apocrypha
@@ -2093,6 +2094,7 @@ Blackbeard's
 Blackburn
 Blackburn's
 Blackfeet
+Blackfeet's
 Blackfoot
 Blackfoot's
 Blackpool
@@ -3597,6 +3599,7 @@ Churriguera's
 Chuvash
 Chuvash's
 Ci
+Ci's
 Cicero
 Cicero's
 Cid
@@ -4354,6 +4357,7 @@ Dan's
 Dana
 Dana's
 Danae
+Danae's
 Dane
 Dane's
 Danelaw
@@ -5015,6 +5019,7 @@ Dutch's
 Dutchman
 Dutchman's
 Dutchmen
+Dutchmen's
 Dutchwoman
 Duvalier
 Dvina
@@ -5377,9 +5382,11 @@ Englishes
 Englishman
 Englishman's
 Englishmen
+Englishmen's
 Englishwoman
 Englishwoman's
 Englishwomen
+Englishwomen's
 Enid
 Enid's
 Enif
@@ -6108,9 +6115,11 @@ Frenches
 Frenchman
 Frenchman's
 Frenchmen
+Frenchmen's
 Frenchwoman
 Frenchwoman's
 Frenchwomen
+Frenchwomen's
 Freon
 Fresnel
 Fresnel's
@@ -8084,9 +8093,11 @@ Irisher
 Irishman
 Irishman's
 Irishmen
+Irishmen's
 Irishwoman
 Irishwoman's
 Irishwomen
+Irishwomen's
 Irkutsk
 Irma
 Irma's
@@ -9600,6 +9611,7 @@ Lebesgue's
 Leblanc
 Leblanc's
 Leda
+Leda's
 Lederberg
 Lederberg's
 Lee
@@ -10491,6 +10503,7 @@ Maldonado's
 Male
 Male's
 Mali
+Mali's
 Malian
 Malian's
 Malians
@@ -12234,6 +12247,7 @@ Ngaliema's
 Nguyen
 Nguyen's
 Ni
+Ni's
 Niagara
 Niagara's
 Niamey
@@ -12403,6 +12417,7 @@ Norse's
 Norseman
 Norseman's
 Norsemen
+Norsemen's
 North
 North's
 Northampton
@@ -13432,6 +13447,7 @@ Pippin's
 Piraeus
 Pirandello
 Pisa
+Pisa's
 Pisces
 Pisces's
 Pisistratus
@@ -14130,6 +14146,7 @@ Reggie's
 Regina
 Regina's
 Reginae
+Reginae's
 Reginald
 Reginald's
 Regor
@@ -15143,9 +15160,11 @@ Scotches
 Scotchman
 Scotchman's
 Scotchmen
+Scotchmen's
 Scotchwoman
 Scotchwoman's
 Scotchwomen
+Scotchwomen's
 Scotia
 Scotia's
 Scotland
@@ -15154,9 +15173,11 @@ Scots
 Scotsman
 Scotsman's
 Scotsmen
+Scotsmen's
 Scotswoman
 Scotswoman's
 Scotswomen
+Scotswomen's
 Scott
 Scott's
 Scottie
@@ -15513,6 +15534,7 @@ Shylock
 Shylockian
 Shylockian's
 Si
+Si's
 Siam
 Siam's
 Siamese
@@ -17829,6 +17851,7 @@ Welsh's
 Welshman
 Welshman's
 Welshmen
+Welshmen's
 Welshwoman
 Wendell
 Wendell's
