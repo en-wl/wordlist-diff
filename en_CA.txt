@@ -63443,6 +63443,7 @@ indicatives
 indicator
 indicator's
 indicators
+indices
 indict
 indictable
 indicted
@@ -114717,6 +114718,7 @@ vagina's
 vaginae
 vaginal
 vaginally
+vaginas
 vagrancy
 vagrancy's
 vagrant
@@ -115321,6 +115323,7 @@ vertical
 vertical's
 vertically
 verticals
+vertices
 vertiginous
 vertigo
 vertigo's
