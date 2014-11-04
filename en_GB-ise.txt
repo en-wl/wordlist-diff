@@ -119417,6 +119417,8 @@ webcams
 webfeet
 webfoot
 webfoot's
+webinar
+webinars
 webmaster
 webmaster's
 webmasters
