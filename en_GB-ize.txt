@@ -93423,6 +93423,8 @@ redistributes
 redistributing
 redistribution
 redistribution's
+redistributor
+redistributors
 redistrict
 redistricted
 redistricting
@@ -93644,6 +93646,10 @@ reface
 refaced
 refaces
 refacing
+refactor
+refactored
+refactoring
+refactors
 refashion
 refashioned
 refashioning

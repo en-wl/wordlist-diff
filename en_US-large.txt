@@ -129235,6 +129235,8 @@ redistributing
 redistribution
 redistribution's
 redistributive
+redistributor
+redistributors
 redistrict
 redistricted
 redistricting
@@ -129501,6 +129503,10 @@ reface
 refaced
 refaces
 refacing
+refactor
+refactored
+refactoring
+refactors
 refashion
 refashioned
 refashioning
