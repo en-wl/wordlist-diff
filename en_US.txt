@@ -3155,6 +3155,8 @@ CST's
 CT
 CT's
 CV
+CVS
+CVS's
 CZ
 Ca
 Ca's
@@ -16621,6 +16623,8 @@ STOL
 SUSE
 SUSE's
 SUV
+SVN
+SVN's
 SW
 SW's
 SWAK
