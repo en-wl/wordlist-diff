@@ -150620,7 +150620,6 @@ tadpole
 tadpole's
 tadpoles
 tads
-taed
 tael
 taels
 taenia
@@ -151594,6 +151593,7 @@ tectonically
 tectonics
 tectonics's
 tectrix
+ted
 tedder
 teddies
 teddy

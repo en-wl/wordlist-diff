@@ -109458,7 +109458,6 @@ tadpole
 tadpole's
 tadpoles
 tads
-taed
 taffeta
 taffeta's
 taffies
@@ -110202,6 +110201,7 @@ techs
 tectonic
 tectonics
 tectonics's
+ted
 teddies
 teddy
 tedious
