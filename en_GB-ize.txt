@@ -22210,9 +22210,7 @@ aerially
 aerials
 aerie
 aerie's
-aerier
 aeries
-aeriest
 aerobatic
 aerobatics
 aerobatics's
@@ -22504,8 +22502,6 @@ aggro
 aghast
 agile
 agilely
-agiler
-agilest
 agility
 agility's
 agitate
@@ -22732,8 +22728,6 @@ airway's
 airways
 airwoman
 airwomen
-airworthier
-airworthiest
 airworthiness
 airworthiness's
 airworthy
@@ -28835,8 +28829,6 @@ billionths
 billow
 billow's
 billowed
-billowier
-billowiest
 billowing
 billows
 billowy
@@ -30859,8 +30851,6 @@ braking
 bramble
 bramble's
 brambles
-bramblier
-brambliest
 brambly
 bran
 bran's
@@ -36574,8 +36564,6 @@ clique
 clique's
 cliques
 cliquey
-cliquier
-cliquiest
 cliquish
 cliquishly
 cliquishness
@@ -40919,8 +40907,6 @@ crackle
 crackle's
 crackled
 crackles
-cracklier
-crackliest
 crackling
 crackling's
 cracklings
@@ -46961,8 +46947,6 @@ ditherers
 dithering
 dithers
 ditransitive
-ditsier
-ditsiest
 ditsy
 ditties
 ditto
@@ -48136,8 +48120,6 @@ drizzle
 drizzle's
 drizzled
 drizzles
-drizzlier
-drizzliest
 drizzling
 drizzly
 drogue
@@ -54142,8 +54124,6 @@ finked
 finking
 finks
 finned
-finnier
-finniest
 finny
 fins
 fir
@@ -54996,8 +54976,6 @@ flounce
 flounce's
 flounced
 flounces
-flouncier
-flounciest
 flouncing
 flouncy
 flounder
@@ -56242,8 +56220,6 @@ freckle
 freckle's
 freckled
 freckles
-frecklier
-freckliest
 freckling
 freckly
 free
@@ -56523,8 +56499,6 @@ frizzle
 frizzle's
 frizzled
 frizzles
-frizzlier
-frizzliest
 frizzling
 frizzly
 frizzy
@@ -58185,8 +58159,6 @@ gimmicky
 gimp
 gimp's
 gimped
-gimpier
-gimpiest
 gimping
 gimps
 gimpy
@@ -58533,8 +58505,6 @@ gloominess's
 gloomy
 glop
 glop's
-gloppier
-gloppiest
 gloppy
 gloried
 glories
@@ -59677,8 +59647,6 @@ grist
 grist's
 gristle
 gristle's
-gristlier
-gristliest
 gristly
 gristmill
 gristmill's
@@ -60208,8 +60176,6 @@ gunge
 gungy
 gunk
 gunk's
-gunkier
-gunkiest
 gunky
 gunman
 gunman's
@@ -68555,8 +68521,6 @@ jiggle
 jiggle's
 jiggled
 jiggles
-jigglier
-jiggliest
 jiggling
 jiggly
 jigs
@@ -68584,8 +68548,6 @@ jingle
 jingle's
 jingled
 jingles
-jinglier
-jingliest
 jingling
 jingly
 jingoism
@@ -68787,8 +68749,6 @@ jounce
 jounce's
 jounced
 jounces
-jouncier
-jounciest
 jouncing
 jouncy
 journal
@@ -71745,8 +71705,6 @@ lipids
 liposuction
 liposuction's
 lipped
-lippier
-lippiest
 lippy
 lipread
 lipreader
@@ -79105,8 +79063,6 @@ newsweekly's
 newswoman
 newswoman's
 newswomen
-newsworthier
-newsworthiest
 newsworthiness
 newsworthiness's
 newsworthy
@@ -83354,8 +83310,6 @@ panhandling
 panic
 panic's
 panicked
-panickier
-panickiest
 panicking
 panicky
 panics
@@ -84453,8 +84407,6 @@ pebble
 pebble's
 pebbled
 pebbles
-pebblier
-pebbliest
 pebbling
 pebbly
 pecan
@@ -91176,8 +91128,6 @@ quake
 quake's
 quaked
 quakes
-quakier
-quakiest
 quaking
 quaky
 qualification
@@ -96204,8 +96154,6 @@ rheumatics
 rheumatism
 rheumatism's
 rheumatoid
-rheumier
-rheumiest
 rheumy
 rhinestone
 rhinestone's
@@ -96339,8 +96287,6 @@ ridgepole
 ridgepole's
 ridgepoles
 ridges
-ridgier
-ridgiest
 ridging
 ridgy
 ridicule
@@ -96545,8 +96491,6 @@ ripple
 ripple's
 rippled
 ripples
-ripplier
-rippliest
 rippling
 ripply
 rips
@@ -97234,8 +97178,6 @@ rubatos
 rubbed
 rubber
 rubber's
-rubberier
-rubberiest
 rubberize
 rubberized
 rubberizes
@@ -97493,8 +97435,6 @@ rusher
 rusher's
 rushers
 rushes
-rushier
-rushiest
 rushing
 rushy
 rusk
@@ -99097,8 +99037,6 @@ scratchy
 scrawl
 scrawl's
 scrawled
-scrawlier
-scrawliest
 scrawling
 scrawls
 scrawly
@@ -99373,8 +99311,6 @@ scuppering
 scuppers
 scurf
 scurf's
-scurfier
-scurfiest
 scurfy
 scurried
 scurries
@@ -99554,8 +99490,6 @@ seaways
 seaweed
 seaweed's
 seaweeds
-seaworthier
-seaworthiest
 seaworthiness
 seaworthiness's
 seaworthy
@@ -99697,8 +99631,6 @@ sedatives
 sedentary
 sedge
 sedge's
-sedgier
-sedgiest
 sedgy
 sediment
 sediment's
@@ -102530,8 +102462,6 @@ slantwise
 slap
 slap's
 slapdash
-slaphappier
-slaphappiest
 slaphappy
 slapped
 slapper
@@ -102682,8 +102612,6 @@ sleepyheads
 sleet
 sleet's
 sleeted
-sleetier
-sleetiest
 sleeting
 sleets
 sleety
@@ -103612,8 +103540,6 @@ snuffle
 snuffle's
 snuffled
 snuffles
-snufflier
-snuffliest
 snuffling
 snuffly
 snuffs
@@ -104816,8 +104742,6 @@ spicules
 spicy
 spider
 spider's
-spiderier
-spideriest
 spiders
 spiderweb
 spiderweb's
@@ -105382,8 +105306,6 @@ spume
 spume's
 spumed
 spumes
-spumier
-spumiest
 spuming
 spumoni
 spumoni's
@@ -105463,8 +105385,6 @@ squalidness's
 squall
 squall's
 squalled
-squallier
-squalliest
 squalling
 squalls
 squally
@@ -105562,8 +105482,6 @@ squelch
 squelch's
 squelched
 squelches
-squelchier
-squelchiest
 squelching
 squelchy
 squib
@@ -105578,8 +105496,6 @@ squiggle
 squiggle's
 squiggled
 squiggles
-squigglier
-squiggliest
 squiggling
 squiggly
 squint
@@ -107107,8 +107023,6 @@ stripe's
 striped
 stripes
 stripey
-stripier
-stripiest
 striping
 stripling
 stripling's
@@ -107228,8 +107142,6 @@ stubbiest
 stubbing
 stubble
 stubble's
-stubblier
-stubbliest
 stubbly
 stubborn
 stubborner
@@ -108067,8 +107979,6 @@ summered
 summerhouse
 summerhouse's
 summerhouses
-summerier
-summeriest
 summering
 summers
 summertime
@@ -109022,8 +108932,6 @@ swiping
 swirl
 swirl's
 swirled
-swirlier
-swirliest
 swirling
 swirls
 swirly
@@ -111757,8 +111665,6 @@ tingle
 tingle's
 tingled
 tingles
-tinglier
-tingliest
 tingling
 tingling's
 tinglings
@@ -112391,8 +112297,6 @@ torrent's
 torrential
 torrents
 torrid
-torrider
-torridest
 torridity
 torridity's
 torridly
@@ -114379,8 +114283,6 @@ twiddle
 twiddle's
 twiddled
 twiddles
-twiddlier
-twiddliest
 twiddling
 twiddly
 twig
@@ -114433,8 +114335,6 @@ twirled
 twirler
 twirler's
 twirlers
-twirlier
-twirliest
 twirling
 twirls
 twirly
@@ -115524,8 +115424,6 @@ unessential
 unethical
 unethically
 uneven
-unevener
-unevenest
 unevenly
 unevenness
 unevenness's
@@ -116208,8 +116106,6 @@ unravels
 unreachable
 unread
 unreadable
-unreadier
-unreadiest
 unready
 unreal
 unrealistic
@@ -116436,8 +116332,6 @@ unspoken
 unsporting
 unsportsmanlike
 unstable
-unstabler
-unstablest
 unstably
 unstained
 unstated
@@ -117470,8 +117364,6 @@ velvet
 velvet's
 velveteen
 velveteen's
-velvetier
-velvetiest
 velvety
 venal
 venality
@@ -120186,8 +120078,6 @@ wienies
 wife
 wife's
 wifeless
-wifelier
-wifeliest
 wifely
 wig
 wig's
@@ -120285,8 +120175,6 @@ williwaw's
 williwaws
 willow
 willow's
-willowier
-willowiest
 willows
 willowy
 willpower
@@ -121229,8 +121117,6 @@ wriggler
 wriggler's
 wrigglers
 wriggles
-wrigglier
-wriggliest
 wriggling
 wriggly
 wright
