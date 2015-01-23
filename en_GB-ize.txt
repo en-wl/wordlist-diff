@@ -8662,6 +8662,7 @@ Honecker
 Honecker's
 Honeywell
 Honeywell's
+Hong
 Honiara
 Honiara's
 Honolulu
@@ -20691,6 +20692,8 @@ Zara
 Zara's
 Zarathustra
 Zarathustra's
+Zealand
+Zealand's
 Zebedee
 Zebedee's
 Zechariah

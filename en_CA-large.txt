@@ -12282,6 +12282,7 @@ Honecker's
 Honegger
 Honeywell
 Honeywell's
+Hong
 Honiara
 Honiara's
 Honolulu
@@ -29173,6 +29174,8 @@ Zarathustra
 Zarathustra's
 Zarqa
 Zarqa's
+Zealand
+Zealand's
 Zealot
 Zebedee
 Zebedee's
