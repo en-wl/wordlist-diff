@@ -8889,6 +8889,7 @@ ICC
 ICU
 ID
 ID's
+IDE
 IDs
 IE
 IL
@@ -94143,6 +94144,9 @@ reinspect
 reinspected
 reinspecting
 reinspects
+reinstall
+reinstalled
+reinstalling
 reinstate
 reinstated
 reinstatement
@@ -110753,9 +110757,11 @@ text's
 textbook
 textbook's
 textbooks
+texted
 textile
 textile's
 textiles
+texting
 texts
 textual
 textually
@@ -120861,6 +120867,9 @@ worker's
 workers
 workfare
 workfare's
+workflow
+workflow's
+workflows
 workforce
 workforce's
 workhorse

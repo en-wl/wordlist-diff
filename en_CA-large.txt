@@ -12595,6 +12595,7 @@ ID
 ID's
 IDA
 IDA's
+IDE
 IDs
 IE
 IF
@@ -152421,9 +152422,11 @@ text's
 textbook
 textbook's
 textbooks
+texted
 textile
 textile's
 textiles
+texting
 texts
 textual
 textualism
@@ -166038,6 +166041,9 @@ worker's
 workers
 workfare
 workfare's
+workflow
+workflow's
+workflows
 workforce
 workforce's
 workforces
