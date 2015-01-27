@@ -22020,7 +22020,6 @@ adornments
 adorns
 adrenal
 adrenal's
-adrenalin
 adrenalin's
 adrenaline
 adrenaline's
@@ -32721,11 +32720,7 @@ calendar's
 calendared
 calendaring
 calendars
-calender
 calender's
-calendered
-calendering
-calenders
 calf
 calf's
 calfskin
