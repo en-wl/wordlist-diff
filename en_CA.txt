@@ -100634,6 +100634,7 @@ shard's
 shards
 share
 share's
+shareable
 sharecrop
 sharecropped
 sharecropper
