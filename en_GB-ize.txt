@@ -8894,6 +8894,7 @@ ID's
 IDE
 IDs
 IE
+IEEE
 IL
 IMF
 IMF's
@@ -8907,6 +8908,7 @@ INRI
 INS
 IOU
 IOU's
+IP
 IPA
 IQ
 IQ's
@@ -15557,6 +15559,7 @@ Puebla
 Puebla's
 Pueblo
 Pueblo's
+Puerto
 Puget
 Puget's
 Pugh
@@ -19880,6 +19883,7 @@ WNW's
 WP
 WSW
 WSW's
+WTO
 WV
 WW
 WWI
@@ -23366,6 +23370,7 @@ amidst
 amigo
 amigo's
 amigos
+amino
 amiss
 amity
 amity's
@@ -35726,6 +35731,7 @@ chromatic
 chromatically
 chromatin
 chromatin's
+chromatography
 chrome
 chrome's
 chromed
@@ -52451,6 +52457,7 @@ extortionists
 extorts
 extra
 extra's
+extracellular
 extract
 extract's
 extracted
@@ -57703,6 +57710,7 @@ gendarme's
 gendarmes
 gender
 gender's
+gendered
 genders
 gene
 gene's
@@ -78188,6 +78196,7 @@ myelitis's
 mynah
 mynah's
 mynahes
+myocardium
 myopia
 myopia's
 myopic
@@ -87959,6 +87968,7 @@ postcard's
 postcards
 postcode
 postcodes
+postcolonial
 postconsonantal
 postdate
 postdated
@@ -90247,6 +90257,7 @@ prowling
 prowls
 prows
 proxies
+proximal
 proximate
 proximity
 proximity's
@@ -118288,6 +118299,7 @@ volleyballs
 volleyed
 volleying
 volleys
+vols
 volt
 volt's
 voltage

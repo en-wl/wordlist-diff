@@ -12600,6 +12600,7 @@ IDA's
 IDE
 IDs
 IE
+IEEE
 IF
 IFC
 IFC's
@@ -12624,6 +12625,7 @@ INRI
 INS
 IOU
 IOU's
+IP
 IPA
 IQ
 IQ's
@@ -22001,6 +22003,7 @@ Puebla
 Puebla's
 Pueblo
 Pueblo's
+Puerto
 Puget
 Puget's
 Pugh
@@ -28098,6 +28101,7 @@ WRAC
 WRAF
 WSW
 WSW's
+WTO
 WV
 WW
 WWI
