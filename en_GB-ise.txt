@@ -56689,7 +56689,6 @@ fryers
 frying
 ft
 ftp
-ftper
 ftpers
 ftping
 ftps

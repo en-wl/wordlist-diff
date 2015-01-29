@@ -79816,7 +79816,6 @@ frying
 ft
 fth
 ftp
-ftper
 ftpers
 ftping
 ftps
