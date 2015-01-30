@@ -28,7 +28,6 @@ ADP
 ADP's
 AF
 AFAIK
-AFAIKs
 AFB
 AFC
 AFC's
@@ -39,7 +38,6 @@ AI
 AI's
 AIDS
 AIDS's
-AIDSes
 AIs
 AK
 AL
@@ -1583,7 +1581,6 @@ BC's
 BIA
 BIOS
 BITNET
-BITNETs
 BLT
 BLT's
 BLTs
@@ -4834,7 +4831,6 @@ DE
 DEA
 DEC
 DECed
-DECing
 DECs
 DH
 DI
@@ -5017,7 +5013,6 @@ Darwinist
 Daryl
 Daryl's
 Datamation
-Datamations
 Daugherty
 Daugherty's
 Daumier
@@ -11589,7 +11584,6 @@ MIA
 MIDI
 MIDI's
 MIPS
-MIPSes
 MIRV
 MIT
 MIT's
@@ -13343,7 +13337,6 @@ Mulroney's
 Multan
 Multan's
 Multics
-Multicses
 Mumbai
 Mumbai's
 Mumford
@@ -15761,9 +15754,6 @@ RSI
 RSV
 RSVP
 RTFM
-RTFMed
-RTFMing
-RTFMs
 RV
 RV's
 RVs
@@ -23893,8 +23883,6 @@ annoyed
 annoying
 annoyingly
 annoys
-annoyware
-annoywares
 annual
 annual's
 annualized
@@ -29270,9 +29258,6 @@ blameworthiness's
 blameworthy
 blaming
 blammo
-blammoed
-blammoing
-blammos
 blanch
 blanched
 blanches
@@ -29534,7 +29519,6 @@ bloaters
 bloating
 bloats
 bloatware
-bloatwares
 blob
 blob's
 blobbed
@@ -30042,15 +30026,8 @@ boggy
 bogie
 bogie's
 bogies
-bogometer
-bogometers
 bogon
-bogosities
 bogosity
-bogotified
-bogotifies
-bogotify
-bogotifying
 bogs
 bogus
 bogyman
@@ -30636,7 +30613,6 @@ bourgeois's
 bourgeoisie
 bourgeoisie's
 boustrophedon
-boustrophedons
 bout
 bout's
 boutique
@@ -39931,7 +39907,6 @@ copyist
 copyist's
 copyists
 copyleft
-copylefts
 copyright
 copyright's
 copyrighted
@@ -41384,7 +41359,6 @@ crippler's
 cripplers
 cripples
 crippleware
-cripplewares
 crippling
 cripplingly
 crises
@@ -41690,8 +41664,6 @@ cruet's
 cruets
 cruft
 crufted
-crufties
-crufting
 crufts
 crufty
 cruise
@@ -41852,9 +41824,6 @@ cubicle
 cubicle's
 cubicles
 cubing
-cubinged
-cubinging
-cubings
 cubism
 cubism's
 cubist
@@ -43889,7 +43858,6 @@ delightfully
 delighting
 delights
 deliminator
-deliminators
 delimit
 delimitation
 delimitation's
@@ -43915,7 +43883,6 @@ delinquents
 delint
 delinted
 delinting
-delints
 deliquesce
 deliquesced
 deliquescent
@@ -45624,7 +45591,6 @@ dingy
 dining
 dink
 dinker
-dinkest
 dinkier
 dinkies
 dinkiest
@@ -47424,7 +47390,6 @@ donor's
 donors
 dons
 donuts
-donutses
 doodad
 doodad's
 doodads
@@ -49614,7 +49579,6 @@ elver's
 elvers
 elves
 elvish
-elvishes
 em
 em's
 emaciate
@@ -51050,7 +51014,6 @@ erotically
 eroticism
 eroticism's
 erotics
-eroticses
 err
 errand
 errand's
@@ -51765,7 +51728,6 @@ exclamation
 exclamation's
 exclamations
 exclamatory
-excls
 exclude
 excluded
 excludes
@@ -51841,8 +51803,6 @@ excuses
 excusing
 exec
 exec's
-execked
-execking
 execrable
 execrably
 execrate
@@ -52815,7 +52775,6 @@ fairies
 fairing
 fairing's
 fairings
-fairingses
 fairly
 fairness
 fairness's
@@ -53031,7 +52990,6 @@ farad
 farad's
 faradize
 faradized
-faradizes
 faradizing
 farads
 faraway
@@ -54183,7 +54141,6 @@ firefighter's
 firefighters
 firefighting
 firefighting's
-firefightings
 firefights
 fireflies
 firefly
@@ -54257,7 +54214,6 @@ firmness's
 firms
 firmware
 firmware's
-firmwares
 firs
 first
 first's
@@ -54493,7 +54449,6 @@ flakiness's
 flaking
 flaky
 flamage
-flamages
 flambe
 flambe's
 flambeed
@@ -55364,7 +55319,6 @@ fontanels
 fonts
 foo
 foobar
-foobars
 food
 food's
 foodie
@@ -56298,7 +56252,6 @@ freethinking
 freethinking's
 freeware
 freeware's
-freewares
 freeway
 freeway's
 freeways
@@ -56517,8 +56470,6 @@ frocks
 frog
 frog's
 frogging
-frogginged
-frogginging
 froggings
 frogman
 frogman's
@@ -58842,8 +58793,6 @@ gonged
 gonging
 gongs
 gonk
-gonked
-gonking
 gonks
 gonna
 gonorrhea
@@ -60438,11 +60387,6 @@ hackers
 hacking
 hacking's
 hackish
-hackishes
-hackishness
-hackishnesses
-hackitude
-hackitudes
 hackle
 hackle's
 hackles
@@ -68227,7 +68171,6 @@ jaggedly
 jaggedness
 jaggedness's
 jaggies
-jaggieses
 jags
 jaguar
 jaguar's
@@ -69578,7 +69521,6 @@ kludging
 kluge
 kluged
 kluges
-kluging
 klutz
 klutz's
 klutzes
@@ -70856,7 +70798,6 @@ legal
 legal's
 legalese
 legalese's
-legaleses
 legalism
 legalism's
 legalisms
@@ -71938,7 +71879,6 @@ livest
 livestock
 livestock's
 liveware
-livewares
 livid
 lividly
 living
@@ -73554,7 +73494,6 @@ manganese's
 mange
 mange's
 manged
-mangeds
 manger
 manger's
 mangers
@@ -75363,7 +75302,6 @@ microfilmed
 microfilming
 microfilms
 microfloppies
-microfloppieses
 microgroove
 microgroove's
 microgrooves
@@ -75846,7 +75784,6 @@ minicomputer
 minicomputer's
 minicomputers
 minifloppies
-minifloppieses
 minim
 minim's
 minimal
@@ -78274,7 +78211,6 @@ naggers
 nagging
 nags
 nagware
-nagwares
 nah
 naiad
 naiad's
@@ -78806,7 +78742,6 @@ neonate
 neonate's
 neonates
 neophilia
-neophilias
 neophyte
 neophyte's
 neophytes
@@ -80204,7 +80139,6 @@ numbered
 numbering
 numberless
 numbers
-numberses
 numbest
 numbing
 numbly
@@ -80354,11 +80288,7 @@ nuzzlers
 nuzzles
 nuzzling
 nybble
-nybbled
 nybbles
-nybbling
-nyetwork
-nyetworks
 nylon
 nylon's
 nylons
@@ -82254,7 +82184,6 @@ overcharging
 overclock
 overclocked
 overclocking
-overclocks
 overcloud
 overclouded
 overclouding
@@ -84308,7 +84237,6 @@ payslip
 payslip's
 payslips
 payware
-paywares
 pct
 pd
 pea
@@ -85355,9 +85283,6 @@ pesos
 pessaries
 pessary
 pessimal
-pessimaled
-pessimaling
-pessimals
 pessimism
 pessimism's
 pessimist
@@ -85835,7 +85760,6 @@ phrasing
 phrasing's
 phrasings
 phreaking
-phreakings
 phrenologist
 phrenologist's
 phrenologists
@@ -91287,7 +91211,6 @@ query
 query's
 querying
 ques
-queses
 quest
 quest's
 quested
@@ -98379,7 +98302,6 @@ scaffolding's
 scaffolds
 scag
 scagged
-scagging
 scags
 scalar
 scalars
@@ -99137,8 +99059,6 @@ scrofula
 scrofula's
 scrofulous
 scrog
-scrogged
-scrogging
 scrogs
 scroll
 scroll's
@@ -100634,7 +100554,6 @@ sharers
 shares
 shareware
 shareware's
-sharewares
 sharia
 sharia's
 shariah
@@ -104329,8 +104248,6 @@ spaghetti
 spaghetti's
 spake
 spam
-spamblock
-spamblocks
 spammed
 spammer
 spammer's
@@ -108099,7 +108016,6 @@ sunshiny
 sunspot
 sunspot's
 sunspots
-sunspotses
 sunstroke
 sunstroke's
 suntan
@@ -111846,8 +111762,6 @@ tnpk
 to
 toad
 toad's
-toadded
-toadding
 toadied
 toadies
 toads
@@ -113609,8 +113523,6 @@ tromped
 tromping
 tromps
 tron
-tronned
-tronning
 trons
 troop
 troop's
@@ -115785,8 +115697,6 @@ universes
 universities
 university
 university's
-unixism
-unixisms
 unjust
 unjustifiable
 unjustifiably
@@ -117148,7 +117058,6 @@ vaporizing
 vaporous
 vapors
 vaporware
-vaporwares
 vapory
 vaquero
 vaquero's
@@ -117774,7 +117683,6 @@ videotaped
 videotapes
 videotaping
 videotex
-videotexes
 vie
 vied
 vies
@@ -118778,7 +118686,6 @@ warehouses
 warehousing
 wares
 warez
-warezes
 warfare
 warfare's
 warhead
@@ -119327,7 +119234,6 @@ weedkiller
 weedkillers
 weedless
 weeds
-weedses
 weedy
 weeing
 week
@@ -119563,7 +119469,6 @@ whaler
 whaler's
 whalers
 whales
-whaleses
 whaling
 whaling's
 wham
@@ -120075,7 +119980,6 @@ wiggler
 wiggler's
 wigglers
 wiggles
-wiggleses
 wigglier
 wiggliest
 wiggling
@@ -121232,8 +121136,6 @@ xiv
 xix
 xor
 xref
-xreffed
-xreffing
 xrefs
 xterm
 xterm's
@@ -121628,7 +121530,6 @@ zenith
 zenith's
 zeniths
 zenned
-zenning
 zens
 zephyr
 zephyr's
@@ -121656,8 +121557,6 @@ zesty
 zeta
 zeta's
 zetas
-zigamorph
-zigamorphs
 zigzag
 zigzag's
 zigzagged
@@ -121758,9 +121657,6 @@ zoophytes
 zoophytic
 zoos
 zorch
-zorched
-zorches
-zorching
 zounds
 zucchini
 zucchini's

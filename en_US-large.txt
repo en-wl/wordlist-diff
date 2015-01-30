@@ -32,7 +32,6 @@ AEC
 AEC's
 AF
 AFAIK
-AFAIKs
 AFB
 AFC
 AFC's
@@ -45,7 +44,6 @@ AI
 AI's
 AIDS
 AIDS's
-AIDSes
 AIs
 AK
 AL
@@ -2262,7 +2260,6 @@ BHT
 BIA
 BIOS
 BITNET
-BITNETs
 BLT
 BLT's
 BLTs
@@ -6874,7 +6871,6 @@ DE
 DEA
 DEC
 DECed
-DECing
 DECs
 DH
 DI
@@ -7127,7 +7123,6 @@ Darwinistic
 Daryl
 Daryl's
 Datamation
-Datamations
 Daubigny
 Daudet
 Daugava
@@ -16501,7 +16496,6 @@ MIA
 MIDI
 MIDI's
 MIPS
-MIPSes
 MIRV
 MIT
 MIT's
@@ -18836,7 +18830,6 @@ Mulroney's
 Multan
 Multan's
 Multics
-Multicses
 Mumbai
 Mumbai's
 Mumford
@@ -22279,9 +22272,6 @@ RSI
 RSV
 RSVP
 RTFM
-RTFMed
-RTFMing
-RTFMs
 RV
 RV's
 RVs
@@ -34074,8 +34064,6 @@ annoyed
 annoying
 annoyingly
 annoys
-annoyware
-annoywares
 annual
 annual's
 annualized
@@ -41729,9 +41717,6 @@ blameworthiness's
 blameworthy
 blaming
 blammo
-blammoed
-blammoing
-blammos
 blanch
 blanched
 blanches
@@ -42047,7 +42032,6 @@ bloaters
 bloating
 bloats
 bloatware
-bloatwares
 blob
 blob's
 blobbed
@@ -42643,15 +42627,8 @@ bogie
 bogie's
 bogies
 bogle
-bogometer
-bogometers
 bogon
-bogosities
 bogosity
-bogotified
-bogotifies
-bogotify
-bogotifying
 bogs
 bogtrotter
 bogus
@@ -56069,7 +56046,6 @@ copyist
 copyist's
 copyists
 copyleft
-copylefts
 copyread
 copyreader
 copyreaders
@@ -58020,7 +57996,6 @@ crippler's
 cripplers
 cripples
 crippleware
-cripplewares
 crippling
 cripplingly
 crises
@@ -58414,8 +58389,6 @@ cruet's
 cruets
 cruft
 crufted
-crufties
-crufting
 crufts
 crufty
 cruise
@@ -58660,9 +58633,6 @@ cubicles
 cubiculum
 cubiform
 cubing
-cubinged
-cubinging
-cubings
 cubism
 cubism's
 cubist
@@ -61432,7 +61402,6 @@ delightfully
 delighting
 delights
 deliminator
-deliminators
 delimit
 delimitate
 delimitated
@@ -61464,7 +61433,6 @@ delinquents
 delint
 delinted
 delinting
-delints
 deliquesce
 deliquesced
 deliquescence
@@ -63884,7 +63852,6 @@ dining
 dinitrobenzene
 dink
 dinker
-dinkest
 dinkier
 dinkies
 dinkiest
@@ -66199,7 +66166,6 @@ donor's
 donors
 dons
 donuts
-donutses
 doodad
 doodad's
 doodads
@@ -69159,7 +69125,6 @@ elver's
 elvers
 elves
 elvish
-elvishes
 elytron
 elytrons
 em
@@ -71278,7 +71243,6 @@ eroticism
 eroticism's
 eroticist
 erotics
-eroticses
 erotogenic
 erotomania
 err
@@ -72364,7 +72328,6 @@ exclamations
 exclamatory
 exclave
 exclosure
-excls
 exclude
 excluded
 excludes
@@ -72463,8 +72426,6 @@ excusing
 exeat
 exec
 exec's
-execked
-execking
 execrable
 execrably
 execrate
@@ -73733,7 +73694,6 @@ fairies
 fairing
 fairing's
 fairings
-fairingses
 fairish
 fairlead
 fairleads
@@ -74009,7 +73969,6 @@ faradic
 faradism
 faradize
 faradized
-faradizes
 faradizing
 faradmeter
 farads
@@ -75556,7 +75515,6 @@ firefighter's
 firefighters
 firefighting
 firefighting's
-firefightings
 firefights
 fireflies
 firefly
@@ -75642,7 +75600,6 @@ firmness's
 firms
 firmware
 firmware's
-firmwares
 firn
 firry
 firs
@@ -75930,7 +75887,6 @@ flaking
 flaky
 flam
 flamage
-flamages
 flambe
 flambe's
 flambeau
@@ -77069,7 +77025,6 @@ fontanels
 fonts
 foo
 foobar
-foobars
 food
 food's
 foodie
@@ -78268,7 +78223,6 @@ freethinking
 freethinking's
 freeware
 freeware's
-freewares
 freeway
 freeway's
 freeways
@@ -78538,8 +78492,6 @@ frog
 frog's
 frogfish
 frogging
-frogginged
-frogginging
 froggings
 froggy
 froghopper
@@ -81842,8 +81794,6 @@ goniometer
 goniometers
 gonion
 gonk
-gonked
-gonking
 gonks
 gonna
 gonococcal
@@ -83949,11 +83899,6 @@ hackie
 hacking
 hacking's
 hackish
-hackishes
-hackishness
-hackishnesses
-hackitude
-hackitudes
 hackle
 hackle's
 hackles
@@ -94645,7 +94590,6 @@ jaggeries
 jaggery
 jaggier
 jaggies
-jaggieses
 jaggiest
 jaggy
 jags
@@ -96507,7 +96451,6 @@ kludging
 kluge
 kluged
 kluges
-kluging
 klutz
 klutz's
 klutzes
@@ -98285,7 +98228,6 @@ legal
 legal's
 legalese
 legalese's
-legaleses
 legalism
 legalism's
 legalisms
@@ -99768,7 +99710,6 @@ livest
 livestock
 livestock's
 liveware
-livewares
 livid
 lividities
 lividity
@@ -101988,7 +101929,6 @@ manganous
 mange
 mange's
 manged
-mangeds
 manger
 manger's
 mangers
@@ -104547,7 +104487,6 @@ microfilmed
 microfilming
 microfilms
 microfloppies
-microfloppieses
 microfloppy
 microgamete
 microgram
@@ -105202,7 +105141,6 @@ minicomputers
 minified
 minifies
 minifloppies
-minifloppieses
 minify
 minifying
 minim
@@ -108451,7 +108389,6 @@ naggingly
 nags
 nagual
 nagware
-nagwares
 nah
 naiad
 naiad's
@@ -109180,7 +109117,6 @@ neonates
 neonatologist
 neonatology
 neophilia
-neophilias
 neophyte
 neophyte's
 neophytes
@@ -111131,7 +111067,6 @@ numbering
 numberless
 numberplate
 numbers
-numberses
 numbest
 numbfish
 numbing
@@ -111316,16 +111251,12 @@ nuzzling
 nyala
 nyalas
 nybble
-nybbled
 nybbles
-nybbling
 nyctaginaceous
 nyctalopia
 nyctalopias
 nyctophobia
 nyctophobias
-nyetwork
-nyetworks
 nylghau
 nylghaus
 nylon
@@ -114039,7 +113970,6 @@ overcheck
 overclock
 overclocked
 overclocking
-overclocks
 overclothes
 overcloud
 overclouded
@@ -116840,7 +116770,6 @@ payslip's
 payslips
 payt
 payware
-paywares
 pc
 pct
 pd
@@ -118268,9 +118197,6 @@ pesos
 pessaries
 pessary
 pessimal
-pessimaled
-pessimaling
-pessimals
 pessimism
 pessimism's
 pessimist
@@ -119049,7 +118975,6 @@ phrasings
 phratries
 phratry
 phreaking
-phreakings
 phren
 phrenetical
 phrenic
@@ -126601,7 +126526,6 @@ query's
 querying
 ques
 quesadilla
-queses
 quest
 quest's
 quested
@@ -135615,7 +135539,6 @@ scaffolding's
 scaffolds
 scag
 scagged
-scagging
 scagliola
 scags
 scalability
@@ -136605,8 +136528,6 @@ scrofula
 scrofula's
 scrofulous
 scrog
-scrogged
-scrogging
 scrogs
 scroll
 scroll's
@@ -138598,7 +138519,6 @@ sharers
 shares
 shareware
 shareware's
-sharewares
 sharia
 sharia's
 shariah
@@ -143205,8 +143125,6 @@ spake
 spall
 spallation
 spam
-spamblock
-spamblocks
 spammed
 spammer
 spammer's
@@ -148173,7 +148091,6 @@ sunshiny
 sunspot
 sunspot's
 sunspots
-sunspotses
 sunstone
 sunstones
 sunstroke
@@ -153311,8 +153228,6 @@ tnpk
 to
 toad
 toad's
-toadded
-toadding
 toadeater
 toadfish
 toadflax
@@ -155701,8 +155616,6 @@ tromping
 tromps
 tron
 trona
-tronned
-tronning
 trons
 troop
 troop's
@@ -158665,8 +158578,6 @@ universities
 university
 university's
 univocal
-unixism
-unixisms
 unjam
 unjammed
 unjamming
@@ -160679,7 +160590,6 @@ vaporously
 vaporousness
 vapors
 vaporware
-vaporwares
 vapory
 vaquero
 vaquero's
@@ -161618,7 +161528,6 @@ videotaped
 videotapes
 videotaping
 videotex
-videotexes
 vidette
 vidicon
 vie
@@ -162927,7 +162836,6 @@ warehousing
 wareroom
 wares
 warez
-warezes
 warfare
 warfare's
 warfarin
@@ -163583,7 +163491,6 @@ weedkiller
 weedkillers
 weedless
 weeds
-weedses
 weedy
 weeing
 week
@@ -163847,7 +163754,6 @@ whaler
 whaler's
 whalers
 whales
-whaleses
 whaling
 whaling's
 wham
@@ -164494,7 +164400,6 @@ wiggler
 wiggler's
 wigglers
 wiggles
-wiggleses
 wigglier
 wiggliest
 wiggling
@@ -165844,8 +165749,6 @@ xiv
 xix
 xor
 xref
-xreffed
-xreffing
 xrefs
 xterm
 xterm's
@@ -166361,7 +166264,6 @@ zenith's
 zenithal
 zeniths
 zenned
-zenning
 zens
 zeolite
 zeolites
@@ -166399,8 +166301,6 @@ zibet
 zidovudine
 zidovudines
 zig
-zigamorph
-zigamorphs
 ziggurat
 zigs
 zigzag
@@ -166558,9 +166458,6 @@ zootomy
 zootoxin
 zootsuiter
 zorch
-zorched
-zorches
-zorching
 zoril
 zorils
 zoster
