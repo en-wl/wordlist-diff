@@ -26593,6 +26593,8 @@ backstop's
 backstopped
 backstopping
 backstops
+backstories
+backstory
 backstreet
 backstreets
 backstretch
@@ -30757,6 +30759,7 @@ boysenberry's
 bozo
 bozo's
 bozos
+bpm
 bps
 bra
 bra's
@@ -43629,6 +43632,7 @@ defiance
 defiance's
 defiant
 defiantly
+defibrillation
 defibrillator
 defibrillators
 deficiencies
@@ -67984,6 +67988,7 @@ irrelevancy
 irrelevancy's
 irrelevant
 irrelevantly
+irreligion
 irreligious
 irremediable
 irremediably
