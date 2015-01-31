@@ -56951,6 +56951,7 @@ coughing
 coughings
 coughs
 could
+could've
 couldn't
 couldst
 coulee
@@ -139965,6 +139966,7 @@ shotguns
 shots
 shotten
 should
+should've
 shoulder
 shoulder's
 shouldered
