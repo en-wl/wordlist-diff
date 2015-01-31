@@ -266,6 +266,8 @@ Aesop
 Aesop's
 Afghan
 Afghan's
+Afghani
+Afghani's
 Afghanistan
 Afghanistan's
 Afghans
@@ -7063,6 +7065,8 @@ Gagarin
 Gagarin's
 Gage
 Gage's
+Gaia
+Gaia's
 Gail
 Gail's
 Gaiman
@@ -33479,6 +33483,7 @@ cardinal's
 cardinally
 cardinals
 carding
+cardio
 cardiogram
 cardiogram's
 cardiograms
@@ -45177,6 +45182,7 @@ dexterousness
 dexterousness's
 dextrose
 dextrose's
+dharma
 dhoti
 dhoti's
 dhotis
@@ -83200,6 +83206,8 @@ palaver's
 palavered
 palavering
 palavers
+palazzi
+palazzo
 pale
 pale's
 paled

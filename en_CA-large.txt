@@ -394,6 +394,8 @@ Aetolia
 Af
 Afghan
 Afghan's
+Afghani
+Afghani's
 Afghanistan
 Afghanistan's
 Afghans
@@ -47357,6 +47359,7 @@ cardinals
 cardinalship
 cardinalships
 carding
+cardio
 cardiogram
 cardiogram's
 cardiograms
@@ -115715,6 +115718,7 @@ palaver's
 palavered
 palavering
 palavers
+palazzi
 palazzo
 pale
 pale's
