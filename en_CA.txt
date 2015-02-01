@@ -14720,6 +14720,8 @@ Paraguay's
 Paraguayan
 Paraguayan's
 Paraguayans
+Paralympic
+Paralympics
 Paramaribo
 Paramaribo's
 Paramount
@@ -17054,6 +17056,9 @@ Schwinger
 Schwinger's
 Schwinn
 Schwinn's
+Scientologist
+Scientologist's
+Scientologists
 Scientology
 Scientology's
 Scipio
@@ -17580,6 +17585,8 @@ Sinai
 Sinai's
 Sinatra
 Sinatra's
+Sinbad
+Sinbad's
 Sinclair
 Sinclair's
 Sindbad
@@ -19058,6 +19065,8 @@ Transvaal
 Transvaal's
 Transylvania
 Transylvania's
+Transylvanian
+Transylvanian's
 Trappist
 Trappist's
 Trappists
@@ -26299,6 +26308,8 @@ awaking
 award
 award's
 awarded
+awardee
+awardees
 awarding
 awards
 aware
@@ -30223,6 +30234,7 @@ boners
 bones
 boneshaker
 boneshakers
+boneyard
 bonfire
 bonfire's
 bonfires
@@ -30255,6 +30267,9 @@ bonnets
 bonnier
 bonniest
 bonny
+bonobo
+bonobo's
+bonobos
 bonsai
 bonsai's
 bonus
@@ -33608,6 +33623,7 @@ carnies
 carnival
 carnival's
 carnivals
+carnivora
 carnivore
 carnivore's
 carnivores
@@ -47739,6 +47755,7 @@ downfall
 downfall's
 downfallen
 downfalls
+downfield
 downgrade
 downgrade's
 downgraded
@@ -49001,6 +49018,9 @@ ecosystem
 ecosystem's
 ecosystems
 ecotourism
+ecotourist
+ecotourist's
+ecotourists
 ecru
 ecru's
 ecstasies
@@ -54966,6 +54986,7 @@ floodplains
 floods
 floodwater
 floodwater's
+floodwaters
 floor
 floor's
 floorboard
@@ -63734,6 +63755,7 @@ hummocky
 hummus
 hummus's
 humongous
+humoresque
 humorist
 humorist's
 humorists
@@ -65637,6 +65659,10 @@ incredulously
 increment
 increment's
 incremental
+incrementalism
+incrementalist
+incrementalist's
+incrementalists
 incrementally
 incremented
 increments
@@ -79752,6 +79778,7 @@ nonintervention's
 nonintoxicating
 noninvasive
 nonirritating
+nonissue
 nonjudgmental
 nonjudicial
 nonlegal
@@ -85938,6 +85965,8 @@ photosynthesized
 photosynthesizes
 photosynthesizing
 photosynthetic
+phototropic
+phototropism
 phototypesetter
 phototypesetting
 phrasal
@@ -88081,6 +88110,8 @@ postdated
 postdates
 postdating
 postdoc
+postdoc's
+postdocs
 postdoctoral
 posted
 poster
@@ -88776,11 +88807,14 @@ preheated
 preheating
 preheats
 prehensile
+prehistorian
+prehistorians
 prehistoric
 prehistorical
 prehistorically
 prehistory
 prehistory's
+prehuman
 prejudge
 prejudged
 prejudges
@@ -96298,6 +96332,9 @@ rhinoceros
 rhinoceros's
 rhinoceroses
 rhinos
+rhinovirus
+rhinovirus's
+rhinoviruses
 rhizome
 rhizome's
 rhizomes
@@ -98723,6 +98760,7 @@ scattering
 scattering's
 scatterings
 scatters
+scattershot
 scatting
 scatty
 scavenge
@@ -104327,6 +104365,8 @@ soundproofing
 soundproofing's
 soundproofs
 sounds
+soundscape
+soundscapes
 soundtrack
 soundtrack's
 soundtracks
@@ -105975,6 +106015,8 @@ star
 star's
 starboard
 starboard's
+starburst
+starbursts
 starch
 starch's
 starched
@@ -109344,6 +109386,7 @@ syntactical
 syntactically
 syntax
 syntax's
+synth
 syntheses
 synthesis
 synthesis's
@@ -109358,6 +109401,7 @@ synthetic
 synthetic's
 synthetically
 synthetics
+synths
 syphilis
 syphilis's
 syphilitic
@@ -110730,6 +110774,7 @@ tercentenary's
 tercentennial
 tercentennial's
 tercentennials
+teriyaki
 term
 term's
 termagant

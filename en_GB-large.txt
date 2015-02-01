@@ -20796,6 +20796,10 @@ Paraiba
 Paraiba's
 Paralipomenon
 Paralipomenon's
+Paralympian
+Paralympians
+Paralympic
+Paralympics
 Paramaribo
 Paramaribo's
 Paramount
@@ -24101,6 +24105,9 @@ Schwinn
 Schwinn's
 Schönberg
 Schönberg's
+Scientologist
+Scientologist's
+Scientologists
 Scientology
 Scientology's
 Scilly
@@ -24824,6 +24831,8 @@ Sinai's
 Sinaloa
 Sinatra
 Sinatra's
+Sinbad
+Sinbad's
 Sinclair
 Sinclair's
 Sind
@@ -26957,6 +26966,7 @@ Transvaal's
 Transylvania
 Transylvania's
 Transylvanian
+Transylvanian's
 Trapani
 Trappist
 Trappist's
@@ -29317,6 +29327,7 @@ Zimmerman
 Zimmerman's
 Zinfandel
 Zinfandel's
+Zinfandels
 Zinovievsk
 Zion
 Zion's
@@ -35011,6 +35022,8 @@ ape's
 apeak
 aped
 apelike
+apeman
+apemen
 apercu
 apercus
 aperient
@@ -37987,6 +38000,8 @@ awaking
 award
 award's
 awarded
+awardee
+awardees
 awarding
 awards
 aware
@@ -39476,6 +39491,8 @@ baseness's
 basenji
 basenjis
 baser
+baserunner
+baserunners
 bases
 basest
 bash
@@ -43188,6 +43205,7 @@ bonniest
 bonny
 bonnyclabber
 bonobo
+bonobo's
 bonobos
 bonsai
 bonsai's
@@ -44227,6 +44245,8 @@ breadnut
 breadroot
 breadroots
 breads
+breadstick
+breadsticks
 breadstuff
 breadstuffs
 breadth
@@ -54219,6 +54239,8 @@ completing
 completion
 completion's
 completions
+completist
+completists
 complex
 complex's
 complexation
@@ -63265,6 +63287,8 @@ descriptively
 descriptiveness
 descriptiveness's
 descriptivism
+descriptivist
+descriptivists
 descriptor
 descriptors
 descry
@@ -67432,6 +67456,7 @@ downfall
 downfall's
 downfallen
 downfalls
+downfield
 downgrade
 downgrade's
 downgraded
@@ -69119,6 +69144,9 @@ ecosystem's
 ecosystems
 ecotone
 ecotourism
+ecotourist
+ecotourist's
+ecotourists
 ecotype
 ecphoneses
 ecphonesis
@@ -75441,6 +75469,8 @@ feature's
 featured
 featureless
 features
+featurette
+featurettes
 featuring
 febricities
 febricity
@@ -75675,6 +75705,8 @@ feminizes
 feminizing
 femme
 femoral
+femtosecond
+femtoseconds
 femur
 femur's
 femurs
@@ -77530,6 +77562,7 @@ floodplains
 floods
 floodwater
 floodwater's
+floodwaters
 floor
 floor's
 floorage
@@ -78049,6 +78082,9 @@ folium
 foliums
 folk
 folk's
+folkie
+folkie's
+folkies
 folklore
 folklore's
 folkloric
@@ -89420,6 +89456,7 @@ hummus
 hummus's
 humongous
 humoresque
+humoresques
 humorist
 humorist's
 humorists
@@ -92275,6 +92312,10 @@ incredulousness
 increment
 increment's
 incremental
+incrementalism
+incrementalist
+incrementalist's
+incrementalists
 incrementally
 incremented
 incrementing
@@ -105760,6 +105801,8 @@ metalanguage's
 metalanguages
 metalepses
 metalepsis
+metalhead
+metalheads
 metalinguistic
 metalinguistics
 metalled
@@ -116293,6 +116336,10 @@ overpraises
 overpraising
 overprecise
 overprescribe
+overprescribed
+overprescribes
+overprescribing
+overprescription
 overpressure
 overprice
 overpriced
@@ -117126,6 +117173,7 @@ palavering
 palavers
 palazzi
 palazzo
+palazzos
 pale
 pale's
 paled
@@ -124071,6 +124119,8 @@ postdates
 postdating
 postdiluvian
 postdoc
+postdoc's
+postdocs
 postdoctoral
 postdoctorate
 posted
@@ -125044,6 +125094,8 @@ prehensile
 prehensility
 prehension
 prehensions
+prehistorian
+prehistorians
 prehistoric
 prehistorical
 prehistorically
@@ -125051,6 +125103,7 @@ prehistory
 prehistory's
 prehominid
 prehuman
+prehumans
 preignition
 preinaugural
 preindicate
@@ -132330,6 +132383,11 @@ reinfection's
 reinfections
 reinfects
 reinflame
+reinflate
+reinflated
+reinflates
+reinflating
+reinflation
 reinforce
 reinforced
 reinforcement
@@ -134935,6 +134993,9 @@ rhinoplasties
 rhinoplasty
 rhinos
 rhinoscopy
+rhinovirus
+rhinovirus's
+rhinoviruses
 rhizobium
 rhizocarpous
 rhizogenic
@@ -140806,6 +140867,8 @@ shadowiest
 shadowiness
 shadowinesses
 shadowing
+shadowland
+shadowlands
 shadowless
 shadows
 shadowy
@@ -141477,6 +141540,7 @@ shittier
 shittiest
 shitting
 shitty
+shitwork
 shiv
 shiv's
 shiva
@@ -145424,6 +145488,8 @@ soundproofing
 soundproofing's
 soundproofs
 sounds
+soundscape
+soundscapes
 soundstage
 soundtrack
 soundtrack's
@@ -145655,6 +145721,8 @@ spake
 spall
 spallation
 spam
+spambot
+spambots
 spammed
 spammer
 spammer's
@@ -146465,6 +146533,8 @@ splatter
 splatter's
 splattered
 splattering
+splatterpunk
+splatterpunks
 splatters
 splatting
 splay
@@ -147577,6 +147647,8 @@ star
 star's
 starboard
 starboard's
+starburst
+starbursts
 starch
 starch's
 starched
@@ -152280,6 +152352,7 @@ syntactically
 syntactics
 syntax
 syntax's
+synth
 syntheses
 synthesis
 synthesis's
@@ -152306,6 +152379,7 @@ synthetize
 synthetized
 synthetizes
 synthetizing
+synths
 syntonic
 sypher
 syphilis
@@ -161020,6 +161094,7 @@ unfortunate
 unfortunate's
 unfortunately
 unfortunates
+unfought
 unfounded
 unframed
 unfree
