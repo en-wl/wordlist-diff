@@ -6973,6 +6973,7 @@ Dakotan
 Dakotan's
 Dakotas
 Daladier
+Dalai
 Dale
 Dale's
 Daley
@@ -9905,6 +9906,8 @@ Fukien
 Fukien's
 Fukuoka
 Fukuoka's
+Fukuyama
+Fukuyama's
 Fula
 Fula's
 Fulani
@@ -15282,6 +15285,10 @@ Langobards
 Langton
 Langtry
 Languedoc
+Lanka
+Lanka's
+Lankan
+Lankan's
 Lankester
 Lanny
 Lanny's
@@ -24230,6 +24237,7 @@ Sedna's
 Seebeck
 Seebeck's
 Seeger
+Seeger's
 Sega
 Sega's
 Segovia
@@ -34012,6 +34020,7 @@ angioplasty's
 angiosperm
 angiosperm's
 angiosperms
+angiotensin
 angle
 angle's
 angled
@@ -41340,6 +41349,7 @@ bilious
 biliously
 biliousness
 biliousness's
+bilirubin
 bilk
 bilked
 bilker
@@ -44821,6 +44831,7 @@ bronchopneumonia
 bronchopulmonary
 bronchoscope
 bronchoscopes
+bronchoscopy
 bronchus
 bronchus's
 bronco
@@ -46137,7 +46148,6 @@ cabbages
 cabbageworm
 cabbageworms
 cabbagy
-cabbala
 cabbalas
 cabbed
 cabbie
@@ -50437,6 +50447,7 @@ chine
 chine's
 chines
 chinfest
+ching
 chink
 chink's
 chinkapin
@@ -58113,6 +58124,7 @@ cranial
 craniate
 craniates
 craning
+craniofacial
 craniology
 craniometer
 craniometers
@@ -91105,6 +91117,7 @@ immunizing
 immunoassay
 immunochemistries
 immunochemistry
+immunocompromised
 immunodeficiency
 immunodeficiency's
 immunodeficient
@@ -97150,6 +97163,7 @@ kW
 kWh
 ka
 kab
+kabbala
 kabbalah
 kabbalahs
 kabbalism
@@ -149704,6 +149718,7 @@ subcontractors
 subcontracts
 subcontraoctave
 subcortex
+subcortical
 subcouncil
 subcranial
 subcritical
@@ -163657,6 +163672,7 @@ vas
 vasa
 vascular
 vascularity
+vasculature
 vasculum
 vase
 vase's

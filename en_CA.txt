@@ -4892,6 +4892,7 @@ Dakota's
 Dakotan
 Dakotan's
 Dakotas
+Dalai
 Dale
 Dale's
 Daley
@@ -6968,6 +6969,8 @@ Fujiyama
 Fujiyama's
 Fukuoka
 Fukuoka's
+Fukuyama
+Fukuyama's
 Fulani
 Fulani's
 Fulbright
@@ -10712,6 +10715,10 @@ Langley
 Langley's
 Langmuir
 Langmuir's
+Lanka
+Lanka's
+Lankan
+Lankan's
 Lanny
 Lanny's
 Lansing
@@ -17160,6 +17167,8 @@ Sedna
 Sedna's
 Seebeck
 Seebeck's
+Seeger
+Seeger's
 Sega
 Sega's
 Segovia
@@ -28822,6 +28831,7 @@ bilinguals
 bilious
 biliousness
 biliousness's
+bilirubin
 bilk
 bilked
 bilker
@@ -32494,7 +32504,6 @@ cab
 cab's
 cabal
 cabal's
-cabala
 cabala's
 caballero
 caballero's
@@ -34389,6 +34398,7 @@ cellular's
 cellulars
 cellulite
 cellulite's
+cellulitis
 celluloid
 celluloid's
 cellulose
@@ -34554,6 +34564,7 @@ cerebrates
 cerebrating
 cerebration
 cerebration's
+cerebrovascular
 cerebrum
 cerebrum's
 cerebrums
@@ -40565,6 +40576,7 @@ counterespionage
 counterespionage's
 counterexample
 counterexamples
+counterfactual
 counterfeit
 counterfeit's
 counterfeited
@@ -50272,6 +50284,7 @@ endlessly
 endlessness
 endlessness's
 endmost
+endocarditis
 endocrine
 endocrine's
 endocrines
@@ -51221,6 +51234,7 @@ escaroles
 escarpment
 escarpment's
 escarpments
+eschatological
 eschatology
 eschew
 eschewed
@@ -54847,6 +54861,7 @@ flexibility's
 flexible
 flexibly
 flexing
+flexion
 flextime
 flextime's
 flibbertigibbet
@@ -67614,6 +67629,7 @@ intoxicates
 intoxicating
 intoxication
 intoxication's
+intracranial
 intractability
 intractability's
 intractable
@@ -69158,6 +69174,7 @@ k
 kHz
 kW
 kWh
+kabbalah
 kaboom
 kabuki
 kabuki's
@@ -79447,6 +79464,7 @@ nitrification's
 nitrite
 nitrite's
 nitrites
+nitro
 nitrocellulose
 nitrocellulose's
 nitrogen
@@ -109381,6 +109399,7 @@ synopses
 synopsis
 synopsis's
 synoptic
+synovial
 syntactic
 syntactical
 syntactically
@@ -114618,6 +114637,7 @@ tyke's
 tykes
 tympani
 tympani's
+tympanic
 tympanist
 tympanist's
 tympanists
@@ -116725,6 +116745,7 @@ unwavering
 unwearable
 unwearied
 unwed
+unweighted
 unwelcome
 unwelcoming
 unwell
