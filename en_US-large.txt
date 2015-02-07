@@ -1339,6 +1339,7 @@ Antares
 Antares's
 Anthony
 Anthony's
+Anthropocene
 Antibes
 Antichrist
 Antichrist's
@@ -72779,6 +72780,8 @@ exonerative
 exonerator
 exophthalmos
 exophthalmoses
+exoplanet
+exoplanets
 exorable
 exorbitance
 exorbitance's
