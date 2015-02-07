@@ -146322,6 +146322,9 @@ stepbrothers
 stepchild
 stepchild's
 stepchildren
+stepdad
+stepdad's
+stepdads
 stepdame
 stepdaughter
 stepdaughter's
@@ -146334,6 +146337,9 @@ stephanotises
 stepladder
 stepladder's
 stepladders
+stepmom
+stepmom's
+stepmoms
 stepmother
 stepmother's
 stepmothers

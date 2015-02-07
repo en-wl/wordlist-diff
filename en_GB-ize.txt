@@ -106397,6 +106397,9 @@ stepbrothers
 stepchild
 stepchild's
 stepchildren
+stepdad
+stepdad's
+stepdads
 stepdaughter
 stepdaughter's
 stepdaughters
@@ -106406,6 +106409,9 @@ stepfathers
 stepladder
 stepladder's
 stepladders
+stepmom
+stepmom's
+stepmoms
 stepmother
 stepmother's
 stepmothers
