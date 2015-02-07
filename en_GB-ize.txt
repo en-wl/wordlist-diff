@@ -63532,7 +63532,6 @@ hovels
 hover
 hovercraft
 hovercraft's
-hovercrafts
 hovered
 hovering
 hovers
