@@ -56883,6 +56883,7 @@ functional
 functionalism
 functionalist
 functionalists
+functionalities
 functionality
 functionally
 functionaries
