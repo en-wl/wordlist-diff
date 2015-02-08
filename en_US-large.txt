@@ -149046,8 +149046,12 @@ surtitle
 surtitles
 surtout
 surv
+surveil
 surveillance
 surveillance's
+surveilled
+surveilling
+surveils
 survey
 survey's
 surveyed
