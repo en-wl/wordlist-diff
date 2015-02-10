@@ -114306,6 +114306,8 @@ tunnies
 tunny
 tunny's
 tuns
+tuple
+tuples
 tuppence
 tuppenny
 tuque

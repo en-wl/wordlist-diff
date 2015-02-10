@@ -156466,6 +156466,8 @@ tunny's
 tuns
 tupelo
 tupelos
+tuple
+tuples
 tuppence
 tuppences
 tuppenny
