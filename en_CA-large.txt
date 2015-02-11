@@ -6612,6 +6612,8 @@ Creole's
 Creoles
 Creon
 Creon's
+Cressida
+Cressida's
 Cressy
 Cressy's
 Crest
@@ -6908,6 +6910,8 @@ DTs
 DUI
 DVD
 DVR
+DVR's
+DVRs
 DWI
 DX
 Dachau
@@ -27020,6 +27024,8 @@ Trobriand
 Trobriand's
 Troia
 Troia's
+Troilus
+Troilus's
 Troja
 Troja's
 Trojan
@@ -45725,6 +45731,7 @@ butterball's
 butterballs
 butterbur
 butterburs
+buttercream
 buttercup
 buttercup's
 buttercups
@@ -96930,6 +96937,7 @@ klatch
 klaxon
 klaxons
 klepht
+kleptocracy
 kleptomania
 kleptomania's
 kleptomaniac
@@ -142228,6 +142236,7 @@ smartphone
 smarts
 smarts's
 smartwatch
+smartwatch's
 smartwatches
 smarty
 smarty's
@@ -154025,6 +154034,8 @@ tirade
 tirade's
 tirades
 tiramisu
+tiramisu's
+tiramisus
 tire
 tire's
 tired

@@ -4647,6 +4647,8 @@ Creole's
 Creoles
 Creon
 Creon's
+Cressida
+Cressida's
 Crest
 Crest's
 Cretaceous
@@ -4864,6 +4866,8 @@ DTP
 DUI
 DVD
 DVR
+DVR's
+DVRs
 DWI
 Dachau
 Dachau's
@@ -19136,6 +19140,8 @@ Triton
 Triton's
 Trobriand
 Trobriand's
+Troilus
+Troilus's
 Trojan
 Trojan's
 Trojans
@@ -32357,6 +32363,7 @@ butter's
 butterball
 butterball's
 butterballs
+buttercream
 buttercup
 buttercup's
 buttercups
@@ -69660,6 +69667,7 @@ kiwis
 kl
 klaxon
 klaxons
+kleptocracy
 kleptomania
 kleptomania's
 kleptomaniac
@@ -103171,6 +103179,7 @@ smartphone
 smarts
 smarts's
 smartwatch
+smartwatch's
 smartwatches
 smarty
 smarty's
@@ -111981,6 +111990,9 @@ tiptops
 tirade
 tirade's
 tirades
+tiramisu
+tiramisu's
+tiramisus
 tire
 tire's
 tired
