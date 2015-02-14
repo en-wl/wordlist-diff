@@ -20931,6 +20931,7 @@ abdominal
 abduct
 abducted
 abductee
+abductee's
 abductees
 abducting
 abduction
@@ -23840,6 +23841,7 @@ animator
 animator's
 animators
 anime
+anime's
 animism
 animism's
 animist
@@ -24457,6 +24459,7 @@ apotheoses
 apotheosis
 apotheosis's
 app
+app's
 appal
 appalled
 appalling
@@ -27255,6 +27258,7 @@ barhopping
 barhops
 baring
 barista
+barista's
 baristas
 baritone
 baritone's
@@ -29080,6 +29084,7 @@ birthday's
 birthdays
 birthed
 birther
+birther's
 birthers
 birthing
 birthmark
@@ -31734,6 +31739,7 @@ bucktoothed
 buckwheat
 buckwheat's
 buckyball
+buckyball's
 buckyballs
 bucolic
 bucolic's
@@ -32453,6 +32459,7 @@ buzzers
 buzzes
 buzzing
 buzzkill
+buzzkill's
 buzzkills
 buzzword
 buzzword's
@@ -33862,6 +33869,7 @@ caseworkers
 cash
 cash's
 cashback
+cashback's
 cashbook
 cashbook's
 cashbooks
@@ -35933,6 +35941,7 @@ chutzpah's
 chyme
 chyme's
 ciabatta
+ciabatta's
 ciabattas
 ciao
 ciaos
@@ -36631,6 +36640,7 @@ cliquishly
 cliquishness
 cliquishness's
 clit
+clit's
 clitoral
 clitorides
 clitoris
@@ -37566,6 +37576,7 @@ colonnaded
 colonnades
 colonoscopies
 colonoscopy
+colonoscopy's
 colons
 colony
 colony's
@@ -47648,6 +47659,7 @@ dotard
 dotard's
 dotards
 dotcom
+dotcom's
 dotcoms
 dote
 doted
@@ -48790,6 +48802,7 @@ earache
 earache's
 earaches
 earbud
+earbud's
 earbuds
 eardrum
 eardrum's
@@ -49039,6 +49052,7 @@ ecosystem
 ecosystem's
 ecosystems
 ecotourism
+ecotourism's
 ecotourist
 ecotourist's
 ecotourists
@@ -49432,6 +49446,7 @@ elderberries
 elderberry
 elderberry's
 eldercare
+eldercare's
 elderly
 elders
 eldest
@@ -49525,6 +49540,7 @@ electron
 electron's
 electronic
 electronica
+electronica's
 electronically
 electronics
 electronics's
@@ -49948,6 +49964,7 @@ emitter's
 emitters
 emitting
 emo
+emo's
 emoji
 emollient
 emollient's
@@ -52104,6 +52121,7 @@ exonerating
 exoneration
 exoneration's
 exoplanet
+exoplanet's
 exoplanets
 exorbitance
 exorbitance's
@@ -53050,6 +53068,7 @@ fanaticism
 fanaticism's
 fanatics
 fanboy
+fanboy's
 fanboys
 fanciable
 fancied
@@ -53220,6 +53239,7 @@ fashioner's
 fashioners
 fashioning
 fashionista
+fashionista's
 fashionistas
 fashions
 fast
@@ -58981,6 +59001,7 @@ goofing
 goofs
 goofy
 google
+google's
 googled
 googles
 googlies
@@ -60913,6 +60934,7 @@ handgun
 handgun's
 handguns
 handheld
+handheld's
 handhelds
 handhold
 handhold's
@@ -61310,6 +61332,7 @@ hashing
 hashish
 hashish's
 hashtag
+hashtag's
 hashtags
 hasn't
 hasp
@@ -62018,6 +62041,7 @@ helplessly
 helplessness
 helplessness's
 helpline
+helpline's
 helplines
 helpmate
 helpmate's
@@ -63082,6 +63106,7 @@ hood
 hood's
 hooded
 hoodie
+hoodie's
 hoodies
 hooding
 hoodlum
@@ -65380,6 +65405,7 @@ inboards
 inborn
 inbound
 inbox
+inbox's
 inboxes
 inbred
 inbreed
@@ -67642,6 +67668,7 @@ intractably
 intramural
 intramuscular
 intranet
+intranet's
 intranets
 intrans
 intransigence
@@ -68659,6 +68686,7 @@ jigsaws
 jihad
 jihad's
 jihadist
+jihadist's
 jihadists
 jihads
 jilt
@@ -70254,6 +70282,7 @@ landlady's
 landless
 landless's
 landline
+landline's
 landlines
 landlocked
 landlord
@@ -72192,6 +72221,7 @@ locator
 locator's
 locators
 locavore
+locavore's
 locavores
 loci
 lock
@@ -72349,6 +72379,7 @@ loitering
 loitering's
 loiters
 lolcat
+lolcat's
 lolcats
 loll
 lolled
@@ -72451,6 +72482,7 @@ looms
 loon
 loon's
 loonie
+loonie's
 loonier
 loonies
 looniest
@@ -73581,6 +73613,7 @@ maltreats
 malts
 malty
 malware
+malware's
 mam
 mama
 mama's
@@ -73685,6 +73718,7 @@ manes
 manful
 manfully
 manga
+manga's
 manganese
 manganese's
 mange
@@ -74217,6 +74251,7 @@ mashers
 mashes
 mashing
 mashup
+mashup's
 mashups
 mask
 mask's
@@ -74824,6 +74859,7 @@ megabyte
 megabyte's
 megabytes
 megachurch
+megachurch's
 megachurches
 megacycle
 megacycle's
@@ -75524,6 +75560,7 @@ microlight
 microlight's
 microlights
 microloan
+microloan's
 microloans
 micromanage
 micromanaged
@@ -75742,6 +75779,7 @@ milestone
 milestone's
 milestones
 milf
+milf's
 milfs
 milieu
 milieu's
@@ -75811,6 +75849,7 @@ millage
 millage's
 milled
 millennial
+millennial's
 millennials
 millennium
 millennium's
@@ -77862,6 +77901,7 @@ mugging's
 muggings
 muggins
 muggle
+muggle's
 muggles
 muggy
 mugs
@@ -77955,6 +77995,7 @@ multinational's
 multinationals
 multiparty
 multiplayer
+multiplayer's
 multiple
 multiple's
 multiples
@@ -78001,6 +78042,7 @@ multitudes
 multitudinous
 multivariate
 multiverse
+multiverse's
 multiverses
 multivitamin
 multivitamin's
@@ -78495,6 +78537,7 @@ nanosecond's
 nanoseconds
 nanotechnologies
 nanotechnology
+nanotechnology's
 nap
 nap's
 napalm
@@ -79036,6 +79079,7 @@ net
 net's
 netball
 netbook
+netbook's
 netbooks
 nether
 nethermost
@@ -84505,6 +84549,7 @@ payslip
 payslip's
 payslips
 paywall
+paywall's
 paywalls
 payware
 pct
@@ -87020,6 +87065,7 @@ playhouse's
 playhouses
 playing
 playlist
+playlist's
 playlists
 playmate
 playmate's
@@ -87377,6 +87423,7 @@ pocks
 pod
 pod's
 podcast
+podcast's
 podcasts
 podded
 podding
@@ -88938,6 +88985,7 @@ premonitory
 prenatal
 prenatally
 prenup
+prenup's
 prenups
 prenuptial
 preoccupation
@@ -91505,6 +91553,7 @@ query's
 querying
 ques
 quesadilla
+quesadilla's
 quesadillas
 quest
 quest's
@@ -96651,6 +96700,7 @@ rings
 ringside
 ringside's
 ringtone
+ringtone's
 ringtones
 ringworm
 ringworm's
@@ -97508,6 +97558,7 @@ ruggedness
 ruggedness's
 rugger
 rugrat
+rugrat's
 rugrats
 rugs
 ruin
@@ -100042,6 +100093,7 @@ selenography's
 self
 self's
 selfie
+selfie's
 selfies
 selfish
 selfishly
@@ -100059,6 +100111,7 @@ seller's
 sellers
 selling
 selloff
+selloff's
 selloffs
 sellotape
 sellotaped
@@ -102906,6 +102959,7 @@ slider's
 sliders
 slides
 slideshow
+slideshow's
 slideshows
 sliding
 slight
@@ -103139,6 +103193,7 @@ slumbering
 slumberous
 slumbers
 slumdog
+slumdog's
 slumdogs
 slumlord
 slumlord's
@@ -103229,6 +103284,8 @@ smartly
 smartness
 smartness's
 smartphone
+smartphone's
+smartphones
 smarts
 smarts's
 smartwatch
@@ -103705,6 +103762,7 @@ snowbird
 snowbird's
 snowbirds
 snowblower
+snowblower's
 snowblowers
 snowboard
 snowboard's
@@ -104587,6 +104645,7 @@ spaghetti
 spaghetti's
 spake
 spam
+spam's
 spammed
 spammer
 spammer's
@@ -104906,6 +104965,7 @@ spellbound
 spellcheck
 spellchecked
 spellchecker
+spellchecker's
 spellcheckers
 spellchecking
 spellchecks
@@ -105609,6 +105669,7 @@ spying
 spymaster
 spymasters
 spyware
+spyware's
 sq
 sqq
 squab
@@ -106140,6 +106201,7 @@ startling
 startlingly
 starts
 startup
+startup's
 startups
 starvation
 starvation's
@@ -106836,6 +106898,7 @@ stonemason
 stonemason's
 stonemasons
 stoner
+stoner's
 stoners
 stones
 stonewall
@@ -108496,6 +108559,7 @@ supermarket's
 supermarkets
 supermen
 supermodel
+supermodel's
 supermodels
 supermom
 supermom's
@@ -110065,6 +110129,7 @@ tartness's
 tarts
 tarty
 taser
+taser's
 tasered
 tasering
 tasers
@@ -110273,6 +110338,7 @@ teaks
 teal
 teal's
 tealight
+tealight's
 tealights
 teals
 team
@@ -113693,6 +113759,7 @@ trier's
 triers
 tries
 trifecta
+trifecta's
 trifectas
 trifle
 trifle's
@@ -114365,6 +114432,7 @@ turd
 turd's
 turds
 turducken
+turducken's
 turduckens
 tureen
 tureen's
@@ -118545,6 +118613,7 @@ voicelessly
 voicelessness
 voicelessness's
 voicemail
+voicemail's
 voices
 voicing
 void
@@ -118739,6 +118808,7 @@ vulva
 vulva's
 vulvae
 vuvuzela
+vuvuzela's
 vuvuzelas
 vying
 w
@@ -119608,16 +119678,20 @@ webbed
 webbing
 webbing's
 webcam
+webcam's
 webcams
 webcast
+webcast's
 webcasting
 webcasts
 webfeet
 webfoot
 webfoot's
 webinar
+webinar's
 webinars
 webisode
+webisode's
 webisodes
 webmaster
 webmaster's
@@ -119626,6 +119700,7 @@ webmistress
 webmistress's
 webmistresses
 webpage
+webpage's
 webpages
 webs
 website
@@ -120653,6 +120728,7 @@ winging
 wingless
 winglike
 wingnut
+wingnut's
 wingnuts
 wings
 wingspan
@@ -120790,6 +120866,7 @@ wishful
 wishfully
 wishing
 wishlist
+wishlist's
 wishlists
 wising
 wisp
