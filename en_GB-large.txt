@@ -12648,6 +12648,8 @@ IHS
 IJssel
 IJsselmeer
 IJsselmeer's
+IKEA
+IKEA's
 IL
 ILO
 ILO's
@@ -20998,8 +21000,6 @@ PayPal
 PayPal's
 Payne
 Payne's
-Paypal
-Paypal's
 Pb
 Pb's
 Pd

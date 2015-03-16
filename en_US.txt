@@ -8910,6 +8910,8 @@ IDs
 IE
 IED
 IEEE
+IKEA
+IKEA's
 IL
 IMF
 IMF's
@@ -9002,8 +9004,6 @@ Ijsselmeer
 Ijsselmeer's
 Ike
 Ike's
-Ikea
-Ikea's
 Ikhnaton
 Ikhnaton's
 Ila
@@ -14854,8 +14854,6 @@ PayPal
 PayPal's
 Payne
 Payne's
-Paypal
-Paypal's
 Pb
 Pb's
 Pd
