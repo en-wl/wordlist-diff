@@ -8940,6 +8940,7 @@ ISBN
 ISO
 ISO's
 ISP
+ISS
 IT
 IUD
 IV
@@ -15663,6 +15664,7 @@ Pythias's
 Python
 Python's
 Q
+QA
 QB
 QC
 QED

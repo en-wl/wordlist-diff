@@ -12655,6 +12655,7 @@ ISBN
 ISO
 ISO's
 ISP
+ISS
 IT
 ITU
 IUD
@@ -22139,6 +22140,7 @@ Pétain's
 Pôrto
 Pôrto's
 Q
+QA
 QB
 QC
 QED
