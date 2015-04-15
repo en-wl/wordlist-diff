@@ -13098,6 +13098,8 @@ Islamist
 Islamist's
 Islamite
 Islamize
+Islamophobia
+Islamophobic
 Islams
 Islington
 Ismael
@@ -137693,6 +137695,7 @@ seaming
 seamless
 seamlessly
 seamount
+seamount's
 seamounts
 seams
 seamstress
@@ -158903,6 +158906,9 @@ underwhelming
 underwhelms
 underwing
 underwings
+underwire
+underwired
+underwires
 underwood
 underwoods
 underworld
@@ -164536,6 +164542,9 @@ webinars
 webisode
 webisode's
 webisodes
+weblog
+weblog's
+weblogs
 webmaster
 webmaster's
 webmasters
