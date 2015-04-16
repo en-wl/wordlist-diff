@@ -103871,6 +103871,7 @@ mems
 memsahib
 memsahibs
 men
+men's
 menace
 menace's
 menaced
@@ -165507,6 +165508,7 @@ womble
 wombles
 wombs
 women
+women's
 womenfolk
 womenfolk's
 womenfolks
