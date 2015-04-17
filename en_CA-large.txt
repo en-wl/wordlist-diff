@@ -4071,6 +4071,7 @@ Bronx
 Bronx's
 Brooke
 Brooke's
+Brookes
 Brooklyn
 Brooklyn's
 Brooklynese
@@ -9844,6 +9845,8 @@ Fritz's
 Friulian
 Frobisher
 Frobisher's
+Frodo
+Frodo's
 Froebel
 Froissart
 Froissart's
@@ -10131,6 +10134,8 @@ Gamow
 Gamow's
 Gand
 Ganda
+Gandalf
+Gandalf's
 Gandhi
 Gandhi's
 Gandhian
@@ -29914,6 +29919,8 @@ absurder
 absurdest
 absurdism
 absurdist
+absurdist's
+absurdists
 absurdities
 absurdity
 absurdity's
@@ -55732,6 +55739,7 @@ contrapuntally
 contrapuntist
 contrapuntists
 contrarian
+contrarian's
 contrarianism
 contrarians
 contraries
@@ -56860,6 +56868,7 @@ cosmorama
 cosmos
 cosmos's
 cosmoses
+cosplay
 cosponsor
 cosponsor's
 cosponsored
@@ -63886,6 +63895,8 @@ digging
 diggings
 diggings's
 dight
+digicam
+digicams
 digit
 digit's
 digital
@@ -66065,6 +66076,7 @@ dobermans
 dobla
 dobra
 dobras
+dobro
 dobs
 dobsonflies
 dobsonfly
@@ -68094,6 +68106,7 @@ dysprosium
 dysprosium's
 dysteleology
 dysthymia
+dystonia
 dystopia
 dystopian
 dystopias
@@ -69607,6 +69620,7 @@ embolic
 embolism
 embolism's
 embolisms
+embolization
 embolus
 emboluses
 emboly
@@ -81550,6 +81564,7 @@ gleets
 glen
 glen's
 glengarry
+glenohumeral
 glenoid
 glens
 gley
@@ -101587,6 +101602,8 @@ lysin
 lysine
 lysines
 lysis
+lysosomal
+lysosomes
 lysozyme
 lyssa
 lythraceous
@@ -102123,6 +102140,10 @@ majorette
 majorette's
 majorettes
 majoring
+majoritarian
+majoritarian's
+majoritarianism
+majoritarians
 majorities
 majority
 majority's
@@ -108417,6 +108438,7 @@ multivitamin
 multivitamin's
 multivitamins
 multivocal
+multiyear
 multure
 mum
 mum's
@@ -117060,6 +117082,8 @@ passkey
 passkey's
 passkeys
 passover
+passphrase
+passphrases
 passport
 passport's
 passports
@@ -135907,6 +135931,7 @@ sapidities
 sapidity
 sapience
 sapience's
+sapiens
 sapient
 sapiential
 sapiently
@@ -152975,6 +153000,7 @@ therefrom
 therein
 thereinafter
 thereinto
+theremin
 thereof
 thereon
 thereto
@@ -153459,6 +153485,7 @@ thromboembolism
 thromboembolisms
 thrombokinase
 thrombokinases
+thrombolytic
 thrombophlebitides
 thrombophlebitis
 thromboplastic

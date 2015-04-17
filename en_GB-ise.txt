@@ -1365,6 +1365,7 @@ Athabasca's
 Athabaskan
 Athabaskan's
 Athabaskans
+Athanasius
 Athena
 Athena's
 Athene
@@ -2461,6 +2462,7 @@ Bodhidharma
 Bodhidharma's
 Bodhisattva
 Bodhisattva's
+Bodleian
 Boeing
 Boeing's
 Boeotia
@@ -2867,6 +2869,7 @@ Bronx
 Bronx's
 Brooke
 Brooke's
+Brookes
 Brooklyn
 Brooklyn's
 Brooks
@@ -6940,6 +6943,8 @@ Fritz
 Fritz's
 Frobisher
 Frobisher's
+Frodo
+Frodo's
 Froissart
 Froissart's
 Fromm
@@ -7147,6 +7152,8 @@ Gamble
 Gamble's
 Gamow
 Gamow's
+Gandalf
+Gandalf's
 Gandhi
 Gandhi's
 Gandhian
@@ -15897,6 +15904,7 @@ Rastaban's
 Rastafarian
 Rastafarian's
 Rastafarianism
+Rastafarians
 Rather
 Rather's
 Ratliff
@@ -21229,6 +21237,9 @@ abstruseness's
 absurd
 absurder
 absurdest
+absurdist
+absurdist's
+absurdists
 absurdities
 absurdity
 absurdity's
@@ -23481,6 +23492,7 @@ amounts
 amour
 amour's
 amours
+amoxicillin
 amp
 amp's
 amperage
@@ -23505,6 +23517,7 @@ amphitheatres
 amphora
 amphora's
 amphorae
+ampicillin
 ample
 ampler
 amplest
@@ -23815,6 +23828,7 @@ angular
 angularities
 angularity
 angularity's
+angulation
 anhydrous
 aniline
 aniline's
@@ -39607,6 +39621,10 @@ contraption's
 contraptions
 contrapuntal
 contrapuntally
+contrarian
+contrarian's
+contrarianism
+contrarians
 contraries
 contrariety
 contrariety's
@@ -40416,6 +40434,7 @@ cosmopolitans
 cosmos
 cosmos's
 cosmoses
+cosplay
 cosponsor
 cosponsor's
 cosponsored
@@ -45534,6 +45553,8 @@ diggers
 digging
 diggings
 diggings's
+digicam
+digicams
 digit
 digit's
 digital
@@ -47200,6 +47221,7 @@ dobbins
 doberman
 doberman's
 dobermans
+dobro
 dobs
 doc
 doc's
@@ -48776,6 +48798,7 @@ dyspeptic's
 dyspeptics
 dysprosium
 dysprosium's
+dystonia
 dz
 e
 e'en
@@ -49840,6 +49863,7 @@ embolden
 emboldened
 emboldening
 emboldens
+embolisation
 embolism
 embolism's
 embolisms
@@ -51214,6 +51238,7 @@ erysipelas's
 erythrocyte
 erythrocyte's
 erythrocytes
+erythromycin
 es
 escalate
 escalated
@@ -56066,6 +56091,7 @@ forwardness
 forwardness's
 forwards
 forwent
+fossa
 fossil
 fossil's
 fossilisation
@@ -58518,6 +58544,8 @@ gleefulness
 gleefulness's
 glen
 glen's
+glenohumeral
+glenoid
 glens
 glib
 glibber
@@ -64611,6 +64639,7 @@ imagery's
 images
 imaginable
 imaginably
+imaginal
 imaginary
 imagination
 imagination's
@@ -66981,6 +67010,7 @@ instantiates
 instantiating
 instantly
 instants
+instar
 instate
 instated
 instates
@@ -68159,6 +68189,8 @@ irruptions
 irruptive
 irrupts
 is
+ischaemia
+ischaemic
 isinglass
 isinglass's
 isl
@@ -73071,6 +73103,8 @@ lyricist
 lyricist's
 lyricists
 lyrics
+lysosomal
+lysosomes
 m
 ma
 ma'am
@@ -73459,6 +73493,10 @@ majorette
 majorette's
 majorettes
 majoring
+majoritarian
+majoritarian's
+majoritarianism
+majoritarians
 majorities
 majority
 majority's
@@ -78050,6 +78088,7 @@ multiverses
 multivitamin
 multivitamin's
 multivitamins
+multiyear
 mum
 mum's
 mumble
@@ -84200,6 +84239,8 @@ passivizing
 passkey
 passkey's
 passkeys
+passphrase
+passphrases
 passport
 passport's
 passports
@@ -96171,6 +96212,7 @@ revenuer
 revenuer's
 revenuers
 revenues
+reverb
 reverberate
 reverberated
 reverberates
@@ -98340,6 +98382,7 @@ sap
 sap's
 sapience
 sapience's
+sapiens
 sapient
 sapless
 sapling
@@ -111260,6 +111303,7 @@ therefor
 therefore
 therefrom
 therein
+theremin
 thereof
 thereon
 thereto
@@ -111598,6 +111642,7 @@ throe
 throe's
 throes
 thrombi
+thrombolytic
 thromboses
 thrombosis
 thrombosis's
