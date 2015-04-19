@@ -55,6 +55,7 @@ AOL's
 AP
 AP's
 APB
+APC
 API
 APO
 APR
@@ -73,6 +74,7 @@ ATP
 ATP's
 ATV
 AV
+AVI
 AWACS
 AWACS's
 AWOL
@@ -1082,6 +1084,7 @@ Araceli
 Araceli's
 Arafat
 Arafat's
+Aragon
 Araguaya
 Araguaya's
 Aral
@@ -1817,6 +1820,8 @@ Barcelona
 Barcelona's
 Barclay
 Barclay's
+Barclays
+Barclays's
 Bardeen
 Bardeen's
 Barents
@@ -1921,6 +1926,8 @@ Baudelaire
 Baudelaire's
 Baudouin
 Baudouin's
+Baudrillard
+Baudrillard's
 Bauer
 Bauer's
 Bauhaus
@@ -1978,6 +1985,8 @@ Beatrix
 Beatrix's
 Beatriz
 Beatriz's
+Beatty
+Beatty's
 Beau
 Beau's
 Beaufort
@@ -3131,6 +3140,7 @@ CF
 CFC
 CFC's
 CFO
+CGI
 CIA
 CIA's
 CID
@@ -3574,6 +3584,8 @@ Cassandra's
 Cassandras
 Cassatt
 Cassatt's
+Cassidy
+Cassidy's
 Cassie
 Cassie's
 Cassiopeia
@@ -3752,6 +3764,7 @@ Chaldean
 Chaldean's
 Challenger
 Challenger's
+Chalmers
 Chamberlain
 Chamberlain's
 Chambers
@@ -4597,6 +4610,8 @@ Coventry
 Coventry's
 Coward
 Coward's
+Cowell
+Cowell's
 Cowley
 Cowley's
 Cowper
@@ -5053,6 +5068,7 @@ Davy
 Davy's
 Dawes
 Dawes's
+Dawkins
 Dawn
 Dawn's
 Dawson
@@ -5243,6 +5259,8 @@ Derek
 Derek's
 Derick
 Derick's
+Dermot
+Dermot's
 Derrick
 Derrick's
 Derrida
@@ -5752,6 +5770,7 @@ ESP
 ESP's
 ESPN
 ESPN's
+ESR
 EST
 EST's
 ET
@@ -7013,6 +7032,8 @@ GATT
 GATT's
 GB
 GB's
+GCC
+GCC's
 GDP
 GDP's
 GE
@@ -7927,6 +7948,7 @@ HMS
 HOV
 HP
 HP's
+HPV
 HQ
 HQ's
 HR
@@ -8210,6 +8232,8 @@ Hayden
 Hayden's
 Haydn
 Haydn's
+Hayek
+Hayek's
 Hayes
 Hayes's
 Haynes
@@ -8344,6 +8368,8 @@ Hench
 Hench's
 Henderson
 Henderson's
+Hendrick
+Hendrick's
 Hendricks
 Hendricks's
 Hendrix
@@ -8356,6 +8382,8 @@ Henri
 Henri's
 Henrietta
 Henrietta's
+Henrik
+Henrik's
 Henry
 Henry's
 Hensley
@@ -8830,6 +8858,7 @@ Hummer
 Hummer's
 Humphrey
 Humphrey's
+Humphreys
 Humvee
 Humvee's
 Hun
@@ -10789,6 +10818,8 @@ Latasha
 Latasha's
 Lateran
 Lateran's
+Latham
+Latham's
 Latin
 Latin's
 Latina
@@ -13302,6 +13333,8 @@ Motrin
 Motrin's
 Mott
 Mott's
+Moulton
+Moulton's
 Mount
 Mount's
 Mountbatten
@@ -14768,6 +14801,7 @@ Parks
 Parks's
 Parliament
 Parliament's
+Parmenides
 Parmesan
 Parmesan's
 Parmesans
@@ -15776,6 +15810,7 @@ RFD
 RI
 RIF
 RIP
+RISC
 RN
 RN's
 RNA
@@ -15886,6 +15921,8 @@ Raoul
 Raoul's
 Raphael
 Raphael's
+Rappaport
+Rappaport's
 Rapunzel
 Rapunzel's
 Raquel
@@ -21693,6 +21730,7 @@ across
 acrostic
 acrostic's
 acrostics
+acrylamide
 acrylic
 acrylic's
 acrylics
@@ -24444,6 +24482,8 @@ apoplectic
 apoplexies
 apoplexy
 apoplexy's
+apoptosis
+apoptotic
 apostasies
 apostasy
 apostasy's
@@ -29021,6 +29061,8 @@ biopsies
 biopsy
 biopsy's
 biopsying
+bioreactor
+bioreactors
 biorhythm
 biorhythm's
 biorhythms
@@ -30621,6 +30663,7 @@ bottomed
 bottoming
 bottomless
 bottoms
+botulinum
 botulism
 botulism's
 boudoir
@@ -33546,6 +33589,7 @@ cardiologist's
 cardiologists
 cardiology
 cardiology's
+cardiomyopathy
 cardiopulmonary
 cardiovascular
 cards
@@ -35602,6 +35646,7 @@ chitchatting
 chitin
 chitin's
 chitinous
+chitosan
 chits
 chitterlings
 chitterlings's
@@ -35691,6 +35736,7 @@ choker's
 chokers
 chokes
 choking
+cholecystitis
 choler
 choler's
 cholera
@@ -37925,6 +37971,7 @@ committing
 commode
 commode's
 commodes
+commodification
 commodious
 commodiously
 commodities
@@ -44333,6 +44380,7 @@ denigration's
 denim
 denim's
 denims
+denitrification
 denizen
 denizen's
 denizens
@@ -48996,6 +49044,7 @@ eccentricity
 eccentricity's
 eccentrics
 eccl
+ecclesial
 ecclesiastic
 ecclesiastic's
 ecclesiastical
@@ -50893,6 +50942,9 @@ eolian
 eon
 eon's
 eons
+eosinophil
+eosinophilic
+eosinophils
 epaulette
 epaulette's
 epaulettes
@@ -51842,6 +51894,7 @@ exception
 exception's
 exceptionable
 exceptional
+exceptionalism
 exceptionally
 exceptions
 excepts
@@ -55432,6 +55485,7 @@ foldouts
 folds
 foliage
 foliage's
+folic
 folio
 folio's
 folios
@@ -58722,6 +58776,7 @@ glows
 glowworm
 glowworm's
 glowworms
+glucagon
 glucose
 glucose's
 glue
@@ -62144,6 +62199,8 @@ heparin's
 hepatic
 hepatitis
 hepatitis's
+hepatocyte
+hepatocytes
 hepper
 heppest
 heptagon
@@ -63395,6 +63452,7 @@ hosiery
 hosiery's
 hosing
 hosp
+hospholipase
 hospice
 hospice's
 hospices
@@ -64822,6 +64880,8 @@ immunizing
 immunodeficiency
 immunodeficiency's
 immunodeficient
+immunoglobulin
+immunoglobulins
 immunologic
 immunological
 immunologist
@@ -74857,6 +74917,8 @@ medleys
 medulla
 medulla's
 medullas
+medusa
+medusae
 meed
 meed's
 meek
@@ -75458,6 +75520,7 @@ methodologies
 methodology
 methodology's
 methods
+methotrexate
 methought
 meths
 methyl
@@ -78822,6 +78885,7 @@ nearly
 nearness
 nearness's
 nears
+nearshore
 nearside
 nearsighted
 nearsightedly
@@ -79233,6 +79297,7 @@ newels
 newer
 newest
 newfangled
+newfound
 newline
 newlines
 newly
@@ -81315,6 +81380,8 @@ oligarchies
 oligarchs
 oligarchy
 oligarchy's
+oligonucleotide
+oligonucleotides
 oligopolies
 oligopoly
 oligopoly's
@@ -83504,6 +83571,7 @@ pancreas
 pancreas's
 pancreases
 pancreatic
+pancreatitis
 panda
 panda's
 pandas
@@ -85245,6 +85313,7 @@ pergola's
 pergolas
 perhaps
 pericardia
+pericardial
 pericardium
 pericardium's
 perigee
@@ -85997,6 +86066,7 @@ phooey
 phosphate
 phosphate's
 phosphates
+phosphodiesterase
 phosphor
 phosphor's
 phosphorescence
@@ -87709,6 +87779,7 @@ poltroon
 poltroon's
 poltroons
 poly
+polyacrylamide
 polyamories
 polyamory
 polyandrous
@@ -89876,6 +89947,8 @@ progeny
 progeny's
 progesterone
 progesterone's
+progestin
+progestins
 prognathous
 prognoses
 prognosis
@@ -112942,6 +113015,9 @@ toyed
 toying
 toys
 tr
+trabecula
+trabeculae
+trabecular
 trace
 trace's
 traceable
@@ -113321,6 +113397,7 @@ transliterating
 transliteration
 transliteration's
 transliterations
+translocation
 translucence
 translucence's
 translucency
@@ -117965,6 +118042,7 @@ verso
 verso's
 versos
 versus
+vert
 vertebra
 vertebra's
 vertebrae
@@ -119293,6 +119371,7 @@ warts
 warty
 wary
 was
+wasabi
 wash
 wash's
 washable

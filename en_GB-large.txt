@@ -90,6 +90,7 @@ ATP's
 ATS
 ATV
 AV
+AVI
 AWACS
 AWACS's
 AWOL
@@ -2599,6 +2600,8 @@ Barcelona
 Barcelona's
 Barclay
 Barclay's
+Barclays
+Barclays's
 Bardeen
 Bardeen's
 Bareilly
@@ -2748,6 +2751,8 @@ Baudelaire
 Baudelaire's
 Baudouin
 Baudouin's
+Baudrillard
+Baudrillard's
 Bauer
 Bauer's
 Bauhaus
@@ -4455,6 +4460,7 @@ CF
 CFC
 CFC's
 CFO
+CGI
 CIA
 CIA's
 CID
@@ -5096,6 +5102,8 @@ Cassandras
 Cassatt
 Cassatt's
 Cassel
+Cassidy
+Cassidy's
 Cassie
 Cassie's
 Cassino
@@ -5349,6 +5357,7 @@ Chaldee
 Chaliapin
 Challenger
 Challenger's
+Chalmers
 Cham
 Chamaeleon
 Chamberlain
@@ -6558,6 +6567,8 @@ Coverdale
 Coverley
 Coward
 Coward's
+Cowell
+Cowell's
 Cowes
 Cowley
 Cowley's
@@ -7178,6 +7189,7 @@ Davy
 Davy's
 Dawes
 Dawes's
+Dawkins
 Dawn
 Dawn's
 Dawson
@@ -7408,6 +7420,8 @@ Derek
 Derek's
 Derick
 Derick's
+Dermot
+Dermot's
 Derrick
 Derrick's
 Derrida
@@ -8160,6 +8174,7 @@ ESP
 ESP's
 ESPN
 ESPN's
+ESR
 EST
 EST's
 ET
@@ -9966,6 +9981,8 @@ GATT's
 GB
 GB's
 GCA
+GCC
+GCC's
 GDP
 GDP's
 GE
@@ -11236,6 +11253,7 @@ HMS
 HOV
 HP
 HP's
+HPV
 HQ
 HQ's
 HR
@@ -11659,6 +11677,8 @@ Hayden
 Hayden's
 Haydn
 Haydn's
+Hayek
+Hayek's
 Hayes
 Hayes's
 Haynes
@@ -11850,6 +11870,8 @@ Hench
 Hench's
 Henderson
 Henderson's
+Hendrick
+Hendrick's
 Hendricks
 Hendricks's
 Hendrix
@@ -11864,6 +11886,8 @@ Henri
 Henri's
 Henrietta
 Henrietta's
+Henrik
+Henrik's
 Henry
 Henry's
 Hensley
@@ -12523,6 +12547,7 @@ Hummer's
 Humperdinck
 Humphrey
 Humphrey's
+Humphreys
 Humphry
 Humphry's
 Humvee
@@ -15379,6 +15404,8 @@ Latasha
 Latasha's
 Lateran
 Lateran's
+Latham
+Latham's
 Latimer
 Latimer's
 Latin
@@ -18819,6 +18846,8 @@ Motrin's
 Mott
 Mott's
 Moulmein
+Moulton
+Moulton's
 Mount
 Mount's
 Mountbatten
@@ -22336,6 +22365,7 @@ RFD
 RI
 RIF
 RIP
+RISC
 RM
 RN
 RN's
@@ -22492,6 +22522,8 @@ Raoul's
 Rapallo
 Raphael
 Raphael's
+Rappaport
+Rappaport's
 Rapture
 Rapture's
 Rapunzel
@@ -30658,6 +30690,7 @@ acrostic's
 acrostics
 acroter
 acroterion
+acrylamide
 acrylic
 acrylic's
 acrylics
@@ -35236,6 +35269,8 @@ apoplectically
 apoplexies
 apoplexy
 apoplexy's
+apoptosis
+apoptotic
 aporia
 aport
 aposematic
@@ -41615,6 +41650,8 @@ biopsies
 biopsy
 biopsy's
 biopsying
+bioreactor
+bioreactors
 bioremediation
 bioremediations
 bioreserve
@@ -43661,6 +43698,7 @@ bottomry
 bottoms
 botulin
 botulins
+botulinum
 botulinus
 botulinuses
 botulism
@@ -47709,6 +47747,7 @@ cardiologists
 cardiology
 cardiology's
 cardiomegaly
+cardiomyopathy
 cardiopulmonary
 cardiovascular
 carditis
@@ -50593,6 +50632,7 @@ chitlins
 chitlins's
 chiton
 chitons
+chitosan
 chits
 chitter
 chittered
@@ -62704,6 +62744,7 @@ denim
 denim's
 denims
 denitrate
+denitrification
 denitrified
 denitrifies
 denitrify
@@ -71804,6 +71845,7 @@ eolithic
 eoliths
 eosin
 eosinophil
+eosinophilic
 eosinophils
 eosins
 epact
@@ -73332,6 +73374,7 @@ exception's
 exceptionable
 exceptionably
 exceptional
+exceptionalism
 exceptionally
 exceptions
 exceptive
@@ -78128,6 +78171,7 @@ foliates
 foliating
 foliation
 foliations
+folic
 folie
 folio
 folio's
@@ -87234,6 +87278,8 @@ hepatica
 hepaticas
 hepatitis
 hepatitis's
+hepatocyte
+hepatocytes
 hepcat
 hepper
 heppest
@@ -89012,6 +89058,7 @@ hosiery
 hosiery's
 hosing
 hosp
+hospholipase
 hospice
 hospice's
 hospices
@@ -105108,6 +105155,7 @@ medullary
 medullas
 medullated
 medusa
+medusae
 medusas
 meed
 meed's
@@ -106066,6 +106114,7 @@ methodologist
 methodology
 methodology's
 methods
+methotrexate
 methought
 methoxychlor
 meths
@@ -110780,6 +110829,7 @@ nearly
 nearness
 nearness's
 nears
+nearshore
 nearside
 nearsighted
 nearsightedly
@@ -114287,6 +114337,8 @@ oligochaete
 oligochaetes
 oligoclase
 oligoclases
+oligonucleotide
+oligonucleotides
 oligopolies
 oligopolist
 oligopolistic
@@ -120965,6 +121017,7 @@ phosphide
 phosphine
 phosphines
 phosphocreatine
+phosphodiesterase
 phospholipid
 phospholipide
 phospholipids
@@ -123489,6 +123542,7 @@ poltroonery
 poltroonish
 poltroons
 poly
+polyacrylamide
 polyadelphous
 polyamide
 polyamides
@@ -157100,6 +157154,9 @@ toys
 toyshop
 tr
 trabeated
+trabecula
+trabeculae
+trabecular
 trace
 trace's
 traceability
