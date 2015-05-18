@@ -61781,6 +61781,7 @@ healing
 heals
 health
 health's
+healthcare
 healthful
 healthfully
 healthfulness
