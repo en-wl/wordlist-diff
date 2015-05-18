@@ -70390,6 +70390,7 @@ endosteum
 endostosis
 endothecium
 endothelia
+endothelial
 endothelioma
 endothelium
 endotherm
@@ -162344,6 +162345,7 @@ verruca's
 verrucae
 verrucas
 verrucose
+versa
 versatile
 versatilely
 versatility
@@ -164217,6 +164219,7 @@ waster
 waster's
 wasters
 wastes
+wastewater
 wasting
 wastings
 wastrel

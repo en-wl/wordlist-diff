@@ -29045,6 +29045,7 @@ biology
 biology's
 biomass
 biomass's
+biomedical
 bionic
 bionically
 bionics
@@ -47656,6 +47657,7 @@ dooryard's
 dooryards
 dopa
 dopa's
+dopamine
 dope
 dope's
 doped
@@ -50411,6 +50413,7 @@ endoscopes
 endoscopic
 endoscopy
 endoscopy's
+endothelial
 endothermic
 endow
 endowed
@@ -51027,6 +51030,7 @@ episode's
 episodes
 episodic
 episodically
+epistemological
 epistemology
 epistle
 epistle's
@@ -73258,6 +73262,7 @@ macrology
 macron
 macron's
 macrons
+macrophages
 macros
 macroscopic
 macs
@@ -78495,6 +78500,7 @@ myelitis's
 mynah
 mynah's
 mynahes
+myocardial
 myocardium
 myopia
 myopia's
@@ -85180,6 +85186,8 @@ pepsin's
 peptic
 peptic's
 peptics
+peptide
+peptides
 per
 peradventure
 peradventure's
@@ -85327,6 +85335,7 @@ perfumes
 perfuming
 perfunctorily
 perfunctory
+perfusion
 pergola
 pergola's
 pergolas
@@ -92761,6 +92770,7 @@ reactivating
 reactivation
 reactivation's
 reactive
+reactivity
 reactor
 reactor's
 reactors
@@ -102495,6 +102505,7 @@ situates
 situating
 situation
 situation's
+situational
 situations
 six
 six's
@@ -106611,6 +106622,7 @@ stenographic
 stenography
 stenography's
 stenos
+stenosis
 stentorian
 step
 step's
@@ -112057,6 +112069,7 @@ timelessness
 timelessness's
 timelier
 timeliest
+timeline
 timeliness
 timeliness's
 timely
@@ -118049,6 +118062,7 @@ verruca
 verruca's
 verrucae
 verrucas
+versa
 versatile
 versatility
 versatility's
@@ -119483,6 +119497,7 @@ waster
 waster's
 wasters
 wastes
+wastewater
 wasting
 wastrel
 wastrel's
