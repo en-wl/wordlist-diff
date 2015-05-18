@@ -23469,6 +23469,7 @@ ammo
 ammo's
 ammonia
 ammonia's
+ammonium
 ammunition
 ammunition's
 amnesia
@@ -51030,6 +51031,7 @@ episode's
 episodes
 episodic
 episodically
+epistemic
 epistemological
 epistemology
 epistle
@@ -76778,6 +76780,9 @@ mitigates
 mitigating
 mitigation
 mitigation's
+mitochondria
+mitochondrial
+mitochondrion
 mitoses
 mitosis
 mitosis's
@@ -76877,6 +76882,8 @@ mod
 mod's
 modal
 modal's
+modalities
+modality
 modals
 modded
 modding
@@ -87575,6 +87582,7 @@ poetesses
 poetic
 poetical
 poetically
+poetics
 poetry
 poetry's
 poets
