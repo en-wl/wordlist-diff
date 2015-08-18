@@ -6467,6 +6467,7 @@ FTC
 FUD
 FUDs
 FWD
+FWIW
 FY
 FYI
 Faberge
@@ -6841,6 +6842,7 @@ Francois
 Francois's
 Francoise
 Francoise's
+Francophile
 Franglais
 Franglais's
 Frank
@@ -12687,6 +12689,7 @@ Menuhin
 Menuhin's
 Menzies
 Menzies's
+Mephisto
 Mephistopheles
 Mephistopheles's
 Merak
@@ -19422,6 +19425,7 @@ USSR
 USSR's
 UT
 UT's
+UTC
 UV
 UV's
 Ubangi
@@ -54794,6 +54798,7 @@ flatbeds
 flatboat
 flatboat's
 flatboats
+flatbread
 flatcar
 flatcar's
 flatcars
@@ -63064,6 +63069,8 @@ homing
 hominid
 hominid's
 hominids
+hominoid
+hominoids
 hominy
 hominy's
 homo
@@ -86364,6 +86371,9 @@ pieceworker
 pieceworker's
 pieceworkers
 piecing
+piecrust
+piecrust's
+piecrusts
 pied
 pieing
 pier
@@ -110547,6 +110557,7 @@ technique
 technique's
 techniques
 techno
+technobabble
 technocracies
 technocracy
 technocracy's
