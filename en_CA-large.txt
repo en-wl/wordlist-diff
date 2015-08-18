@@ -54014,9 +54014,11 @@ composes
 composing
 composite
 composite's
+composited
 compositely
 compositeness
 composites
+compositing
 composition
 composition's
 compositional
@@ -122946,6 +122948,9 @@ potentiality's
 potentially
 potentials
 potentiate
+potentiated
+potentiates
+potentiating
 potentiation
 potentilla
 potentiometer

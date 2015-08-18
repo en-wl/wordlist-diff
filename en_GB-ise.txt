@@ -38299,8 +38299,10 @@ composes
 composing
 composite
 composite's
+composited
 compositely
 composites
+compositing
 composition
 composition's
 compositions
@@ -88466,6 +88468,10 @@ potentiality
 potentiality's
 potentially
 potentials
+potentiate
+potentiated
+potentiates
+potentiating
 potently
 potful
 potful's
