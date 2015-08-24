@@ -43441,6 +43441,10 @@ declassified
 declassifies
 declassify
 declassifying
+declaw
+declawed
+declawing
+declaws
 declension
 declension's
 declensions
@@ -48280,6 +48284,9 @@ driver
 driver's
 drivers
 drives
+driveshaft
+driveshaft's
+driveshafts
 driveway
 driveway's
 driveways
@@ -74816,6 +74823,9 @@ meat's
 meatball
 meatball's
 meatballs
+meathead
+meathead's
+meatheads
 meatier
 meatiest
 meatiness
