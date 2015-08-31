@@ -46045,6 +46045,7 @@ disassemble
 disassembled
 disassembles
 disassembling
+disassembly
 disassociate
 disassociated
 disassociates
@@ -49541,6 +49542,7 @@ eldercare's
 elderly
 elders
 eldest
+eldritch
 elect
 elect's
 electable
