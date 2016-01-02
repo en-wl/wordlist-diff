@@ -58326,6 +58326,9 @@ gigahertz
 gigahertz's
 gigantic
 gigantically
+gigapixel
+gigapixel's
+gigapixels
 gigawatt
 gigawatt's
 gigawatts
@@ -111064,6 +111067,9 @@ terabyte's
 terabytes
 terahertz
 terahertz's
+terapixel
+terapixel's
+terapixels
 terbium
 terbium's
 tercentenaries
