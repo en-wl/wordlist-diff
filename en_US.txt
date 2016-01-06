@@ -35515,6 +35515,7 @@ childproofed
 childproofing
 childproofs
 children
+children's
 chili
 chili's
 chilies
@@ -111408,6 +111409,7 @@ therefore
 therefrom
 therein
 theremin
+theremin's
 thereof
 thereon
 thereto
@@ -112637,6 +112639,7 @@ took
 tool
 tool's
 toolbar
+toolbar's
 toolbox
 toolbox's
 toolboxes
