@@ -10236,6 +10236,7 @@ Gaspe's
 Gaspesian
 Gasser
 Gasser's
+Gastroenterology
 Gates
 Gates's
 Gateshead
@@ -36630,6 +36631,7 @@ assignation's
 assignations
 assigned
 assignee
+assignee's
 assignees
 assigner
 assigner's
@@ -145935,6 +145937,7 @@ stent
 stentor
 stentorian
 stentors
+stents
 step
 step's
 stepbrother
@@ -151092,6 +151095,7 @@ tawny's
 taws
 tax
 tax's
+taxa
 taxable
 taxaceous
 taxation

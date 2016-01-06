@@ -7233,6 +7233,7 @@ Gascony
 Gascony's
 Gasser
 Gasser's
+Gastroenterology
 Gates
 Gates's
 Gatling
@@ -21227,6 +21228,7 @@ absolved
 absolves
 absolving
 absorb
+absorbance
 absorbed
 absorbency
 absorbency's
@@ -21586,6 +21588,7 @@ acetic
 acetone
 acetone's
 acetonic
+acetyl
 acetylene
 acetylene's
 ache
@@ -21824,6 +21827,7 @@ acutes
 acutest
 acyclovir
 acyclovir's
+acyl
 ad
 ad's
 adage
@@ -22626,6 +22630,8 @@ agnostics
 ago
 agog
 agonies
+agonist
+agonists
 agonize
 agonized
 agonizes
@@ -25583,6 +25589,8 @@ assignation
 assignation's
 assignations
 assigned
+assignee
+assignee's
 assigner
 assigner's
 assigners
@@ -26097,6 +26105,7 @@ auras
 aureole
 aureole's
 aureoles
+aureus
 auricle
 auricle's
 auricles
@@ -28459,6 +28468,7 @@ benzene
 benzene's
 benzine
 benzine's
+benzyl
 bequeath
 bequeathed
 bequeathing
@@ -29077,6 +29087,8 @@ bios
 biosphere
 biosphere's
 biospheres
+biosynthesis
+biotech
 biotechnological
 biotechnology
 biotechnology's
@@ -37235,6 +37247,8 @@ codifies
 codify
 codifying
 coding
+codon
+codons
 codpiece
 codpiece's
 codpieces
@@ -42092,6 +42106,8 @@ cultist
 cultist's
 cultists
 cultivable
+cultivar
+cultivars
 cultivatable
 cultivate
 cultivated
@@ -43941,6 +43957,7 @@ dehydration's
 dehydrator
 dehydrator's
 dehydrators
+dehydrogenase
 dehydrogenate
 dehydrogenated
 dehydrogenates
@@ -51461,6 +51478,7 @@ estimations
 estimator
 estimator's
 estimators
+estoppel
 estrange
 estranged
 estrangement
@@ -52204,6 +52222,7 @@ exodus
 exodus's
 exoduses
 exogenous
+exon
 exonerate
 exonerated
 exonerates
@@ -53476,6 +53495,7 @@ fauvism's
 fauvist
 fauvist's
 fauvists
+faux
 fave
 faves
 favour
@@ -57029,6 +57049,7 @@ funding's
 fundraiser
 fundraiser's
 fundraisers
+fundraising
 funds
 funeral
 funeral's
@@ -58014,6 +58035,7 @@ genocides
 genome
 genome's
 genomes
+genomics
 genre
 genre's
 genres
@@ -67655,6 +67677,7 @@ intersects
 intersession
 intersession's
 intersessions
+intersex
 intersperse
 interspersed
 intersperses
@@ -69664,6 +69687,7 @@ kimono's
 kimonos
 kin
 kin's
+kinase
 kind
 kind's
 kinda
@@ -79261,6 +79285,7 @@ neurosurgeon's
 neurosurgeons
 neurosurgery
 neurosurgery's
+neurosurgical
 neurotic
 neurotic's
 neurotically
@@ -83166,6 +83191,7 @@ oxfords
 oxidant
 oxidant's
 oxidants
+oxidase
 oxidation
 oxidation's
 oxide
@@ -93840,6 +93866,7 @@ reducers
 reduces
 reducible
 reducing
+reductase
 reduction
 reduction's
 reductionist
@@ -100655,6 +100682,7 @@ serifs
 serigraph
 serigraph's
 serigraphs
+serine
 serious
 seriously
 seriousness
@@ -106633,7 +106661,9 @@ stenography
 stenography's
 stenos
 stenosis
+stent
 stentorian
+stents
 step
 step's
 stepbrother
@@ -108073,6 +108103,7 @@ substantives
 substation
 substation's
 substations
+substituent
 substitute
 substitute's
 substituted
@@ -110411,6 +110442,7 @@ tawny
 tawny's
 tax
 tax's
+taxa
 taxable
 taxation
 taxation's
@@ -110440,6 +110472,7 @@ taxiway
 taxiways
 taxman
 taxmen
+taxon
 taxonomic
 taxonomies
 taxonomist
