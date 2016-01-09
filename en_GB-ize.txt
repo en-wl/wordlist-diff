@@ -23798,6 +23798,7 @@ android
 android's
 androids
 anecdotal
+anecdotally
 anecdote
 anecdote's
 anecdotes
