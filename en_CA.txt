@@ -97372,6 +97372,9 @@ rooter
 rooter's
 rooters
 rooting
+rootkit
+rootkit's
+rootkits
 rootless
 rootlessness
 rootlet
@@ -120741,6 +120744,7 @@ wiki's
 wikis
 wild
 wild's
+wildcard
 wildcat
 wildcat's
 wildcats
