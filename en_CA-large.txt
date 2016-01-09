@@ -514,6 +514,8 @@ Airdrie
 Airedale
 Airedale's
 Airedales
+Aires
+Aires's
 Aisha
 Aisha's
 Aisne
@@ -11597,6 +11599,8 @@ Hasidic
 Hasidim
 Hasidim's
 Hasidism
+Haskell
+Haskell's
 Hassid
 Hassidim
 Hastings
@@ -49712,6 +49716,7 @@ checkrowed
 checkrowing
 checkrows
 checks
+checksum
 checkup
 checkup's
 checkups
@@ -75641,6 +75646,8 @@ file's
 fileable
 filed
 filefish
+filename
+filenames
 filer
 filer's
 filers
@@ -100985,6 +100992,7 @@ losings
 loss
 loss's
 losses
+lossless
 lost
 lot
 lot's
@@ -127680,6 +127688,7 @@ quizzicality
 quizzically
 quizzicalness
 quizzing
+quo
 quod
 quodlibet
 quodlibetarian
@@ -128272,6 +128281,7 @@ rampart
 rampart's
 ramparts
 ramped
+ramping
 ramps
 ramrod
 ramrod's
@@ -132433,6 +132443,9 @@ resit
 resiting
 resits
 resitting
+resize
+resized
+resizes
 resizing
 resnatron
 resocialization

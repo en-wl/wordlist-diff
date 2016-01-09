@@ -353,6 +353,8 @@ Ainu's
 Airedale
 Airedale's
 Airedales
+Aires
+Aires's
 Aisha
 Aisha's
 Ajax
@@ -8189,6 +8191,8 @@ Hasbro
 Hasbro's
 Hasidim
 Hasidim's
+Haskell
+Haskell's
 Hastings
 Hastings's
 Hatfield
@@ -35235,6 +35239,7 @@ checkroom
 checkroom's
 checkrooms
 checks
+checksum
 checkup
 checkup's
 checkups
@@ -54149,6 +54154,8 @@ filching
 file
 file's
 filed
+filename
+filenames
 filer
 filer's
 filers
@@ -72700,6 +72707,7 @@ losings
 loss
 loss's
 losses
+lossless
 lost
 lot
 lot's
@@ -91887,6 +91895,7 @@ quizzes
 quizzical
 quizzically
 quizzing
+quo
 quoin
 quoin's
 quoins
@@ -92328,6 +92337,7 @@ rampantly
 rampart
 rampart's
 ramparts
+ramping
 ramps
 ramrod
 ramrod's
@@ -95718,6 +95728,10 @@ resists
 resit
 resits
 resitting
+resize
+resized
+resizes
+resizing
 resold
 resole
 resoled
