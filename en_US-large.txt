@@ -49575,6 +49575,7 @@ checkable
 checkbook
 checkbook's
 checkbooks
+checkbox
 checked
 checker
 checker's
@@ -161763,6 +161764,8 @@ versifying
 versing
 version
 version's
+versioned
+versioning
 versions
 verso
 verso's
@@ -162359,6 +162362,7 @@ virology's
 virtu
 virtual
 virtuality
+virtualization
 virtually
 virtue
 virtue's

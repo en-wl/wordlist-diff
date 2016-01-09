@@ -49990,6 +49990,7 @@ cheats
 check
 check's
 checkable
+checkbox
 checked
 checker
 checker's
@@ -164446,6 +164447,8 @@ versifying
 versing
 version
 version's
+versioned
+versioning
 versions
 verso
 verso's
@@ -165048,6 +165051,7 @@ virology
 virology's
 virtu
 virtual
+virtualisation
 virtuality
 virtually
 virtue
