@@ -24169,6 +24169,7 @@ anthropomorphic
 anthropomorphically
 anthropomorphism
 anthropomorphism's
+anthropomorphize
 anthropomorphous
 anti
 anti's
@@ -29850,6 +29851,7 @@ blowholes
 blowier
 blowiest
 blowing
+blowjob
 blowlamp
 blowlamps
 blown
@@ -51657,6 +51659,9 @@ eutectic
 euthanasia
 euthanasia's
 euthanize
+euthanized
+euthanizes
+euthanizing
 euthenics
 euthenics's
 evacuate
@@ -60296,6 +60301,7 @@ guesswork
 guesswork's
 guest
 guest's
+guestbook
 guested
 guesthouse
 guesthouses
@@ -62597,6 +62603,7 @@ highwayman
 highwayman's
 highwaymen
 highways
+hijab
 hijack
 hijack's
 hijacked
@@ -75011,6 +75018,7 @@ meetinghouse's
 meetinghouses
 meetings
 meets
+meetup
 meg
 mega
 megabit
@@ -75483,6 +75491,7 @@ metacarpals
 metacarpi
 metacarpus
 metacarpus's
+metadata
 metal
 metal's
 metalanguage
@@ -75571,6 +75580,7 @@ metered
 metering
 meters
 metes
+meth
 methadone
 methadone's
 methamphetamine
@@ -75878,6 +75888,7 @@ miffing
 miffs
 might
 might's
+might've
 mightier
 mightiest
 mightily
@@ -78447,6 +78458,7 @@ mussing
 mussy
 must
 must's
+must've
 mustachio
 mustachio's
 mustachioed
@@ -81343,6 +81355,7 @@ offshoots
 offshore
 offshoring
 offside
+offsite
 offspring
 offspring's
 offstage
@@ -81565,6 +81578,7 @@ onset's
 onsets
 onshore
 onside
+onsite
 onslaught
 onslaught's
 onslaughts
@@ -86368,6 +86382,7 @@ picketing
 pickets
 pickier
 pickiest
+pickiness
 picking
 pickings
 pickings's
@@ -91855,6 +91870,7 @@ quine
 quines
 quinine
 quinine's
+quinoa
 quins
 quinsy
 quinsy's
@@ -93702,6 +93718,7 @@ recursion
 recursions
 recursive
 recursively
+recuse
 recyclable
 recyclable's
 recyclables
@@ -99547,6 +99564,7 @@ screenplay
 screenplay's
 screenplays
 screens
+screensaver
 screenshot
 screenshots
 screenwriter
@@ -106593,6 +106611,7 @@ steamiest
 steaminess
 steaminess's
 steaming
+steampunk
 steamroll
 steamrolled
 steamroller
@@ -110807,6 +110826,8 @@ telephotos
 teleplay
 teleplay's
 teleplays
+teleport
+teleportation
 teleprinter
 teleprinter's
 teleprinters
@@ -116336,6 +116357,7 @@ uninteresting
 uninterpreted
 uninterrupted
 uninterruptedly
+uninterruptible
 uninvited
 uninviting
 union
@@ -119839,6 +119861,7 @@ weaning
 weans
 weapon
 weapon's
+weaponize
 weaponless
 weaponry
 weaponry's
