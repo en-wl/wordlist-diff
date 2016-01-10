@@ -58264,7 +58264,6 @@ gestures
 gesturing
 gesundheit
 get
-get's
 getaway
 getaway's
 getaways
@@ -58511,7 +58510,6 @@ gite
 gites
 gits
 give
-give's
 giveaway
 giveaway's
 giveaways
@@ -62274,7 +62272,6 @@ heptathlon
 heptathlon's
 heptathlons
 her
-her's
 herald
 herald's
 heralded
@@ -62649,7 +62646,6 @@ hilt
 hilt's
 hilts
 him
-him's
 hims
 himself
 hind
