@@ -103034,8 +103034,10 @@ magazines
 magdalen
 magdalens
 mage
+mage's
 magenta
 magenta's
+mages
 maggot
 maggot's
 maggots
@@ -106803,6 +106805,7 @@ millenarianism
 millenarianisms
 millenarians
 millenary
+millennia
 millennial
 millennial's
 millennialism
@@ -130798,6 +130801,7 @@ rebounded
 rebounding
 rebounds
 rebozo
+rebreather
 rebroadcast
 rebroadcast's
 rebroadcasting

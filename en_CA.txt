@@ -73382,8 +73382,11 @@ mag's
 magazine
 magazine's
 magazines
+mage
+mage's
 magenta
 magenta's
+mages
 maggot
 maggot's
 maggots
@@ -76010,6 +76013,7 @@ mill's
 millage
 millage's
 milled
+millennia
 millennial
 millennial's
 millennials
