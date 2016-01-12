@@ -3810,6 +3810,7 @@ Chantilly
 Chantilly's
 Chaplin
 Chaplin's
+Chaplinesque
 Chapman
 Chapman's
 Chappaquiddick
@@ -24324,6 +24325,7 @@ antiquity's
 antirrhinum
 antirrhinums
 antis
+antiscience
 antisemitic
 antisemitism
 antisemitism's
@@ -66709,6 +66711,7 @@ iniquity
 iniquity's
 initial
 initial's
+initialism
 initialization
 initialize
 initialized
@@ -79447,6 +79450,7 @@ newspapers
 newspaperwoman
 newspaperwoman's
 newspaperwomen
+newspeak
 newsprint
 newsprint's
 newsreader
@@ -96655,6 +96659,7 @@ rhino's
 rhinoceros
 rhinoceros's
 rhinoceroses
+rhinoplasty
 rhinos
 rhinovirus
 rhinovirus's
@@ -116808,6 +116813,7 @@ unrest
 unrest's
 unrestrained
 unrestricted
+unrevealed
 unrewarded
 unrewarding
 unrighteous

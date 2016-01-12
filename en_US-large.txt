@@ -5406,6 +5406,7 @@ Chaos's
 Chaoses
 Chaplin
 Chaplin's
+Chaplinesque
 Chapman
 Chapman's
 Chappaquiddick
@@ -34743,6 +34744,7 @@ antirrhinum
 antirrhinums
 antis
 antisatellite
+antiscience
 antiscorbutic
 antisemite
 antisemitic
@@ -92347,6 +92349,7 @@ initial
 initial's
 initialed
 initialing
+initialism
 initialization
 initializations
 initialize
