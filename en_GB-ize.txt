@@ -2294,10 +2294,12 @@ Bettye
 Bettye's
 Beulah
 Beulah's
+Beveridge
 Beverley
 Beverley's
 Beverly
 Beverly's
+Bharat
 Bhopal
 Bhopal's
 Bhutan
@@ -12111,6 +12113,7 @@ Margie
 Margie's
 Margo
 Margo's
+Margot
 Margret
 Margret's
 Margrethe
@@ -22434,6 +22437,7 @@ affluently
 afford
 affordability
 affordable
+affordably
 afforded
 affording
 affords
@@ -24368,6 +24372,7 @@ antonym
 antonym's
 antonymous
 antonyms
+antrum
 ants
 antsier
 antsiest
@@ -35879,6 +35884,7 @@ christening's
 christenings
 christens
 christian
+christology
 chromatic
 chromatically
 chromatin
@@ -45880,6 +45886,7 @@ diplomatist
 diplomatist's
 diplomatists
 diplomats
+diplopia
 dipole
 dipole's
 dipoles
@@ -48883,6 +48890,7 @@ dyspepsia's
 dyspeptic
 dyspeptic's
 dyspeptics
+dysphagia
 dysprosium
 dysprosium's
 dystonia
@@ -50429,6 +50437,9 @@ endocrinology
 endocrinology's
 endogenous
 endogenously
+endometrial
+endometriosis
+endometrium
 endorphin
 endorphin's
 endorse
@@ -85401,6 +85412,7 @@ pergolas
 perhaps
 pericardia
 pericardial
+pericarditis
 pericardium
 pericardium's
 perigee
@@ -117523,6 +117535,7 @@ utterly
 uttermost
 uttermost's
 utters
+uveitis
 uvula
 uvula's
 uvular
@@ -117850,6 +117863,7 @@ vasectomies
 vasectomy
 vasectomy's
 vases
+vasoconstriction
 vasomotor
 vassal
 vassal's
