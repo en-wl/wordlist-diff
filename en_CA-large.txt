@@ -41480,6 +41480,8 @@ bios
 bioscope
 bioscopes
 bioscopy
+biosensor
+biosensors
 biosphere
 biosphere's
 biospheres
@@ -66350,6 +66352,7 @@ dogmatize
 dogmatized
 dogmatizes
 dogmatizing
+dognapper
 dogs
 dogsbodies
 dogsbody
@@ -144385,6 +144388,7 @@ spearfished
 spearfisher
 spearfishes
 spearfishing
+speargun
 spearhead
 spearhead's
 spearheaded
@@ -158766,6 +158770,7 @@ underactivity
 underacts
 underage
 underaged
+underappreciated
 underarm
 underarm's
 underarms

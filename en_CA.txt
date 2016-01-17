@@ -1052,6 +1052,7 @@ Apuleius
 Apuleius's
 Aquafresh
 Aquafresh's
+Aquarian
 Aquarius
 Aquarius's
 Aquariuses
@@ -3599,6 +3600,7 @@ Cassius
 Cassius's
 Castaneda
 Castaneda's
+Castilian
 Castillo
 Castillo's
 Castlereagh
@@ -29101,6 +29103,8 @@ biorhythm
 biorhythm's
 biorhythms
 bios
+biosensor
+biosensors
 biosphere
 biosphere's
 biospheres
@@ -47484,6 +47488,7 @@ dogmatism's
 dogmatist
 dogmatist's
 dogmatists
+dognapper
 dogs
 dogsbodies
 dogsbody
@@ -92206,6 +92211,7 @@ radioscopy's
 radiosonde
 radiosonde's
 radiosondes
+radiosurgery
 radiotelegraph
 radiotelegraph's
 radiotelegraphs
@@ -105063,6 +105069,7 @@ spearfish's
 spearfished
 spearfishes
 spearfishing
+speargun
 spearhead
 spearhead's
 spearheaded
@@ -109917,6 +109924,7 @@ tachometer's
 tachometers
 tachycardia
 tachycardia's
+tachyon
 tacit
 tacitly
 tacitness
@@ -115686,6 +115694,7 @@ underacted
 underacting
 underacts
 underage
+underappreciated
 underarm
 underarm's
 underarms
@@ -116947,6 +116956,7 @@ unsheathe
 unsheathed
 unsheathes
 unsheathing
+unshockable
 unshod
 unshorn
 unsifted
