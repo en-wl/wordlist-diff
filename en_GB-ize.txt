@@ -25283,6 +25283,7 @@ arthroscope
 arthroscope's
 arthroscopes
 arthroscopic
+arthroscopy
 artichoke
 artichoke's
 artichokes
@@ -35777,6 +35778,7 @@ choker's
 chokers
 chokes
 choking
+cholecystectomy
 cholecystitis
 choler
 choler's
@@ -40760,6 +40762,7 @@ counterpanes
 counterpart
 counterpart's
 counterparts
+counterpetition
 counterpoint
 counterpoint's
 counterpointed
@@ -43253,6 +43256,7 @@ debouch
 debouched
 debouches
 debouching
+debridement
 debrief
 debriefed
 debriefing
@@ -64316,6 +64320,7 @@ hypermarket
 hypermarkets
 hypermedia
 hypermedia's
+hyperparathyroidism
 hypersensitive
 hypersensitiveness
 hypersensitiveness's
@@ -70546,6 +70551,9 @@ lanyard's
 lanyards
 lap
 lap's
+laparoscopic
+laparoscopy
+laparotomy
 lapboard
 lapboard's
 lapboards
@@ -78185,6 +78193,7 @@ multifariousness's
 multiform
 multilateral
 multilaterally
+multilayered
 multilevel
 multilingual
 multilingualism
@@ -87614,6 +87623,9 @@ plywood's
 pm
 pneumatic
 pneumatically
+pneumococcal
+pneumococci
+pneumococcus
 pneumonia
 pneumonia's
 poach
@@ -90170,6 +90182,7 @@ projector
 projector's
 projectors
 projects
+prokaryotic
 prolapse
 prolapse's
 prolapsed
@@ -105529,6 +105542,7 @@ splendorous
 splendour
 splendour's
 splendours
+splenectomy
 splenetic
 splice
 splice's
@@ -119898,6 +119912,7 @@ weakest
 weakfish
 weakfish's
 weakfishes
+weakish
 weakling
 weakling's
 weaklings
@@ -122003,6 +122018,7 @@ xxxvii
 xxxviii
 xylem
 xylem's
+xylene
 xylophone
 xylophone's
 xylophones
@@ -122369,6 +122385,8 @@ zenith's
 zeniths
 zenned
 zens
+zeolite
+zeolites
 zephyr
 zephyr's
 zephyrs
@@ -122493,6 +122511,7 @@ zoophyte
 zoophyte's
 zoophytes
 zoophytic
+zooplankton
 zoos
 zorch
 zounds
