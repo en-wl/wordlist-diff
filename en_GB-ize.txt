@@ -2386,6 +2386,8 @@ Bjork
 Bjork's
 Bk
 Bk's
+BlackBerry
+BlackBerry's
 Blackbeard
 Blackbeard's
 Blackburn
@@ -7448,6 +7450,7 @@ Gillian
 Gillian's
 Gilligan
 Gilligan's
+Gilman
 Gilmore
 Gilmore's
 Gina
@@ -9496,11 +9499,14 @@ January
 January's
 Janus
 Janus's
+Jap
+Jap's
 Japan
 Japan's
 Japanese
 Japanese's
 Japaneses
+Japs
 Japura
 Japura's
 Jared
@@ -22135,6 +22141,7 @@ adrenalin's
 adrenaline
 adrenaline's
 adrenals
+adrenergic
 adrift
 adroit
 adroitly
@@ -25814,6 +25821,7 @@ atheistic
 atheists
 atherosclerosis
 atherosclerosis's
+atherosclerotic
 athirst
 athlete
 athlete's
@@ -25864,6 +25872,7 @@ atoning
 atop
 atria
 atrial
+atrioventricular
 atrium
 atrium's
 atrocious
@@ -30933,6 +30942,7 @@ brad's
 bradawl
 bradawls
 brads
+bradycardia
 brae
 brae's
 braes
@@ -50797,6 +50807,7 @@ entente's
 ententes
 enter
 entered
+enteric
 entering
 enteritis
 enteritis's
@@ -58057,6 +58068,7 @@ genial
 geniality
 geniality's
 genially
+geniculate
 genie
 genie's
 genies
@@ -69524,6 +69536,7 @@ kepis
 kept
 keratin
 keratin's
+keratitis
 kerb
 kerb's
 kerbed
@@ -74386,6 +74399,7 @@ mart's
 marten
 marten's
 martens
+martensite
 martial
 martially
 martian
@@ -89133,6 +89147,7 @@ prefixed
 prefixes
 prefixing
 preform
+preformative
 preformed
 preforming
 preforms
@@ -90880,6 +90895,7 @@ psychopathology
 psychopaths
 psychopathy
 psychopathy's
+psychopharmacology
 psychos
 psychoses
 psychosis
@@ -91489,6 +91505,7 @@ pwn
 pwned
 pwning
 pwns
+pyelonephritis
 pygmies
 pygmy
 pygmy's
@@ -100673,6 +100690,7 @@ sepia's
 sepsis
 sepsis's
 septa
+septal
 septet
 septet's
 septets
@@ -108120,6 +108138,7 @@ subornation's
 suborned
 suborning
 suborns
+subparagraph
 subplot
 subplot's
 subplots
@@ -117687,6 +117706,7 @@ vagueness
 vagueness's
 vaguer
 vaguest
+vagus
 vain
 vainer
 vainest
@@ -122514,6 +122534,7 @@ zoophytic
 zooplankton
 zoos
 zorch
+zoster
 zounds
 zucchini
 zucchini's

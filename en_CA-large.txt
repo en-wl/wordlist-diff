@@ -3391,6 +3391,8 @@ Bk
 Bk's
 Black
 Black's
+BlackBerry
+BlackBerry's
 Blackbeard
 Blackbeard's
 Blackburn
@@ -31188,6 +31190,7 @@ adrenalin's
 adrenaline
 adrenaline's
 adrenals
+adrenergic
 adrenocorticotropic
 adrift
 adroit
