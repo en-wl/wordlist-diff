@@ -44399,6 +44399,7 @@ denationalize
 denationalized
 denationalizes
 denationalizing
+denaturation
 denature
 denatured
 denatures
@@ -62718,6 +62719,7 @@ hips
 hipster
 hipster's
 hipsters
+hiragana
 hire
 hire's
 hired
@@ -63742,6 +63744,8 @@ hovered
 hovering
 hovers
 how
+how'd
+how're
 how's
 howbeit
 howdah
@@ -69405,9 +69409,11 @@ kaleidoscopically
 kamikaze
 kamikaze's
 kamikazes
+kana
 kangaroo
 kangaroo's
 kangaroos
+kanji
 kaolin
 kaolin's
 kapok
@@ -69432,6 +69438,7 @@ karmic
 kart
 kart's
 karts
+katakana
 katydid
 katydid's
 katydids
@@ -80558,6 +80565,8 @@ nucleolus's
 nucleon
 nucleon's
 nucleons
+nucleoside
+nucleotide
 nucleus
 nucleus's
 nude
@@ -81626,6 +81635,8 @@ opaquer
 opaques
 opaquest
 opaquing
+opcode
+opcodes
 ope
 oped
 open
@@ -108005,6 +108016,7 @@ subliminally
 subliming
 sublimity
 sublimity's
+sublingual
 submarginal
 submarine
 submarine's
@@ -108469,6 +108481,7 @@ sulfates
 sulfide
 sulfide's
 sulfides
+sulfonamides
 sulfur
 sulfur's
 sulfured
@@ -116164,6 +116177,7 @@ unfroze
 unfrozen
 unfruitful
 unfulfilled
+unfulfilling
 unfunded
 unfunny
 unfurl
@@ -116567,6 +116581,7 @@ unmorality
 unmorality's
 unmotivated
 unmounted
+unmourned
 unmovable
 unmoved
 unmusical
@@ -117110,6 +117125,7 @@ unwarrantable
 unwarranted
 unwary
 unwashed
+unwatchable
 unwavering
 unwearable
 unwearied
@@ -117912,6 +117928,7 @@ veg
 veg's
 vegan
 vegan's
+veganism
 vegans
 vegeburger
 vegeburgers

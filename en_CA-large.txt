@@ -88482,6 +88482,8 @@ hoverer
 hovering
 hovers
 how
+how'd
+how're
 how's
 howbeit
 howdah
@@ -113332,6 +113334,8 @@ opaquer
 opaques
 opaquest
 opaquing
+opcode
+opcodes
 ope
 oped
 open
@@ -149445,6 +149449,9 @@ superpatriotic
 superpatriotism
 superpatriotisms
 superphosphate
+superphyla
+superphylum
+superphylums
 superphysical
 superposable
 superpose
@@ -159457,6 +159464,7 @@ unfruitful
 unfruitfulness
 unfulfillable
 unfulfilled
+unfulfilling
 unfunded
 unfunny
 unfurl
