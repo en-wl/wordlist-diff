@@ -26,6 +26,7 @@ AD
 AD's
 ADC
 ADD
+ADM
 ADP
 ADP's
 AEC
@@ -2016,6 +2017,7 @@ Atli
 Atman
 Atman's
 Aton
+Atonement
 Atreus
 Atreus's
 Atria
@@ -6209,6 +6211,7 @@ Comintern
 Comintern's
 Commander
 Commander's
+Commandment
 Commerce
 Commerce's
 Commines
@@ -19891,6 +19894,7 @@ Norwegian's
 Norwegians
 Norwich
 Norwich's
+Nos
 Nosferatu
 Nosferatu's
 Nostradamus
@@ -20338,6 +20342,7 @@ Ophiuchus's
 Oporto
 Oppenheimer
 Oppenheimer's
+Opposition
 Oprah
 Oprah's
 Ops
@@ -27636,6 +27641,7 @@ Uspallata
 Uspallata's
 Ustinov
 Ustinov's
+Ut
 Utah
 Utah's
 Utahan
@@ -34208,7 +34214,6 @@ animator's
 animators
 anime
 anime's
-animes
 animism
 animism's
 animist
@@ -45765,6 +45770,7 @@ buries
 burin
 burins
 burka
+burka's
 burkas
 burke
 burkes
@@ -45824,6 +45830,7 @@ burped
 burping
 burps
 burqa
+burqa's
 burqas
 burr
 burr's
@@ -60086,6 +60093,7 @@ cyanotype
 cyathus
 cyberbullies
 cyberbully
+cyberbully's
 cybercafe
 cybercafes
 cybercafé
@@ -64305,6 +64313,8 @@ diarthrosis
 diary
 diary's
 diaspora
+diaspora's
+diasporas
 diaspore
 diastase
 diastase's
@@ -70578,6 +70588,7 @@ emmets
 emo
 emo's
 emoji
+emoji's
 emollience
 emollient
 emollient's
@@ -75581,6 +75592,8 @@ feast
 feast's
 feasted
 feaster
+feaster's
+feasters
 feasting
 feastings
 feasts
@@ -79682,6 +79695,8 @@ friedcake's
 friedcakes
 friend
 friend's
+friended
+friending
 friendless
 friendlessness
 friendlier
@@ -79902,6 +79917,7 @@ frostiness
 frostiness's
 frosting
 frosting's
+frostings
 frosts
 frostwork
 frosty
@@ -85323,6 +85339,7 @@ hacksaw
 hacksaw's
 hacksaws
 hacktivist
+hacktivist's
 hacktivists
 hackwork
 hackwork's
@@ -96597,6 +96614,7 @@ jettisons
 jetton
 jetty
 jetty's
+jew
 jewel
 jewel's
 jewelfish
@@ -97015,6 +97033,7 @@ joys
 joystick
 joystick's
 joysticks
+jr
 juba
 jubbah
 jube
@@ -98500,6 +98519,8 @@ kvetch
 kvetch's
 kvetched
 kvetcher
+kvetcher's
+kvetchers
 kvetches
 kvetching
 kw
@@ -98868,6 +98889,7 @@ lame
 lame's
 lamebrain
 lamebrain's
+lamebrained
 lamebrains
 lamed
 lamella
@@ -101799,6 +101821,7 @@ logicize
 logier
 logiest
 login
+login's
 loginess
 loginesses
 logins
@@ -101816,6 +101839,7 @@ logjams
 logo
 logo's
 logoff
+logoff's
 logoffs
 logogram
 logograms
@@ -101824,6 +101848,7 @@ logography
 logogriph
 logomachy
 logon
+logon's
 logons
 logorrhoea
 logorrhoeas
@@ -101832,6 +101857,7 @@ logotype
 logotype's
 logotypes
 logout
+logout's
 logouts
 logroll
 logroller
@@ -103005,6 +103031,7 @@ madness's
 madras
 madras's
 madrasa
+madrasa's
 madrasas
 madrases
 madrassah
@@ -105478,6 +105505,7 @@ membranes
 membranophone
 membranous
 meme
+meme's
 memento
 memento's
 mementos
@@ -107119,14 +107147,14 @@ minimalists
 minimality
 minimally
 minimisation
-minimisations
+minimisation's
 minimise
 minimised
 minimiser
 minimises
 minimising
 minimization
-minimizations
+minimization's
 minimize
 minimized
 minimizer
@@ -108023,6 +108051,7 @@ moccasin's
 moccasins
 mocha
 mocha's
+mochas
 mock
 mocked
 mocker
@@ -111177,6 +111206,7 @@ neocolonialist
 neocolonialist's
 neocolonialists
 neocon
+neocon's
 neocons
 neoconservative
 neoconservative's
@@ -111670,6 +111700,7 @@ niftiest
 niftily
 nifty
 nigga
+nigga's
 niggard
 niggard's
 niggardliness
@@ -112486,6 +112517,7 @@ nonobservance
 nonobservance's
 nonobservant
 nonoccupational
+nonoccurence
 nonoccurrence
 nonoccurrence's
 nonofficial
@@ -114979,6 +115011,7 @@ orbiting
 orbits
 orbs
 orc
+orc's
 orca
 orcas
 orcein
@@ -122610,7 +122643,7 @@ plastics
 plastid
 plastids
 plastique
-plastiques
+plastique's
 plastometer
 plat
 plat's
@@ -123059,8 +123092,6 @@ plumes
 plumier
 plumiest
 pluming
-plummer
-plummest
 plummet
 plummet's
 plummeted
@@ -128688,6 +128719,7 @@ qophs
 qr
 qt
 qto
+qts
 qty
 qu
 qua
@@ -133370,6 +133402,7 @@ reordered
 reordering
 reorders
 reorg
+reorg's
 reorganisation
 reorganisation's
 reorganisations
@@ -135916,6 +135949,7 @@ robins
 roble
 robles
 robocall
+robocall's
 robocalled
 robocalling
 robocalls
@@ -136987,6 +137021,8 @@ sabadilla
 sabayon
 sabayons
 sabbath
+sabbath's
+sabbaths
 sabbatical
 sabbatical's
 sabbaticals
@@ -137053,6 +137089,8 @@ sackcloth
 sackcloth's
 sacked
 sacker
+sacker's
+sackers
 sackful
 sackful's
 sackfuls
@@ -137574,6 +137612,7 @@ sampler's
 samplers
 samples
 sampling
+sampling's
 samplings
 samsara
 samsaric
@@ -141616,6 +141655,7 @@ shifty
 shigella
 shigellas
 shiitake
+shiitake's
 shiitakes
 shikari
 shiksa
@@ -141920,6 +141960,7 @@ shoots
 shop
 shop's
 shopaholic
+shopaholic's
 shopaholics
 shopfitter
 shopfitters
@@ -142789,6 +142830,7 @@ silviculture
 silvicultures
 silviculturist
 sim
+sim's
 sima
 simar
 simarouba
@@ -145552,6 +145594,7 @@ sootinesses
 sooty
 sop
 sop's
+soph
 sophism
 sophism's
 sophist
@@ -145726,6 +145769,7 @@ soulless
 soullessly
 soullessness
 soulmate
+soulmate's
 soulmates
 souls
 sound
@@ -146400,6 +146444,7 @@ spellbinding
 spellbinds
 spellbound
 spellcheck
+spellcheck's
 spellchecked
 spellchecker
 spellchecker's
@@ -148371,6 +148416,7 @@ stenotic
 stenotype
 stenotypy
 stent
+stent's
 stentorian
 stentour
 stentours
@@ -149738,6 +149784,7 @@ stuffiness
 stuffiness's
 stuffing
 stuffing's
+stuffings
 stuffs
 stuffy
 stull
@@ -150978,6 +151025,8 @@ sunbeams
 sunbed
 sunbeds
 sunbelt
+sunbelt's
+sunbelts
 sunblock
 sunblock's
 sunblocks
@@ -153746,6 +153795,7 @@ taxpaying
 tayra
 tayras
 tazza
+tb
 tbs
 tbsp
 tea
@@ -159945,6 +159995,7 @@ ugliness
 ugliness's
 ugly
 uh
+uhf
 uhlan
 uintathere
 uintatheres
@@ -165423,6 +165474,7 @@ vizierships
 vizor
 vizor's
 vizors
+vlf
 vo
 voc
 vocab
@@ -165500,6 +165552,7 @@ voicelessness
 voicelessness's
 voicemail
 voicemail's
+voicemails
 voiceover
 voiceprint
 voices
@@ -165814,6 +165867,7 @@ w
 wabbit
 wabbits
 wack
+wack's
 wacke
 wacker
 wackest
@@ -166506,8 +166560,10 @@ waterbird
 waterbird's
 waterbirds
 waterboard
+waterboard's
 waterboarded
 waterboarding
+waterboarding's
 waterboardings
 waterboards
 waterborne
@@ -167773,6 +167829,7 @@ widens
 wider
 wides
 widescreen
+widescreen's
 widescreens
 widespread
 widest
