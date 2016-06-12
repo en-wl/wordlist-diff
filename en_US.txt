@@ -7068,6 +7068,7 @@ GIGO
 GM
 GM's
 GMAT
+GMO
 GMT
 GMT's
 GNP
@@ -8997,6 +8998,7 @@ IRC
 IRS
 IRS's
 ISBN
+ISIS
 ISO
 ISO's
 ISP
@@ -13592,6 +13594,7 @@ NSA
 NSA's
 NSC
 NSF
+NSFW
 NT
 NV
 NW
@@ -16704,6 +16707,7 @@ SGML's
 SIDS
 SIDS's
 SJ
+SJW
 SK
 SLR
 SO
@@ -19947,6 +19951,7 @@ Vlaminck
 Vlaminck's
 Vlasic
 Vlasic's
+VoIP
 Vogue
 Vogue's
 Volcker
@@ -27267,6 +27272,7 @@ bar
 bar's
 barb
 barb's
+barbacoa
 barbarian
 barbarian's
 barbarianism
@@ -50148,6 +50154,7 @@ emo
 emo's
 emoji
 emoji's
+emojis
 emollient
 emollient's
 emollients
@@ -55152,10 +55159,6 @@ flints
 flinty
 flip
 flip's
-flipflop
-flipflopped
-flipflopping
-flipflops
 flippancy
 flippancy's
 flippant
@@ -73451,10 +73454,14 @@ madras
 madras's
 madrasa
 madrasa's
+madrasah
+madrasah's
+madrasahs
 madrasas
 madrases
-madrassah
-madrassahs
+madrassa
+madrassa's
+madrassas
 madrigal
 madrigal's
 madrigals
@@ -75771,6 +75778,9 @@ mickeys
 micks
 micro
 micro's
+microaggression
+microaggression's
+microaggressions
 microbe
 microbe's
 microbes
@@ -76113,7 +76123,6 @@ milled
 millennia
 millennial
 millennial's
-millennials
 millennium
 millennium's
 millenniums
@@ -76969,6 +76978,7 @@ mizzenmast
 mizzenmast's
 mizzenmasts
 mizzens
+mkay
 mks
 ml
 mm
@@ -84207,6 +84217,7 @@ parked
 parking
 parking's
 parkland
+parkour
 parks
 parkway
 parkway's
@@ -86279,10 +86290,6 @@ phosphorus
 phosphorus's
 photo
 photo's
-photobomb
-photobombed
-photobombing
-photobombs
 photocell
 photocell's
 photocells
@@ -87723,6 +87730,7 @@ pod
 pod's
 podcast
 podcast's
+podcasting
 podcasts
 podded
 podding
@@ -96407,6 +96415,10 @@ returner's
 returners
 returning
 returns
+retweet
+retweeted
+retweeting
+retweets
 retying
 retype
 retyped
@@ -114588,6 +114600,9 @@ trusty
 trusty's
 truth
 truth's
+truther
+truther's
+truthers
 truthful
 truthfully
 truthfulness
@@ -120116,9 +120131,6 @@ webmasters
 webmistress
 webmistress's
 webmistresses
-webpage
-webpage's
-webpages
 webs
 website
 website's
@@ -121284,9 +121296,7 @@ wishes
 wishful
 wishfully
 wishing
-wishlist
 wishlist's
-wishlists
 wising
 wisp
 wisp's
