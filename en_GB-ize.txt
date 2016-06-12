@@ -40784,7 +40784,11 @@ countermands
 countermeasure
 countermeasure's
 countermeasures
+countermelodies
+countermelody
 countermen
+countermove
+countermoves
 counteroffensive
 counteroffensive's
 counteroffensives
