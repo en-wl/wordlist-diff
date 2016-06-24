@@ -49626,6 +49626,7 @@ chatoyance
 chatoyancy
 chatoyant
 chatroom
+chatroom's
 chats
 chatted
 chattel
@@ -83897,6 +83898,8 @@ guesswork's
 guest
 guest's
 guestbook
+guestbook's
+guestbooks
 guested
 guesthouse
 guesthouses
@@ -106251,6 +106254,7 @@ miscible
 misclassified
 misclassify
 miscommunication
+miscommunications
 miscomprehended
 misconceive
 misconceived
@@ -108178,6 +108182,7 @@ mousy
 mouth
 mouth's
 mouthed
+mouthfeel
 mouthful
 mouthful's
 mouthfuls
@@ -119330,6 +119335,8 @@ phallic
 phallically
 phallicism
 phallism
+phallocentric
+phallocentrism
 phallus
 phallus's
 phanerogam
@@ -119585,6 +119592,7 @@ phlogopites
 phlox
 phlox's
 phlyctaena
+pho
 phobia
 phobia's
 phobias
@@ -154081,6 +154089,7 @@ tigress's
 tigresses
 tiki
 til
+tilapia
 tilbury
 tilde
 tilde's

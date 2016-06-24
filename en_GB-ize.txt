@@ -35199,6 +35199,8 @@ chatelaine's
 chatelaines
 chatline
 chatlines
+chatroom
+chatroom's
 chats
 chatted
 chattel
@@ -60371,6 +60373,8 @@ guesswork's
 guest
 guest's
 guestbook
+guestbook's
+guestbooks
 guested
 guesthouse
 guesthouses
@@ -62224,6 +62228,7 @@ hellcat's
 hellcats
 hellebore
 hellebore's
+hellfire
 hellhole
 hellhole's
 hellholes
@@ -76573,6 +76578,7 @@ miscibility
 miscibility's
 miscible
 miscommunication
+miscommunications
 misconceive
 misconceived
 misconceives
@@ -78031,6 +78037,7 @@ mousy
 mouth
 mouth's
 mouthed
+mouthfeel
 mouthful
 mouthful's
 mouthfuls
@@ -86065,6 +86072,8 @@ phalanx's
 phalanxes
 phalli
 phallic
+phallocentric
+phallocentrism
 phallus
 phallus's
 phantasm
@@ -112296,6 +112305,7 @@ tigress
 tigress's
 tigresses
 til
+tilapia
 tilde
 tilde's
 tildes
