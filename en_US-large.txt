@@ -52820,6 +52820,7 @@ colewort
 coleworts
 coley
 coleys
+coli
 colic
 colic's
 colicky
@@ -59660,6 +59661,7 @@ cytochrome
 cytogeneses
 cytogenesis
 cytogenetics
+cytokines
 cytokinesis
 cytologic
 cytological
@@ -106354,6 +106356,7 @@ mitosis's
 mitotic
 mitotically
 mitrailleuse
+mitral
 mitt
 mitt's
 mitten
@@ -109597,6 +109600,7 @@ nephritis's
 nephrolith
 nephron
 nephrons
+nephropathy
 nephrosis
 nephrotomy
 nepotism
@@ -119257,6 +119261,7 @@ phosphors
 phosphorus
 phosphorus's
 phosphorylase
+phosphorylation
 phot
 photic
 photo
@@ -122536,6 +122541,7 @@ postseason
 postseason's
 postseasonal
 postseasons
+postsynaptic
 postulancy
 postulant
 postulants
@@ -126646,6 +126652,7 @@ pyrrhotite
 pyrrhuloxia
 pyrrhuloxias
 pyrrolidine
+pyruvate
 python
 python's
 pythoness

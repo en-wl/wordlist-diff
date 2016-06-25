@@ -14500,6 +14500,7 @@ Orient
 Orient's
 Oriental
 Oriental's
+Orientalism
 Orientals
 Orin
 Orin's
@@ -14834,6 +14835,7 @@ Parker
 Parker's
 Parkinson
 Parkinson's
+Parkinsonism
 Parkman
 Parkman's
 Parks
@@ -21946,6 +21948,7 @@ adduces
 adducing
 adenine
 adenine's
+adenocarcinoma
 adenoid
 adenoid's
 adenoidal
@@ -25062,6 +25065,7 @@ arenas
 ares
 argent
 argent's
+arginine
 argon
 argon's
 argosies
@@ -39723,6 +39727,7 @@ contract's
 contracted
 contractible
 contractile
+contractility
 contracting
 contraction
 contraction's
@@ -42649,6 +42654,7 @@ cyst's
 cystic
 cystitis
 cysts
+cytokines
 cytologist
 cytologist's
 cytologists
@@ -71552,6 +71558,7 @@ lettuces
 letup
 letup's
 letups
+leucine
 leucotomies
 leucotomy
 leukaemia
@@ -71888,6 +71895,7 @@ lightweight
 lightweight's
 lightweights
 ligneous
+lignin
 lignite
 lignite's
 lii
@@ -76991,6 +76999,7 @@ mitoses
 mitosis
 mitosis's
 mitotic
+mitral
 mitre
 mitre's
 mitred
@@ -79363,6 +79372,7 @@ nephrite's
 nephritic
 nephritis
 nephritis's
+nephropathy
 nepotism
 nepotism's
 nepotist
@@ -84326,6 +84336,7 @@ parolee's
 parolees
 paroles
 paroling
+parotid
 paroxysm
 paroxysm's
 paroxysmal
@@ -86132,6 +86143,7 @@ pharmacies
 pharmacist
 pharmacist's
 pharmacists
+pharmacologic
 pharmacological
 pharmacologist
 pharmacologist's
@@ -86339,6 +86351,7 @@ phosphorous
 phosphors
 phosphorus
 phosphorus's
+phosphorylation
 photo
 photo's
 photocell
@@ -88641,6 +88654,7 @@ postscripts
 postseason
 postseason's
 postseasons
+postsynaptic
 postulate
 postulate's
 postulated
@@ -89255,6 +89269,7 @@ preformative
 preformed
 preforming
 preforms
+prefrontal
 pregame
 pregame's
 pregames
@@ -91650,6 +91665,7 @@ pyrotechnic
 pyrotechnical
 pyrotechnics
 pyrotechnics's
+pyruvate
 python
 python's
 pythons
@@ -114686,6 +114702,7 @@ tryingly
 tryout
 tryout's
 tryouts
+tryptophan
 tryst
 tryst's
 trysted
