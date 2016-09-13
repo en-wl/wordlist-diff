@@ -23845,6 +23845,7 @@ anesthetist's
 anesthetists
 anesthetization
 anesthetization's
+anesthetizations
 anesthetize
 anesthetized
 anesthetizes
@@ -32343,9 +32344,6 @@ burp's
 burped
 burping
 burps
-burqa
-burqa's
-burqas
 burr
 burr's
 burred
@@ -102882,7 +102880,6 @@ skiffle
 skiffs
 skiing
 skiing's
-skilfully
 skill
 skill's
 skilled

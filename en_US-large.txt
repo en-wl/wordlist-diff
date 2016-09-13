@@ -33885,6 +33885,7 @@ anesthetist's
 anesthetists
 anesthetization
 anesthetization's
+anesthetizations
 anesthetize
 anesthetized
 anesthetizes
@@ -45518,9 +45519,6 @@ burp's
 burped
 burping
 burps
-burqa
-burqa's
-burqas
 burr
 burr's
 burred
@@ -100307,6 +100305,8 @@ lodestones
 lodge
 lodge's
 lodged
+lodgement
+lodgements
 lodger
 lodger's
 lodgers
@@ -141079,7 +141079,6 @@ skiffs
 skiing
 skiing's
 skijoring
-skilfully
 skill
 skill's
 skilled

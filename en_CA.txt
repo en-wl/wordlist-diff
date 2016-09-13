@@ -8743,7 +8743,7 @@ Honiara
 Honiara's
 Honolulu
 Honolulu's
-Honourable
+Honorable
 Honshu
 Honshu's
 Hood
@@ -23667,7 +23667,6 @@ anachronistically
 anaconda
 anaconda's
 anacondas
-anaemically
 anaerobe
 anaerobe's
 anaerobes
@@ -23683,6 +23682,7 @@ anaesthetist's
 anaesthetists
 anaesthetization
 anaesthetization's
+anaesthetizations
 anaesthetize
 anaesthetized
 anaesthetizes
@@ -23842,6 +23842,7 @@ anecdotes
 anemia
 anemia's
 anemic
+anemically
 anemometer
 anemometer's
 anemometers
@@ -53994,6 +53995,7 @@ festoons
 fests
 feta
 feta's
+fetal
 fetch
 fetched
 fetcher
@@ -55590,7 +55592,6 @@ fodders
 foe
 foe's
 foes
-foetal
 fog
 fog's
 fogbound
@@ -60836,6 +60837,7 @@ haddock's
 haddocks
 hadn't
 hadst
+haem
 hafnium
 hafnium's
 haft
@@ -62296,7 +62298,6 @@ hematologist's
 hematologists
 hematology
 hematology's
-heme
 heme's
 hemisphere
 hemisphere's
@@ -63174,6 +63175,8 @@ homeopathic
 homeopaths
 homeopathy
 homeopathy's
+homeostasis
+homeostasis's
 homeostatic
 homeowner
 homeowner's
@@ -63246,8 +63249,6 @@ hominy
 hominy's
 homo
 homo's
-homoeostasis
-homoeostasis's
 homoerotic
 homogeneity
 homogeneity's
@@ -102917,17 +102918,16 @@ skiffle
 skiffs
 skiing
 skiing's
+skilful
 skilfully
+skilfulness
+skilfulness's
 skill
 skill's
 skilled
 skillet
 skillet's
 skillets
-skillful
-skillfully
-skillfulness
-skillfulness's
 skills
 skim
 skim's

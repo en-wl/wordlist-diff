@@ -12373,7 +12373,7 @@ Honolulu
 Honolulu's
 Honor
 Honor's
-Honourable
+Honorable
 Honshu
 Honshu's
 Hooch
@@ -33747,6 +33747,7 @@ anaesthetically
 anaesthetics
 anaesthetisation
 anaesthetisation's
+anaesthetisations
 anaesthetise
 anaesthetised
 anaesthetises
@@ -33756,6 +33757,7 @@ anaesthetist's
 anaesthetists
 anaesthetization
 anaesthetization's
+anaesthetizations
 anaesthetize
 anaesthetized
 anaesthetizes
@@ -39250,6 +39252,11 @@ barbell's
 barbellate
 barbells
 barbels
+barbeque
+barbeque's
+barbequed
+barbeques
+barbequing
 barber
 barber's
 barbered
@@ -61337,8 +61344,10 @@ decidua
 deciduous
 deciduously
 deciduousness
+decigram
 decigramme
 decigrammes
+decigrams
 decile
 deciles
 decilitre
@@ -62177,8 +62186,10 @@ dejecting
 dejection
 dejection's
 dejects
+dekagram
 dekagramme
 dekagrammes
+dekagrams
 dekalitre
 dekalitres
 dekametre
@@ -76084,6 +76095,8 @@ festoons
 fests
 feta
 feta's
+fetal
+fetation
 fetch
 fetched
 fetcher
@@ -76097,6 +76110,8 @@ fete's
 feted
 fetes
 fetial
+feticide
+feticides
 fetid
 fetidly
 fetidness
@@ -77397,6 +77412,7 @@ flavoprotein
 flavopurpurin
 flavor
 flavorful
+flavorous
 flavors
 flavour
 flavour's
@@ -77406,7 +77422,6 @@ flavouring
 flavouring's
 flavourings
 flavourless
-flavourous
 flavours
 flavoursome
 flavoury
@@ -85368,6 +85383,7 @@ hadrosaurs
 hadst
 hae
 haecceity
+haem
 haemachrome
 haemagglutinate
 haemal
@@ -87255,7 +87271,6 @@ helve's
 helves
 hem
 hem's
-heme
 heme's
 hemelytron
 hemeralopia
@@ -88509,9 +88524,14 @@ homeomorphisms
 homeopath
 homeopath's
 homeopathic
+homeopathically
+homeopathist
 homeopaths
 homeopathy
 homeopathy's
+homeostases
+homeostasis
+homeostasis's
 homeostatic
 homeotherm
 homeowner
@@ -88648,7 +88668,6 @@ homograph
 homograph's
 homographic
 homographs
-homolog
 homologate
 homological
 homologies
@@ -89652,6 +89671,7 @@ hummocky
 hummus
 hummus's
 humongous
+humoral
 humoresque
 humoresques
 humorist
@@ -89664,7 +89684,6 @@ humorousness
 humorousness's
 humour
 humour's
-humoural
 humoured
 humouring
 humourless
@@ -100631,8 +100650,6 @@ licking's
 lickings
 licks
 lickspittle
-licorice
-licorice's
 licorices
 lictor
 lid
@@ -101251,6 +101268,8 @@ liquifying
 liquor
 liquor's
 liquored
+liquorice
+liquorice's
 liquoring
 liquorish
 liquors
@@ -101759,6 +101778,8 @@ lodestones
 lodge
 lodge's
 lodged
+lodgement
+lodgements
 lodger
 lodger's
 lodgers
@@ -117378,6 +117399,7 @@ palaces
 paladin
 paladin's
 paladins
+palaeethnology
 palaeobiologies
 palaeobiologist
 palaeobiology
@@ -117386,7 +117408,6 @@ palaeobotany
 palaeoclimatologies
 palaeoclimatology
 palaeoecology
-palaeoethnology
 palaeogeographies
 palaeogeography
 palaeographic
@@ -117460,7 +117481,6 @@ palefaces
 palely
 paleness
 paleness's
-paleoethnology
 paleographer
 paleographer's
 paleographers
@@ -143381,17 +143401,16 @@ skiffs
 skiing
 skiing's
 skijoring
+skilful
 skilfully
+skilfulness
+skilfulness's
 skill
 skill's
 skilled
 skillet
 skillet's
 skillets
-skillful
-skillfully
-skillfulness
-skillfulness's
 skilling
 skills
 skim
