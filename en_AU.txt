@@ -33622,9 +33622,9 @@ carbuncle
 carbuncle's
 carbuncles
 carbuncular
-carburetor
-carburetor's
-carburetors
+carburettor
+carburettor's
+carburettors
 carcass
 carcass's
 carcasses
@@ -50769,9 +50769,16 @@ enplane
 enplaned
 enplanes
 enplaning
+enquire
+enquired
 enquirer
 enquirers
+enquires
+enquiries
+enquiring
 enquiringly
+enquiry
+enquiry's
 enrage
 enraged
 enrages
@@ -51495,7 +51502,6 @@ escutcheon
 escutcheon's
 escutcheons
 esophageal
-esophagus
 esophagus's
 esoteric
 esoterically
@@ -70733,9 +70739,9 @@ laryngitis
 laryngitis's
 larynx
 larynx's
-lasagna
-lasagna's
-lasagnas
+lasagne
+lasagne's
+lasagnes
 lascivious
 lasciviously
 lasciviousness
@@ -71121,7 +71127,6 @@ leanness's
 leans
 leap
 leap's
-leaped
 leaper
 leaper's
 leapers
@@ -71132,6 +71137,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learned
 learnedly
@@ -74729,7 +74735,6 @@ maternity's
 mates
 matey
 mateys
-math
 math's
 mathematical
 mathematically
@@ -77282,8 +77287,6 @@ molter's
 molters
 molybdenum
 molybdenum's
-mom
-mom's
 moment
 moment's
 momenta
@@ -77301,7 +77304,6 @@ momentum's
 mommies
 mommy
 mommy's
-moms
 monarch
 monarch's
 monarchic
@@ -81408,6 +81410,7 @@ oenophile
 oenophile's
 oenophiles
 oesophagi
+oesophagus
 oestrogen
 oestrogen's
 oestrous
@@ -90250,12 +90253,10 @@ programmable
 programmable's
 programmables
 programmatic
-programme
 programmed
 programmer
 programmer's
 programmers
-programmes
 programming
 programming's
 programmings
@@ -92250,9 +92251,12 @@ racks
 raconteur
 raconteur's
 raconteurs
+racquet
+racquet's
 racquetball
 racquetball's
 racquetballs
+racquets
 racy
 rad
 rad's

@@ -47433,12 +47433,15 @@ carbuncles
 carbuncular
 carburet
 carburetion
-carburetor
-carburetor's
-carburetors
 carburets
 carburetted
+carburetter
+carburetter's
+carburetters
 carburetting
+carburettor
+carburettor's
+carburettors
 carburization
 carburize
 carburized
@@ -71929,7 +71932,6 @@ eserine
 esker
 esophageal
 esophagi
-esophagus
 esophagus's
 esophaguses
 esoteric
@@ -98813,6 +98815,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learned
 learnedly
@@ -103673,7 +103676,6 @@ mathematician's
 mathematicians
 mathematics
 mathematics's
-maths
 matier
 matiest
 matin
@@ -108663,8 +108665,6 @@ multivitamins
 multivocal
 multiyear
 multure
-mum
-mum's
 mumble
 mumble's
 mumbled
@@ -108694,7 +108694,6 @@ mummy's
 mump
 mumps
 mumps's
-mums
 mun
 munch
 munched
@@ -112899,6 +112898,7 @@ oenophilists
 oersted
 oersteds
 oesophagitis
+oesophagus
 oestradiol
 oestrin
 oestriol

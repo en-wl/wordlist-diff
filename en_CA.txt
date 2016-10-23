@@ -33623,9 +33623,9 @@ carbuncle
 carbuncle's
 carbuncles
 carbuncular
-carburetor
-carburetor's
-carburetors
+carburettor
+carburettor's
+carburettors
 carcass
 carcass's
 carcasses
@@ -51504,7 +51504,6 @@ escutcheon's
 escutcheons
 esophageal
 esophagi
-esophagus
 esophagus's
 esoteric
 esoterically
@@ -70740,9 +70739,9 @@ laryngitis
 laryngitis's
 larynx
 larynx's
-lasagna
-lasagna's
-lasagnas
+lasagne
+lasagne's
+lasagnes
 lascivious
 lasciviously
 lasciviousness
@@ -71128,7 +71127,6 @@ leanness's
 leans
 leap
 leap's
-leaped
 leaper
 leaper's
 leapers
@@ -71139,6 +71137,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learned
 learnedly
@@ -74743,7 +74742,6 @@ mathematician's
 mathematicians
 mathematics
 mathematics's
-maths
 matinee
 matinee's
 matinees
@@ -78374,8 +78372,6 @@ multivitamin
 multivitamin's
 multivitamins
 multiyear
-mum
-mum's
 mumble
 mumble's
 mumbled
@@ -78402,7 +78398,6 @@ mummy
 mummy's
 mumps
 mumps's
-mums
 mun
 munch
 munched
@@ -81408,6 +81403,7 @@ oenology's
 oenophile
 oenophile's
 oenophiles
+oesophagus
 oeuvre
 oeuvre's
 oeuvres

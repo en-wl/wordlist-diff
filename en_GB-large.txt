@@ -47710,12 +47710,15 @@ carbuncles
 carbuncular
 carburet
 carburetion
-carburetor
-carburetor's
-carburetors
 carburets
 carburetted
+carburetter
+carburetter's
+carburetters
 carburetting
+carburettor
+carburettor's
+carburettors
 carburisation
 carburise
 carburised
@@ -72623,7 +72626,6 @@ esemplastic
 eserine
 esker
 esophageal
-esophagus
 esophagus's
 esoteric
 esoterica
@@ -99822,6 +99824,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learned
 learnedly
@@ -104738,7 +104741,6 @@ maternity's
 mates
 matey
 mateys
-math
 math's
 mathematic
 mathematical
@@ -108377,8 +108379,6 @@ molybdenum
 molybdenum's
 molybdic
 molybdous
-mom
-mom's
 moment
 moment's
 momenta
@@ -108399,7 +108399,6 @@ momisms
 mommies
 mommy
 mommy's
-moms
 mon
 monachal
 monachism
@@ -114187,6 +114186,7 @@ oersted
 oersteds
 oesophagi
 oesophagitis
+oesophagus
 oesophaguses
 oestradiol
 oestrin

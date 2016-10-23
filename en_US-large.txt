@@ -97916,9 +97916,6 @@ larynx's
 lasagna
 lasagna's
 lasagnas
-lasagne
-lasagne's
-lasagnes
 lascar
 lascars
 lascivious
@@ -98398,6 +98395,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learned
 learnedly
@@ -103233,7 +103231,6 @@ mathematician's
 mathematicians
 mathematics
 mathematics's
-maths
 matier
 matiest
 matin
@@ -108193,8 +108190,6 @@ multivitamins
 multivocal
 multiyear
 multure
-mum
-mum's
 mumble
 mumble's
 mumbled
@@ -108224,7 +108219,6 @@ mummy's
 mump
 mumps
 mumps's
-mums
 mun
 munch
 munched
