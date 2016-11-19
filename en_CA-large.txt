@@ -42474,6 +42474,8 @@ blowier
 blowiest
 blowing
 blowjob
+blowjob's
+blowjobs
 blowlamp
 blowlamps
 blown
@@ -59152,6 +59154,7 @@ cultist's
 cultists
 cultivable
 cultivar
+cultivar's
 cultivars
 cultivatable
 cultivate
@@ -73159,6 +73162,7 @@ exogamy
 exogenous
 exogenously
 exon
+exon's
 exonerate
 exonerated
 exonerates
@@ -73167,6 +73171,7 @@ exoneration
 exoneration's
 exonerative
 exonerator
+exons
 exophthalmos
 exophthalmoses
 exoplanet
@@ -87080,6 +87085,8 @@ highwayman's
 highwaymen
 highways
 hijab
+hijab's
+hijabs
 hijack
 hijack's
 hijacked
@@ -104215,6 +104222,8 @@ meetings
 meetly
 meets
 meetup
+meetup's
+meetups
 meg
 mega
 megabit
@@ -130306,6 +130315,7 @@ reducibility
 reducible
 reducing
 reductase
+reductase's
 reduction
 reduction's
 reductionism
@@ -137600,6 +137610,8 @@ screenplay's
 screenplays
 screens
 screensaver
+screensaver's
+screensavers
 screenshot
 screenshots
 screenwriter
@@ -154933,6 +154945,7 @@ tool
 tool's
 toolbar
 toolbar's
+toolbars
 toolbox
 toolbox's
 toolboxes
@@ -164808,6 +164821,9 @@ weapon
 weapon's
 weaponeer
 weaponize
+weaponized
+weaponizes
+weaponizing
 weaponless
 weaponry
 weaponry's
@@ -165909,6 +165925,8 @@ wikiup
 wild
 wild's
 wildcard
+wildcard's
+wildcards
 wildcat
 wildcat's
 wildcats
