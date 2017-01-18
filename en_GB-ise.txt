@@ -48978,6 +48978,8 @@ dyspeptic
 dyspeptic's
 dyspeptics
 dysphagia
+dysphoria
+dysphoric
 dysprosium
 dysprosium's
 dystonia
@@ -82525,6 +82527,8 @@ outlays
 outlet
 outlet's
 outlets
+outlier
+outliers
 outline
 outline's
 outlined
@@ -111620,6 +111624,8 @@ thanksgiving
 thanksgiving's
 thanksgivings
 that
+that'd
+that'll
 that's
 thatch
 thatch's
