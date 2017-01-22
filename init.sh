@@ -1,3 +1,5 @@
+# create the tmp git repo
+
 set -e
 
 if mountpoint -q git; then sudo umount git; fi

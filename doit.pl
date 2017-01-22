@@ -62,7 +62,7 @@ while (<HIST>) {
 # If option A and `newId` is defined is used the commit will be  assumed done.
 # If option B is used and `cached` is defined the commit messages
 #   will be re-done, but the contents will not be re-done.
-# Only one option can be used at a time, uncommon the one you want
+# Only one option can be used at a time, uncomment the one you want
 $/='===---===';
 open HIST, "git log diff --pretty='format:~ %H ~%n%B%n===---===%n' |";
 while (<HIST>) {
