@@ -84398,6 +84398,8 @@ paramedicals
 paramedics
 parameter
 parameter's
+parameterise
+parameterised
 parameters
 parametric
 paramilitaries

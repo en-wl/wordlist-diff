@@ -116894,6 +116894,8 @@ paramedics
 parament
 parameter
 parameter's
+parameterise
+parameterised
 parameters
 parametric
 parametrically
