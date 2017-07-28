@@ -148483,6 +148483,9 @@ subdividing
 subdivision
 subdivision's
 subdivisions
+subdomain
+subdomain's
+subdomains
 subdominant
 subdominants
 subdual
