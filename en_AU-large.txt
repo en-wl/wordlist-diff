@@ -34746,8 +34746,10 @@ antinarcotic
 antinationalist
 antinausea
 antineutrino
+antineutrino's
 antineutrinos
 antineutron
+antineutron's
 antineutrons
 anting
 antinode
@@ -34810,6 +34812,7 @@ antipope
 antipoverty
 antiprohibition
 antiproton
+antiproton's
 antiprotons
 antipsychotic
 antipsychotics
@@ -57445,6 +57448,8 @@ counterstamp
 counterstatement
 counterstrike
 counterstroke
+counterstroke's
+counterstrokes
 countersubject
 countersunk
 countertenor
@@ -108825,6 +108830,7 @@ munched
 muncher
 munchers
 munches
+munchie
 munchies
 munchies's
 munching

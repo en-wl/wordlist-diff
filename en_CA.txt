@@ -24309,6 +24309,12 @@ antimicrobial
 antimissile
 antimony
 antimony's
+antineutrino
+antineutrino's
+antineutrinos
+antineutron
+antineutron's
+antineutrons
 antinuclear
 antioxidant
 antioxidant's
@@ -24344,6 +24350,9 @@ antipodes
 antipodes's
 antipollution
 antipoverty
+antiproton
+antiproton's
+antiprotons
 antiquarian
 antiquarian's
 antiquarianism
@@ -37655,6 +37664,8 @@ collegians
 collegiate
 collide
 collided
+collider
+colliders
 collides
 colliding
 collie
@@ -40850,6 +40861,9 @@ countersinks
 counterspies
 counterspy
 counterspy's
+counterstroke
+counterstroke's
+counterstrokes
 countersunk
 countertenor
 countertenor's
@@ -78422,6 +78436,7 @@ mun
 munch
 munched
 munches
+munchie
 munchies
 munchies's
 munching
@@ -115416,6 +115431,7 @@ ultramarine
 ultramarine's
 ultramodern
 ultras
+ultrashort
 ultrasonic
 ultrasonically
 ultrasound
@@ -120021,6 +120037,7 @@ waveband
 wavebands
 waved
 waveform
+wavefront
 wavelength
 wavelength's
 wavelengths
