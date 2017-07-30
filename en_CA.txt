@@ -23658,6 +23658,7 @@ amusing
 amusingly
 amylase
 amylase's
+amyloid
 an
 anabolism
 anabolism's
@@ -50888,6 +50889,7 @@ entente
 entente's
 ententes
 enter
+enteral
 entered
 enteric
 entering
@@ -67014,6 +67016,7 @@ inordinate
 inordinately
 inorganic
 inorganically
+inositol
 inpatient
 inpatient's
 inpatients
