@@ -2915,6 +2915,7 @@ Bela
 Bela's
 Belarus
 Belarus's
+Belarusian
 Belau
 Belau's
 Belem
@@ -3946,6 +3947,7 @@ Brewer
 Brewer's
 Brewster
 Brewster's
+Brexit
 Breyer
 Breyer's
 Brezhnev
@@ -4451,6 +4453,7 @@ CD
 CD's
 CDC
 CDT
+CDs
 CENTO
 CEO
 CEO's
@@ -6938,6 +6941,7 @@ DTP
 DTs
 DUI
 DVD
+DVDs
 DVR
 DVR's
 DVRs
@@ -24292,6 +24296,8 @@ Segre
 Segre's
 Segundo
 Segundo's
+Segway
+Segways
 Seiko
 Seiko's
 Seine
@@ -36805,6 +36811,7 @@ assistant's
 assistants
 assisted
 assisting
+assistive
 assists
 assize
 assize's
@@ -45305,6 +45312,7 @@ bulldozing
 bulled
 bullet
 bullet's
+bulleted
 bulletin
 bulletin's
 bulletined
@@ -120365,6 +120373,7 @@ picrite
 picrotoxin
 pics
 pictogram
+pictograms
 pictograph
 pictograph's
 pictographic
@@ -158851,7 +158860,10 @@ unclothed
 unclothes
 unclothing
 unclouded
+unclutter
 uncluttered
+uncluttering
+unclutters
 uncoated
 uncoil
 uncoiled
@@ -159214,6 +159226,7 @@ underhandedly
 underhandedness
 underhandedness's
 underhung
+underinflated
 underinvestment
 underlaid
 underlain
@@ -160743,6 +160756,7 @@ unrestricted
 unreturnable
 unreturned
 unrevealed
+unrevealing
 unrevenged
 unrevised
 unrevoked
@@ -166992,6 +167006,8 @@ workshop
 workshop's
 workshops
 workshy
+worksite
+worksites
 workspace
 workspaces
 workstation

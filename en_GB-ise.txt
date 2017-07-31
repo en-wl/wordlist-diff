@@ -2059,6 +2059,7 @@ Bela
 Bela's
 Belarus
 Belarus's
+Belarusian
 Belau
 Belau's
 Belem
@@ -2783,6 +2784,7 @@ Brewer
 Brewer's
 Brewster
 Brewster's
+Brexit
 Brezhnev
 Brezhnev's
 Brian
@@ -3147,6 +3149,7 @@ CD
 CD's
 CDC
 CDT
+CDs
 CEO
 CEO's
 CF
@@ -4901,6 +4904,7 @@ DST
 DTP
 DUI
 DVD
+DVDs
 DVR
 DVR's
 DVRs
@@ -17270,6 +17274,8 @@ Segre
 Segre's
 Segundo
 Segundo's
+Segway
+Segways
 Seiko
 Seiko's
 Seine
@@ -25685,6 +25691,7 @@ assistant's
 assistants
 assisted
 assisting
+assistive
 assists
 assize
 assize's
@@ -32047,6 +32054,7 @@ bulldozing
 bulled
 bullet
 bullet's
+bulleted
 bulletin
 bulletin's
 bulletined
@@ -58976,6 +58984,8 @@ glummer
 glummest
 glumness
 glumness's
+gluon
+gluons
 glut
 glut's
 gluten
@@ -61780,6 +61790,8 @@ haying
 hayloft
 hayloft's
 haylofts
+haymaker
+haymakers
 haymaking
 haymow
 haymow's
@@ -83059,6 +83071,7 @@ overindulgence's
 overindulgent
 overindulges
 overindulging
+overinflated
 overjoy
 overjoyed
 overjoying
@@ -85816,6 +85829,7 @@ perplexed
 perplexedly
 perplexes
 perplexing
+perplexingly
 perplexities
 perplexity
 perplexity's
@@ -86622,6 +86636,8 @@ picot
 picot's
 picots
 pics
+pictogram
+pictograms
 pictograph
 pictograph's
 pictographs
@@ -89422,6 +89438,7 @@ preordain
 preordained
 preordaining
 preordains
+preowned
 prep
 prep's
 prepackage
@@ -92318,8 +92335,10 @@ radial
 radial's
 radially
 radials
+radian
 radiance
 radiance's
+radians
 radiant
 radiantly
 radiate
@@ -94809,6 +94828,10 @@ reinfection
 reinfection's
 reinfections
 reinfects
+reinflate
+reinflated
+reinflates
+reinflating
 reinforce
 reinforced
 reinforcement
@@ -95880,6 +95903,8 @@ reseeded
 reseeding
 reseeds
 resell
+reseller
+resellers
 reselling
 resells
 resemblance
@@ -115532,6 +115557,7 @@ unaccountably
 unaccounted
 unaccredited
 unaccustomed
+unachievable
 unacknowledged
 unacquainted
 unaddressed
@@ -115771,7 +115797,10 @@ unclothed
 unclothes
 unclothing
 unclouded
+unclutter
 uncluttered
+uncluttering
+unclutters
 uncoil
 uncoiled
 uncoiling
@@ -116038,6 +116067,7 @@ underhanded
 underhandedly
 underhandedness
 underhandedness's
+underinflated
 underlain
 underlay
 underlay's
@@ -116658,6 +116688,7 @@ uninterruptedly
 uninterruptible
 uninvited
 uninviting
+uninvolved
 union
 union's
 unionisation
@@ -116907,6 +116938,7 @@ unofficial
 unofficially
 unopened
 unopposed
+unordered
 unorganised
 unoriginal
 unorthodox
@@ -116962,6 +116994,7 @@ unpolluted
 unpopular
 unpopularity
 unpopularity's
+unpopulated
 unpractical
 unpractised
 unprecedented
@@ -117084,6 +117117,7 @@ unrest's
 unrestrained
 unrestricted
 unrevealed
+unrevealing
 unrewarded
 unrewarding
 unrighteous
@@ -121892,6 +121926,8 @@ workshop
 workshop's
 workshops
 workshy
+worksite
+worksites
 workstation
 workstation's
 workstations
