@@ -22642,6 +22642,9 @@ aggregating
 aggregation
 aggregation's
 aggregations
+aggregator
+aggregator's
+aggregators
 aggression
 aggression's
 aggressive

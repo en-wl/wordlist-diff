@@ -31887,6 +31887,9 @@ aggregation
 aggregation's
 aggregations
 aggregative
+aggregator
+aggregator's
+aggregators
 aggress
 aggressed
 aggresses
