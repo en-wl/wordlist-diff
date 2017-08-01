@@ -23519,6 +23519,8 @@ amidships
 amigo
 amigo's
 amigos
+amine
+amines
 amino
 amiss
 amity
@@ -34459,6 +34461,7 @@ cavilings
 cavils
 caving
 caving's
+cavitation
 cavities
 cavity
 cavity's
@@ -38762,6 +38765,7 @@ condition
 condition's
 conditional
 conditional's
+conditionality
 conditionally
 conditionals
 conditioned
@@ -39730,6 +39734,7 @@ contour's
 contoured
 contouring
 contours
+contra
 contraband
 contraband's
 contrabassoon
@@ -41692,6 +41697,7 @@ criterion's
 critic
 critic's
 critical
+criticality
 critically
 criticism
 criticism's
@@ -43689,6 +43695,7 @@ decree's
 decreed
 decreeing
 decrees
+decrement
 decremented
 decrements
 decrepit
@@ -45720,6 +45727,7 @@ diffusing
 diffusion
 diffusion's
 diffusive
+diffusivity
 dig
 dig's
 digerati
@@ -45826,6 +45834,7 @@ dillydallied
 dillydallies
 dillydally
 dillydallying
+diluent
 dilute
 diluted
 dilutes
@@ -49477,6 +49486,7 @@ effluents
 effluvia
 effluvium
 effluvium's
+efflux
 effort
 effort's
 effortless
@@ -50970,6 +50980,7 @@ entourages
 entr'acte
 entrails
 entrails's
+entrained
 entrance
 entrance's
 entranced
@@ -51732,6 +51743,7 @@ eugenicist's
 eugenicists
 eugenics
 eugenics's
+eukaryotes
 eulogies
 eulogist
 eulogist's
@@ -51802,6 +51814,8 @@ evaluation
 evaluation's
 evaluations
 evaluative
+evaluator
+evaluators
 evanescence
 evanescence's
 evanescent
@@ -52826,6 +52840,7 @@ extracting
 extraction
 extraction's
 extractions
+extractive
 extractor
 extractor's
 extractors
@@ -59003,6 +59018,7 @@ glycerol
 glycerol's
 glycogen
 glycogen's
+glycol
 glyph
 gm
 gnarl
@@ -62463,6 +62479,7 @@ heretical
 heretics
 hereto
 heretofore
+hereunder
 hereunto
 hereupon
 herewith
@@ -64356,6 +64373,7 @@ hydrometer's
 hydrometers
 hydrometry
 hydrometry's
+hydrophilic
 hydrophobia
 hydrophobia's
 hydrophobic
@@ -66660,6 +66678,7 @@ informally
 informant
 informant's
 informants
+informatics
 information
 information's
 informational
@@ -69669,6 +69688,8 @@ ketch's
 ketches
 ketchup
 ketchup's
+ketone
+ketones
 kettle
 kettle's
 kettledrum
@@ -73172,6 +73193,7 @@ lumbers
 lumberyard
 lumberyard's
 lumberyards
+lumen
 luminaries
 luminary
 luminary's
@@ -73308,6 +73330,7 @@ lutenists
 lutes
 lutetium
 lutetium's
+lux
 luxuriance
 luxuriance's
 luxuriant
@@ -77026,6 +77049,7 @@ mitten
 mitten's
 mittens
 mitts
+mitzvah
 mix
 mix's
 mixable
@@ -78309,6 +78333,7 @@ mullioned
 mullions
 mulls
 multi
+multichannel
 multicolored
 multicultural
 multiculturalism
@@ -78653,6 +78678,7 @@ mutable
 mutably
 mutagen
 mutagen's
+mutagenic
 mutagens
 mutant
 mutant's
@@ -79883,6 +79909,7 @@ nitrates
 nitrating
 nitration
 nitration's
+nitric
 nitrification
 nitrification's
 nitrite
@@ -81699,6 +81726,7 @@ omnivorousness
 omnivorousness's
 oms
 on
+onboard
 once
 once's
 oncogene
@@ -83408,6 +83436,7 @@ oxidants
 oxidase
 oxidation
 oxidation's
+oxidative
 oxide
 oxide's
 oxides
@@ -95462,6 +95491,7 @@ repealing
 repeals
 repeat
 repeat's
+repeatability
 repeatable
 repeatably
 repeated
@@ -95589,6 +95619,8 @@ reposed
 reposeful
 reposes
 reposing
+reposition
+repositioning
 repositories
 repository
 repository's
@@ -95984,6 +96016,7 @@ resister's
 resisters
 resistible
 resisting
+resistivity
 resistless
 resistor
 resistor's
@@ -100136,6 +100169,7 @@ sear
 sear's
 search
 search's
+searchable
 searched
 searcher
 searcher's
@@ -108975,6 +109009,7 @@ superconductivity's
 superconductor
 superconductor's
 superconductors
+supercritical
 superego
 superego's
 superegos
@@ -109207,6 +109242,7 @@ suppressible
 suppressing
 suppression
 suppression's
+suppressive
 suppressor
 suppressor's
 suppressors
@@ -110616,6 +110652,7 @@ tasering
 tasers
 task
 task's
+taskbar
 tasked
 tasking
 taskmaster
@@ -111751,6 +111788,7 @@ thereof
 thereon
 thereto
 theretofore
+thereunder
 thereunto
 thereupon
 therewith
@@ -113424,6 +113462,7 @@ trabecular
 trabecule
 trace
 trace's
+traceability
 traceable
 traced
 tracer
@@ -116953,6 +116992,7 @@ unpreventable
 unprincipled
 unprintable
 unprivileged
+unproblematic
 unprocessed
 unproductive
 unproductively
@@ -119211,6 +119251,7 @@ volubly
 volume
 volume's
 volumes
+volumetric
 voluminous
 voluminously
 voluminousness
@@ -121865,6 +121906,7 @@ workshops
 workshy
 worksite
 worksites
+workspace
 workstation
 workstation's
 workstations
