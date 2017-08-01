@@ -2996,6 +2996,7 @@ Benchley
 Benchley's
 Bender
 Bender's
+Bendictus
 Bendigo
 Bendix
 Bendix's
@@ -73798,6 +73799,10 @@ faceless
 facelift
 facelift's
 facelifts
+facepalm
+facepalmed
+facepalming
+facepalms
 faceplate
 faceplates
 facer
@@ -108145,6 +108150,7 @@ multinationals
 multinuclear
 multipara
 multiparous
+multipart
 multipartite
 multiparty
 multiped
@@ -148957,6 +148963,7 @@ superman's
 supermarket
 supermarket's
 supermarkets
+supermassive
 supermen
 supermodel
 supermodel's
@@ -157874,6 +157881,7 @@ unbosom
 unbosomed
 unbosoming
 unbosoms
+unbothered
 unbound
 unbounded
 unbowed

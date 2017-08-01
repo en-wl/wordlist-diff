@@ -2113,6 +2113,7 @@ Benchley
 Benchley's
 Bender
 Bender's
+Bendictus
 Bendix
 Bendix's
 Benedict
@@ -11829,6 +11830,7 @@ Maghreb's
 Magi
 Maginot
 Maginot's
+Magnificat
 Magnitogorsk
 Magnitogorsk's
 Magog
@@ -53042,6 +53044,10 @@ facecloth's
 facecloths
 faced
 faceless
+facepalm
+facepalmed
+facepalming
+facepalms
 faces
 facet
 facet's
@@ -78377,6 +78383,7 @@ multimillionaires
 multinational
 multinational's
 multinationals
+multipart
 multiparty
 multiplayer
 multiplayer's
@@ -81419,6 +81426,7 @@ oculars
 oculist
 oculist's
 oculists
+oculomotor
 odalisque
 odalisque's
 odalisques
@@ -92115,6 +92123,7 @@ quince's
 quinces
 quine
 quines
+quinidine
 quinine
 quinine's
 quinoa
@@ -109098,6 +109107,7 @@ superman's
 supermarket
 supermarket's
 supermarkets
+supermassive
 supermen
 supermodel
 supermodel's
@@ -115702,6 +115712,7 @@ unbosom
 unbosomed
 unbosoming
 unbosoms
+unbothered
 unbound
 unbounded
 unbowed
