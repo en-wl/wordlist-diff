@@ -74956,6 +74956,7 @@ maxillae
 maxillary
 maxim
 maxim's
+maxima
 maximal
 maximally
 maximisation
@@ -76455,6 +76456,7 @@ minicomputers
 minifloppies
 minim
 minim's
+minima
 minimal
 minimalism
 minimalism's

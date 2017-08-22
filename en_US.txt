@@ -56241,6 +56241,7 @@ formlessness's
 forms
 formula
 formula's
+formulae
 formulaic
 formulas
 formulate
@@ -74924,6 +74925,7 @@ maxillae
 maxillary
 maxim
 maxim's
+maxima
 maximal
 maximally
 maximization
@@ -76417,6 +76419,7 @@ minicomputers
 minifloppies
 minim
 minim's
+minima
 minimal
 minimalism
 minimalism's

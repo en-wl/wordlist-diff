@@ -103875,6 +103875,7 @@ maxillary
 maxilliped
 maxim
 maxim's
+maxima
 maximal
 maximally
 maximin
@@ -106051,6 +106052,7 @@ minify
 minifying
 minim
 minim's
+minima
 minimal
 minimalism
 minimalism's
