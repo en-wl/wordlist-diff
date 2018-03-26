@@ -2873,6 +2873,7 @@ Becket's
 Beckett
 Beckett's
 Beckford
+Beckman
 Beckmann
 Becky
 Becky's
@@ -47962,6 +47963,8 @@ carload
 carload's
 carloads
 carmagnole
+carmaker
+carmakers
 carman
 carminative
 carminatives
@@ -67729,6 +67732,7 @@ downstrokes
 downswing
 downswing's
 downswings
+downtempo
 downthrow
 downtick
 downticks
@@ -115061,6 +115065,7 @@ oracularity
 oracularly
 oral
 oral's
+orality
 orally
 orals
 orang
@@ -150415,6 +150420,7 @@ suboxide
 subpar
 subparagraph
 subparallel
+subpart
 subperiosteal
 subphyla
 subphylum
@@ -151539,6 +151545,7 @@ supersophisticated
 superspy
 superstar
 superstar's
+superstardom
 superstars
 superstate
 superstates
@@ -160223,6 +160230,7 @@ ultranationalisms
 ultrapure
 ultrared
 ultras
+ultrasensitive
 ultrashort
 ultrasonic
 ultrasonically

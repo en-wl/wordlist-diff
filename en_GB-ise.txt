@@ -2024,6 +2024,7 @@ Becket
 Becket's
 Beckett
 Beckett's
+Beckman
 Becky
 Becky's
 Becquerel
@@ -2632,6 +2633,7 @@ Bostonian's
 Bostons
 Boswell
 Boswell's
+Botha
 Botox
 Botswana
 Botswana's
@@ -33822,6 +33824,8 @@ carjacks
 carload
 carload's
 carloads
+carmaker
+carmakers
 carmine
 carmine's
 carmines
@@ -48111,6 +48115,7 @@ downstream
 downswing
 downswing's
 downswings
+downtempo
 downtime
 downtime's
 downtown
@@ -82102,6 +82107,7 @@ oracles
 oracular
 oral
 oral's
+orality
 orally
 orals
 orange
@@ -108456,6 +108462,7 @@ suborned
 suborning
 suborns
 subparagraph
+subpart
 subplot
 subplot's
 subplots
@@ -109243,6 +109250,7 @@ supersizing
 supersonic
 superstar
 superstar's
+superstardom
 superstars
 superstate
 superstates
@@ -109926,6 +109934,7 @@ switcher's
 switchers
 switches
 switching
+switchover
 swivel
 swivel's
 swivelled
@@ -115589,6 +115598,7 @@ ultramarine
 ultramarine's
 ultramodern
 ultras
+ultrasensitive
 ultrashort
 ultrasonic
 ultrasonically
