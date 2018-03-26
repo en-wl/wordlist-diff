@@ -8369,6 +8369,7 @@ Helene
 Helene's
 Helga
 Helga's
+Helicobacter
 Helicon
 Helicon's
 Heliopolis
@@ -33329,6 +33330,7 @@ canceller
 canceller's
 cancellers
 cancelling
+cancellous
 cancels
 cancer
 cancer's
@@ -56924,6 +56926,8 @@ freighters
 freighting
 freights
 french
+frenemies
+frenemy
 frenetic
 frenetically
 frenzied
@@ -76218,6 +76222,9 @@ micromanage
 micromanaged
 micromanagement
 micromanagement's
+micromanager
+micromanager's
+micromanagers
 micromanages
 micromanaging
 micrometeorite
@@ -85386,6 +85393,7 @@ pectin
 pectin's
 pectoral
 pectoral's
+pectoralis
 pectorals
 peculate
 peculated
@@ -95116,6 +95124,11 @@ rehoused
 rehouses
 rehousing
 rehung
+reification
+reified
+reifies
+reify
+reifying
 reign
 reign's
 reigned
@@ -96752,6 +96765,7 @@ retina
 retina's
 retinal
 retinas
+retinoblastoma
 retinue
 retinue's
 retinues
@@ -106029,6 +106043,7 @@ spinet's
 spinets
 spinier
 spiniest
+spinless
 spinnaker
 spinnaker's
 spinnakers
@@ -116245,6 +116260,7 @@ uncommonly
 uncommonness
 uncommonness's
 uncommunicative
+uncompelling
 uncompensated
 uncomplaining
 uncomplainingly
@@ -117177,6 +117193,7 @@ universes
 universities
 university
 university's
+univocal
 unjust
 unjustifiable
 unjustifiably
@@ -117496,6 +117513,7 @@ unreasonableness's
 unreasonably
 unreasoning
 unrecognisable
+unrecognisably
 unrecognised
 unreconstructed
 unrecorded

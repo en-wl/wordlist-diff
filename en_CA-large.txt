@@ -11798,6 +11798,7 @@ Helene's
 Helga
 Helga's
 Helgoland
+Helicobacter
 Helicon
 Helicon's
 Heligoland
@@ -46816,6 +46817,7 @@ canceller
 canceller's
 cancellers
 cancelling
+cancellous
 cancels
 cancer
 cancer's
@@ -78857,6 +78859,8 @@ freity
 fremd
 fremitus
 french
+frenemies
+frenemy
 frenetic
 frenetical
 frenetically
@@ -105403,6 +105407,8 @@ micromanaged
 micromanagement
 micromanagement's
 micromanager
+micromanager's
+micromanagers
 micromanages
 micromanaging
 micrometeorite
@@ -133110,6 +133116,7 @@ retinas
 retinite
 retinitides
 retinitis
+retinoblastoma
 retinol
 retinols
 retinoscope
@@ -145050,6 +145057,7 @@ spinier
 spiniest
 spiniferous
 spinifex
+spinless
 spinnaker
 spinnaker's
 spinnakers
@@ -158784,6 +158792,7 @@ uncommonness's
 uncommunicative
 uncommunicativeness
 uncommunicativenesses
+uncompelling
 uncompensated
 uncompetitive
 uncompetitiveness
