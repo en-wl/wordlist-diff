@@ -29079,6 +29079,7 @@ bimetallic's
 bimetallics
 bimetallism
 bimetallism's
+bimodal
 bimonthlies
 bimonthly
 bimonthly's
@@ -80237,6 +80238,8 @@ nondepreciating
 nondescript
 nondestructive
 nondetachable
+nondeterminism
+nondeterministic
 nondisciplinary
 nondisclosure
 nondisclosure's

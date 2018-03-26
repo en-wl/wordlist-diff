@@ -112421,6 +112421,8 @@ nondescript
 nondescriptly
 nondestructive
 nondetachable
+nondeterminism
+nondeterministic
 nondevelopment
 nondevelopments
 nondigestible
