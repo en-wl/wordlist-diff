@@ -632,6 +632,8 @@ Alston
 Alston's
 Alta
 Alta's
+Altaba
+Altaba's
 Altai
 Altai's
 Altaic
@@ -729,6 +731,8 @@ Amerindians
 Amerinds
 Ameslan
 Ameslan's
+Amgen
+Amgen's
 Amharic
 Amharic's
 Amherst
@@ -1696,6 +1700,8 @@ Bahia
 Bahia's
 Bahrain
 Bahrain's
+Baidu
+Baidu's
 Baikal
 Baikal's
 Bailey
@@ -2354,6 +2360,8 @@ Billy
 Billy's
 Bimini
 Bimini's
+Biogen
+Biogen's
 Bioko
 Bioko's
 Bird
@@ -3710,6 +3718,8 @@ Cedric
 Cedric's
 Celeste
 Celeste's
+Celgene
+Celgene's
 Celia
 Celia's
 Celina
@@ -13606,6 +13616,8 @@ NSF
 NSFW
 NT
 NV
+NVIDIA
+NVIDIA's
 NW
 NW's
 NWT
@@ -15566,6 +15578,8 @@ Pribilof
 Pribilof's
 Price
 Price's
+Priceline
+Priceline's
 Priestley
 Priestley's
 Prince
@@ -15786,6 +15800,8 @@ Quakerism
 Quakerism's
 Quakerisms
 Quakers
+Qualcomm
+Qualcomm's
 Quaoar
 Quaoar's
 Quasimodo
@@ -20072,6 +20088,8 @@ Walesa
 Walesa's
 Walgreen
 Walgreen's
+Walgreens
+Walgreens's
 Walker
 Walker's
 Walkman
