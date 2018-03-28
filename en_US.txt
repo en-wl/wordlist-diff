@@ -50672,6 +50672,7 @@ endoscopy
 endoscopy's
 endothelial
 endothermic
+endotracheal
 endow
 endowed
 endowing
@@ -51764,6 +51765,7 @@ ethical
 ethically
 ethics
 ethics's
+ethmoid
 ethnic
 ethnic's
 ethnically
@@ -51879,6 +51881,7 @@ euthanizes
 euthanizing
 euthenics
 euthenics's
+eutrophication
 evacuate
 evacuated
 evacuates
@@ -62433,6 +62436,7 @@ hematology
 hematology's
 heme
 heme's
+hemiplegia
 hemisphere
 hemisphere's
 hemispheres
@@ -62988,6 +62992,7 @@ histologist's
 histologists
 histology
 histology's
+histopathology
 historian
 historian's
 historians
@@ -67351,6 +67356,7 @@ inspiration
 inspiration's
 inspirational
 inspirations
+inspiratory
 inspire
 inspired
 inspires
@@ -99528,6 +99534,7 @@ schismatics
 schisms
 schist
 schist's
+schistosomiasis
 schizo
 schizo's
 schizoid
@@ -118502,6 +118509,7 @@ ventilation's
 ventilator
 ventilator's
 ventilators
+ventilatory
 venting
 ventral
 ventricle

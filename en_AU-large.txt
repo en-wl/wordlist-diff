@@ -70657,6 +70657,7 @@ endotherm
 endothermal
 endothermic
 endotoxin
+endotracheal
 endow
 endowed
 endower
@@ -162689,6 +162690,7 @@ ventilation's
 ventilator
 ventilator's
 ventilators
+ventilatory
 venting
 ventose
 ventral
