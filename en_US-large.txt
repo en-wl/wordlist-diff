@@ -5828,6 +5828,9 @@ Christophe's
 Christopher
 Christopher's
 Christs
+Chromebook
+Chromebook's
+Chromebooks
 Chron
 Chronicles
 Chrysler
@@ -12613,6 +12616,8 @@ Huntsville
 Huntsville's
 Hunyadi
 Hupeh
+Hurd
+Hurd's
 Hurley
 Hurley's
 Huron
@@ -60938,6 +60943,7 @@ decoder's
 decoders
 decodes
 decoding
+decoherence
 decollate
 decolletage
 decolletage's
@@ -72973,6 +72979,7 @@ exile
 exile's
 exiled
 exiles
+exilic
 exiling
 eximious
 exine
@@ -89186,6 +89193,9 @@ hyperventilates
 hyperventilating
 hyperventilation
 hyperventilation's
+hypervisor
+hypervisor's
+hypervisors
 hypervitaminoses
 hypervitaminosis
 hypes

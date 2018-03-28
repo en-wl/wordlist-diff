@@ -4105,6 +4105,9 @@ Christoper's
 Christopher
 Christopher's
 Christs
+Chromebook
+Chromebook's
+Chromebooks
 Chronicles
 Chrysler
 Chrysler's
@@ -8960,6 +8963,8 @@ Huntley
 Huntley's
 Huntsville
 Huntsville's
+Hurd
+Hurd's
 Hurley
 Hurley's
 Huron
@@ -37461,6 +37466,7 @@ coenobite
 coenobite's
 coenobites
 coenobitic
+coenzyme
 coequal
 coequal's
 coequally
@@ -43694,6 +43700,7 @@ decoder's
 decoders
 decodes
 decoding
+decoherence
 decolletage
 decolletage's
 decolletages
@@ -52446,6 +52453,7 @@ exile
 exile's
 exiled
 exiles
+exilic
 exiling
 exist
 existed
@@ -64586,6 +64594,9 @@ hyperventilates
 hyperventilating
 hyperventilation
 hyperventilation's
+hypervisor
+hypervisor's
+hypervisors
 hypes
 hyphen
 hyphen's
@@ -84906,6 +84917,7 @@ patriarchy's
 patrician
 patrician's
 patricians
+patricidal
 patricide
 patricide's
 patricides
@@ -94748,6 +94760,7 @@ regexp
 regexps
 reggae
 reggae's
+regicidal
 regicide
 regicide's
 regicides
@@ -115544,6 +115557,9 @@ typos
 tyrannic
 tyrannical
 tyrannically
+tyrannicidal
+tyrannicide
+tyrannicides
 tyrannies
 tyrannize
 tyrannized
