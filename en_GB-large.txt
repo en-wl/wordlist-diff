@@ -1284,6 +1284,8 @@ Angus
 Angus's
 Anguses
 Anhalt
+Anhui
+Anhui's
 Anhwei
 Aniakchak
 Aniakchak's
@@ -6603,6 +6605,8 @@ Cox
 Cox's
 Coy
 Coy's
+Coyle
+Coyle's
 Cozumel
 Cozumel's
 Cpl
@@ -9485,6 +9489,8 @@ Finisterre
 Finland
 Finland's
 Finlander
+Finlay
+Finlay's
 Finley
 Finley's
 Finn
@@ -9946,6 +9952,8 @@ Fuhrer
 Fuhrer's
 Fuji
 Fuji's
+Fujian
+Fujian's
 Fujitsu
 Fujitsu's
 Fujiwara
@@ -9982,6 +9990,8 @@ Fundy
 Fundy's
 Furies
 Furies's
+Furman
+Furman's
 Furness
 Furnivall
 Furtwangler
@@ -10214,6 +10224,8 @@ Ganges's
 Gangetic
 Gangtok
 Gangtok's
+Gansu
+Gansu's
 Gantrisin
 Gantry
 Gantry's
@@ -10803,6 +10815,8 @@ Good
 Good's
 Goodall
 Goodall's
+Goode
+Goode's
 Goodman
 Goodman's
 Goodrich
@@ -11113,6 +11127,8 @@ Guam's
 Guamanian
 Guanabara
 Guanajuato
+Guangdong
+Guangdong's
 Guangzhou
 Guangzhou's
 Guantanamo
@@ -11175,6 +11191,8 @@ Guinness's
 Guiscard
 Guiyang
 Guiyang's
+Guizhou
+Guizhou's
 Guizot
 Guizot's
 Gujarat
@@ -11357,6 +11375,7 @@ Haig's
 Haikou
 Haikou's
 Hainan
+Hainan's
 Hainaut
 Haiphong
 Haiphong's
@@ -11745,6 +11764,8 @@ Heb
 Hebbel
 Hebe
 Hebe's
+Hebei
+Hebei's
 Hebert
 Hebert's
 Hebraic
@@ -11898,6 +11919,8 @@ Hemingway
 Hemingway's
 Hemingwayesque
 Hemingwayesque's
+Henan
+Henan's
 Hench
 Hench's
 Henderson
@@ -12520,6 +12543,8 @@ Hubbard
 Hubbard's
 Hubble
 Hubble's
+Hubei
+Hubei's
 Huber
 Huber's
 Hubert
@@ -12574,6 +12599,8 @@ Humboldt's
 Hume
 Hume's
 Humism
+Hummel
+Hummel's
 Hummer
 Hummer's
 Humperdinck
@@ -12587,6 +12614,7 @@ Humvee's
 Hun
 Hun's
 Hunan
+Hunan's
 Hung
 Hung's
 Hungarian
@@ -13729,6 +13757,10 @@ Jezreel
 Jezreel's
 Jhansi
 Jhelum
+Jiangsu
+Jiangsu's
+Jiangxi
+Jiangxi's
 Jidda
 Jidda's
 Jilin
@@ -15861,6 +15893,7 @@ Liam
 Liam's
 Liao
 Liaoning
+Liaoning's
 Liaotung
 Liaoyang
 Liard
@@ -17549,6 +17582,8 @@ Matadi
 Matamoros
 Mather
 Mather's
+Matheson
+Matheson's
 Mathew
 Mathew's
 Mathews
@@ -22286,6 +22321,8 @@ Qatari's
 Qataris
 Qingdao
 Qingdao's
+Qinghai
+Qinghai's
 Qiqihar
 Qiqihar's
 Qom
@@ -24135,6 +24172,8 @@ Schliemann
 Schliemann's
 Schlitz
 Schlitz's
+Schloss
+Schloss's
 Schmidt
 Schmidt's
 Schnabel
@@ -24527,6 +24566,8 @@ Sfax's
 Sforza
 Sgt
 Shaaban
+Shaanxi
+Shaanxi's
 Shaban
 Shabbat
 Shabuoth
@@ -24581,6 +24622,8 @@ Shannon's
 Shans
 Shantung
 Shantung's
+Shanxi
+Shanxi's
 Shapiro
 Shapiro's
 Shari
@@ -29055,6 +29098,8 @@ Ximenes
 Ximenes's
 Xingu
 Xingu's
+Xinjiang
+Xinjiang's
 Xiongnu
 Xiongnu's
 Xizang
@@ -29410,6 +29455,8 @@ Zeuxis
 Zhangjiakou
 Zhangjiakou's
 Zhdanov
+Zhejiang
+Zhejiang's
 Zhengzhou
 Zhengzhou's
 Zhivago
