@@ -96,6 +96,8 @@ AWACS
 AWACS's
 AWOL
 AWOL's
+AWS
+AWS's
 AZ
 AZ's
 AZT
@@ -1615,6 +1617,8 @@ Arden's
 Ardennes
 Ardennes's
 Ards
+Arduino
+Arduino's
 Areopagite
 Areopagus
 Arequipa
@@ -3311,6 +3315,8 @@ Bienne
 Bierce
 Bierce's
 Bifrost
+BigQuery
+BigQuery's
 Bigfoot
 Bigfoot's
 Bigfoots
@@ -4503,6 +4509,8 @@ CR
 CRT
 CRT's
 CRTs
+CSS
+CSS's
 CST
 CST's
 CT
@@ -6032,6 +6040,8 @@ Clios
 Clisthenes
 Clive
 Clive's
+Clojure
+Clojure's
 Clorets
 Clorets's
 Clorox
@@ -6529,6 +6539,8 @@ Cosby's
 Cosenza
 Cosenza's
 Cosgrave
+CosmosDB
+CosmosDB's
 Cosmotron
 Cossack
 Cossack's
@@ -7669,6 +7681,8 @@ Dixon's
 Diyarbakir
 Diyarbakir's
 Djambi
+Django
+Django's
 Djerba
 Djibouti
 Djibouti's
@@ -7953,6 +7967,8 @@ Druid's
 Druidic
 Druidical
 Druidism
+Drupal
+Drupal's
 Druse
 Druze
 Dryden
@@ -8137,6 +8153,8 @@ Dyfed
 Dyfed's
 Dylan
 Dylan's
+DynamoDB
+DynamoDB's
 Dynel
 Dyson
 Dyson's
@@ -8430,6 +8448,8 @@ Elamitic
 Elamitic's
 Elanor
 Elanor's
+Elasticsearch
+Elasticsearch's
 Elastoplast
 Elastoplast's
 Elba
@@ -8818,6 +8838,8 @@ Eritrean's
 Eritreans
 Erivan
 Erivan's
+Erlang
+Erlang's
 Erlanger
 Erlenmeyer
 Erlenmeyer's
@@ -9496,6 +9518,8 @@ Finsteraarhorn
 Fiona
 Fiona's
 Firdausi
+Firebase
+Firebase's
 Firefox
 Firefox's
 Firenze
@@ -11261,6 +11285,8 @@ H
 H's
 HBO
 HBO's
+HBase
+HBase's
 HDD
 HDL
 HDL's
@@ -11322,6 +11348,8 @@ Hadean
 Hades
 Hades's
 Hadhramaut
+Hadoop
+Hadoop's
 Hadrian
 Hadrian's
 Haeckel
@@ -12003,6 +12031,8 @@ Herodias
 Herodias's
 Herodotus
 Herodotus's
+Heroku
+Heroku's
 Heron
 Heron's
 Herophilus
@@ -14907,6 +14937,8 @@ Kosygin
 Kosygin's
 Kotah
 Kotah's
+Kotlin
+Kotlin's
 Koufax
 Koufax's
 Kovno
@@ -17271,6 +17303,8 @@ Mari
 Mari's
 Maria
 Maria's
+MariaDB
+MariaDB's
 Marian
 Marian's
 Mariana
@@ -17568,6 +17602,8 @@ Matilda
 Matilda's
 Matisse
 Matisse's
+Matlab
+Matlab's
 Matlock
 Matlock's
 Matsu
@@ -17940,6 +17976,8 @@ Melvin
 Melvin's
 Melvyn
 Melvyn's
+Memcached
+Memcached's
 Memling
 Memling's
 Memnon
@@ -18639,6 +18677,8 @@ Monera
 Monera's
 Monet
 Monet's
+MongoDB
+MongoDB's
 Mongol
 Mongol's
 Mongolia
@@ -19060,6 +19100,8 @@ Mv's
 Mwanza
 Mwanza's
 Mweru
+MySQL
+MySQL's
 MySpace
 MySpace's
 Myanmar
@@ -19482,6 +19524,8 @@ Nemea's
 Nemean
 Nemesis
 Nemesis's
+Neo
+Neo's
 Neocene
 Neoclassicism
 Neogaea
@@ -20100,6 +20144,8 @@ Oberlin's
 Oberon
 Oberon's
 Oc
+Ocaml
+Ocaml's
 Occam
 Occam's
 Occident
@@ -20644,6 +20690,8 @@ PFC
 PG
 PGA
 PGP
+PHP
+PHP's
 PIN
 PJ's
 PLO
@@ -21889,6 +21937,8 @@ Poseidon's
 Posen
 Post
 Post's
+PostgreSQL
+PostgreSQL's
 Postimpressionism
 Potawatomi
 Potawatomi's
@@ -22212,6 +22262,8 @@ Putumayo
 Puzo
 Puzo's
 Pvt
+PyTorch
+PyTorch's
 Pydna
 Pydna's
 Pygmalion
@@ -22403,6 +22455,8 @@ RCA's
 RCMP
 RD
 RDA
+RDS
+RDS's
 REIT
 REM
 REM's
@@ -22673,10 +22727,14 @@ Redford
 Redford's
 Redgrave
 Redgrave's
+Redis
+Redis's
 Redmond
 Redmond's
 Redon
 Reds
+Redshift
+Redshift's
 Redstone
 Reebok
 Reebok's
@@ -23554,6 +23612,8 @@ SP
 SPCA
 SPF
 SQL
+SQLite
+SQLite's
 SRO
 SS
 SSA
@@ -23728,6 +23788,8 @@ Salem
 Salem's
 Salerno
 Salerno's
+Salesforce
+Salesforce's
 Salford
 Salian
 Salian's
@@ -24586,6 +24648,8 @@ Shanxi
 Shanxi's
 Shapiro
 Shapiro's
+SharePoint
+SharePoint's
 Shari
 Shari'a
 Shari'a's
@@ -26428,6 +26492,8 @@ Tennyson's
 Tennysonian
 Tenochtitlan
 Tenochtitlan's
+TensorFlow
+TensorFlow's
 Teotihuacan
 Teotihuacan's
 Tepic
@@ -27713,6 +27779,8 @@ VAT
 VAT's
 VAX
 VAXes
+VBA
+VBA's
 VC
 VCR
 VCR's
@@ -28933,6 +29001,8 @@ Worcester's
 Worcesters
 Worcestershire
 Worcestershire's
+WordPress
+WordPress's
 Wordsworth
 Wordsworth's
 Workman
@@ -29014,6 +29084,8 @@ XML
 XP
 XS
 XXL
+Xamarin
+Xamarin's
 Xanadu
 Xanadu's
 Xanthippe
@@ -89760,6 +89832,8 @@ hysterogenic
 hysteroid
 hysterotomy
 i
+iOS
+iOS's
 iPad
 iPad's
 iPhone
