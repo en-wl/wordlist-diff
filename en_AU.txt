@@ -24148,6 +24148,7 @@ angulation
 anhydrous
 aniline
 aniline's
+anilingus
 animadversion
 animadversion's
 animadversions
@@ -33398,6 +33399,8 @@ camera's
 cameraman
 cameraman's
 cameramen
+camerapeople
+cameraperson
 cameras
 camerawoman
 camerawoman's
@@ -53407,6 +53410,7 @@ eyewitness
 eyewitness's
 eyewitnesses
 f
+fMRI
 fa
 fa's
 fab
@@ -78239,6 +78243,7 @@ moraliser's
 moralisers
 moralises
 moralising
+moralism
 moralist
 moralist's
 moralistic
@@ -83027,6 +83032,7 @@ outdraws
 outdrew
 outed
 outer
+outercourse
 outermost
 outerwear
 outerwear's
@@ -109031,6 +109037,7 @@ subornation's
 suborned
 suborning
 suborns
+subpar
 subparagraph
 subpart
 subplot
