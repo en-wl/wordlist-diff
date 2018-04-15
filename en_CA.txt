@@ -2851,6 +2851,7 @@ Brigitte
 Brigitte's
 Brillo
 Brillo's
+Brillouin
 Brinkley
 Brinkley's
 Brisbane
@@ -10901,6 +10902,7 @@ Laotian's
 Laotians
 Laplace
 Laplace's
+Laplacian
 Lapland
 Lapland's
 Laplander
@@ -11505,6 +11507,7 @@ Lorene
 Lorene's
 Lorentz
 Lorentz's
+Lorentzian
 Lorenz
 Lorenz's
 Lorenzo
@@ -24242,6 +24245,7 @@ annulment
 annulment's
 annulments
 annuls
+annulus
 annunciation
 annunciation's
 annunciations
@@ -24449,6 +24453,7 @@ antidotes
 antifascist
 antifascist's
 antifascists
+antiferromagnetic
 antifreeze
 antifreeze's
 antigen
@@ -25871,6 +25876,7 @@ association
 association's
 associations
 associative
+associativity
 assonance
 assonance's
 assonant
@@ -38351,6 +38357,7 @@ commutation
 commutation's
 commutations
 commutative
+commutativity
 commutator
 commutator's
 commutators
@@ -39159,6 +39166,7 @@ confluences
 confluent
 conform
 conformable
+conformal
 conformance
 conformance's
 conformation
@@ -41171,6 +41179,8 @@ couture's
 couturier
 couturier's
 couturiers
+covariance
+covariant
 cove
 cove's
 coven
@@ -45697,6 +45707,8 @@ dialysis
 dialysis's
 dialyzes
 diam
+diamagnetic
+diamagnetism
 diamante
 diameter
 diameter's
@@ -45871,6 +45883,7 @@ difference
 difference's
 differences
 different
+differentiable
 differential
 differential's
 differentials
@@ -49449,6 +49462,7 @@ ecology
 ecology's
 econ
 econometric
+econometrics
 economic
 economical
 economically
@@ -49775,6 +49789,8 @@ eiderdowns
 eiders
 eigenvalue
 eigenvalues
+eigenvector
+eigenvectors
 eight
 eight's
 eighteen
@@ -49986,6 +50002,7 @@ electrostatics's
 electrotype
 electrotype's
 electrotypes
+electroweak
 elects
 eleemosynary
 elegance
@@ -52317,6 +52334,7 @@ exciters
 excites
 exciting
 excitingly
+exciton
 excl
 exclaim
 exclaimed
@@ -54162,6 +54180,7 @@ ferric
 ferried
 ferries
 ferromagnetic
+ferromagnetism
 ferrous
 ferrule
 ferrule's
@@ -57399,6 +57418,7 @@ functionary's
 functioned
 functioning
 functions
+functor
 fund
 fund's
 fundamental
@@ -62704,6 +62724,7 @@ hermit's
 hermitage
 hermitage's
 hermitages
+hermitian
 hermits
 hernia
 hernia's
@@ -63510,6 +63531,7 @@ homograph
 homograph's
 homographs
 homologous
+homology
 homonym
 homonym's
 homonyms
@@ -64647,6 +64669,7 @@ hyperbole's
 hyperbolic
 hypercritical
 hypercritically
+hypercube
 hyperglycemia
 hyperglycemia's
 hyperinflation
@@ -64660,6 +64683,7 @@ hypermarkets
 hypermedia
 hypermedia's
 hyperparathyroidism
+hyperplane
 hypersensitive
 hypersensitiveness
 hypersensitiveness's
@@ -68738,6 +68762,7 @@ isometrically
 isometrics
 isometrics's
 isomorphic
+isomorphism
 isosceles
 isotherm
 isotherm's
@@ -73874,6 +73899,7 @@ magnitudes
 magnolia
 magnolia's
 magnolias
+magnon
 magnum
 magnum's
 magnums
@@ -77577,6 +77603,7 @@ mommies
 mommy
 mommy's
 moms
+monad
 monarch
 monarch's
 monarchic
@@ -79142,6 +79169,7 @@ nanoseconds
 nanotechnologies
 nanotechnology
 nanotechnology's
+nanotube
 nap
 nap's
 napalm
@@ -84374,6 +84402,7 @@ paralyze
 paralyzed
 paralyzes
 paralyzing
+paramagnetic
 paramecia
 paramecium
 paramecium's
@@ -85999,6 +86028,7 @@ permit's
 permits
 permitted
 permitting
+permittivity
 perms
 permutation
 permutation's
@@ -86607,6 +86637,7 @@ phonologist's
 phonologists
 phonology
 phonology's
+phonon
 phony
 phony's
 phonying
@@ -86699,6 +86730,7 @@ phototropic
 phototropism
 phototypesetter
 phototypesetting
+photovoltaic
 phrasal
 phrase
 phrase's
@@ -87586,6 +87618,7 @@ plashes
 plashing
 plasma
 plasma's
+plasmon
 plaster
 plaster's
 plasterboard
@@ -92082,11 +92115,14 @@ quantifiers
 quantifies
 quantify
 quantifying
+quantitation
 quantitative
 quantitatively
 quantities
 quantity
 quantity's
+quantization
+quantize
 quantum
 quantum's
 quarantine
@@ -94643,6 +94679,7 @@ reflection's
 reflections
 reflective
 reflectively
+reflectivity
 reflector
 reflector's
 reflectors
@@ -94654,6 +94691,7 @@ reflexive
 reflexive's
 reflexively
 reflexives
+reflexivity
 reflexology
 refocus
 refocused
@@ -114208,6 +114246,7 @@ transshipping
 transships
 transubstantiation
 transubstantiation's
+transversal
 transverse
 transverse's
 transversely

@@ -4024,6 +4024,7 @@ Brigitte
 Brigitte's
 Brillo
 Brillo's
+Brillouin
 Brindisi
 Brinkley
 Brinkley's
@@ -15420,6 +15421,7 @@ Laotians
 Lapith
 Laplace
 Laplace's
+Laplacian
 Lapland
 Lapland's
 Laplander
@@ -16268,6 +16270,7 @@ Lorene
 Lorene's
 Lorentz
 Lorentz's
+Lorentzian
 Lorenz
 Lorenz's
 Lorenzetti
@@ -34739,6 +34742,7 @@ antifeminism
 antifeminisms
 antifeminist
 antifeminists
+antiferromagnetic
 antifertility
 antifouling
 antifreeze
@@ -57524,6 +57528,7 @@ covalent
 covalently
 covariance
 covariances
+covariant
 cove
 cove's
 coven
@@ -69026,6 +69031,8 @@ eidos
 eigenfunction
 eigenvalue
 eigenvalues
+eigenvector
+eigenvectors
 eight
 eight's
 eightball
@@ -69342,6 +69349,7 @@ electrotype's
 electrotyper
 electrotypes
 electrotypic
+electroweak
 electrum
 electrums
 elects
@@ -79360,6 +79368,7 @@ functioned
 functioning
 functionless
 functions
+functor
 fund
 fund's
 fundament
@@ -86540,6 +86549,7 @@ hermit's
 hermitage
 hermitage's
 hermitages
+hermitian
 hermitic
 hermits
 hern
@@ -101939,6 +101949,7 @@ magnolia
 magnolia's
 magnoliaceous
 magnolias
+magnon
 magnum
 magnum's
 magnums
@@ -120903,6 +120914,7 @@ plasmodiums
 plasmolysis
 plasmolytic
 plasmolyzes
+plasmon
 plasmosome
 plasms
 plaster
@@ -127058,6 +127070,7 @@ quantifiers
 quantifies
 quantify
 quantifying
+quantitation
 quantitative
 quantitatively
 quantities
