@@ -38071,6 +38071,7 @@ avoidable
 avoidably
 avoidance
 avoidance's
+avoidant
 avoided
 avoider
 avoiding
@@ -49339,6 +49340,7 @@ cetacean's
 cetaceans
 cetaceous
 cetane
+ceteris
 cetology
 cf
 cg
@@ -54035,6 +54037,7 @@ commuters
 commutes
 commuting
 commutual
+comorbidity
 comose
 comp
 comp's
@@ -65746,6 +65749,7 @@ disposes
 disposing
 disposition
 disposition's
+dispositional
 dispositions
 dispossess
 dispossessed
@@ -68489,6 +68493,7 @@ dysprosium's
 dysteleology
 dysthymia
 dystonia
+dystopi
 dystopia
 dystopian
 dystopias
@@ -85473,6 +85478,7 @@ happiness
 happiness's
 happy
 hapten
+haptic
 harangue
 harangue's
 harangued
@@ -117302,6 +117308,7 @@ parhelion
 pariah
 pariah's
 pariahs
+paribus
 paries
 parietal
 parietals
@@ -119804,6 +119811,7 @@ pharmacopoeia
 pharmacopoeia's
 pharmacopoeias
 pharmacopsychosis
+pharmacotherapy
 pharmacy
 pharmacy's
 pharos
@@ -126095,6 +126103,7 @@ prosiness
 prosinesses
 prosit
 proslavery
+prosocial
 prosodic
 prosodical
 prosodies
@@ -132644,6 +132653,7 @@ repurchase
 repurchased
 repurchases
 repurchasing
+repurposed
 reputability
 reputability's
 reputable
@@ -144093,6 +144103,7 @@ somatically
 somatist
 somatology
 somatoplasm
+somatosensory
 somatotype
 somatotypes
 somatotyping
@@ -148078,6 +148089,7 @@ stressful
 stressfulness
 stressing
 stressor
+stressors
 stretch
 stretch's
 stretchability

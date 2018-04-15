@@ -23831,6 +23831,7 @@ amusements
 amuses
 amusing
 amusingly
+amygdala
 amylase
 amylase's
 amyloid
@@ -25882,6 +25883,7 @@ assonant
 assonant's
 assonants
 assort
+assortative
 assorted
 assorting
 assortment
@@ -26604,6 +26606,7 @@ avoidable
 avoidably
 avoidance
 avoidance's
+avoidant
 avoided
 avoiding
 avoids
@@ -29228,6 +29231,7 @@ bin's
 binaries
 binary
 binary's
+binaural
 bind
 bind's
 binder
@@ -34987,6 +34991,7 @@ cesspools
 cetacean
 cetacean's
 cetaceans
+ceteris
 cf
 cg
 ch
@@ -38371,6 +38376,7 @@ commuter's
 commuters
 commutes
 commuting
+comorbidity
 comp
 comp's
 compact
@@ -40636,6 +40642,7 @@ correlates
 correlating
 correlation
 correlation's
+correlational
 correlations
 correlative
 correlative's
@@ -40718,6 +40725,7 @@ cortex
 cortex's
 cortical
 cortices
+cortisol
 cortisone
 cortisone's
 corundum
@@ -41189,6 +41197,7 @@ couture's
 couturier
 couturier's
 couturiers
+covalent
 covariance
 covariant
 cove
@@ -47095,6 +47104,7 @@ disposes
 disposing
 disposition
 disposition's
+dispositional
 dispositions
 dispossess
 dispossessed
@@ -47275,6 +47285,7 @@ dissociates
 dissociating
 dissociation
 dissociation's
+dissociative
 dissoluble
 dissolute
 dissolutely
@@ -49206,7 +49217,9 @@ dysphoric
 dysprosium
 dysprosium's
 dystonia
+dystopi
 dystopia
+dystopian
 dz
 e
 e'en
@@ -49687,6 +49700,7 @@ effluvium's
 efflux
 effort
 effort's
+effortful
 effortless
 effortlessly
 effortlessness
@@ -61607,6 +61621,7 @@ happily
 happiness
 happiness's
 happy
+haptic
 harangue
 harangue's
 harangued
@@ -63065,6 +63080,7 @@ hippies
 hipping
 hippo
 hippo's
+hippocampus
 hippodrome
 hippodrome's
 hippodromes
@@ -65820,6 +65836,7 @@ impulsive
 impulsively
 impulsiveness
 impulsiveness's
+impulsivity
 impunity
 impunity's
 impure
@@ -65971,6 +65988,7 @@ incapacitate
 incapacitated
 incapacitates
 incapacitating
+incapacitation
 incapacity
 incapacity's
 incarcerate
@@ -67129,6 +67147,7 @@ injudiciousness's
 injunction
 injunction's
 injunctions
+injunctive
 injure
 injured
 injurer
@@ -67614,6 +67633,7 @@ insufficiency
 insufficiency's
 insufficient
 insufficiently
+insula
 insular
 insularity
 insularity's
@@ -79774,6 +79794,7 @@ neuron
 neuron's
 neuronal
 neurons
+neuroscience
 neuroses
 neurosis
 neurosis's
@@ -79786,6 +79807,7 @@ neurosurgical
 neurotic
 neurotic's
 neurotically
+neuroticism
 neurotics
 neurotransmitter
 neurotransmitter's
@@ -82595,6 +82617,7 @@ osmotic
 osprey
 osprey's
 ospreys
+ossicles
 ossification
 ossification's
 ossified
@@ -84578,6 +84601,7 @@ parfaits
 pariah
 pariah's
 pariahs
+paribus
 parietal
 parimutuel
 parimutuel's
@@ -86332,6 +86356,7 @@ petite's
 petites
 petition
 petition's
+petitionary
 petitioned
 petitioner
 petitioner's
@@ -86474,6 +86499,7 @@ pharmacology's
 pharmacopoeia
 pharmacopoeia's
 pharmacopoeias
+pharmacotherapy
 pharmacy
 pharmacy's
 pharyngeal
@@ -89315,6 +89341,7 @@ preachy
 preadolescence
 preadolescence's
 preadolescences
+preadolescent
 preamble
 preamble's
 preambled
@@ -90978,6 +91005,7 @@ proselytism
 proselytism's
 prosier
 prosiest
+prosocial
 prosodies
 prosody
 prosody's
@@ -91344,6 +91372,7 @@ psychopaths
 psychopathy
 psychopathy's
 psychopharmacology
+psychophysiology
 psychos
 psychoses
 psychosis
@@ -93356,6 +93385,7 @@ reacquired
 reacquires
 reacquiring
 react
+reactance
 reactant
 reactant's
 reactants
@@ -95255,6 +95285,7 @@ relapse's
 relapsed
 relapses
 relapsing
+relatable
 relate
 related
 relatedness
@@ -96088,6 +96119,7 @@ repurchase
 repurchased
 repurchases
 repurchasing
+repurposed
 reputability
 reputability's
 reputable
@@ -99108,6 +99140,8 @@ sanitation
 sanitation's
 sanitise
 sanitised
+sanitiser
+sanitisers
 sanitises
 sanitising
 sanity
@@ -104997,6 +105031,7 @@ solvers
 solves
 solving
 somatic
+somatosensory
 sombre
 sombrely
 sombreness
@@ -108079,6 +108114,7 @@ stressed
 stresses
 stressful
 stressing
+stressors
 stretch
 stretch's
 stretchable
@@ -109785,6 +109821,7 @@ sussing
 sustain
 sustainability
 sustainable
+sustainably
 sustained
 sustaining
 sustains
@@ -110239,6 +110276,7 @@ symbolises
 symbolising
 symbolism
 symbolism's
+symbology
 symbols
 symmetric
 symmetrical
@@ -110293,6 +110331,7 @@ synchronises
 synchronising
 synchronous
 synchronously
+synchrony
 syncing
 syncopate
 syncopated
@@ -114047,6 +114086,7 @@ transcripts
 transducer
 transducer's
 transducers
+transduction
 transect
 transected
 transecting
@@ -117054,6 +117094,8 @@ universalise
 universalised
 universalises
 universalising
+universalism
+universalist
 universality
 universality's
 universally
