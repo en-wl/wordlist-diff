@@ -50445,6 +50445,7 @@ emotions
 emotive
 emotively
 empathetic
+empathically
 empathize
 empathized
 empathizes
@@ -61091,6 +61092,7 @@ had
 haddock
 haddock's
 haddocks
+hadith
 hadn't
 hadst
 hafnium
@@ -63765,6 +63767,7 @@ hormone's
 hormones
 horn
 horn's
+hornbeam
 hornblende
 hornblende's
 horned
@@ -76159,6 +76162,7 @@ microfilm's
 microfilmed
 microfilming
 microfilms
+microfinance
 microfloppies
 microgroove
 microgroove's
@@ -96902,6 +96906,7 @@ revel's
 revelation
 revelation's
 revelations
+revelatory
 reveled
 reveler
 reveler's
@@ -115712,6 +115717,7 @@ tyrants
 tyro
 tyro's
 tyros
+tzatziki
 u
 ubiquitous
 ubiquitously
@@ -115988,6 +115994,10 @@ unbothered
 unbound
 unbounded
 unbowed
+unbox
+unboxed
+unboxes
+unboxing
 unbranded
 unbreakable
 unbridgeable
@@ -117151,6 +117161,8 @@ unluckiness
 unluckiness's
 unlucky
 unmade
+unmaintainable
+unmaintained
 unmake
 unmakes
 unmaking
@@ -119069,6 +119081,7 @@ vied
 vies
 view
 view's
+viewable
 viewed
 viewer
 viewer's
@@ -121182,6 +121195,10 @@ whitefishes
 whitehead
 whitehead's
 whiteheads
+whitelist
+whitelisted
+whitelisting
+whitelists
 whiten
 whitened
 whitener

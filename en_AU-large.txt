@@ -84790,6 +84790,7 @@ haddock's
 haddocks
 hade
 hades
+hadith
 hadn't
 hadron
 hadrons
@@ -105674,6 +105675,7 @@ microfilm's
 microfilmed
 microfilming
 microfilms
+microfinance
 microfloppies
 microfloppy
 microgamete
@@ -158486,6 +158488,7 @@ tyrothricins
 tzar
 tzar's
 tzars
+tzatziki
 u
 ubieties
 ubiety
@@ -158911,6 +158914,10 @@ unbothered
 unbound
 unbounded
 unbowed
+unbox
+unboxed
+unboxes
+unboxing
 unbrace
 unbraced
 unbraces
@@ -165989,6 +165996,10 @@ whitefly
 whitehead
 whitehead's
 whiteheads
+whitelist
+whitelisted
+whitelisting
+whitelists
 whitely
 whiten
 whitened
