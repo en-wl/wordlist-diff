@@ -30817,6 +30817,7 @@ bookstores
 bookworm
 bookworm's
 bookworms
+boolean
 boom
 boom's
 boombox
@@ -96481,6 +96482,10 @@ resalable
 resale
 resale's
 resales
+resample
+resampled
+resamples
+resampling
 resat
 reschedule
 rescheduled
@@ -116334,6 +116339,7 @@ unarguable
 unarguably
 unarmed
 unarmoured
+unary
 unashamed
 unashamedly
 unasked

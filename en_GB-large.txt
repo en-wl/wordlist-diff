@@ -43608,6 +43608,7 @@ bookwork
 bookworm
 bookworm's
 bookworms
+boolean
 boom
 boom's
 boombox
@@ -134238,6 +134239,10 @@ resalable
 resale
 resale's
 resales
+resample
+resampled
+resamples
+resampling
 resat
 rescale
 rescaled
@@ -160580,6 +160585,7 @@ unarmoured
 unarms
 unarticulated
 unartistic
+unary
 unashamed
 unashamedly
 unasked
