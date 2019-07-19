@@ -42292,6 +42292,9 @@ crypt
 crypt's
 cryptic
 cryptically
+cryptocurrencies
+cryptocurrency
+cryptocurrency's
 cryptogram
 cryptogram's
 cryptograms
