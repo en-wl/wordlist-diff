@@ -71446,6 +71446,8 @@ leapfrogs
 leaping
 leaps
 learn
+learnability
+learnable
 learned
 learnedly
 learner

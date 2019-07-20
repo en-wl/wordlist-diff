@@ -99156,6 +99156,8 @@ leaping
 leaps
 leapt
 learn
+learnability
+learnable
 learned
 learnedly
 learnedness
