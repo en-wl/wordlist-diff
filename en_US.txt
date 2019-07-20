@@ -22599,6 +22599,7 @@ affiliating
 affiliation
 affiliation's
 affiliations
+affine
 affinities
 affinity
 affinity's
@@ -43894,6 +43895,7 @@ decreeing
 decrees
 decrement
 decremented
+decrementing
 decrements
 decrepit
 decrepitude
@@ -66266,6 +66268,7 @@ incrementalist's
 incrementalists
 incrementally
 incremented
+incrementing
 increments
 incriminate
 incriminated
@@ -99450,6 +99453,7 @@ scaffolds
 scag
 scagged
 scags
+scalability
 scalar
 scalars
 scalawag
