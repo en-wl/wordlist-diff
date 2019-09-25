@@ -52965,6 +52965,7 @@ extender's
 extenders
 extending
 extends
+extensibility
 extensible
 extension
 extension's
@@ -68027,6 +68028,9 @@ internship's
 internships
 interoffice
 interoperability
+interoperable
+interoperate
+interoperates
 interpenetrate
 interpenetrated
 interpenetrates
@@ -77495,6 +77499,7 @@ modishness
 modishness's
 mods
 modular
+modularization
 modulate
 modulated
 modulates
