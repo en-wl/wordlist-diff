@@ -45442,6 +45442,7 @@ determining
 determinism
 determinism's
 deterministic
+deterministically
 deterred
 deterrence
 deterrence's
