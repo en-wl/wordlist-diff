@@ -38614,6 +38614,7 @@ composites
 compositing
 composition
 composition's
+compositional
 compositions
 compositor
 compositor's
