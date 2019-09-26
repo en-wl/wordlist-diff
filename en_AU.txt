@@ -435,6 +435,8 @@ Albireo
 Albireo's
 Albuquerque
 Albuquerque's
+Albury
+Albury's
 Alcatraz
 Alcatraz's
 Alcestis
@@ -1232,6 +1234,8 @@ Armenia's
 Armenian
 Armenian's
 Armenians
+Armidale
+Armidale's
 Arminius
 Arminius's
 Armonk
@@ -1714,6 +1718,8 @@ Bailey
 Bailey's
 Baird
 Baird's
+Bairnsdale
+Bairnsdale's
 Bakelite
 Bakelite's
 Baker
@@ -1751,8 +1757,12 @@ Balkhash
 Balkhash's
 Ball
 Ball's
+Ballarat
+Ballarat's
 Ballard
 Ballard's
+Ballina
+Ballina's
 Balthazar
 Balthazar's
 Baltic
@@ -1933,6 +1943,8 @@ Bates
 Bates's
 Bathsheba
 Bathsheba's
+Bathurst
+Bathurst's
 Batista
 Batista's
 Batman
@@ -2127,6 +2139,8 @@ Benchley's
 Bender
 Bender's
 Bendictus
+Bendigo
+Bendigo's
 Bendix
 Bendix's
 Benedict
@@ -2556,6 +2570,8 @@ Bolton
 Bolton's
 Boltzmann
 Boltzmann's
+Bomaderry
+Bomaderry's
 Bombay
 Bombay's
 Bonaparte
@@ -2674,6 +2690,8 @@ Bowie
 Bowie's
 Bowman
 Bowman's
+Bowral
+Bowral's
 Boyd
 Boyd's
 Boyer
@@ -2918,6 +2936,8 @@ Brooklyn
 Brooklyn's
 Brooks
 Brooks's
+Broome
+Broome's
 Bros
 Brown
 Brown's
@@ -3051,8 +3071,12 @@ Bultmann
 Bultmann's
 Bumppo
 Bumppo's
+Bunbury
+Bunbury's
 Bunche
 Bunche's
+Bundaberg
+Bundaberg's
 Bundesbank
 Bundesbank's
 Bundestag
@@ -3098,6 +3122,8 @@ Burmese
 Burmese's
 Burnett
 Burnett's
+Burnie
+Burnie's
 Burns
 Burns's
 Burnside
@@ -3127,6 +3153,8 @@ Bushido
 Bushido's
 Bushnell
 Bushnell's
+Busselton
+Busselton's
 Butler
 Butler's
 Butterfingers
@@ -3249,6 +3277,8 @@ Caiaphas's
 Cain
 Cain's
 Cains
+Cairns
+Cairns's
 Cairo
 Cairo's
 Caitlin
@@ -4317,6 +4347,7 @@ Cody
 Cody's
 Coffey
 Coffey's
+Coffs
 Cognac
 Cognac's
 Cohan
@@ -4332,6 +4363,8 @@ Coke's
 Cokes
 Col
 Col's
+Colac
+Colac's
 Colbert
 Colbert's
 Colby
@@ -4525,6 +4558,8 @@ Cooper
 Cooper's
 Cooperstown
 Cooperstown's
+Cooranbong
+Cooranbong's
 Coors
 Coors's
 Copacabana
@@ -5348,6 +5383,8 @@ Devon
 Devon's
 Devonian
 Devonian's
+Devonport
+Devonport's
 Dewar
 Dewar's
 Dewayne
@@ -5671,6 +5708,8 @@ Dristan
 Dristan's
 Dropbox
 Dropbox's
+Drouin
+Drouin's
 Drudge
 Drudge's
 Drupal
@@ -5686,6 +5725,8 @@ Duane
 Duane's
 Dubai
 Dubai's
+Dubbo
+Dubbo's
 Dubcek
 Dubcek's
 Dubhe
@@ -5896,6 +5937,8 @@ Ebro
 Ebro's
 Ecclesiastes
 Ecclesiastes's
+Echuca
+Echuca's
 Eco
 Eco's
 Ecstasy
@@ -6126,6 +6169,8 @@ Emacs
 Emacs's
 Emanuel
 Emanuel's
+Emerald
+Emerald's
 Emerson
 Emerson's
 Emery
@@ -6324,6 +6369,8 @@ Esky
 Esky's
 Esmeralda
 Esmeralda's
+Esperance
+Esperance's
 Esperanto
 Esperanto's
 Esperanza
@@ -7365,6 +7412,8 @@ Gdansk
 Gdansk's
 Ge
 Ge's
+Geelong
+Geelong's
 Geffen
 Geffen's
 Gehenna
@@ -7429,6 +7478,8 @@ Gerald
 Gerald's
 Geraldine
 Geraldine's
+Geraldton
+Geraldton's
 Gerard
 Gerard's
 Gerardo
@@ -7720,6 +7771,8 @@ Google
 Google's
 Goolagong
 Goolagong's
+Goolwa
+Goolwa's
 Gopher
 Gorbachev
 Gorbachev's
@@ -7759,6 +7812,8 @@ Goths
 Gouda
 Gouda's
 Goudas
+Goulburn
+Goulburn's
 Gould
 Gould's
 Gounod
@@ -8024,6 +8079,8 @@ Gwendolyn
 Gwendolyn's
 Gwyn
 Gwyn's
+Gympie
+Gympie's
 Gypsies
 Gypsy
 Gypsy's
@@ -8882,6 +8939,8 @@ Horne
 Horne's
 Horowitz
 Horowitz's
+Horsham
+Horsham's
 Horthy
 Horthy's
 Horton
@@ -10183,6 +10242,8 @@ Karo
 Karo's
 Karol
 Karol's
+Karratha
+Karratha's
 Karroo
 Karroo's
 Karyn
@@ -10299,6 +10360,8 @@ Kemp
 Kemp's
 Kempis
 Kempis's
+Kempsey
+Kempsey's
 Ken
 Ken's
 Kendall
@@ -10443,6 +10506,8 @@ Kimberly
 Kimberly's
 King
 King's
+Kingaroy
+Kingaroy's
 Kings
 Kingston
 Kingston's
@@ -10982,6 +11047,8 @@ Lauder
 Lauder's
 Laue
 Laue's
+Launceston
+Launceston's
 Laundromat
 Laundromat's
 Laura
@@ -11380,6 +11447,8 @@ Lisa
 Lisa's
 Lisbon
 Lisbon's
+Lismore
+Lismore's
 Lissajous
 Lissajous's
 Lister
@@ -11390,6 +11459,8 @@ Liston
 Liston's
 Liszt
 Liszt's
+Lithgow
+Lithgow's
 Lithuania
 Lithuania's
 Lithuanian
@@ -11862,6 +11933,8 @@ Macintosh
 Macintosh's
 Mack
 Mack's
+Mackay
+Mackay's
 Mackenzie
 Mackenzie's
 Mackinac
@@ -11987,6 +12060,8 @@ Mainer's
 Mainers
 Maisie
 Maisie's
+Maitland
+Maitland's
 Maitreya
 Maitreya's
 Maj
@@ -12414,6 +12489,8 @@ Maryann
 Maryann's
 Maryanne
 Maryanne's
+Maryborough
+Maryborough's
 Maryellen
 Maryellen's
 Maryland
@@ -13034,6 +13111,8 @@ Milan's
 Milanese
 Mildred
 Mildred's
+Mildura
+Mildura's
 Miles
 Miles's
 Milford
@@ -13186,6 +13265,8 @@ Mithridates
 Mithridates's
 Mitsubishi
 Mitsubishi's
+Mittagong
+Mittagong's
 Mitterrand
 Mitterrand's
 Mitty
@@ -13206,6 +13287,8 @@ Mnemosyne
 Mnemosyne's
 Mo
 Mo's
+Moama
+Moama's
 Mobil
 Mobil's
 Mobile
@@ -13404,6 +13487,8 @@ Moore
 Moore's
 Moorish
 Moorish's
+Mooroopna
+Mooroopna's
 Moors
 Morales
 Morales's
@@ -13428,6 +13513,8 @@ Morin
 Morin's
 Morison
 Morison's
+Morisset
+Morisset's
 Morita
 Morita's
 Morley
@@ -13465,6 +13552,8 @@ Mortimer
 Mortimer's
 Morton
 Morton's
+Morwell
+Morwell's
 Mosaic
 Mosaic's
 Moscow
@@ -13526,6 +13615,8 @@ Muawiya
 Muawiya's
 Mubarak
 Mubarak's
+Mudgee
+Mudgee's
 Mueller
 Mueller's
 Muenster
@@ -13626,6 +13717,8 @@ Mussolini
 Mussolini's
 Mussorgsky
 Mussorgsky's
+Muswellbrook
+Muswellbrook's
 Mutsuhito
 Mutsuhito's
 Muzak
@@ -14006,6 +14099,8 @@ Nevsky
 Nevsky's
 Newark
 Newark's
+Newborough
+Newborough's
 Newcastle
 Newcastle's
 Newfoundland
@@ -14275,6 +14370,8 @@ Novokuznetsk
 Novokuznetsk's
 Novosibirsk
 Novosibirsk's
+Nowra
+Nowra's
 Noxzema
 Noxzema's
 Noyce
@@ -14967,6 +15064,8 @@ Park
 Park's
 Parker
 Parker's
+Parkes
+Parkes's
 Parkinson
 Parkinson's
 Parkinsonism
@@ -15930,6 +16029,8 @@ Quaternary's
 Quayle
 Quayle's
 Que
+Queanbeyan
+Queanbeyan's
 Quebec
 Quebec's
 Quebecois
@@ -16493,6 +16594,8 @@ Rockefeller
 Rockefeller's
 Rockford
 Rockford's
+Rockhampton
+Rockhampton's
 Rockies
 Rockies's
 Rockne
@@ -16988,6 +17091,8 @@ Salas
 Salas's
 Salazar
 Salazar's
+Sale
+Sale's
 Salem
 Salem's
 Salerno
@@ -17685,6 +17790,8 @@ Shepherd
 Shepherd's
 Sheppard
 Sheppard's
+Shepparton
+Shepparton's
 Sheratan
 Sheratan's
 Sheraton
@@ -18808,6 +18915,8 @@ Tarazed
 Tarazed's
 Tarbell
 Tarbell's
+Taree
+Taree's
 Target
 Target's
 Tarim
@@ -19278,6 +19387,8 @@ Tony
 Tony's
 Tonya
 Tonya's
+Toowoomba
+Toowoomba's
 Topeka
 Topeka's
 Topsy
@@ -19320,6 +19431,8 @@ Townes
 Townes's
 Townsend
 Townsend's
+Townsville
+Townsville's
 Toynbee
 Toynbee's
 Toyoda
@@ -19353,6 +19466,8 @@ Transylvanian's
 Trappist
 Trappist's
 Trappists
+Traralgon
+Traralgon's
 Travis
 Travis's
 Travolta
@@ -19489,6 +19604,8 @@ Tulsidas
 Tulsidas's
 Tums
 Tums's
+Tuncurry
+Tuncurry's
 Tungus
 Tungus's
 Tunguska
@@ -19676,10 +19793,14 @@ Ukraine's
 Ukrainian
 Ukrainian's
 Ukrainians
+Ulladulla
+Ulladulla's
 Ulster
 Ulster's
 Ultrasuede
 Ultrasuede's
+Ulverstone
+Ulverstone's
 Ulyanovsk
 Ulyanovsk's
 Ulysses
@@ -20210,6 +20331,8 @@ Waco
 Waco's
 Wade
 Wade's
+Wagga
+Wagga's
 Wagner
 Wagner's
 Wagnerian
@@ -20286,6 +20409,8 @@ Wanda
 Wanda's
 Wang
 Wang's
+Wangaratta
+Wangaratta's
 Wankel
 Wankel's
 Ward
@@ -20298,8 +20423,12 @@ Waring
 Waring's
 Warner
 Warner's
+Warragul
+Warragul's
 Warren
 Warren's
+Warrnambool
+Warrnambool's
 Warsaw
 Warsaw's
 Warwick
@@ -20409,6 +20538,8 @@ Wendi
 Wendi's
 Wendy
 Wendy's
+Wentworth
+Wentworth's
 Wesak
 Wesak's
 Wesley
@@ -20488,6 +20619,8 @@ Whitsunday's
 Whitsundays
 Whittier
 Whittier's
+Whyalla
+Whyalla's
 WiFi
 Wicca
 Wicca's
@@ -20645,6 +20778,8 @@ Wobegon
 Wobegon's
 Wodehouse
 Wodehouse's
+Wodonga
+Wodonga's
 Wolf
 Wolf's
 Wolfe
@@ -20742,6 +20877,8 @@ Wylie
 Wylie's
 Wynn
 Wynn's
+Wynyard
+Wynyard's
 Wyo
 Wyoming
 Wyoming's
@@ -20890,6 +21027,8 @@ Yemenis
 Yemenite
 Yenisei
 Yenisei's
+Yeppoon
+Yeppoon's
 Yerevan
 Yerevan's
 Yerkes
