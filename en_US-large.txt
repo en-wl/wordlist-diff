@@ -53876,7 +53876,6 @@ comparatives
 comparator
 comparators
 compare
-compare's
 compared
 comparer
 compares
@@ -74120,7 +74119,6 @@ fahlband
 faience
 faience's
 fail
-fail's
 failed
 failing
 failing's
