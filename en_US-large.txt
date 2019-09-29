@@ -30624,6 +30624,7 @@ accessional
 accessioned
 accessioning
 accessions
+accessor
 accessories
 accessorize
 accessorized
@@ -54341,6 +54342,7 @@ completely
 completeness
 completeness's
 completer
+completers
 completes
 completest
 completing
@@ -71069,6 +71071,9 @@ enplane
 enplaned
 enplanes
 enplaning
+enqueue
+enqueued
+enqueues
 enquirer
 enquirers
 enquiringly
@@ -116744,6 +116749,7 @@ parallelism
 parallelism's
 parallelisms
 parallelistic
+parallelization
 parallelize
 parallelized
 parallelizes
@@ -139077,6 +139083,7 @@ serialism
 serialisms
 serialist
 seriality
+serializable
 serialization
 serialization's
 serializations
@@ -161952,6 +161959,7 @@ variableness
 variablenesses
 variables
 variably
+variadic
 variance
 variance's
 variances

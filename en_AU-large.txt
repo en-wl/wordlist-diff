@@ -30473,6 +30473,7 @@ accessional
 accessioned
 accessioning
 accessions
+accessor
 accessories
 accessorise
 accessorised
@@ -54361,6 +54362,7 @@ completely
 completeness
 completeness's
 completer
+completers
 completes
 completest
 completing
@@ -71180,6 +71182,9 @@ enplane
 enplaned
 enplanes
 enplaning
+enqueue
+enqueued
+enqueues
 enquire
 enquired
 enquirer
@@ -117211,6 +117216,7 @@ paralleled
 parallelepiped
 parallelepipeds
 paralleling
+parallelisation
 parallelise
 parallelised
 parallelises
@@ -139604,6 +139610,7 @@ sergeant's
 sergeants
 serial
 serial's
+serialisable
 serialisation
 serialisation's
 serialisations
@@ -162581,6 +162588,7 @@ variableness
 variablenesses
 variables
 variably
+variadic
 variance
 variance's
 variances
