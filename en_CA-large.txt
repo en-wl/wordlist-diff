@@ -81589,6 +81589,7 @@ gilts
 gimbal
 gimbals
 gimbals's
+gimble
 gimcrack
 gimcrack's
 gimcrackery
