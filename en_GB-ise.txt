@@ -23697,6 +23697,7 @@ amine
 amines
 amino
 amiss
+amitriptyline
 amity
 amity's
 ammeter
@@ -37075,6 +37076,7 @@ clone
 clone's
 cloned
 clones
+clonidine
 cloning
 clonk
 clonk's
@@ -45784,6 +45786,7 @@ diatonic
 diatribe
 diatribe's
 diatribes
+diazepam
 dibble
 dibble's
 dibbled
@@ -55752,6 +55755,7 @@ fluoroscope
 fluoroscope's
 fluoroscopes
 fluoroscopic
+fluoxetine
 flurried
 flurries
 flurry
@@ -57553,6 +57557,7 @@ furniture's
 furore
 furore's
 furores
+furosemide
 furred
 furrier
 furrier's
@@ -64592,6 +64597,8 @@ hydrocarbon's
 hydrocarbons
 hydrocephalus
 hydrocephalus's
+hydrochloride
+hydrocortisone
 hydrodynamic
 hydrodynamics
 hydrodynamics's
@@ -76059,6 +76066,7 @@ metered
 metering
 meters
 metes
+metformin
 meth
 methadone
 methadone's
@@ -78863,6 +78871,7 @@ muscularity's
 muscularly
 musculature
 musculature's
+musculoskeletal
 muse
 muse's
 mused
@@ -80043,6 +80052,7 @@ nicotine's
 niece
 niece's
 nieces
+nifedipine
 niff
 niffy
 niftier
@@ -81784,8 +81794,10 @@ oenophile's
 oenophiles
 oesophagi
 oesophagus
+oestradiol
 oestrogen
 oestrogen's
+oestrogens
 oestrous
 oestrus
 oestrus's
@@ -83757,6 +83769,7 @@ owning
 owns
 ox
 ox's
+oxalate
 oxblood
 oxblood's
 oxbow
@@ -86575,6 +86588,7 @@ phenomenon's
 phenomenons
 phenoms
 phenotype
+phenytoin
 pheromone
 pheromone's
 pheromones
@@ -89574,6 +89588,7 @@ predisposing
 predisposition
 predisposition's
 predispositions
+prednisone
 predominance
 predominance's
 predominant
@@ -90968,6 +90983,7 @@ propounding
 propounds
 propped
 propping
+propranolol
 proprietaries
 proprietary
 proprietary's
@@ -113202,6 +113218,7 @@ tobogganing's
 toboggans
 toccata
 toccatas
+tocopherol
 tocsin
 tocsin's
 tocsins
@@ -118843,6 +118860,7 @@ veracity's
 veranda
 veranda's
 verandas
+verapamil
 verb
 verb's
 verbal
@@ -120199,6 +120217,7 @@ wares
 warez
 warfare
 warfare's
+warfarin
 warhead
 warhead's
 warheads

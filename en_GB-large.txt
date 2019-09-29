@@ -33585,6 +33585,7 @@ amirs
 amiss
 amitoses
 amitosis
+amitriptyline
 amity
 amity's
 ammeter
@@ -52553,6 +52554,7 @@ clone
 clone's
 cloned
 clones
+clonidine
 cloning
 clonk
 clonk's
@@ -78234,6 +78236,7 @@ fluorosis
 fluors
 fluorspar
 fluorspars
+fluoxetine
 flurried
 flurries
 flurry
@@ -80602,6 +80605,7 @@ furniture's
 furore
 furore's
 furores
+furosemide
 furred
 furrier
 furrier's
@@ -106434,6 +106438,7 @@ metered
 metering
 meters
 metes
+metformin
 meth
 methacrylate
 methadone
@@ -110293,6 +110298,7 @@ muscularity's
 muscularly
 musculature
 musculature's
+musculoskeletal
 muse
 muse's
 mused
@@ -111968,6 +111974,7 @@ niece's
 nieces
 niello
 nielsbohrium
+nifedipine
 niff
 niffy
 niftier
@@ -121188,6 +121195,7 @@ phenylalanine
 phenylalanines
 phenylamine
 phenylketonuria
+phenytoin
 pheon
 pheromonal
 pheromone
@@ -125534,6 +125542,7 @@ predisposing
 predisposition
 predisposition's
 predispositions
+prednisone
 predominance
 predominance's
 predominancy
@@ -127407,6 +127416,7 @@ propped
 propping
 propr
 propraetor
+propranolol
 proprietaries
 proprietarily
 proprietary
@@ -164761,6 +164771,7 @@ verandah
 verandah's
 verandahs
 verandas
+verapamil
 veratridine
 veratrine
 verb
