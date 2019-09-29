@@ -71831,6 +71831,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learnability
 learnable
