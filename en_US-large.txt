@@ -15402,6 +15402,7 @@ Laconia's
 Laconian
 Laconian's
 Laconians
+Lactobacillus
 Lacy
 Lacy's
 Ladin
@@ -18572,6 +18573,7 @@ Miltiades
 Miltiades's
 Milton
 Milton's
+Miltonian
 Miltonic
 Miltonic's
 Miltown
@@ -115502,6 +115504,12 @@ overspecialize
 overspecialized
 overspecializes
 overspecializing
+overspecific
+overspecification
+overspecified
+overspecifies
+overspecify
+overspecifying
 overspend
 overspending
 overspends
@@ -158302,6 +158310,7 @@ unassertive
 unassertiveness
 unassertivenesses
 unassigned
+unassimilable
 unassimilated
 unassisted
 unassociated

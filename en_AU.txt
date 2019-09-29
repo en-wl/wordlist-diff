@@ -10867,6 +10867,7 @@ Lacey
 Lacey's
 Lachesis
 Lachesis's
+Lactobacillus
 Lacy
 Lacy's
 Ladoga
@@ -12725,6 +12726,7 @@ McIntosh
 McIntosh's
 McIntyre
 McIntyre's
+McJob
 McKay
 McKay's
 McKee
@@ -13149,6 +13151,7 @@ Miltiades
 Miltiades's
 Milton
 Milton's
+Miltonian
 Miltonic
 Miltonic's
 Miltown
@@ -19017,6 +19020,7 @@ Tennessee
 Tennessee's
 Tennyson
 Tennyson's
+Tennysonian
 Tenochtitlan
 Tenochtitlan's
 TensorFlow
@@ -22936,6 +22940,7 @@ agency's
 agenda
 agenda's
 agendas
+agenesis
 agent
 agent's
 agents
@@ -73881,6 +73886,7 @@ lumpectomies
 lumpectomy
 lumped
 lumpen
+lumpenproletariat
 lumpier
 lumpiest
 lumpiness
@@ -76227,6 +76233,7 @@ merit
 merit's
 merited
 meriting
+meritless
 meritocracies
 meritocracy
 meritocracy's
@@ -106567,6 +106574,7 @@ spittoon's
 spittoons
 spiv
 spivs
+splanchnic
 splash
 splash's
 splashdown
@@ -116503,6 +116511,8 @@ unasked
 unassailable
 unassertive
 unassigned
+unassimilable
+unassimilated
 unassisted
 unassuming
 unassumingly
@@ -118851,6 +118861,7 @@ vaginae
 vaginal
 vaginally
 vaginas
+vaginitis
 vagrancy
 vagrancy's
 vagrant
