@@ -9977,6 +9977,8 @@ Friedan
 Friedan's
 Friedman
 Friedman's
+Friedmann
+Friedmann's
 Friedrich
 Friedrich's
 Friend
@@ -41822,6 +41824,9 @@ bioethics
 bioethics's
 biofeedback
 biofeedback's
+biofilm
+biofilm's
+biofilms
 biog
 biogas
 biogen
@@ -41855,6 +41860,9 @@ biology's
 bioluminescence
 bioluminescences
 biolysis
+biomarker
+biomarker's
+biomarkers
 biomass
 biomass's
 biome
@@ -51749,6 +51757,7 @@ clad
 claddagh
 cladding
 cladding's
+clade
 cladism
 cladistic
 cladistics
@@ -59988,6 +59997,7 @@ cyanide
 cyanide's
 cyanine
 cyanite
+cyanobacteria
 cyanocobalamin
 cyanocobalamins
 cyanogen
@@ -72534,7 +72544,9 @@ eucalyptus
 eucalyptus's
 eucalyptuses
 eucaryote
+eucaryote's
 eucaryotes
+eucaryotic
 eucharis
 eucharistic
 euchologion
@@ -72569,6 +72581,7 @@ euglenas
 euhemerism
 euhemerize
 eukaryote
+eukaryote's
 eukaryotes
 eukaryotic
 eulachon
@@ -110082,6 +110095,7 @@ neoconservative
 neoconservative's
 neoconservatives
 neoconservativism
+neocortex
 neodymium
 neodymium's
 neoimpressionism
@@ -124944,7 +124958,9 @@ procambium
 procapitalist
 procarp
 procaryote
+procaryote's
 procaryotes
+procaryotic
 procathedral
 procedural
 procedurally
@@ -125318,6 +125334,7 @@ projector's
 projectors
 projects
 prokaryote
+prokaryote's
 prokaryotes
 prokaryotic
 prolabor

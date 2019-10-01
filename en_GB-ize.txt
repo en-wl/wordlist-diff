@@ -7015,6 +7015,8 @@ Friedan
 Friedan's
 Friedman
 Friedman's
+Friedmann
+Friedmann's
 Friend
 Friend's
 Friends
@@ -28715,6 +28717,7 @@ benignity's
 benignly
 bent
 bent's
+bentonite
 bents
 bentwood
 bentwood's
@@ -29298,6 +29301,9 @@ bioethics
 bioethics's
 biofeedback
 biofeedback's
+biofilm
+biofilm's
+biofilms
 biog
 biographer
 biographer's
@@ -29317,6 +29323,9 @@ biologist's
 biologists
 biology
 biology's
+biomarker
+biomarker's
+biomarkers
 biomass
 biomass's
 biomedical
@@ -36551,6 +36560,7 @@ clacks
 clad
 cladding
 cladding's
+clade
 claim
 claim's
 claimable
@@ -38668,6 +38678,7 @@ compressible
 compressing
 compression
 compression's
+compressive
 compressor
 compressor's
 compressors
@@ -42815,6 +42826,7 @@ cyan
 cyan's
 cyanide
 cyanide's
+cyanobacteria
 cyberbullies
 cyberbully
 cyberbully's
@@ -51969,7 +51981,10 @@ eugenicist's
 eugenicists
 eugenics
 eugenics's
+eukaryote
+eukaryote's
 eukaryotes
+eukaryotic
 eulogies
 eulogist
 eulogist's
@@ -60141,6 +60156,7 @@ greenroom
 greenroom's
 greenrooms
 greens
+greenstone
 greensward
 greensward's
 greenwood
@@ -64645,6 +64661,7 @@ hydrosphere
 hydrosphere's
 hydrotherapy
 hydrotherapy's
+hydrothermal
 hydrous
 hydroxide
 hydroxide's
@@ -78639,6 +78656,7 @@ mullioned
 mullions
 mulls
 multi
+multicellular
 multichannel
 multicoloured
 multicultural
@@ -79687,6 +79705,7 @@ neocons
 neoconservative
 neoconservative's
 neoconservatives
+neocortex
 neodymium
 neodymium's
 neolithic
@@ -86869,6 +86888,7 @@ physiotherapy's
 physique
 physique's
 physiques
+phytoplankton
 pi
 pi's
 pianissimo
@@ -90703,6 +90723,9 @@ projector
 projector's
 projectors
 projects
+prokaryote
+prokaryote's
+prokaryotes
 prokaryotic
 prolapse
 prolapse's
@@ -96768,6 +96791,7 @@ reticulated
 reticulation
 reticulation's
 reticulations
+reticulum
 retie
 retied
 reties
