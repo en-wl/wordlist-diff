@@ -84399,6 +84399,7 @@ palefaces
 palely
 paleness
 paleness's
+paleo
 paleographer
 paleographer's
 paleographers
@@ -105830,6 +105831,7 @@ spaceships
 spacesuit
 spacesuit's
 spacesuits
+spacetime
 spacewalk
 spacewalk's
 spacewalked
