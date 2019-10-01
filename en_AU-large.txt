@@ -164365,6 +164365,7 @@ vulcaniser
 vulcanises
 vulcanising
 vulcanism
+vulcanisms
 vulcanite
 vulcanites
 vulcanological
