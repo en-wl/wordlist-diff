@@ -46375,6 +46375,7 @@ bystanders
 bystreet
 byte
 byte's
+bytecode
 bytes
 byway
 byway's
@@ -60719,6 +60720,8 @@ database's
 databases
 datable
 datary
+dataset's
+datasets
 datatype
 datcha
 date
@@ -60738,6 +60741,7 @@ dater
 dater's
 daters
 dates
+dateset
 dating
 dative
 dative's
@@ -63055,6 +63059,9 @@ deputises
 deputising
 deputy
 deputy's
+dequeue
+dequeued
+dequeues
 der
 deracinate
 deracinated
@@ -94769,6 +94776,7 @@ intriguing
 intriguingly
 intrinsic
 intrinsically
+intrinsics
 intro
 intro's
 introduce
@@ -95614,6 +95622,7 @@ itemiser
 itemises
 itemising
 items
+iterable
 iterate
 iterated
 iterates
@@ -100489,6 +100498,7 @@ lineament
 lineament's
 lineaments
 linear
+linearise
 linearised
 linearity
 linearity's
@@ -114155,6 +114165,7 @@ optimist's
 optimistic
 optimistically
 optimists
+optimizable
 optimum
 optimum's
 optimums
@@ -121248,6 +121259,7 @@ pipefuls
 pipeline
 pipeline's
 pipelines
+pipelining
 piper
 piper's
 piperaceous
@@ -122823,6 +122835,7 @@ polyglots
 polygon
 polygon's
 polygonal
+polygonization
 polygons
 polygraph
 polygraph's
@@ -129231,6 +129244,9 @@ raspings
 rasps
 raspy
 raster
+rasterization
+rasterize
+rasterized
 rasters
 rat
 rat's
@@ -129498,6 +129514,7 @@ reabsorbs
 reabsorption
 reach
 reach's
+reachability
 reachable
 reached
 reacher
@@ -135851,6 +135868,7 @@ runt
 runt's
 runtier
 runtiest
+runtime
 runtish
 runts
 runty
@@ -166204,6 +166222,7 @@ whitepine
 whiter
 whites
 whitesmith
+whitespace
 whitest
 whitetail
 whitetail's

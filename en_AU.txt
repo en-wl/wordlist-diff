@@ -21785,7 +21785,6 @@ accession's
 accessioned
 accessioning
 accessions
-accessor
 accessories
 accessorise
 accessorised
@@ -38832,7 +38831,6 @@ completely
 completeness
 completeness's
 completer
-completers
 completes
 completest
 completing
@@ -43564,6 +43562,8 @@ data
 database
 database's
 databases
+dataset's
+datasets
 datatype
 date
 date's
@@ -43580,6 +43580,7 @@ dater
 dater's
 daters
 dates
+dateset
 dating
 dative
 dative's
@@ -45343,6 +45344,9 @@ deputises
 deputising
 deputy
 deputy's
+dequeue
+dequeued
+dequeues
 derail
 derailed
 derailing
@@ -99011,6 +99015,7 @@ runt
 runt's
 runtier
 runtiest
+runtime
 runts
 runty
 runway
@@ -119113,7 +119118,6 @@ variable
 variable's
 variables
 variably
-variadic
 variance
 variance's
 variances
