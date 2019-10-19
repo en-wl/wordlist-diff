@@ -63299,6 +63299,7 @@ hobo
 hobo's
 hobos
 hobs
+hoc
 hock
 hock's
 hocked
@@ -67184,6 +67185,7 @@ initiator
 initiator's
 initiators
 initiatory
+initio
 inject
 injected
 injecting
@@ -79461,6 +79463,7 @@ naughtiness's
 naughty
 nausea
 nausea's
+nauseam
 nauseate
 nauseated
 nauseates
@@ -103300,6 +103303,7 @@ sitters
 sitting
 sitting's
 sittings
+situ
 situate
 situated
 situates
