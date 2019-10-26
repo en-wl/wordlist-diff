@@ -33964,7 +33964,6 @@ anaesthetically
 anaesthetics
 anaesthetisation
 anaesthetisation's
-anaesthetisations
 anaesthetise
 anaesthetised
 anaesthetises
@@ -34261,6 +34260,7 @@ anesthetic's
 anesthetically
 anesthetics
 anesthetisation
+anesthetisation's
 anesthetise
 anesthetised
 anesthetises

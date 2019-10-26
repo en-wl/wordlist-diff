@@ -33912,7 +33912,6 @@ anaesthetically
 anaesthetics
 anaesthetisation
 anaesthetisation's
-anaesthetisations
 anaesthetise
 anaesthetised
 anaesthetises
@@ -33922,7 +33921,6 @@ anaesthetist's
 anaesthetists
 anaesthetization
 anaesthetization's
-anaesthetizations
 anaesthetize
 anaesthetized
 anaesthetizes
