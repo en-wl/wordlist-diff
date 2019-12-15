@@ -31761,6 +31761,7 @@ aerostation
 aerotherapeutics
 aerothermodynamics
 aerugo
+aery
 aesthesia
 aesthete
 aesthete's
@@ -46885,7 +46886,6 @@ caliphates
 caliphs
 calisaya
 calisayas
-calisthenic
 calisthenics's
 call
 call's
@@ -46928,6 +46928,7 @@ callipers
 callipygean
 callipygian
 callipygous
+callisthenic
 callisthenics
 callosities
 callosity
@@ -64883,7 +64884,6 @@ digitalis
 digitalis's
 digitalise
 digitalised
-digitalises
 digitalising
 digitalism
 digitalize
@@ -66475,6 +66475,8 @@ disruptive
 disruptively
 disruptor
 disrupts
+diss
+diss's
 dissatisfaction
 dissatisfaction's
 dissatisfactory
@@ -66538,6 +66540,7 @@ disserve
 disservice
 disservice's
 disservices
+disses
 dissever
 dissevered
 dissevering
@@ -74924,6 +74927,9 @@ eyot
 eyra
 eyras
 eyre
+eyrie
+eyrie's
+eyries
 eyrir
 f
 fMRI
@@ -141657,7 +141663,6 @@ shames
 shaming
 shammed
 shammer
-shammies
 shamming
 shampoo
 shampoo's

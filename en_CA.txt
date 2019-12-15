@@ -22559,6 +22559,7 @@ aerosol's
 aerosols
 aerospace
 aerospace's
+aery
 aesthete
 aesthete's
 aesthetes
@@ -32684,6 +32685,9 @@ busload
 busloads
 buss
 buss's
+bussed
+busses
+bussing
 bust
 bust's
 busted
@@ -47283,6 +47287,7 @@ dissertations
 disservice
 disservice's
 disservices
+disses
 dissever
 dissevered
 dissevering
@@ -64177,6 +64182,7 @@ hovels
 hover
 hovercraft
 hovercraft's
+hovercrafts
 hovered
 hovering
 hovers
@@ -92634,6 +92640,7 @@ rabies
 rabies's
 raccoon
 raccoon's
+raccoons
 race
 race's
 racecourse

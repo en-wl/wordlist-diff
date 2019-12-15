@@ -31689,6 +31689,7 @@ aerostation
 aerotherapeutics
 aerothermodynamics
 aerugo
+aery
 aesthesia
 aesthete
 aesthete's
@@ -45943,6 +45944,9 @@ busman
 busmen
 buss
 buss's
+bussed
+busses
+bussing
 bust
 bust's
 bustard
@@ -46693,6 +46697,7 @@ callipers
 callipygean
 callipygian
 callipygous
+callisthenic
 callisthenics
 callosities
 callosity
@@ -65829,6 +65834,8 @@ disruptive
 disruptively
 disruptor
 disrupts
+diss
+diss's
 dissatisfaction
 dissatisfaction's
 dissatisfactory
@@ -65891,6 +65898,7 @@ disserve
 disservice
 disservice's
 disservices
+disses
 dissever
 dissevered
 dissevering
@@ -74194,6 +74202,9 @@ eyot
 eyra
 eyras
 eyre
+eyrie
+eyrie's
+eyries
 eyrir
 f
 fMRI
@@ -139939,7 +139950,6 @@ shames
 shaming
 shammed
 shammer
-shammies
 shamming
 shampoo
 shampoo's

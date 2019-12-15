@@ -32002,6 +32002,7 @@ aerostatics
 aerostation
 aerotherapeutics
 aerothermodynamics
+aery
 aesthete
 aesthete's
 aesthetes
@@ -46163,6 +46164,9 @@ busman
 busmen
 buss
 buss's
+bussed
+busses
+bussing
 bust
 bust's
 bustard
@@ -65991,6 +65995,7 @@ disserve
 disservice
 disservice's
 disservices
+disses
 dissever
 dissevered
 dissevering
@@ -139649,7 +139654,6 @@ shames
 shaming
 shammed
 shammer
-shammies
 shamming
 shampoo
 shampoo's

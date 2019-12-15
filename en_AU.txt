@@ -22734,6 +22734,7 @@ aerosol's
 aerosols
 aerospace
 aerospace's
+aery
 aesthete
 aesthete's
 aesthetes
@@ -33427,7 +33428,6 @@ caliphate
 caliphate's
 caliphates
 caliphs
-calisthenic
 calisthenics's
 call
 call's
@@ -33457,6 +33457,7 @@ callings
 calliope
 calliope's
 calliopes
+callisthenic
 callisthenics
 callosities
 callosity
@@ -47578,6 +47579,7 @@ dissertations
 disservice
 disservice's
 disservices
+disses
 dissever
 dissevered
 dissevering
@@ -64516,6 +64518,7 @@ hovels
 hover
 hovercraft
 hovercraft's
+hovercrafts
 hovered
 hovering
 hovers
@@ -93062,6 +93065,7 @@ rabies
 rabies's
 raccoon
 raccoon's
+raccoons
 race
 race's
 racecourse
