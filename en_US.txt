@@ -25344,6 +25344,10 @@ apprise
 apprised
 apprises
 apprising
+apprize
+apprized
+apprizes
+apprizing
 approach
 approach's
 approachable
