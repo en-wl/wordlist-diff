@@ -10586,10 +10586,6 @@ Koontz
 Koontz's
 Koppel
 Koppel's
-Koran
-Koran's
-Koranic
-Korans
 Korea
 Korea's
 Korean
@@ -15960,6 +15956,8 @@ Qumran
 Qumran's
 Quonset
 Quonset's
+Quran
+Quranic
 R
 R's
 RAF
