@@ -53612,6 +53612,7 @@ colophonies
 colophons
 colophony
 coloquintida
+colorado
 coloration
 coloration's
 coloratura
@@ -53635,7 +53636,6 @@ colotomy
 colour
 colour's
 colourable
-colourado
 colourant
 colourant's
 colourants

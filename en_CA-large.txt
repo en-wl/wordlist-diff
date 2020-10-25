@@ -53412,6 +53412,7 @@ coloquintida
 color
 color's
 colorable
+colorado
 colorant
 colorant's
 colorants
@@ -53467,7 +53468,6 @@ colotomy
 colour
 colour's
 colourable
-colourado
 colourant
 colourant's
 colourants
