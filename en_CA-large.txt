@@ -30618,7 +30618,6 @@ achondrites
 achondroplasia
 achondroplasias
 achoo
-achoo's
 achromat
 achromatic
 achromatically
@@ -111686,7 +111685,6 @@ nonresident's
 nonresidential
 nonresidents
 nonresidual
-nonresidual's
 nonresistance
 nonresistance's
 nonresistant
@@ -145650,7 +145648,6 @@ spondylitises
 sponge
 sponge's
 spongecake
-spongecake's
 sponged
 sponger
 sponger's
