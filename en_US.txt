@@ -36853,6 +36853,8 @@ cirrhotics
 cirri
 cirrus
 cirrus's
+cis
+cisgender
 cistern
 cistern's
 cisterns
