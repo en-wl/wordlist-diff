@@ -28029,9 +28029,6 @@ barony
 barony's
 baroque
 baroque's
-barque
-barque's
-barques
 barrack
 barrack's
 barracked
