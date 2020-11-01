@@ -4505,6 +4505,7 @@ COD
 COL
 COLA
 CORE
+COVID
 CP
 CPA
 CPA's
@@ -57280,6 +57281,9 @@ coronas
 coronation
 coronation's
 coronations
+coronavirus
+coronavirus's
+coronaviruses
 coroner
 coroner's
 coroners

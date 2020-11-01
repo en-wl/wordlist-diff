@@ -3192,6 +3192,7 @@ COBOLs
 COD
 COL
 COLA
+COVID
 CPA
 CPA's
 CPI
@@ -40598,6 +40599,9 @@ coronas
 coronation
 coronation's
 coronations
+coronavirus
+coronavirus's
+coronaviruses
 coroner
 coroner's
 coroners
