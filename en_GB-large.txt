@@ -8042,8 +8042,6 @@ Dumbledore's
 Dumbo
 Dumbo's
 Dumfries
-Dumpster
-Dumpster's
 Dumuzi
 Dumuzi's
 Dumyat
@@ -110864,8 +110862,6 @@ name
 name's
 nameable
 named
-namedrop
-namedropping
 namedropping's
 nameless
 namelessly
@@ -147402,7 +147398,6 @@ spondylitis
 spondylitises
 sponge
 sponge's
-spongecake
 sponged
 sponger
 sponger's
