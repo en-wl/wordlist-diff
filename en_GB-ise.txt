@@ -36908,6 +36908,7 @@ cliches
 click
 click's
 clickable
+clickbait
 clicked
 clicker
 clicker's
