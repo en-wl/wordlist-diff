@@ -44357,6 +44357,9 @@ deepening
 deepens
 deeper
 deepest
+deepfake
+deepfake's
+deepfakes
 deeply
 deepness
 deepness's

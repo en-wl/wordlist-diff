@@ -61946,6 +61946,9 @@ deepening
 deepens
 deeper
 deepest
+deepfake
+deepfake's
+deepfakes
 deepfreeze
 deepfreezes
 deepfroze
