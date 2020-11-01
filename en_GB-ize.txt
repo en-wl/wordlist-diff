@@ -68156,6 +68156,8 @@ intersected
 intersecting
 intersection
 intersection's
+intersectional
+intersectionality
 intersections
 intersects
 intersession
