@@ -60456,6 +60456,9 @@ cynosures
 cyperaceous
 cypher
 cypher's
+cyphered
+cyphering
+cyphers
 cypress
 cypress's
 cypresses
