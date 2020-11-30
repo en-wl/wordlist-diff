@@ -972,6 +972,8 @@ Antichrist's
 Antichrists
 Antietam
 Antietam's
+Antifa
+Antifa's
 Antigone
 Antigone's
 Antigua
@@ -10950,6 +10952,7 @@ Latino
 Latino's
 Latinos
 Latins
+Latinx
 Latisha
 Latisha's
 Latonya
@@ -29961,6 +29964,9 @@ blockbuster's
 blockbusters
 blockbusting
 blockbusting's
+blockchain
+blockchain's
+blockchains
 blocked
 blocker
 blocker's
@@ -36314,6 +36320,9 @@ chutzpah
 chutzpah's
 chyme
 chyme's
+chyron
+chyron's
+chyrons
 ciabatta
 ciabatta's
 ciabattas
@@ -54194,6 +54203,8 @@ fenestration's
 fennel
 fennel's
 fens
+fentanyl
+fentanyl's
 fer
 feral
 ferment
@@ -63208,6 +63219,9 @@ hitting
 hive
 hive's
 hived
+hivemind
+hivemind's
+hiveminds
 hives
 hiving
 hiya
@@ -64152,6 +64166,9 @@ hovel
 hovel's
 hovels
 hover
+hoverboard
+hoverboard's
+hoverboards
 hovercraft
 hovercraft's
 hovercrafts
@@ -67762,6 +67779,8 @@ integrity's
 integument
 integument's
 integuments
+intel
+intel's
 intellect
 intellect's
 intellects
@@ -69993,6 +70012,8 @@ ketch's
 ketches
 ketchup
 ketchup's
+keto
+ketogenic
 ketone
 ketones
 kettle
@@ -76272,6 +76293,7 @@ microorganisms
 microphone
 microphone's
 microphones
+microplastics
 microprocessor
 microprocessor's
 microprocessors
@@ -82254,6 +82276,9 @@ opinion
 opinion's
 opinionated
 opinions
+opioid
+opioid's
+opioids
 opium
 opium's
 opossum
@@ -109556,6 +109581,9 @@ supersized
 supersizes
 supersizing
 supersonic
+superspreader
+superspreader's
+superspreaders
 superstar
 superstar's
 superstardom
@@ -114338,6 +114366,9 @@ transparency
 transparency's
 transparent
 transparently
+transphobia
+transphobia's
+transphobic
 transpiration
 transpiration's
 transpire
