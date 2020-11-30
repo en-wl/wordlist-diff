@@ -34044,6 +34044,7 @@ analytic
 analytical
 analyticalally
 analytically
+analytics
 anamneses
 anamnesis
 anamorphic
@@ -62283,6 +62284,7 @@ delitescent
 deliver
 deliverability
 deliverable
+deliverables
 deliverance
 deliverance's
 delivered

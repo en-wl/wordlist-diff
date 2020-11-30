@@ -24114,6 +24114,7 @@ analysts
 analytic
 analytical
 analytically
+analytics
 anapest
 anapest's
 anapestic
@@ -42618,6 +42619,7 @@ cryosurgery
 cryosurgery's
 crypt
 crypt's
+cryptanalysis
 cryptic
 cryptically
 cryptocurrencies
@@ -44769,6 +44771,7 @@ deliriums
 delis
 deliver
 deliverable
+deliverables
 deliverance
 deliverance's
 delivered
@@ -77404,6 +77407,7 @@ mischievousness's
 miscibility
 miscibility's
 miscible
+misclassified
 miscommunication
 miscommunications
 misconceive
@@ -114684,6 +114688,7 @@ transacted
 transacting
 transaction
 transaction's
+transactional
 transactions
 transactor
 transactor's
@@ -114759,6 +114764,7 @@ transform's
 transformable
 transformation
 transformation's
+transformational
 transformations
 transformed
 transformer

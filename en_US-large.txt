@@ -34140,6 +34140,7 @@ analytic
 analytical
 analyticalally
 analytically
+analytics
 analyzable
 analyze
 analyzed
@@ -62218,6 +62219,7 @@ delitescent
 deliver
 deliverability
 deliverable
+deliverables
 deliverance
 deliverance's
 delivered
