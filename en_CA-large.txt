@@ -49036,6 +49036,9 @@ centillion
 centime
 centime's
 centimes
+centimeter
+centimeter's
+centimeters
 centimetre
 centimetre's
 centimetres
@@ -60968,6 +60971,7 @@ decagonal
 decagonally
 decagons
 decagram
+decagram's
 decagrams
 decahedra
 decahedral
@@ -60984,11 +60988,16 @@ decalcifying
 decalcomania
 decalcomanias
 decalescence
+decaliters
 decalitre
+decalitre's
 decalitres
 decalogue
 decals
+decameter
+decameters
 decametre
+decametre's
 decametres
 decamp
 decamped
@@ -61154,6 +61163,9 @@ decimating
 decimation
 decimation's
 decimator
+decimeter
+decimeter's
+decimeters
 decimetre
 decimetre's
 decimetres
@@ -61951,10 +61963,6 @@ dejection's
 dejects
 dekagram
 dekagrams
-dekalitre
-dekalitres
-dekametre
-dekametres
 dekko
 dekkos
 del
@@ -86423,6 +86431,9 @@ hectographing
 hectographs
 hectolitre
 hectolitres
+hectometer
+hectometer's
+hectometers
 hectometre
 hectometre's
 hectometres
@@ -97226,9 +97237,6 @@ kilograms
 kilohertz
 kilohertz's
 kilojoules
-kiloliter
-kiloliter's
-kiloliters
 kilolitre
 kilolitre's
 kilolitres
@@ -106114,6 +106122,9 @@ millilitre's
 millilitres
 millime
 millimes
+millimeter
+millimeter's
+millimeters
 millimetre
 millimetre's
 millimetres

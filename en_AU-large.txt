@@ -61156,6 +61156,9 @@ decagonal
 decagonally
 decagons
 decagram
+decagram's
+decagramme
+decagramme's
 decagrams
 decahedra
 decahedral
@@ -61172,11 +61175,15 @@ decalcifying
 decalcomania
 decalcomanias
 decalescence
+decaliters
 decalitre
+decalitre's
 decalitres
 decalogue
 decals
+decameters
 decametre
+decametre's
 decametres
 decamp
 decamped
@@ -62134,13 +62141,7 @@ dejection
 dejection's
 dejects
 dekagram
-dekagramme
-dekagrammes
 dekagrams
-dekalitre
-dekalitres
-dekametre
-dekametres
 dekko
 dekkos
 del
@@ -105891,6 +105892,7 @@ microfloppies
 microfloppy
 microgamete
 microgram
+microgramme
 micrograms
 micrograph
 micrography
@@ -109917,6 +109919,7 @@ nanny
 nanny's
 nanobot
 nanobots
+nanogrammes
 nanoid
 nanometre
 nanometres
