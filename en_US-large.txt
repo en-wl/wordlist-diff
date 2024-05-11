@@ -11027,7 +11027,6 @@ Graciela's
 Grady
 Grady's
 Graeae
-Graecize
 Graf
 Graf's
 Graffias
@@ -11081,7 +11080,6 @@ Graz
 Greater
 Grecian
 Grecian's
-Grecise
 Grecism
 Grecize
 Greco
@@ -83489,6 +83487,7 @@ greaves
 grebe
 grebe's
 grebes
+grecize
 gree
 greed
 greed's
