@@ -51828,6 +51828,7 @@ escutcheon's
 escutcheons
 esophageal
 esophagi
+esophagus
 esophagus's
 esoteric
 esoterically
@@ -81884,7 +81885,6 @@ oenology's
 oenophile
 oenophile's
 oenophiles
-oesophagus
 oestradiol
 oeuvre
 oeuvre's

@@ -72197,6 +72197,7 @@ eserine
 esker
 esophageal
 esophagi
+esophagus
 esophagus's
 esophaguses
 esoteric
@@ -113265,7 +113266,6 @@ oenophilists
 oersted
 oersteds
 oesophagitis
-oesophagus
 oestradiol
 oestrin
 oestriol
