@@ -61155,9 +61155,7 @@ decagonal
 decagonally
 decagons
 decagram
-decagram's
 decagramme
-decagramme's
 decagrammes
 decagrams
 decahedra
@@ -61175,15 +61173,11 @@ decalcifying
 decalcomania
 decalcomanias
 decalescence
-decaliters
 decalitre
-decalitre's
 decalitres
 decalogue
 decals
-decameters
 decametre
-decametre's
 decametres
 decamp
 decamped
@@ -62140,8 +62134,6 @@ dejecting
 dejection
 dejection's
 dejects
-dekagram
-dekagrams
 dekko
 dekkos
 del

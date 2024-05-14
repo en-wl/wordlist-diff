@@ -61092,7 +61092,6 @@ decagonal
 decagonally
 decagons
 decagram
-decagram's
 decagrams
 decahedra
 decahedral
@@ -62070,13 +62069,10 @@ dejection
 dejection's
 dejects
 dekagram
-dekagram's
 dekagrams
 dekaliter
-dekaliter's
 dekaliters
 dekameter
-dekameter's
 dekameters
 dekko
 dekkos
