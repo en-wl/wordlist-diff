@@ -103142,7 +103142,6 @@ mantels
 mantelshelf
 mantelshelves
 manteltree
-mantes
 mantic
 mantilla
 mantilla's
