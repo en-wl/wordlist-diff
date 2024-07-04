@@ -50428,7 +50428,6 @@ cheque's
 chequebook
 chequebook's
 chequebooks
-chequed
 chequer
 chequer's
 chequerboard
@@ -50439,7 +50438,6 @@ chequering
 chequers
 chequers's
 cheques
-chequing
 cherely
 cherimoya
 cherimoyas
