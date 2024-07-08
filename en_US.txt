@@ -79027,7 +79027,6 @@ mugshots
 mugwump
 mugwump's
 mugwumps
-mujaheddin
 mukluk
 mukluk's
 mukluks
@@ -105130,9 +105129,9 @@ snowplowed
 snowplowing
 snowplows
 snows
-snowshed
 snowshoe
 snowshoe's
+snowshoed
 snowshoeing
 snowshoes
 snowstorm

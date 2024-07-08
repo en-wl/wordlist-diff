@@ -108820,11 +108820,9 @@ mugwump
 mugwump's
 mugwumpery
 mugwumps
-mujaheddin
 mujahedin
 mujahedin's
 mujahideen
-mujahidin
 mujik
 mujiks
 mukluk
@@ -143655,6 +143653,7 @@ snowplowed
 snowplowing
 snowplows
 snows
+snowshed
 snowshoe
 snowshoe's
 snowshoed
