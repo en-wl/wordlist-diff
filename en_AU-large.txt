@@ -121253,9 +121253,6 @@ pinny
 pinochle
 pinochle's
 pinole
-pinon
-pinon's
-pinons
 pinpoint
 pinpoint's
 pinpointed
@@ -121587,9 +121584,6 @@ pizzicato's
 piñata
 piñata's
 piñatas
-piñon
-piñon's
-piñons
 pj's
 pk
 pkg
