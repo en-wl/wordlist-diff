@@ -1,0 +1,5 @@
+Run this:
+  update.sh: this will update an already populated git-disk
+
+setup.sh: setup the git-disk repo
+init.sh: create the tmp git repo
