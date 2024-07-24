@@ -129,6 +129,7 @@ Missing words, unclassified:
   latices
   lats
   lavs
+  lbs
   lingerings
   lipsticked
   matzohs
@@ -217,7 +218,7 @@ Missing words, unclassified:
   wounder
   yest
   yieldings
-total: 142
+total: 143
 
 Missing words, common variant:
   airguns

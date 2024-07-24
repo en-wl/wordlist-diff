@@ -206002,8 +206002,6 @@
 
 80: LBO <n/abbr?>: LBOs-
 
-60: lbs. <abbr>
-
 80 [moby]: lb. t. <abbr>
 
 55: lbw

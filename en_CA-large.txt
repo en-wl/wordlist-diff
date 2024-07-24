@@ -102991,7 +102991,6 @@ lazybones
 lazybones's
 lazying
 lb
-lbs
 lbw
 lea
 leach
