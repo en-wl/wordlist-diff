@@ -1032,6 +1032,7 @@ Missing words, ok, variant:
   Curacao
   Reunion
   anchorpeople
+  anyways
   birdying
   congresspeople
   druggy
@@ -1049,5 +1050,5 @@ Missing words, ok, variant:
   tsarists
   unpeople
   zloties
-total: 20
+total: 21
 
