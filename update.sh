@@ -9,8 +9,8 @@ git checkout master
 git reset --hard src/master
 git clean -xfd
 
-git fetch diff
-git branch -f diff diff/diff
+#git fetch diff
+#git branch -f diff diff/diff
 
 cd ..
 

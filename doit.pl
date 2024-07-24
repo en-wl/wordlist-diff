@@ -70,7 +70,7 @@ while (<HIST>) {
     my ($new) = /~ ([a-z0-9]+) ~/ or die;
     my ($orig) = /= ([a-z0-9]+)\s+===/s or die;
     my $failed = 1 if /^BUILD FAILED./m;
-    die unless defined $commits{$orig};
+    next unless defined $commits{$orig};
     $commits{$orig}->{newId} = $new; # option A
     #$commits{$orig}->{cached} = $new; # option B
     $commits{$orig}->{failed} = 1 if $failed;
@@ -136,6 +136,7 @@ foreach my $c (@commits) {
         chdir $dir or die;
         if ($err) {
             print STDERR "BUILD FAILED: $@\n";
+            die;
             sys "rm -rf wordlists";
             my $pid = $commits{$c->{parentsId}[0]}{newId};
             sys "git read-tree --prefix=wordlists $pid && git checkout-index -a";
