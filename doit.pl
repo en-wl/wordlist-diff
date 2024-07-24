@@ -18,6 +18,7 @@ my @SKIP = qw(
   2b059cba6b70b229c28d318b02becd463cd0848a
   a2748fbba2cf45a739076ad319f4c0adba280653
   a8793decec1bc146760126dd65698ed3f955f687
+  0ff67eb0ba18648fbf0a55b69962038401d5074c
 );
 my %SKIP;
 foreach (@SKIP) {$SKIP{$_} = 1}
@@ -33,7 +34,7 @@ foreach (@PRUNE) {$PRUNE{$_} = 1}
 
 my @commits;
 my %commits;
-open HIST, "git log scowl-7.0^..master --reverse --pretty='format:%H %P' |";
+open HIST, "git log scowl-7.0^..v2 --reverse --pretty='format:%H %P' |";
 while (<HIST>) {
     chomp;
     my @d = split / /;
@@ -48,7 +49,7 @@ while (<HIST>) {
 $commits[0]{parentsId} = [];
 
 $commits[0]->{w_change} = 1;
-my $GIT="git log scowl-7.0^..master --pretty='format:%H' ";
+my $GIT="git log scowl-7.0^..v2 --pretty='format:%H' ";
 my $FILTER = "-- . ':!site/' ':!.misc/' ':!**/README*' ':!README*'";
 open HIST, "($GIT $FILTER && echo && $GIT --first-parent --merges $FILTER && echo) | ";
 while (<HIST>) {
@@ -96,8 +97,8 @@ sub sys ($) {
 undef $/;
 foreach my $c (@commits) {
     next if defined $c->{newId};
-    sys "git clean -x -d -f";
     sys "git reset --hard";
+    sys "git clean -x -d -f";
     sys "git checkout $c->{id}";
     open F, "git log -1 --pretty='format:%an%x00%ae%x00%ad%x00%B' |";
     my ($name,$email,$date,$msg) = split /\0/, <F>;
@@ -121,14 +122,23 @@ foreach my $c (@commits) {
     } elsif ($c->{w_change} && !$SKIP{$c->{id}}) {
         my $dir = getcwd;
         eval {
-            sys "make -C scowl l/levels-list 2> /dev/null";
-            sys "make && mkdir scowl/speller/hunspell && make -C scowl/speller hunspell";
+            my $spellerPath;
+            if (-d 'scowl/final') {
+                sys "make -C scowl l/levels-list 2> /dev/null";
+                sys "make && mkdir scowl/speller/hunspell && make -C scowl/speller hunspell";
+                sys "ln -s scowl/speller speller";
+            } elsif (-d 'libscowl') {
+                sys "make";
+                sys "make -C speller hunspell";
+            } else {
+                die
+            }
             mkdir "wordlists" or die;
             chdir "wordlists" or die;
-            if (-e '../scowl/speller/hunspell/wordlist-en_US.zip') {
-                sys 'for f in ../scowl/speller/hunspell/wordlist-en_*.zip; do unzip -a -n $f; done';
+            if (-e '../speller/hunspell/wordlist-en_US.zip') {
+                sys 'for f in ../speller/hunspell/wordlist-en_*.zip; do unzip -a -n $f; done';
             } else {
-                sys 'for f in ../scowl/speller/*.tocheck; do cp $f `basename $f .tocheck`.txt; done';
+                sys 'for f in ../speller/*.tocheck; do cp $f `basename $f .tocheck`.txt; done';
             }
             sys "git update-index --add en_*.txt";
         };

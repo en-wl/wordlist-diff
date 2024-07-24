@@ -5,8 +5,8 @@ set -ex
 cd git-disk
 
 git fetch src
-git checkout master
-git reset --hard src/master
+git checkout v2
+git reset --hard src/v2
 git clean -xfd
 
 #git fetch diff
@@ -14,7 +14,7 @@ git clean -xfd
 
 cd ..
 
-sh init.sh
+if ! mountpoint -q git; then sh init.sh; fi
 
 cd git
 perl ../doit.pl
