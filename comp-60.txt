@@ -845,13 +845,14 @@ New words, ok, other:
   metaverses
   mujahideen
   presidiums
+  referenda
   relit
   sou'westers
   specced
   speccing
   woker
   wokest
-total: 33
+total: 34
 
 Missing words, ok, archaic:
   begat

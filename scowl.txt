@@ -309902,7 +309902,7 @@
 
 80 [ukacd]: referendary
 
-35: referendum <n>: (referendums | ~: referenda)
+35: referendum <n>: (referendums | .: referenda)
 
 50 [ukfreq]: referent <n>
 60: referent <n>: referents
