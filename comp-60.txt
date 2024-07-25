@@ -847,12 +847,14 @@ New words, ok, other:
   presidiums
   referenda
   relit
+  résumé
+  résumés
   sou'westers
   specced
   speccing
   woker
   wokest
-total: 34
+total: 36
 
 Missing words, ok, archaic:
   begat

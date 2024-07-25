@@ -314688,7 +314688,11 @@
 
 70 [5desk]: resumable
 
-35: resume <n_v>: resumed, resuming, resumes
+35: resume <v>: resumed, resuming, resumes
+
+50 [extra]: _: résumé <n>: résumés
+50 [extra]: _v: resume <n>: resumes
+50 [extra]: _V: resumé <n>: resumés
 
 80: resumer <n>: resumers
 
