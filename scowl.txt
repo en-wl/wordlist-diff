@@ -394481,8 +394481,8 @@
 
 80 [ukacd]: unbeing
 
-50: A Bv C: unbeknownst <aj_av>
-50: A= B Cv: unbeknown <aj_av>
+50: A B. C: unbeknownst <aj_av>
+50: Av B Cv: unbeknown <aj_av>
 
 50: unbelief <n> # fixme: unbeliefs: check if variant
 65: - <n>: (unbelieves-† | -: unbeliefs~)
