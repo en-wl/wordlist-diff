@@ -852,10 +852,10 @@
 
 70 [moby]: about-ship
 
-35: above <aj_av>
-
 35: above <n>
 80: - <n>: aboves~
+
+35: above <aj_av>
 
 35: above <pp>
 
@@ -1647,9 +1647,9 @@
 
 70 [5desk]: accelerandi
 
-70 [5desk] [moby]: accelerando <aj_av>
-
 70 [5desk] [moby]: accelerando <n>: accelerandos
+
+70 [5desk] [moby]: accelerando <aj_av>
 
 70 [moby]: accelerant <n>: accelerants
 
@@ -3397,9 +3397,9 @@
 
 80: adagial
 
-50: adagio <aj_av>
-
 50: adagio <n>: adagios
+
+50: adagio <aj_av>
 
 80 [moby]: Adah <n/place>
 
@@ -7611,11 +7611,11 @@
 
 80 [ukacd]: alablaster
 
-35: à la carte <aj_av> # accented
-35: _~: a la carte <aj_av> # need-accent
-
 35: à la carte <n> # accented
 35: _~: a la carte <n> # need-accent
+
+35: à la carte <aj_av> # accented
+35: _~: a la carte <aj_av> # need-accent
 
 80 [moby]: Alachua <n/place>
 
@@ -9105,15 +9105,15 @@
 
 80 [moby]: Allegre <n/place>
 
-60: allegretto <aj_av>
-
 60: allegretto <n>: allegrettos
+
+60: allegretto <aj_av>
 
 80 [ukacd]: Allegri </upper?>
 
-50: allegro <aj_av>
-
 50: allegro <n>: allegros
+
+50: allegro <aj_av>
 
 80 [ukacd]: allel <n>: allels
 
@@ -12839,9 +12839,9 @@
 
 70 [moby]: Andaman Sea <n/upper>
 
-50: andante <aj_av>
-
 50: andante <n>: andantes
+
+50: andante <aj_av>
 
 80: andantini
 
@@ -27199,10 +27199,10 @@
 50 [ukfreq]: backstabbing <n>
 80: - <n>: backstabbings
 
-35: backstage <aj_av>
-
 35: backstage <n>: backstage's
 80: - <n>: backstages~
+
+35: backstage <aj_av>
 
 60: backstair <aj>
 
@@ -27443,10 +27443,10 @@
 
 80: baculum <n>: baculums
 
-35: bad <aj_av>: worse†, worst†
-
 35: bad <n>
 80: - <n>: bads~
+
+35: bad <aj_av>: worse†, worst†
 
 35: bad <aj_av> {slang}: badder, baddest
 
@@ -31876,9 +31876,9 @@
 50: beastliness <n>
 80: - <n>: beastlinesses~
 
-50: beastly <aj_av>: beastlier, beastliest
-
 50: beastly <n>
+
+50: beastly <aj_av>: beastlier, beastliest
 
 50: beast of burden <n>
 
@@ -33027,9 +33027,9 @@
 
 80 [ukacd]: behight
 
-35: behind <aj_av>
-
 35: behind <n>: behinds, behind's
+
+35: behind <aj_av>
 
 35: behind <pp>
 
@@ -36763,9 +36763,9 @@
 
 80: bimolecularly
 
-40: bimonthly <aj_av>
-
 40: bimonthly <n>: bimonthlies
+
+40: bimonthly <aj_av>
 
 80: bimorph <n>: bimorphs
 
@@ -38021,10 +38021,10 @@
 
 80 [ukacd]: bitte
 
-35: bitter <aj_av>: bitterer, bitterest
-
 35: bitter <n>: bitter's
 80: - <n>: bitters~
+
+35: bitter <aj_av>: bitterer, bitterest
 
 70 [5desk] [moby]: bitter- <v>: bittered, bittering, bitters
 
@@ -38152,9 +38152,9 @@
 
 80 [moby]: Biwabik <n/place>
 
-40: biweekly <aj_av>
-
 40: biweekly <n>: biweeklies
+
+40: biweekly <aj_av>
 
 80 [ukacd]: bi-weekly <n>: bi-weeklies
 
@@ -39884,9 +39884,9 @@
 
 80: bloodwort <n>: bloodworts
 
-35: bloody <aj_av>: bloodier, bloodiest
-
 35: bloody <v>: bloodied, bloodying, bloodies
+
+35: bloody <aj_av>: bloodier, bloodiest
 
 60: Bloody Mary <n/upper>: Bloody Marys
 
@@ -67783,9 +67783,9 @@
 
 80 [moby]: cle <suf>
 
-35: clean <aj_av>: cleaner, cleanest
-
 35: clean <v>: cleaned, cleaning, cleans
+
+35: clean <aj_av>: cleaner, cleanest
 
 70 [5desk] [moby]: clean- <n>
 
@@ -89608,9 +89608,9 @@
 60: dailiness <n>
 80: - <n>: dailinesses~
 
-35: daily <aj_av>
-
 35: daily <n>: dailies
+
+35: daily <aj_av>
 
 60: daily double <n>
 
@@ -91374,9 +91374,9 @@
 
 80: deactivator <n>: deactivators
 
-35: dead <aj_av>: deader, deadest
-
 35: dead <n>: (dead | -: deads-) # fixme: deads: check if variant
+
+35: dead <aj_av>: deader, deadest
 
 70 [moby]: dead-and-alive
 
@@ -91634,9 +91634,9 @@
 
 80 [moby]: Deanville <n/place>
 
-35: dear <aj_av>: dearer, dearest
-
 35: dear <n>: dears, dear's
+
+35: dear <aj_av>: dearer, dearest
 
 35: dear <i>
 
@@ -93188,9 +93188,9 @@
 
 50: Deena <n/person>: Deena's
 
-35: deep <aj_av>: deeper, deepest
-
 35: deep <n>: deeps, deep's
+
+35: deep <aj_av>: deeper, deepest
 
 70 [moby]: deep-dyed
 
@@ -101411,9 +101411,9 @@
 
 35: dire <aj>: direr, direst
 
-35: direct <aj_av>: directer, directest
-
 35: direct <v>: directed, directing, directs
+
+35: direct <aj_av>: directer, directest
 
 60: direct action <n>
 
@@ -107956,9 +107956,9 @@
 60: downheartedness <n>
 80: - <n>: downheartednesses~
 
-35: downhill <aj_av>
-
 35: downhill <n>: downhills, downhill's
+
+35: downhill <aj_av>
 
 80: downhiller <n>: downhillers
 
@@ -108070,9 +108070,9 @@
 
 80: downstair <aj>
 
-35: downstairs <aj_av>
-
 35: downstairs <n>
+
+35: downstairs <aj_av>
 
 40: downstate <n>
 80: - <n>: downstates~
@@ -108105,10 +108105,10 @@
 
 40: down-to-earth <aj>
 
-35: downtown <aj_av>
-
 35: downtown <n>
 80: - <n>: downtowns~
+
+35: downtown <aj_av>
 
 80 [ukacd]: down-town
 
@@ -110265,9 +110265,9 @@
 
 40: duds
 
-35: due <aj_av>
-
 35: due <n>: dues
+
+35: due <aj_av>
 
 80: duecento <n>: duecentos
 
@@ -112405,10 +112405,10 @@
 
 80 [ukacd]: eassel
 
-35: east <aj_av>
-
 35: east <n>
 80: - <n>: easts~
+
+35: east <aj_av>
 
 50: East <n/upper>
 65: - <n/upper>: Easts-
@@ -112445,9 +112445,9 @@
 
 80 [ukacd]: easterling <n>: easterlings
 
-35: easterly <aj_av>
-
 35: easterly <n>: easterlies
+
+35: easterly <aj_av>
 
 70 [moby]: Easter Monday </upper?>
 
@@ -127442,9 +127442,9 @@
 
 70 [5desk]: extortive
 
-35: extra <aj_av>
-
 35: extra <n>: extras, extra's
+
+35: extra <aj_av>
 
 80 [moby]: extra <pre>
 
@@ -128681,9 +128681,9 @@
 
 80 [ukacd]: fainty
 
-35: fair <aj_av>: fairer, fairest
-
 35: fair <n>: fairs
+
+35: fair <aj_av>: fairer, fairest
 
 70 [5desk] [moby]: fair- <v>: faired, fairing, fairs
 
@@ -134235,9 +134235,9 @@
 
 70 [moby]: firry <a>: firrier, firriest
 
-35: first <aj_av>
-
 35: first <n>: firsts, first's
+
+35: first <aj_av>
 
 35: first aid <n>
 
@@ -138424,9 +138424,9 @@
 
 80 [moby]: Fordyce <n/place>
 
-35: fore <aj_av>
-
 35: fore <n>: fores, fore's
+
+35: fore <aj_av>
 
 35: fore <i>
 
@@ -139499,9 +139499,9 @@
 
 60 US [town]: Fort Collins <n/place>: Fort Collins's
 
-35: forte <aj_av>
-
 35: forte <n>: fortes, forte's
+
+35: forte <aj_av>
 
 80 [ukacd]: fortepianist <n>: fortepianists
 
@@ -140095,9 +140095,9 @@
 
 80 [ukacd]: fourteenthly
 
-35: fourth <aj_av>
-
 35: fourth <n>: fourths
+
+35: fourth <aj_av>
 
 60: Fourth <n/upper?>
 65: - <n/upper?>: Fourths-
@@ -141018,9 +141018,9 @@
 
 80 [moby]: Fredville <n/place>
 
-35: free <aj_av>: freer, freest
-
 35: free <v>: freed, freeing, frees
+
+35: free <aj_av>: freer, freest
 
 70 [5desk] [moby]: free- <n>
 
@@ -143045,12 +143045,12 @@
 
 80: fuliginously
 
-35: full <aj_av>: fuller, fullest
-
 35: full <n>
 80: - <n>: fulls~
 
 35: full <v>: fulled, fulling, fulls
+
+35: full <aj_av>: fuller, fullest
 
 80 [ukacd]: fullage <n>: fullages
 
@@ -152866,10 +152866,10 @@
 
 80 [moby]: Goochland <n/place>
 
-35: good <aj_av>: better†, best†
-
 35: good <n>: good's
 80: - <n>: goods~
+
+35: good <aj_av>: better†, best†
 
 50: Good <n/person>: Good's
 
@@ -159915,9 +159915,9 @@
 
 80 [ukacd]: halfa <n>: halfas
 
-40: half-and-half <aj_av>
-
 40: half-and-half <n>: half-and-half's
+
+40: half-and-half <aj_av>
 
 60: half-asleep
 
@@ -162312,10 +162312,10 @@
 
 80: harumph <m>: harumphed, harumphing, harumphs
 
-50: harum-scarum <aj_av>
-
 50: harum-scarum <n>: harum-scarum's
 65: - <n>: harum-scarums-
+
+50: harum-scarum <aj_av>
 
 70 [moby]: haruspex <n>: haruspices
 
@@ -163989,9 +163989,9 @@
 
 70 [moby]: Heaviside layer <n/upper>
 
-35: heavy <aj_av>: heavier, heaviest
-
 35: heavy <n>: heavies, heavy's
+
+35: heavy <aj_av>: heavier, heaviest
 
 70 [moby]: heavy-armed <aj>
 
@@ -166262,10 +166262,10 @@
 
 80 [ukacd]: herdwick <n>: herdwicks
 
-35: here <aj_av>
-
 35: here <n>
 65: - <n>: heres-
+
+35: here <aj_av>
 
 35: here <i>
 
@@ -167978,9 +167978,9 @@
 80: higgling <n>
 80 [ukacd]: - <n>: higglings
 
-35: high <aj_av>: higher, highest
-
 35: high <n>: highs, high's
+
+35: high <aj_av>: higher, highest
 
 70 [moby]: high and mighty
 
@@ -173599,9 +173599,9 @@
 
 70 [5desk]: hugger <n>: huggers, hugger's
 
-70 [moby]: hugger-mugger <aj_av>
-
 70 [moby]: hugger-mugger <n>
+
+70 [moby]: hugger-mugger <aj_av>
 
 80: huggermugger <m>: huggermuggered, huggermuggering, huggermuggers
 
@@ -178386,9 +178386,9 @@
 
 80 [ukacd]: Ilkley </upper?>
 
-35: ill <aj_av>: (worse† | -: iller), (worst† | -: illest)
-
 35: ill <n>: ills
+
+35: ill <aj_av>: (worse† | -: iller), (worst† | -: illest)
 
 40: I'll </upper?>
 
@@ -180611,9 +180611,9 @@
 
 70 [moby]: improbity <n>: improbities
 
-35: impromptu <aj_av>
-
 35: impromptu <n>: impromptus
+
+35: impromptu <aj_av>
 
 35: improper <aj>
 
@@ -180792,9 +180792,9 @@
 
 50 [name]: Imus <n/name?>: Imus's
 
-35: in <aj_av>
-
 35: in <n>: ins
+
+35: in <aj_av>
 
 35: in <pp>
 
@@ -181588,9 +181588,9 @@
 
 80: incognita <n>: incognitas
 
-35: incognito <aj_av>
-
 35: incognito <n>: incognitos
+
+35: incognito <aj_av>
 
 80 [ukacd]: A Z: incognizable <aj>
 80 [ukacd]: B: incognisable <aj>
@@ -185088,10 +185088,10 @@
 
 70 [5desk] [moby]: inlaid <aj>
 
-35: inland <aj_av>
-
 35: inland <n>
 80: - <n>: inlands~
+
+35: inland <aj_av>
 
 70 [5desk]: Inland </upper?>
 
@@ -185847,9 +185847,9 @@
 
 70 [moby]: inshrine <m>: inshrined, inshrining, inshrines
 
-35: inside <aj_av>
-
 35: inside <n>: insides
+
+35: inside <aj_av>
 
 35: inside <pp>
 
@@ -204795,9 +204795,9 @@
 
 80: largando
 
-35: large <aj_av>: larger, largest
-
 35: large <n>: larges
+
+35: large <aj_av>: larger, largest
 
 70 [5desk]: large! <v>: larged, larging, larges
 
@@ -204842,9 +204842,9 @@
 
 80 [ukacd]: largition <n>: largitions
 
-50: largo <aj_av>
-
 50: largo <n>: largos
+
+50: largo <aj_av>
 
 70 [5desk]: Largo <n/place>
 
@@ -207050,9 +207050,9 @@
 
 80 [moby]: Leevining <n/place>
 
-50: leeward <aj_av>
-
 50: leeward <n>: leewards
+
+50: leeward <aj_av>
 
 50 [name]: Leeward <n/name?>: Leeward's
 
@@ -207071,9 +207071,9 @@
 
 80: lefse <n>: lefses
 
-35: left <aj_av>: lefter, leftest
-
 35: left <n>: lefts, left's
+
+35: left <aj_av>: lefter, leftest
 
 60: Left <n/upper?>
 65: - <n/upper?>: Lefts-
@@ -207206,9 +207206,9 @@
 
 80 [ukacd]: legatissimo
 
-50: legato <aj_av>
-
 50: legato <n>: legatos
+
+50: legato <aj_av>
 
 70 [moby]: legator <n>: legators
 
@@ -212060,9 +212060,9 @@
 70 [5desk]: _: livableness <n>: livablenesses
 70 [5desk]: _V: liveableness <n>
 
-35: live <aj_av>: liver, livest
-
 35: live <v>: lived, living, lives†
+
+35: live <aj_av>: liver, livest
 
 80: liveability <n>: liveabilities
 
@@ -213943,9 +213943,9 @@
 55: loos <a>
 80: - <a>: looser-†, loosest-†
 
-35: loose <aj_av>: looser, loosest
-
 35: loose <v>: loosed, loosing, looses
+
+35: loose <aj_av>: looser, loosest
 
 80: loosebox <n>: looseboxes
 
@@ -226324,9 +226324,9 @@
 
 80 [moby]: Mellott <n/place>
 
-35: mellow <aj_av>: mellower, mellowest
-
 35: mellow <v>: mellowed, mellowing, mellows
+
+35: mellow <aj_av>: mellower, mellowest
 
 50 [ukfreq]: mellowed <aj>
 
@@ -230578,9 +230578,9 @@
 
 80: midwatch <n>: midwatches
 
-35: midway <aj_av>
-
 35: midway <n>: midways
+
+35: midway <aj_av>
 
 50 [name]: Midway <n/upper>: Midway's
 70 [5desk] [moby]: Midway <n/upper>: Midways-, Midway's
@@ -236848,9 +236848,9 @@
 
 70 [5desk]: monthlong <aj>
 
-35: monthly <aj_av>
-
 35: monthly <n>: monthlies
+
+35: monthly <aj_av>
 
 80 [ukacd]: month's mind
 
@@ -239186,10 +239186,10 @@
 
 80 [ukacd]: mucedinous
 
-35: much <aj_av>
-
 35: much <n>
 80: - <n>: muches~
+
+35: much <aj_av>
 
 80: muchacha <n>: muchachas
 
@@ -244330,9 +244330,9 @@
 
 80 [ukacd]: neaptide <n>: neaptides
 
-35: near <aj_av>: nearer, nearest
-
 35: near <v>: neared, nearing, nears
+
+35: near <aj_av>: nearer, nearest
 
 35: near <pp>
 
@@ -246592,10 +246592,10 @@
 
 60: nevus <n>: nevi
 
-35: new <aj_av>: newer, newest
-
 35: new <n>
 80: - <n>: news~
+
+35: new <aj_av>: newer, newest
 
 70 [5desk] [moby]: new- <v>: newed, newing, news
 
@@ -246998,10 +246998,10 @@
 50 [name]: Nexis <n/upper>: Nexis's
 80: Nexis <n/upper>: Nexises-
 
-35: next <aj_av>
-
 35: next <n>
 80: - <n>: nexts~
+
+35: next <aj_av>
 
 40: next best
 
@@ -248048,9 +248048,9 @@
 
 80 [ukacd]: Nipa <n/upper>
 
-60: nip and tuck <aj_av>
-
 60: nip and tuck <n>
+
+60: nip and tuck <aj_av>
 
 70 [moby]: Nipissing </upper?>
 
@@ -252474,10 +252474,10 @@
 50: Norseman <n/upper>: Norseman's
 65: - <n/upper>: Norsemen-, -, Norsemen's-
 
-35: north <aj_av>
-
 35: north <n>
 80: - <n>: norths~
+
+35: north <aj_av>
 
 50: North <n/upper>: North's
 65: - <n/upper>: Norths-
@@ -252525,10 +252525,10 @@
 
 60: North Dakotan <n/upper>: North Dakotans
 
-35: northeast <aj_av>
-
 35: northeast <n>
 80: - <n>: northeasts~
+
+35: northeast <aj_av>
 
 60: Northeast <n/upper>
 65: - <n/upper>: Northeasts-
@@ -252579,9 +252579,9 @@
 
 80 [ukacd]: northerliness
 
-35: northerly <aj_av>
-
 35: northerly <n>: northerlies
+
+35: northerly <aj_av>
 
 80 [ukacd]: northermost
 
@@ -252677,10 +252677,10 @@
 
 50: northwards <av>
 
-35: northwest <aj_av>
-
 35: northwest <n>
 80: - <n>: northwests~
+
+35: northwest <aj_av>
 
 60: Northwest <n/upper>
 65: - <n/upper>: Northwests-
@@ -256581,9 +256581,9 @@
 
 50: Ofelia <n/person>: Ofelia's
 
-35: off <aj_av>
-
 35: off <v>: offed, offing, offs
+
+35: off <aj_av>
 
 35: off <pp>
 
@@ -259494,9 +259494,9 @@
 35 [ukfreq]: opposing <aj>
 70 [5desk]: opposing <aj>
 
-35: opposite <aj_av>
-
 35: opposite <n>: opposites, opposite's
+
+35: opposite <aj_av>
 
 35: opposite <pp>
 
@@ -263096,9 +263096,9 @@
 
 60: outshout <v>: outshouted, outshouting, outshouts
 
-35: outside <aj_av>
-
 35: outside <n>: outsides
+
+35: outside <aj_av>
 
 35: outside <pp>
 
@@ -263481,9 +263481,9 @@
 
 80 [ukacd]: ovenwood
 
-35: over <aj_av>
-
 35: over <n>: overs
+
+35: over <aj_av>
 
 35: over <pp>
 
@@ -264407,9 +264407,9 @@
 
 80: overhauler <n>: overhaulers
 
-35: overhead <aj_av>
-
 35: overhead <n>: overheads, overhead's
+
+35: overhead <aj_av>
 
 40: overhead projector <n>: overhead projectors
 
@@ -264756,9 +264756,9 @@
 
 80 [ukacd]: overniceness
 
-35: overnight <aj_av>
-
 35: overnight <n>: overnights
+
+35: overnight <aj_av>
 
 70 [5desk] [moby]: overnight- <v>: overnighted, overnighting, overnights
 
@@ -271545,9 +271545,9 @@
 
 80 [ukacd]: passy-measure
 
-35: past <aj_av>
-
 35: past <n>: pasts
+
+35: past <aj_av>
 
 35: past <pp>
 
@@ -280717,9 +280717,9 @@
 
 70 [moby]: pianism <n>: pianisms
 
-50: pianissimo <aj_av>
-
 50: pianissimo <n>: (pianissimos | ~: pianissimi)
+
+50: pianissimo <aj_av>
 
 35: pianist <n>: pianists, pianist's
 
@@ -280729,9 +280729,9 @@
 
 80: pianistically
 
-35: piano <aj_av>
-
 35: piano <n>: pianos, piano's
+
+35: piano <aj_av>
 
 70 [moby]: piano accordion <n>: piano accordions
 
@@ -283336,9 +283336,9 @@
 
 50: pizzeria <n>: pizzerias, pizzeria's
 
-50: pizzicato <aj_av>
-
 50: pizzicato <n>: (pizzicati | ~: pizzicatos)
+
+50: pizzicato <aj_av>
 
 80: pizzle <n>: pizzles
 
@@ -283586,9 +283586,9 @@
 
 80 [ukacd]: plaidman <n>: plaidmen
 
-35: plain <aj_av>: plainer, plainest
-
 35: plain <n>: plains, plain's
+
+35: plain <aj_av>: plainer, plainest
 
 70 [5desk] [moby]: plain- <v>: plained, plaining, plains
 
@@ -293783,15 +293783,15 @@
 
 80: prestigiousness <n>: prestigiousnesses
 
-70 [moby]: prestissimo <aj_av>
-
 70 [moby]: prestissimo- <n>: prestissimos
 
-35 [ukfreq]: presto <aj_av>
-50: presto <aj_av>
+70 [moby]: prestissimo <aj_av>
 
 35 [ukfreq]: presto <n>
 50: presto <n>: prestos
+
+35 [ukfreq]: presto <aj_av>
+50: presto <aj_av>
 
 35 [ukfreq]: presto <i>
 50: presto <i>
@@ -295069,9 +295069,9 @@
 
 80 [moby]: p.r.n. <abbr>
 
-35: pro <aj_av>
-
 35: pro <n>: pros, pro's
+
+35: pro <aj_av>
 
 35: pro <pp>
 
@@ -302694,9 +302694,9 @@
 
 80 [ukacd]: quarterlight <n>: quarterlights
 
-35: quarterly <aj_av>
-
 35: quarterly <n>: quarterlies
+
+35: quarterly <aj_av>
 
 50: quartermaster <n>: quartermasters, quartermaster's
 
@@ -303246,10 +303246,10 @@
 
 80 [ukacd]: Quichuan </upper?>
 
-35: quick <aj_av>: quicker, quickest
-
 35: quick <n>: quick's
 80: - <n>: quicks~
+
+35: quick <aj_av>: quicker, quickest
 
 35: quick <i>
 
@@ -303366,12 +303366,12 @@
 
 60: quiescently <a>
 
-35: quiet <aj_av>: quieter, quietest
-
 35: quiet <n>
 80: - <n>: quiets~
 
 35: quiet <v>: quieted, quieting, quiets
+
+35: quiet <aj_av>: quieter, quietest
 
 60: quiet down <v>
 
@@ -305379,9 +305379,9 @@
 
 80 [moby]: rall. <abbr>
 
-70 [moby]: rallentando <aj_av>
-
 70 [moby]: rallentando- <n>: rallentandos
+
+70 [moby]: rallentando <aj_av>
 
 80 [ukacd]: Rallidae <n/upper>
 
@@ -306651,11 +306651,11 @@
 
 80 [ukacd]: rattline <n>: rattlines
 
-35 [ukfreq]: rattling <aj_av>
-70 [5desk] [moby]: rattling <aj_av>
-
 35 [ukfreq]: rattling <n>
 70 [5desk] [moby]: rattling <n>: rattlings, rattling's
+
+35 [ukfreq]: rattling <aj_av>
+70 [5desk] [moby]: rattling <aj_av>
 
 80: rattlingly
 
@@ -321405,12 +321405,12 @@
 
 80 [moby]: Rougemont <n/place>
 
-35: rough <aj_av>: rougher, roughest
-
 35: rough <n>
 80: - <n>: roughs~
 
 35: rough <v>: roughed, roughing, roughs
+
+35: rough <aj_av>: rougher, roughest
 
 35: roughage <n>: roughage's
 80: - <n>: roughages~
@@ -332355,10 +332355,10 @@
 
 80: seawant <n>: seawants
 
-50: seaward <aj_av>
-
 50: seaward <n>
 80: - <n>: seawards~
+
+50: seaward <aj_av>
 
 80 [ukacd]: seawardly
 
@@ -334561,9 +334561,9 @@
 
 80: semimonastic
 
-50: semimonthly <aj_av>
-
 50: semimonthly <n>: semimonthlies
+
+50: semimonthly <aj_av>
 
 80 [ukacd]: semi-monthly
 
@@ -334841,9 +334841,9 @@
 
 80 [ukacd]: semiwater-gas
 
-50: semiweekly <aj_av>
-
 50: semiweekly <n>: semiweeklies
+
+50: semiweekly <aj_av>
 
 80 [ukacd]: semi-weekly
 
@@ -340954,9 +340954,9 @@
 
 35: side <aj>
 
-50: sidearm <aj_av>
-
 50: sidearm <n>: sidearms
+
+50: sidearm <aj_av>
 
 60: side arm <n>
 
@@ -345507,9 +345507,9 @@
 
 35: slovenly <aj>: slovenlier, slovenliest
 
-35: slow <aj_av>: slower, slowest
-
 35: slow <v>: slowed, slowing, slows
+
+35: slow <aj_av>: slower, slowest
 
 80 [ukacd]: slowback <n>: slowbacks
 
@@ -345782,9 +345782,9 @@
 
 60: s-mail
 
-35: small <aj_av>: smaller, smallest
-
 35: small <n>: smalls, small's
+
+35: small <aj_av>: smaller, smallest
 
 50: Small <n/person>: Small's
 
@@ -348769,11 +348769,11 @@
 70 [5desk] [moby]: A Z: solmization <n>: solmizations, solmization's
 70 [5desk] [moby]: B: solmisation <n>: solmisations, solmisation's
 
-35: solo <aj_av>
-
 35: solo <n>: (solos | ~: soli)
 
 35: solo <v>: soloed, soloing, solos
+
+35: solo <aj_av>
 
 35: soloist <n>: soloists, soloist's
 
@@ -350330,10 +350330,10 @@
 
 70 [moby]: souterrain <n>: souterrains
 
-35: south <aj_av>
-
 35: south <n>
 80: - <n>: souths~
+
+35: south <aj_av>
 
 50: South <n/upper>
 65: - <n/upper>: Souths-
@@ -350384,10 +350384,10 @@
 
 70 [moby]: South Downs </upper?>
 
-35: southeast <aj_av>
-
 35: southeast <n>
 80: - <n>: southeasts~
+
+35: southeast <aj_av>
 
 60: Southeast <n/upper>
 65: - <n/upper>: Southeasts-
@@ -350436,9 +350436,9 @@
 
 80 [ukacd]: southerliness
 
-35: southerly <aj_av>
-
 35: southerly <n>: southerlies
+
+35: southerly <aj_av>
 
 80 [ukacd]: southermost
 
@@ -350532,10 +350532,10 @@
 
 60: South Vietnam <n/upper>
 
-35: southward <aj_av>
-
 35: southward <n>
 80: - <n>: southwards~
+
+35: southward <aj_av>
 
 70 [5desk]: southwardly
 
@@ -350543,10 +350543,10 @@
 
 70 [5desk]: Southwark </upper?>
 
-35: southwest <aj_av>
-
 35: southwest <n>
 80: - <n>: southwests~
+
+35: southwest <aj_av>
 
 60: Southwest <n/upper>
 65: - <n/upper>: Southwests-
@@ -355373,9 +355373,9 @@
 
 80 [ukacd]: staccatissimo
 
-50: staccato <aj_av>
-
 50: staccato <n>: (staccatos | ~: staccati)
+
+50: staccato <aj_av>
 
 50: Stacey <n/person>: Stacey's
 
@@ -359940,9 +359940,9 @@
 
 50: straggly <aj>: stragglier, straggliest
 
-35: straight <aj_av>: straighter, straightest
-
 35: straight <n>: straights, straight's
+
+35: straight <aj_av>: straighter, straightest
 
 70 [5desk] [moby]: straight- <v>: straighted, straighting, straights
 
@@ -359956,9 +359956,9 @@
 
 60: straight arrow <n>: straight arrows
 
-50: straightaway <aj_av>
-
 50: straightaway <n>: straightaways, straightaway's
+
+50: straightaway <aj_av>
 
 80: straightbred <n>: straightbreds
 
@@ -365573,9 +365573,9 @@
 
 80: supe <n>: supes
 
-35: super <aj_av>
-
 35: super <n>: supers, super's
+
+35: super <aj_av>
 
 70 [5desk] [moby]: super- <v>: supered, supering, supers
 
@@ -368402,9 +368402,9 @@
 
 80 [ukacd]: sweert
 
-35: sweet <aj_av>: sweeter, sweetest
-
 35: sweet <n>: sweets, sweet's
+
+35: sweet <aj_av>: sweeter, sweetest
 
 50: Sweet <n/person>: Sweet's
 
@@ -377919,10 +377919,10 @@
 50 [name]: Themistocles <n/upper>: Themistocles's
 70 [moby]: Themistocles <n/upper>: Themistocles's
 
-35: then <aj_av>
-
 35: then <n>
 80: - <n>: thens~
+
+35: then <aj_av>
 
 80 [ukacd]: thenabout <n>: thenabouts
 
@@ -378795,10 +378795,10 @@
 
 80 [moby]: Thibodaux <n/place>
 
-35: thick <aj_av>: thicker, thickest
-
 35: thick <n>
 80: - <n>: thicks~
+
+35: thick <aj_av>: thicker, thickest
 
 35: thicken <v>: thickened, thickening, thickens
 
@@ -378931,9 +378931,9 @@
 
 60: Thimphu </upper?>
 
-35: thin <aj_av>: thinner, thinnest
-
 35: thin <v>: thinned, thinning, thins
+
+35: thin <aj_av>: thinner, thinnest
 
 80: thinclad <n>: thinclads
 
@@ -379092,9 +379092,9 @@
 
 80: thiram <n>: thirams
 
-35: third <aj_av>
-
 35: third <n>: thirds, third's
+
+35: third <aj_av>
 
 70 [5desk] [moby]: third- <v>: thirded, thirding, thirds
 
@@ -389887,12 +389887,12 @@
 
 50: Trudy <n/person>: Trudy's
 
-35: true <aj_av>: truer, truest
-
 35: true <n>
 80: - <n>: trues~
 
 35: true <v>: trued, (truing | ~: trueing), trues
+
+35: true <aj_av>: truer, truest
 
 70 [moby]: true bill <n>
 
@@ -396690,9 +396690,9 @@
 
 60 [extra]: underappreciated
 
-50: underarm <aj_av>
-
 50: underarm <n>: underarms
+
+50: underarm <aj_av>
 
 70 [5desk] [moby]: underarm- <v>: underarmed, underarming, underarms
 
@@ -396946,9 +396946,9 @@
 
 80 [ukacd]: undergraduette <n>: undergraduettes
 
-35: underground <aj_av>
-
 35: underground <n>: undergrounds, underground's
+
+35: underground <aj_av>
 
 80: Underground <n/upper?>: Undergrounds
 
@@ -405464,9 +405464,9 @@
 
 80 [ukacd]: Up-Helly-Aa </upper?>
 
-35: uphill <aj_av>
-
 35: uphill <n>: uphills, uphill's
+
+35: uphill <aj_av>
 
 80 [ukacd]: uphillward
 
@@ -405800,9 +405800,9 @@
 
 70 [moby]: upspring <m>: (upsprang | upsprung), upsprung, upspringing, upsprings #! unmarked variants: upsprang, upsprung
 
-40: upstage <aj_av>
-
 40: upstage <v>: upstaged, upstaging, upstages
+
+40: upstage <aj_av>
 
 70 [5desk] [moby]: upstage- <n>: upstages, upstage's
 
@@ -405912,10 +405912,10 @@
 
 40: up-to-the-minute <aj>
 
-35: uptown <aj_av>
-
 35: uptown <n>
 80: - <n>: uptowns~
+
+35: uptown <aj_av>
 
 80: uptowner <n>: uptowners
 
@@ -415700,9 +415700,9 @@
 
 80: warlordism <n>: warlordisms
 
-35: warm <aj_av>: warmer, warmest
-
 35: warm <v>: warmed, warming, warms
+
+35: warm <aj_av>: warmer, warmest
 
 70 [5desk] [moby]: warm- <n>: warms
 
@@ -417901,9 +417901,9 @@
 
 80: weeklong <aj>
 
-35: weekly <aj_av>
-
 35: weekly <n>: weeklies
+
+35: weekly <aj_av>
 
 40: weeknight <n>: weeknights
 
@@ -418652,10 +418652,10 @@
 
 80 [moby]: Wesson <n/place>
 
-35: west <aj_av>
-
 35: west <n>
 80: - <n>: wests~
+
+35: west <aj_av>
 
 50: West <n/person>: West's
 
@@ -418688,9 +418688,9 @@
 
 70 [5desk]: westerlies
 
-35: westerly <aj_av>
-
 35: westerly <n>: westerlies
+
+35: westerly <aj_av>
 
 35: western <n>: westerns, western's
 
@@ -420343,9 +420343,9 @@
 35: whoever <pn>
 50: whoever <pn>: whomever
 
-35: whole <aj_av>
-
 35: whole <n>: wholes
+
+35: whole <aj_av>
 
 70 [moby]: whole blood <n>
 
@@ -420382,12 +420382,12 @@
 
 70 [moby]: whole rest <n>
 
-35: wholesale <aj_av>
-
 35: wholesale <n>
 80: - <n>: wholesales~
 
 35: wholesale <v>: wholesaled, wholesaling, wholesales
+
+35: wholesale <aj_av>
 
 35: wholesaler <n>: wholesalers, wholesaler's
 
@@ -420908,9 +420908,9 @@
 
 50: Wilcox <n/person>: Wilcox's
 
-35: wild <aj_av>: wilder, wildest
-
 35: wild <n>: wilds
+
+35: wild <aj_av>: wilder, wildest
 
 70 [5desk] [moby]: wild- <v>: wilded, wilding, wilds
 
@@ -421759,10 +421759,10 @@
 
 70 [moby]: wind vane <n>
 
-50: windward <aj_av>
-
 50: windward <n>
 80: - <n>: windwards~
+
+50: windward <aj_av>
 
 50 [name]: Windward <n/name?>: Windward's
 
@@ -426248,9 +426248,9 @@
 
 60: yearlong <aj>
 
-35: yearly <aj_av>
-
 35: yearly <n>: yearlies
+
+35: yearly <aj_av>
 
 35: yearn <v>: yearned, yearning, yearns
 
@@ -429267,13 +429267,13 @@
 80: ZZZ </abbr?>
 
 #: Part of Speech Codes:
-#:   n_v: noun and verb
-#:   aj_av: adjective and adverb
 #:   n: noun
 #:   v: verb
+#:   n_v: noun and verb
 #:   m: noun/verb
 #:   aj: adjective
 #:   av: adverb
+#:   aj_av: adjective and adverb
 #:   a: adjective/adverb
 #:   pn: pronoun
 #:   c: conjunction
