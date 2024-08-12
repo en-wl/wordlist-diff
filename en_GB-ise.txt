@@ -23506,13 +23506,15 @@ anxious
 anxiously
 anxiousness
 any
-anybodies
 anybody
+anybody's
 anyhow
 anymore
 anyone
+anyone's
 anyplace
 anything
+anything's
 anytime
 anyway
 anywhere
@@ -48148,10 +48150,13 @@ everlastings
 evermore
 every
 everybody
+everybody's
 everyday
 everyone
+everyone's
 everyplace
 everything
+everything's
 everywhere
 eves
 evict
@@ -57705,7 +57710,6 @@ herrings
 hers
 herself
 hertz
-hes
 hesitance
 hesitancy
 hesitant
@@ -57921,7 +57925,6 @@ hilt
 hilt's
 hilts
 him
-hims
 himself
 hind
 hind's
@@ -66022,9 +66025,7 @@ likeness's
 likenesses
 likening
 likens
-liker
 likes
-likest
 likewise
 liking
 lilac
@@ -66381,8 +66382,6 @@ littering
 litters
 little
 littleness
-littler
-littlest
 littoral
 littorals
 liturgical
@@ -69933,7 +69932,6 @@ minds
 mindset
 mindsets
 mine
-mine's
 mined
 minefield
 minefields
@@ -73164,7 +73162,6 @@ nodule's
 nodules
 noel
 noels
-noes
 noggin
 noggin's
 noggins
@@ -73723,7 +73720,6 @@ noteworthiness
 noteworthy
 nothing
 nothingness
-nothings
 notice
 noticeable
 noticeably
@@ -74723,6 +74719,7 @@ oncologists
 oncology
 oncoming
 one
+one's
 oneness
 onerous
 onerously
@@ -75259,6 +75256,7 @@ ostrich
 ostrich's
 ostriches
 other
+other's
 otherness
 others
 otherwise
@@ -75281,6 +75279,7 @@ ounce's
 ounces
 our
 ours
+ourself
 ourselves
 oust
 ousted
@@ -92561,7 +92560,6 @@ sheriffs
 sherries
 sherry
 sherry's
-shes
 shew
 shewed
 shewing
@@ -95309,9 +95307,11 @@ sombreros
 some
 somebodies
 somebody
+somebody's
 someday
 somehow
 someone
+someone's
 someplace
 somersault
 somersaulted
@@ -95322,6 +95322,7 @@ somersets
 somersetted
 somersetting
 something
+something's
 sometime
 sometimes
 someway
@@ -101635,6 +101636,7 @@ thematically
 theme
 themed
 themes
+themself
 themselves
 then
 thence
@@ -101889,7 +101891,6 @@ thoughtless
 thoughtlessly
 thoughtlessness
 thoughts
-thous
 thousand
 thousandfold
 thousands
@@ -109692,7 +109693,6 @@ whatchamacallits
 whatever
 whatnot
 whatnot's
-whats
 whatshername
 whatshisname
 whatsit
@@ -110032,6 +110032,7 @@ wholewheat
 wholly
 whom
 whomever
+whomso
 whomsoever
 whoop
 whooped
@@ -110067,6 +110068,7 @@ whorl's
 whorled
 whorls
 whose
+whoseso
 whoso
 whosoever
 whup
@@ -111450,7 +111452,6 @@ your
 yours
 yourself
 yourselves
-yous
 youth
 youth's
 youthful

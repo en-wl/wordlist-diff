@@ -34259,14 +34259,15 @@ anxious
 anxiously
 anxiousness
 any
-anybodies
 anybody
+anybody's
 anyhow
 anymore
 anyone
+anyone's
 anyplace
 anything
-anythings
+anything's
 anytime
 anyway
 anywhere
@@ -74613,10 +74614,13 @@ evertors
 everts
 every
 everybody
+everybody's
 everyday
 everyone
+everyone's
 everyplace
 everything
+everything's
 everyway
 everywhere
 eves
@@ -80622,7 +80626,6 @@ formatting
 formed
 former
 formerly
-formers
 formfitting
 formic
 formicaries
@@ -90172,7 +90175,6 @@ herrings
 hers
 herself
 hertz
-hes
 hesitance
 hesitancy
 hesitant
@@ -90615,7 +90617,6 @@ hilum's
 him
 himation
 himations
-hims
 himself
 hin
 hind
@@ -104361,9 +104362,7 @@ likeness's
 likenesses
 likening
 likens
-liker
 likes
-likest
 likewise
 liking
 likings
@@ -110941,7 +110940,6 @@ minds
 mindset
 mindsets
 mine
-mine's
 mineable
 mined
 minefield
@@ -116201,7 +116199,6 @@ nodules
 nodus
 noel
 noels
-noes
 noeses
 noesis
 noetic
@@ -117177,7 +117174,6 @@ noteworthiness
 noteworthy
 nothing
 nothingness
-nothings
 notice
 noticeable
 noticeably
@@ -118865,6 +118861,7 @@ oncoming
 oncoming's
 oncomings
 one
+one's
 oneiric
 oneirocritic
 oneiromancies
@@ -119927,6 +119924,7 @@ ostriches
 otalgia
 otalgias
 other
+other's
 otherness
 othernesses
 others
@@ -143255,7 +143253,6 @@ same
 samekh
 samekhs
 sameness
-sames
 samey
 samiel
 samiels
@@ -146853,7 +146850,6 @@ sever
 severable
 several
 severally
-severals
 severalties
 severalty
 severance
@@ -147516,7 +147512,6 @@ sherifs
 sherries
 sherry
 sherry's
-shes
 sheugh
 sheughed
 sheughing
@@ -151508,10 +151503,11 @@ sombrous
 some
 somebodies
 somebody
+somebody's
 someday
 somehow
 someone
-someones
+someone's
 someplace
 somersault
 somersaulted
@@ -151522,13 +151518,12 @@ somersets
 somersetted
 somersetting
 something
-somethings
+something's
 sometime
 sometimes
 someway
 someways
 somewhat
-somewhats
 somewhere
 somewheres
 somewise
@@ -161813,6 +161808,7 @@ theme
 themed
 themes
 theming
+themself
 themselves
 then
 thenar
@@ -174650,7 +174646,6 @@ whate'er
 whatever
 whatnot
 whatnot's
-whats
 whatshername
 whatshisname
 whatsit
@@ -175165,6 +175160,7 @@ whomp
 whomped
 whomping
 whomps
+whomso
 whomsoever
 whoop
 whooped
@@ -175216,6 +175212,7 @@ whortleberries
 whortleberry
 whortleberry's
 whose
+whoseso
 whosesoever
 whosever
 whoso
@@ -177177,7 +177174,6 @@ your
 yours
 yourself
 yourselves
-yous
 youse
 youth
 youth's

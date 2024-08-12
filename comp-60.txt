@@ -1,3 +1,10 @@
+New words, unclassified:
+  ourself
+  themself
+  whomso
+  whoseso
+total: 4
+
 New words, upper plural:
   Amerasians
   Anglophiles
@@ -79,6 +86,8 @@ Missing words, unclassified:
   anticked
   anticking
   antipasti
+  anybodies
+  anythings
   aphelions
   assaulter
   aviatrices
@@ -119,6 +128,8 @@ Missing words, unclassified:
   grindings
   grovelled
   grovelling
+  hes
+  hims
   hydrolyses
   hying
   hypnoses
@@ -130,6 +141,8 @@ Missing words, unclassified:
   lats
   lavs
   lbs
+  liker
+  likest
   lingerings
   lipsticked
   matzohs
@@ -146,6 +159,8 @@ Missing words, unclassified:
   mys
   narcoses
   necroses
+  noes
+  nothings
   novae
   nybbles
   optimums
@@ -173,12 +188,14 @@ Missing words, unclassified:
   ringings
   rollings
   sades
+  sames
   sangs
   scleroses
   scrogs
   semipros
   sharking
   sheller
+  shes
   shiitakes
   signore
   signori
@@ -189,6 +206,9 @@ Missing words, unclassified:
   slitter
   slummer
   sockeyes
+  someones
+  somethings
+  somewhats
   speakings
   spic
   spics
@@ -212,13 +232,15 @@ Missing words, unclassified:
   wearings
   wedder
   weepings
+  whats
   whelked
   witherings
   woulds
   wounder
   yest
   yieldings
-total: 143
+  yous
+total: 158
 
 Missing words, common variant:
   airguns
@@ -923,6 +945,8 @@ Missing words, ok, uncommon derived aj/av:
   heppest
   impurer
   impurest
+  littler
+  littlest
   raggedier
   raggediest
   trustworthier
@@ -933,7 +957,7 @@ Missing words, ok, uncommon derived aj/av:
   uncleanliest
   unsafer
   unsafest
-total: 29
+total: 31
 
 Missing words, ok, uncommon form:
   Photostatted
@@ -945,7 +969,6 @@ Missing words, ok, uncommon form:
   analytics
   anons
   antipodals
-  anythings
   ashed
   ashing
   automobiled
@@ -996,7 +1019,6 @@ Missing words, ok, uncommon form:
   repleting
   reproofed
   reproofing
-  sames
   satellited
   satelliting
   scanties
@@ -1008,9 +1030,6 @@ Missing words, ok, uncommon form:
   singsonged
   singsonging
   sneerings
-  someones
-  somethings
-  somewhats
   spreed
   spreeing
   strawed
@@ -1021,6 +1040,7 @@ Missing words, ok, uncommon form:
   swattering
   testates
   thees
+  thous
   touchings
   trilaterals
   troys
@@ -1030,7 +1050,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 94
+total: 90
 
 Missing words, ok, variant:
   Curacao
