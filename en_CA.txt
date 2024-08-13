@@ -46126,7 +46126,6 @@ eigenvalues
 eigenvector
 eigenvectors
 eight
-eight's
 eighteen
 eighteens
 eighteenth
@@ -46338,7 +46337,6 @@ elevator's
 elevators
 eleven
 elevens
-elevenses
 eleventh
 elevenths
 elf
@@ -50586,7 +50584,6 @@ firms
 firmware
 firs
 first
-first's
 firstborn
 firstborn's
 firsthand
@@ -50680,7 +50677,6 @@ fitting's
 fittingly
 fittings
 five
-five's
 fiver
 fivers
 fives
@@ -52171,7 +52167,6 @@ fountainheads
 fountains
 founts
 four
-four's
 fourfold
 fourposter
 fourposters
@@ -73057,7 +73052,6 @@ nincompoop
 nincompoop's
 nincompoops
 nine
-nine's
 ninepin
 ninepin's
 ninepins
@@ -83706,6 +83700,8 @@ quadrille
 quadrilles
 quadrillion
 quadrillions
+quadrillionth
+quadrillionths
 quadriplegia
 quadriplegic
 quadriplegic's
@@ -92106,7 +92102,6 @@ setup
 setup's
 setups
 seven
-seven's
 sevens
 seventeen
 seventeens
@@ -93666,7 +93661,6 @@ situation
 situational
 situations
 six
-six's
 sixes
 sixfold
 sixpence
@@ -101229,7 +101223,6 @@ tempts
 tempura
 tempura's
 ten
-ten's
 tenability
 tenable
 tenably
@@ -101823,7 +101816,6 @@ thinnest
 thinning
 thins
 third
-third's
 thirdly
 thirds
 thirst
@@ -101935,7 +101927,6 @@ threateningly
 threatens
 threats
 three
-three's
 threefold
 threepence
 threes
@@ -104831,7 +104822,6 @@ twittery
 twitting
 twixt
 two
-two's
 twofer
 twofers
 twofold
@@ -111539,7 +111529,6 @@ zeppelin
 zeppelin's
 zeppelins
 zero
-zero's
 zeroed
 zeroing
 zeros

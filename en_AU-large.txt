@@ -49222,6 +49222,8 @@ centilitre's
 centilitres
 centillion
 centillions
+centillionth
+centillionths
 centime
 centimes
 centimetre
@@ -69580,8 +69582,6 @@ dunted
 dunting
 dunts
 duo
-duodecillion
-duodecillions
 duodecimal
 duodecimals
 duodecimo
@@ -70799,7 +70799,6 @@ eigenvalues
 eigenvector
 eigenvectors
 eight
-eight's
 eightball
 eightballs
 eighteen
@@ -71197,7 +71196,6 @@ elevator's
 elevators
 eleven
 elevens
-elevenses
 eleventh
 elevenths
 elevon
@@ -78416,7 +78414,6 @@ firring
 firry
 firs
 first
-first's
 firstborn
 firstborn's
 firstborns
@@ -78551,7 +78548,6 @@ fittingness
 fittingnesses
 fittings
 five
-five's
 fivefold
 fivepenny
 fiver
@@ -80856,7 +80852,6 @@ fountaining
 fountains
 founts
 four
-four's
 fourb
 fourchette
 fourchettes
@@ -115983,7 +115978,6 @@ nincompoop
 nincompoop's
 nincompoops
 nine
-nine's
 ninebark
 ninebarks
 ninefold
@@ -118259,8 +118253,6 @@ octillion
 octillions
 octillionth
 octillionths
-octodecillion
-octodecillions
 octodecimo
 octodecimos
 octogenarian
@@ -146833,7 +146825,6 @@ setup
 setup's
 setups
 seven
-seven's
 sevenfold
 sevens
 seventeen
@@ -146893,8 +146884,6 @@ sexagesimal
 sexagesimals
 sexcentenaries
 sexcentenary
-sexdecillion
-sexdecillions
 sexed
 sexennial
 sexennials
@@ -149178,7 +149167,6 @@ situses
 sitzmark
 sitzmarks
 six
-six's
 sixes
 sixfold
 sixpence
@@ -161033,7 +161021,6 @@ tempts
 tempura
 tempura's
 ten
-ten's
 tenability
 tenable
 tenableness
@@ -162175,7 +162162,6 @@ thiouracils
 thiourea
 thioureas
 third
-third's
 thirded
 thirding
 thirdly
@@ -162342,7 +162328,6 @@ threatens
 threating
 threats
 three
-three's
 threefold
 threepence
 threes
@@ -165069,8 +165054,6 @@ trebuchet's
 trebuchets
 trecento
 trecentos
-tredecillion
-tredecillions
 tree
 tree's
 treed
@@ -166901,7 +166884,6 @@ twittery
 twitting
 twixt
 two
-two's
 twofer
 twofers
 twofold
@@ -177347,7 +177329,6 @@ zeppelin
 zeppelin's
 zeppelins
 zero
-zero's
 zeroed
 zeroing
 zeros

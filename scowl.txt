@@ -36600,17 +36600,13 @@
 
 80 [moby]: Billingsley <n/place>
 
-35: billion <n>: (billion | billions*)
-
-35: billion <aj>
+35: billion <n/number>: billions
 
 40: billionaire <n>: billionaires, billionaire's
 
 80 [ukacd]: billionairess <n>: billionairesses
 
-40: billionth <n>: billionths
-
-40: billionth <aj>
+35: billionth <n/ordinal>: billionths
 
 80 [ukacd]: billman <n>: billmen
 
@@ -59087,9 +59083,9 @@
 ## centiliter (centilitre):
 ## Centilitre is the offical BIPM spelling
 
-70 [moby]: centillion <n>: centillions
+70: centillion <n/number>: centillions
 
-80: centillionth <n>: centillionths
+70: centillionth <n/ordinal>: centillionths
 
 50: centime <n>: centimes
 
@@ -92460,9 +92456,9 @@
 60: A: deciliter <n>: deciliters, deciliter's
 60: B: decilitre <n>: decilitres, decilitre's
 
-70 [5desk] [moby]: decillion <n>: decillions
+70: decillion <n/number>: decillions
 
-70 [5desk]: decillionth <n>: decillionths
+70: decillionth <n/ordinal>: decillionths
 
 35: decimal <n>: decimals
 
@@ -110905,9 +110901,9 @@
 
 80 [ukacd]: duodecennial
 
-70 [moby]: duodecillion <n>: duodecillions
+80: duodecillion <n/number>: duodecillions
 
-80: duodecillionth <n>: duodecillionths
+80: duodecillionth <n/ordinal>: duodecillionths
 
 60: duodecimal <aj>
 
@@ -114473,23 +114469,17 @@
 
 80 [ukacd]: Eigg </upper?>
 
-35: eight <n>: eights, eight's
-
-35: eight <aj>
+35: eight <n/number>: eights
 
 60: eight ball <n>
 
 70 [5desk]: eightball <n>: eightballs
 
-35: eighteen <n>: eighteens
-
-35: eighteen <aj>
+35: eighteen <n/number>: eighteens
 
 70 [moby]: eighteenmo <n>: eighteenmos
 
-35: eighteenth <n>: eighteenths
-
-35: eighteenth <aj>
+35: eighteenth <n/ordinal>: eighteenths
 
 80 [ukacd]: eighteenthly
 
@@ -114497,9 +114487,7 @@
 
 80 [ukacd]: eightfoot
 
-35: eighth <n>: eighths
-
-35: eighth <aj>
+35: eighth <n/ordinal>: eighths
 
 80: eighthly
 
@@ -114507,9 +114495,7 @@
 
 80: Eighties </upper?>
 
-35: eightieth <n>: eightieths
-
-35: eightieth <aj>
+35: eightieth <n/ordinal>: eightieths
 
 80 [ukacd]: eightpence <n>: eightpences
 
@@ -114525,9 +114511,7 @@
 
 80: eightvo <n>: eightvos
 
-35: eighty <n>: eighties
-
-35: eighty <aj>
+35: eighty <n/number>: eighties
 
 80 [ukacd]: eigne
 
@@ -115648,16 +115632,11 @@
 
 80 [ukacd]: elevatory
 
-35: eleven <n>: elevens
+35: eleven <n/number>: elevens
 
-35: eleven <aj>
+55 GB: elevenses <pl>
 
-55: - <n>: elevenses
-80: elevens <n>
-
-35: eleventh <n>: elevenths
-
-35: eleventh <aj>
+35: eleventh <n/ordinal>: elevenths
 
 60: eleventh hour <n>
 
@@ -132960,21 +132939,15 @@
 
 60: FIFO <n/upper>
 
-35: fifteen <n>: fifteens
-
-35: fifteen <aj>
+35: fifteen <n/number>: fifteens
 
 80 [ukacd]: fifteener <n>: fifteeners
 
-35: fifteenth <n>: fifteenths
-
-35: fifteenth <aj>
+35: fifteenth <n/ordinal>: fifteenths
 
 80 [ukacd]: fifteenthly
 
-35: fifth <n>: fifths
-
-35: fifth <aj>
+35: fifth <n/ordinal>: fifths
 
 60: Fifth Amendment <n/upper>
 
@@ -132988,13 +132961,9 @@
 
 80: Fifties </upper?>
 
-35: fiftieth <n>: fiftieths
+35: fiftieth <n/ordinal>: fiftieths
 
-35: fiftieth <aj>
-
-35: fifty <n>: fifties
-
-35: fifty <aj>
+35: fifty <n/number>: fifties
 
 40: fifty-fifty <aj>
 
@@ -134235,9 +134204,7 @@
 
 70 [moby]: firry <a>: firrier, firriest
 
-35: first <n>: firsts, first's
-
-35: first <aj_av>
+35: first <n/ordinal>: firsts
 
 35: first aid <n>
 
@@ -134724,9 +134691,7 @@
 
 80 [ukacd]: Fitzwilliam Museum </upper?>
 
-35: five <n>: fives, five's
-
-35: five <aj>
+35: five <n/number>: fives
 
 60: five-and-dime <n>: five-and-dimes
 
@@ -139540,9 +139505,7 @@
 
 80 [ukacd]: forthy
 
-35: fortieth <n>: fortieths
-
-35: fortieth <aj>
+35: fortieth <n/ordinal>: fortieths
 
 80: fortifiable
 
@@ -139667,9 +139630,7 @@
 50: Fort Worth <n/place>: Fort Worth's
 60 US [town]: Fort Worth <n/place>: Fort Worth's
 
-35: forty <n>: forties
-
-35: forty <aj>
+35: forty <n/number>: forties
 
 50: forty-five <n>: forty-five's
 
@@ -139985,9 +139946,7 @@
 
 80 [ukacd]: fountful
 
-35: four <n>: fours, four's
-
-35: four <aj>
+35: four <n/number>: fours
 
 80: fourchee
 
@@ -140083,21 +140042,15 @@
 
 80: foursquarely
 
-35: fourteen <n>: fourteens
-
-35: fourteen <aj>
+35: fourteen <n/number>: fourteens
 
 80: fourteener <n>: fourteeners
 
-35: fourteenth <n>: fourteenths
-
-35: fourteenth <aj>
+35: fourteenth <n/ordinal>: fourteenths
 
 80 [ukacd]: fourteenthly
 
-35: fourth <n>: fourths
-
-35: fourth <aj_av>
+35: fourth <n/ordinal>: fourths
 
 60: Fourth <n/upper?>
 65: - <n/upper?>: Fourths-
@@ -153112,9 +153065,13 @@
 
 55: googly <n>: googlies
 
-70 [5desk] [moby]: googol <n>: googols
+70: googol <n/number>: googols
 
-70 [moby]: googolplex <n>: googolplexes
+70: googolplex <n/number>: googolplexes
+
+80: googolplexth <n/ordinal>: googolplexths
+
+80: googolth <n/ordinal>: googolths
 
 35 AU [extra]: googy-egg
 
@@ -174195,9 +174152,7 @@
 
 70 [5desk]: hunched <aj>
 
-35: hundred <n>: (hundred | hundreds*)
-
-35: hundred <aj>
+35: hundred <n/number>: hundreds
 
 80 [ukacd]: hundreder <n>: hundreders
 
@@ -174210,9 +174165,7 @@
 35 [ukfreq]: hundreds
 70 [5desk]: hundreds
 
-35: hundredth <n>: hundredths
-
-35: hundredth <aj>
+35: hundredth <n/ordinal>: hundredths
 
 50: hundredweight <n>: (hundredweight | hundredweights*)
 
@@ -231274,9 +231227,7 @@
 
 80: milliohm <n>: milliohms
 
-35: million <n>: (million | millions*)
-
-35: million <aj>
+35: million <n/number>: millions
 
 35: _: millionaire <n>: millionaires, millionaire's
 35: _-: millionnaire <n>: millionnaires, millionnaire's
@@ -231287,9 +231238,7 @@
 
 80: millionfold <av>
 
-35: millionth <n>: millionths
-
-35: millionth <aj>
+35: millionth <n/ordinal>: millionths
 
 80: milliosmol <n>: milliosmols
 
@@ -247921,9 +247870,7 @@
 
 80 [moby]: Ninde <n/place>
 
-35: nine <n>: nines, nine's
-
-35: nine <aj>
+35: nine <n/number>: nines
 
 70 [moby]: ninebark <n>: ninebarks
 
@@ -247944,13 +247891,9 @@
 
 50: ninepins <n>
 
-35: nineteen <n>: nineteens
+35: nineteen <n/number>: nineteens
 
-35: nineteen <aj>
-
-35: nineteenth <n>: nineteenths
-
-35: nineteenth <aj>
+35: nineteenth <n/ordinal>: nineteenths
 
 70 [moby]: nineteenth hole
 
@@ -247958,15 +247901,11 @@
 
 80: Nineties </upper?>
 
-35: ninetieth <n>: ninetieths
-
-70 [5desk] [moby]: ninetieth- <aj>
+35: ninetieth <n/ordinal>: ninetieths
 
 60: nine-to-five
 
-35: ninety <n>: nineties
-
-35: ninety <aj>
+35: ninety <n/number>: nineties
 
 50 [name]: Nineveh <n/upper>: Nineveh's
 60: Nineveh <n/upper>: Nineveh's
@@ -248010,9 +247949,7 @@
 
 80 [ukacd]: Nintendoitis </upper?>
 
-35: ninth <n>: ninths
-
-35: ninth <aj>
+35: ninth <n/ordinal>: ninths
 
 80: ninthly
 
@@ -250517,9 +250454,9 @@
 
 80: nonignitable
 
-70 [5desk] [moby]: nonillion <n>: nonillions
+70: nonillion <n/number>: nonillions
 
-70 [5desk]: nonillionth <n>: nonillionths
+70: nonillionth <n/ordinal>: nonillionths
 
 80: nonimage
 
@@ -253361,9 +253298,9 @@
 
 35: November <n/upper>: Novembers, November's
 
-80: novemdecillion <n>: novemdecillions
+80: novemdecillion <n/number>: novemdecillions
 
-80: novemdecillionth <n>: novemdecillionths
+80: novemdecillionth <n/ordinal>: novemdecillionths
 
 60: novena <n>: (_: novenas | A: novene | B: novenae)
 
@@ -256052,9 +255989,9 @@
 
 80 [ukacd]: octett <n>: octetts
 
-70 [5desk] [moby]: octillion <n>: octillions
+70: octillion <n/number>: octillions
 
-70 [5desk]: octillionth <n>: octillionths
+70: octillionth <n/ordinal>: octillionths
 
 80 [ukacd]: octingenary <n>: octingenaries
 
@@ -256070,9 +256007,9 @@
 
 80 [ukacd]: octocentenary <n>: octocentenaries
 
-70 [moby]: octodecillion <n>: octodecillions
+80: octodecillion <n/number>: octodecillions
 
-80: octodecillionth <n>: octodecillionths
+80: octodecillionth <n/ordinal>: octodecillionths
 
 70 [moby]: octodecimo <n>: octodecimos
 
@@ -302209,13 +302146,9 @@
 
 80 [ukacd]: quadriller <n>: quadrillers
 
-60: quadrillion <n>: (quadrillion | quadrillions*)
+60: quadrillion <n/number>: quadrillions
 
-60: quadrillion <a>
-
-70 [5desk]: quadrillionth <n>: quadrillionths
-
-70 [5desk]: quadrillionth <aj>
+60: quadrillionth <n/ordinal>: quadrillionths
 
 80 [ukacd]: quadrilocular
 
@@ -302854,9 +302787,9 @@
 
 80: Quattrocentro <n/upper?>: Quattrocentros
 
-80: quattuordecillion <n>: quattuordecillions
+80: quattuordecillion <n/number>: quattuordecillions
 
-80: quattuordecillionth <n>: quattuordecillionths
+80: quattuordecillionth <n/ordinal>: quattuordecillionths
 
 35: quaver <n_v>: quavered, quavering, quavers, quaver's
 
@@ -303504,9 +303437,9 @@
 
 70 [moby]: quindecennial <n>: quindecennials
 
-80: quindecillion <n>: quindecillions
+80: quindecillion <n/number>: quindecillions
 
-80: quindecillionth <n>: quindecillionths
+80: quindecillionth <n/ordinal>: quindecillionths
 
 50 hacker: quine <n>: quines
 80 [ukacd]: quine <n>: quines
@@ -303652,11 +303585,9 @@
 50 [name]: Quintilian <n/name?>: Quintilian's
 70 [5desk]: Quintilian <n/name?>: Quintilian's
 
-70 [5desk] [moby]: quintillion <n>: quintillions
+70: quintillion <n/number>: quintillions
 
-70 [5desk]: quintillionth <n>: quintillionths
-
-70 [5desk]: quintillionth <aj>
+70: quintillionth <n/ordinal>: quintillionths
 
 70 [5desk]: Quintin </upper?>
 
@@ -332547,9 +332478,9 @@
 
 80: seconal <n>: seconals
 
-35: second <n_v>: seconded, seconding, seconds, second's
+35: second <n>: seconds, second's
 
-35: second <aj_av>
+35: second <n_v/ordinal>: seconded, seconding, seconds
 
 70 [moby]: Second Advent <n/upper>
 
@@ -332643,9 +332574,6 @@
 35: second-rate <aj>
 
 70 [moby]: second reading <n>
-
-35 [ukfreq]: seconds
-40: seconds
 
 60: second sight <n>
 
@@ -335529,9 +335457,9 @@
 
 70 [moby]: septenary <n>: septenaries
 
-80: septendecillion <n>: septendecillions
+80: septendecillion <n/number>: septendecillions
 
-80: septendecillionth <n>: septendecillionths
+80: septendecillionth <n/ordinal>: septendecillionths
 
 80 [ukacd]: septennate <n>: septennates
 
@@ -335592,9 +335520,9 @@
 
 70 [moby]: septilateral
 
-70 [5desk] [moby]: septillion <n>: septillions
+70: septillion <n/number>: septillions
 
-70 [5desk]: septillionth <n>: septillionths
+70: septillionth <n/ordinal>: septillionths
 
 70 [moby]: septimal
 
@@ -336653,9 +336581,7 @@
 50 [name]: Sevastopol <n/upper>: Sevastopol's
 70 [5desk] [moby]: Sevastopol <n/upper>: Sevastopol's
 
-35: seven <n>: sevens, seven's
-
-35: seven <aj>
+35: seven <n/number>: sevens
 
 70 [moby]: seven deadly sins
 
@@ -336669,21 +336595,15 @@
 
 60: seven seas <n>
 
-35: seventeen <n>: seventeens
+35: seventeen <n/number>: seventeens
 
-35: seventeen <aj>
-
-35: seventeenth <n>: seventeenths
-
-35: seventeenth <aj>
+35: seventeenth <n/ordinal>: seventeenths
 
 80 [ukacd]: seventeenthly
 
 60: seventeen-year locust <n>
 
-35: seventh <n>: sevenths
-
-35: seventh <aj>
+35: seventh <n/ordinal>: sevenths
 
 70 [moby]: seventh chord <n>
 
@@ -336695,13 +336615,9 @@
 
 80: Seventies </upper?>
 
-40: seventieth <n>: seventieths
+35: seventieth <n/ordinal>: seventieths
 
-40: seventieth <aj>
-
-35: seventy <n>: seventies
-
-35: seventy <aj>
+35: seventy <n/number>: seventies
 
 80: Seventy <n/upper?>: Seventies
 
@@ -336861,7 +336777,9 @@
 
 50: sex chromosome <n>
 
-70 [moby]: sexdecillion <n>: sexdecillions
+80: sexdecillion <n/number>: sexdecillions
+
+80: sexdecillionth <n/ordinal>: sexdecillionths
 
 80: sexduction <n>: sexductions
 
@@ -336952,9 +336870,9 @@
 
 80: sextile <n>: sextiles
 
-70 [5desk] [moby]: sextillion <n>: sextillions
+70: sextillion <n/number>: sextillions
 
-70 [5desk]: sextillionth <n>: sextillionths
+70: sextillionth <n/ordinal>: sextillionths
 
 50 [+]: sexting <n>
 80: - <n>: sextings~
@@ -343256,9 +343174,7 @@
 
 80: Siwash <n/upper?>: Siwashes
 
-35: six <n>: sixes, six's
-
-35: six <aj>
+35: six <n/number>: sixes
 
 80: sixain <n>: sixains
 
@@ -343299,39 +343215,29 @@
 
 80: sixte <n>: sixtes
 
-35: sixteen <n>: sixteens
-
-35: sixteen <aj>
+35: sixteen <n/number>: sixteens
 
 80 [ukacd]: sixteener <n>: sixteeners
 
 70 [moby]: sixteenmo <n>: sixteenmos
 
-35: sixteenth <n>: sixteenths
-
-35: sixteenth <aj>
+35: sixteenth <n/ordinal>: sixteenths
 
 80 [ukacd]: sixteenthly
 
 60: sixteenth note <n>: sixteenth notes
 
-35: sixth <n>: sixths
-
-35: sixth <aj>
+35: sixth <n/ordinal>: sixths
 
 80: sixthly <av>
 
 40: sixth sense <n>
 
-35: sixtieth <n>: sixtieths
-
-35: sixtieth <aj>
+35: sixtieth <n/ordinal>: sixtieths
 
 80: Sixtine </upper?>
 
-35: sixty <n>: sixties
-
-35: sixty <aj>
+35: sixty <n/number>: sixties
 
 70 [moby]: sixty-four <aj>
 
@@ -375451,9 +375357,7 @@
 
 80 [ukacd]: temulently
 
-35: ten <n>: tens, ten's
-
-35: ten <aj>
+35: ten <n/number>: tens
 
 80 [moby]: ten <pre>
 
@@ -375939,9 +375843,7 @@
 
 80 [ukacd]: tentful <n>: tentfuls
 
-35: tenth <n>: tenths
-
-35: tenth <aj>
+35: tenth <n/ordinal>: tenths
 
 60: tenthly <av>
 
@@ -379092,9 +378994,7 @@
 
 80: thiram <n>: thirams
 
-35: third <n>: thirds, third's
-
-35: third <aj_av>
+35: third <n/ordinal>: thirds
 
 70 [5desk] [moby]: third- <v>: thirded, thirding, thirds
 
@@ -379169,23 +379069,15 @@
 
 35: thirsty <aj>: thirstier, thirstiest
 
-35: thirteen <n>: thirteens
+35: thirteen <n/number>: thirteens
 
-35: thirteen <aj>
-
-35: thirteenth <n>: thirteenths
-
-35: thirteenth <aj>
+35: thirteenth <n/ordinal>: thirteenths
 
 80 [ukacd]: thirteenthly
 
-35: thirtieth <n>: thirtieths
+35: thirtieth <n/ordinal>: thirtieths
 
-35: thirtieth <aj>
-
-35: thirty <n>: thirties
-
-35: thirty <aj>
+35: thirty <n/number>: thirties
 
 70 [moby]: thirty-eight <aj>
 
@@ -379520,9 +379412,7 @@
 
 80: thoughtway <n>: thoughtways
 
-35: thousand <n>: (thousand | thousands*)
-
-35: thousand <aj>
+35: thousand <n/number>: thousands
 
 70 [5desk]: Thousand </upper?>
 
@@ -379533,9 +379423,7 @@
 60: Thousand Oaks <n/place>: Thousand Oaks's
 60 US [town]: Thousand Oaks <n/place>: Thousand Oaks's
 
-35: thousandth <n>: thousandths
-
-35: thousandth <aj>
+35: thousandth <n/ordinal>: thousandths
 
 80 [ukacd]: thowel <n>: thowels
 
@@ -379651,9 +379539,7 @@
 
 80 [ukacd]: threatful
 
-35: three <n>: threes, three's
-
-35: three <aj>
+35: three <n/number>: threes
 
 60: three-cornered <aj>
 
@@ -387146,9 +387032,9 @@
 
 80: treddle <m>: treddled, treddling, treddles
 
-70 [moby]: tredecillion <n>: tredecillions
+80: tredecillion <n/number>: tredecillions
 
-80: tredecillionth <n>: tredecillionths
+80: tredecillionth <n/ordinal>: tredecillionths
 
 80 [ukacd]: tredille <n>: tredilles
 
@@ -388407,13 +388293,9 @@
 80: trilling <n>
 80 [ukacd]: - <n>: trillings
 
-35: trillion <n>: (trillion | trillions*)
+35: trillion <n/number>: trillions
 
-35: trillion <aj>
-
-50: trillionth <n>: trillionths
-
-50: trillionth <aj>
+35: trillionth <n/ordinal>: trillionths
 
 60: trillium <n>: trillium's
 80: - <n>: trilliums~
@@ -392056,9 +391938,7 @@
 
 35: tweezers <n>
 
-35: twelfth <n>: twelfths
-
-35: twelfth <aj>
+35: twelfth <n/ordinal>: twelfths
 
 60: Twelfth Day </upper?>
 
@@ -392070,9 +391950,7 @@
 
 80 [ukacd]: Twelfth-tide </upper?>
 
-35: twelve <n>: twelves
-
-35: twelve <aj>
+35: twelve <n/number>: twelves
 
 70 [5desk]: twelvefold
 
@@ -392090,13 +391968,9 @@
 
 80: Twenties </upper?>
 
-35: twentieth <n>: twentieths
+35: twentieth <n/ordinal>: twentieths
 
-35: twentieth <aj>
-
-35: twenty <n>: twenties
-
-35: twenty <aj>
+35: twenty <n/number>: twenties
 
 60: twenty-first <aj>
 
@@ -392393,9 +392267,7 @@
 
 50 [name]: Twizzlers <n/name?>: Twizzlers's
 
-35: two <n>: twos, two's
-
-35: two <aj>
+35: two <n/number>: twos
 
 40: two-bit
 
@@ -396531,7 +396403,9 @@
 
 80: undecidedness <n>: undecidednesses
 
-80: undecillion <n>: undecillions
+80: undecillion <n/number>: undecillions
+
+80: undecillionth <n/ordinal>: undecillionths
 
 80 [ukacd]: undecimal
 
@@ -411407,7 +411281,9 @@
 
 70 [5desk]: vigils
 
-80: vigintillion <n>: vigintillions
+80: vigintillion <n/number>: vigintillions
+
+80: vigintillionth <n/ordinal>: vigintillionths
 
 80: vigneron <n>: vignerons
 
@@ -427944,9 +427820,9 @@
 
 70 [moby]: Zermatt </upper?>
 
-35: zero <n_v>: zeroed, zeroing, (zeros | ~: zeroes), zero's
+35: zero <n/number>: zeros
 
-35: zero <aj>
+35: zero <v>: zeroed, zeroing, (zeros | ~: zeroes)
 
 50: zero hour <n>
 
@@ -429268,6 +429144,7 @@
 
 #: Part of Speech Codes:
 #:   n: noun
+#:   pl: plural noun
 #:   v: verb
 #:   n_v: noun and verb
 #:   m: noun/verb
@@ -429292,6 +429169,7 @@
 #:   abbr?
 #:   name?
 #:   number
+#:   ordinal
 #:   person
 #:   place
 #:   trademark

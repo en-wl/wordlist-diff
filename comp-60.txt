@@ -1,9 +1,11 @@
 New words, unclassified:
   ourself
+  quadrillionth
+  quadrillionths
   themself
   whomso
   whoseso
-total: 4
+total: 6
 
 New words, upper plural:
   Amerasians
@@ -114,6 +116,7 @@ Missing words, unclassified:
   dialyzes
   driers
   dybbuks
+  elevenses
   emfs
   emojis
   enamelings
@@ -240,7 +243,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 158
+total: 159
 
 Missing words, common variant:
   airguns
