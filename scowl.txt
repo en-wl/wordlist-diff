@@ -36244,8 +36244,6 @@
 
 60: big game <n>
 
-35 [ukfreq]: bigger <aj>
-
 80: biggety
 
 40: biggie <n>: biggies
@@ -68850,14 +68848,9 @@
 35 [ukfreq]: closer <n>
 70 [moby]: closer <n>: closers, closer's
 
-35 [ukfreq]: closer <av>
-70 [moby]: closer <av>
-
 60: close-set <aj>
 
 50: close shave <n>: close shaves
-
-35 [ukfreq]: closest <av>
 
 70 [moby]: close-stool
 
@@ -112106,14 +112099,8 @@
 
 80 [moby]: Earlham <n/place>
 
-35 [ukfreq]: earlier <aj_av>
-70 [5desk]: earlier <aj_av>
-
 80 [ukacd]: A Z: earlierize <m>: earlierized, earlierizing, earlierizes
 80 [ukacd]: B: earlierise <m>: earlierised, earlierising, earlierises
-
-35 [ukfreq]: earliest <aj_av>
-70 [5desk]: earliest <aj_av>
 
 80: earlike
 
@@ -129896,14 +129883,9 @@
 
 40: fart <n_v> (vulgar-3): farted, farting, farts
 
-35 [ukfreq]: farther <aj_av>
-70 [5desk] [moby]: farther <aj_av>
-
 80 [ukacd]: farthermore
 
 60: farthermost <aj>
-
-70 [5desk] [moby]: farthest <aj_av>
 
 50: farthing <n>: farthings
 
@@ -130078,11 +130060,7 @@
 
 35: fastening <n>: fastenings, fastening's
 
-35 [ukfreq]: faster <av>
-
 80: faster- <n>: fasters
-
-35 [ukfreq]: fastest <av>
 
 80 [ukacd]: Fastext </upper?>
 
@@ -133586,9 +133564,6 @@
 
 40: fine print <n>
 
-35 [ukfreq]: finer <aj>
-70 [moby]: finer <aj>
-
 70 [moby]: finer- <n>: finers
 
 50: finery <n>: finery's
@@ -134652,8 +134627,6 @@
 40: fitted <aj>
 
 50: fitter <n>: fitters, fitter's
-
-70 [5desk] [moby]: fitter- <aj>
 
 35: fitting <n>: fittings, fitting's
 
@@ -155345,16 +155318,11 @@
 
 70 [moby]: greaten <m>: greatened, greatening, greatens
 
-35: greater <aj>
-
 70 [moby]: Greater </upper?>
 
 60: Greater Antilles <n/upper>
 
 70 [moby]: Greater Sunda Islands <n/upper>
-
-35 [ukfreq]: greatest <aj>
-70 [moby]: greatest <aj>
 
 70 [moby]: greatest common divisor <n>
 
@@ -163524,8 +163492,6 @@
 50: healthfulness <n>
 80: - <n>: healthfulnesses~
 
-35 [ukfreq]: healthier <aj>
-
 40: healthily <av>
 
 50: healthiness <n>
@@ -167998,8 +167964,6 @@
 60: high-definition television <n>
 
 60: high-end
-
-35: higher <aj>
 
 55: - <n>: highers
 80: higher- <n>
@@ -204775,8 +204739,6 @@
 50: largeness <n>
 80: - <n>: largenesses~
 
-35: larger <aj>
-
 40: large-scale <aj>
 
 50: largess <n>
@@ -205213,8 +205175,6 @@
 
 70 [moby]: latent period <n>
 
-35: later <aj_av>
-
 80: laterad
 
 35: lateral <n_v>: (lateraled | ~: lateralled), (lateraling | ~: lateralling), laterals
@@ -205261,8 +205221,6 @@
 35 [ukfreq]: latest <n>
 40: latest <n>
 80: - <n>: latests~
-
-70 [5desk] [moby]: latest- <aj>
 
 80 [ukacd]: latewake <n>: latewakes
 
@@ -212061,8 +212019,6 @@
 
 70 [5desk] [moby]: liver- <v>: livered, livering, livers
 
-70 [5desk] [moby]: liver- <aj>
-
 70 [moby]: liver fluke <n>
 
 50: liveried <aj>
@@ -213503,11 +213459,7 @@
 35: longer <n>
 80: - <n>: longers
 
-35: longer <av>
-
 70 [moby]: longeron <n>: longerons
-
-35 [ukfreq]: longest <av>
 
 80 [ukacd]: A: longeval
 80 [ukacd]: B: longaeval
@@ -214894,8 +214846,6 @@
 70 [5desk]: lowery
 
 80 [moby]: Lowes <n/place>
-
-35 [ukfreq]: lowest <aj_av>
 
 50: lowest common denominator <n>: lowest common denominators
 
@@ -244296,10 +244246,6 @@
 
 60: Near Eastern </upper?>
 
-35 [ukfreq]: nearer <av>
-
-35 [ukfreq]: nearest <av>
-
 70 [5desk]: nearish
 
 35: nearly <av>
@@ -247480,10 +247426,6 @@
 50: nigh <c>
 
 70 [5desk] [moby]: nigh- <v>: nighed, nighing, nighs
-
-80: nigher <av>
-
-80: nighest <av>
 
 80 [ukacd]: nighly
 
@@ -256825,8 +256767,6 @@
 
 35: often <av>: oftener, oftenest
 
-80: oftener <av>
-
 80 [ukacd]: oftenness <n>
 
 50: oftentimes <av>
@@ -257351,9 +257291,6 @@
 50: Old English <n/upper>
 
 70 [moby]: Old English sheepdog <n/upper>: Old English sheepdogs-
-
-35 [ukfreq]: older <aj>
-70 [moby]: older <aj>
 
 80 [ukacd]: olde-worlde
 
@@ -303202,10 +303139,6 @@
 80: quickening <n>
 80 [ukacd]: - <n>: quickenings
 
-35 [ukfreq]: quicker <av>
-
-35 [ukfreq]: quickest <av>
-
 55: quickfire
 
 80 [ukacd]: quick-fire
@@ -345428,10 +345361,6 @@
 
 80 [ukacd]: slow-down <n>: slow-downs
 
-35 [ukfreq]: slower <av>
-
-35 [ukfreq]: slowest <av>
-
 35 [ukfreq]: slowing <n>
 80 [ukacd]: - <n>: slowings
 
@@ -345718,8 +345647,6 @@
 70 [moby]: smallclothes
 
 80 [ukacd]: small-clothes
-
-35 [ukfreq]: smaller <aj>
 
 40: small fry <n>
 
@@ -349364,14 +349291,9 @@
 
 35: soon <av>: sooner, soonest
 
-35 [ukfreq]: sooner <av>
-70 [5desk] [moby]: sooner <av>
-
 70 [5desk] [moby]: sooner- <n>: sooners
 
 80: Sooner <n/upper>: Sooners-
-
-50 [ukfreq]: soonest <av>
 
 35: soot <n>
 80: - <n>: soots~
@@ -424065,8 +423987,6 @@
 35: worse <n>
 80: - <n>: worses~
 
-70 [5desk] [moby]: worse- <aj_av>
-
 35: worsen <v>: worsened, worsening, worsens
 
 35 [ukfreq]: worsened <aj>
@@ -424114,8 +424034,6 @@
 80: - <n>: worsts~
 
 35: worst <v>: worsted, worsting, worsts
-
-70 [5desk] [moby]: worst- <aj_av>
 
 50: worsted <n>: worsted's
 80: - <n>: worsteds~
@@ -426868,8 +426786,6 @@
 
 60: young blood <n>
 65: - <n>: young bloods-
-
-35 [ukfreq]: younger <aj>
 
 80: younger- <n>: youngers
 
