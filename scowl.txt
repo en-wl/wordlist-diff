@@ -35016,8 +35016,6 @@
 
 35: best <n_v>: bested, besting, bests, best's
 
-35: best <aj_av>
-
 50: Best <n/person>: Best's
 
 80 [ukacd]: bestad
@@ -35268,8 +35266,6 @@
 80 [moby]: Bettendorf <n/place>
 
 35: better <n_v>: bettered, bettering, betters, better's
-
-35: better <aj_av>
 
 70 [moby]: better half <n>: better halves
 
@@ -114570,6 +114566,8 @@
 80: eiswein <n>: eisweins
 
 80: Eiswein <n/upper?>: Eisweins
+
+35: either <av>
 
 35: either <c>
 
@@ -210031,7 +210029,7 @@
 
 35: like <n_v>: liked, liking, likes
 
-35: like <aj>
+35: like <aj_av>
 
 35: like <c>
 
@@ -221017,6 +221015,8 @@
 
 70 [5desk]: Manxwoman <n/upper?>: Manxwomen
 
+35: many <av>: more, most
+
 35: many <d>: more, most
 
 80 [ukacd]: manyata <n>: manyatas
@@ -231637,7 +231637,7 @@
 
 50: Mindy <n/person>: Mindy's
 
-35: mine <v>: mined, mining, mines
+35: mine <n_v>: mined, mining, mines, mine's
 
 70 [5desk]: mineable
 
@@ -239135,10 +239135,9 @@
 
 80 [ukacd]: mucedinous
 
-35: much <n>
-80: - <n>: muches~
+35: much <av>
 
-35: much <aj_av>
+35: much <d>
 
 80: muchacha <n>: muchachas
 
@@ -261887,6 +261886,8 @@
 
 50 [name]: Othello <n/upper>: Othello's
 70 [5desk]: Othello <n/upper>: Othello's
+
+35: other <aj>
 
 35: other <pn>: -, others, -, other's
 
@@ -377529,6 +377530,8 @@
 
 50 [name]: Tharp <n/upper>: Tharp's
 
+35: that <av>
+
 35: that <c>
 
 35: that <d>: those
@@ -379100,6 +379103,8 @@
 70 [moby]: thirty-twomo <n>: thirty-twomos
 
 70 [moby]: Thirty Years' War <n/upper>
+
+35: this <av>
 
 35: this <d>: these
 

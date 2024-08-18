@@ -110935,6 +110935,7 @@ minds
 mindset
 mindsets
 mine
+mine's
 mineable
 mined
 minefield
