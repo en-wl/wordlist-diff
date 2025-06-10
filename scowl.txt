@@ -23598,7 +23598,7 @@
 
 70 [moby]: attaboy <n>: attaboys
 
-35: attach <v>: attached, attaching, attaches†
+35: attach <v>: attached, attaching, attaches
 
 60: attachable <aj>
 
@@ -53865,7 +53865,7 @@
 
 80: canvaslike
 
-35: canvass <n_v>: canvassed†, canvassing†, canvasses
+35: canvass <n_v>: canvassed, canvassing, canvasses
 
 35 [ukfreq]: - <n>: canvassers
 50: canvasser <n>: canvassers, canvasser's
@@ -140711,7 +140711,7 @@
 
 80 [ukacd]: franzy
 
-70 [moby]: frap <v>: frapped†, frapping†, fraps
+70 [moby]: frap <v>: frapped, frapping, fraps
 
 80 [ukacd]: frappant
 
@@ -147572,7 +147572,7 @@
 
 35: genius <n> {brilliance}: geniuses, genius's
 
-35: genius <n> {spirit}: genii†, genius's, genii's†
+35: genius <n> {spirit}: genii, genius's, genii's
 
 80: Genius <n/upper?>: Genii
 
@@ -227653,7 +227653,7 @@
 
 70 [5desk]: Mesdemoiselles </upper?>
 
-80 [ukacd]: mese <n>: meses†
+80 [ukacd]: mese <n>: meses
 
 80: meseemed
 
@@ -285510,7 +285510,7 @@
 70 [moby]: pluvious
 
 35: ply <n>
-80: - <n>: plies~†
+80: - <n>: plies~
 
 35: ply <v>: plied, plying, plies
 
@@ -297608,7 +297608,7 @@
 
 70 [moby]: protozoology <n>: protozoologies
 
-50: - <n>: (protozoa† | -: protozoons-), -, (protozoa's† | -: protozoons'-) # fixme: protozoons: check if variant
+50: - <n>: (protozoa | -: protozoons-), -, (protozoa's | -: protozoons'-) # fixme: protozoons: check if variant
 70: protozoon <n>: protozoon's
 
 50: protract <v>: protracted, protracting, protracts
@@ -345903,7 +345903,7 @@
 
 35: smelly <aj>: smellier, smelliest
 
-35: smelt <n>: (smelt† | smelts*), smelt's
+35: smelt <n>: (smelt | smelts*), smelt's
 
 35: smelt <v>: smelted, smelting, smelts
 
@@ -346552,7 +346552,7 @@
 
 70 [moby]: snap roll <n>
 
-70 [5desk]: - <m>: snapshot†, -, -
+70 [5desk]: - <m>: snapshot, -, -
 80: snapshoot <m>: -, snapshooting, snapshoots
 
 80: snapshooter <n>: snapshooters
@@ -387286,7 +387286,7 @@
 
 50: tress <n>: tresses
 
-70 [5desk] [moby]: tress- <v>: tressed†, tressing†, tresses†
+70 [5desk] [moby]: tress- <v>: tressed, tressing, tresses
 
 70 [5desk]: tressel <n>: tressels-
 
