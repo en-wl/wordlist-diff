@@ -68471,7 +68471,6 @@ eddying
 edelweiss
 edema
 edema's
-edemas
 edematous
 edentate
 edentate's
@@ -102299,7 +102298,6 @@ lovesickness
 lovesicknesses
 lovesome
 lovey
-loveys
 loving
 lovingly
 lovings

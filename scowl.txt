@@ -17960,11 +17960,8 @@
 
 80 [moby]: Appling <n/place>
 
-50: appliqué <n>: appliqués # accented
-50: _V: applique <n>: appliques # need-accent
-
-50: appliqué <v>: appliquéd, appliquéing, appliqués
-50: _V: applique <v>: (appliqued | -: appliqueed), appliqueing, appliques
+50: appliqué <n_v>: appliquéd, appliquéing, appliqués
+50: _V: applique <n_v>: (appliqued | -: appliqueed), appliqueing, appliques
 
 35: apply <v>: applied, applying, applies
 
@@ -20746,7 +20743,7 @@
 
 35: A B: ass <n> {donkey}: ass's
 
-55 GB: arse <v>: arsed, arsing, arses
+50 GB: arse <v> (vulgar-3): arsed, arsing, arses
 
 ## ass (arse):
 ## ass and arse have additional regional specific meanings and are
@@ -49529,10 +49526,8 @@
 80 [ukacd]: Bury St Edmunds </upper?>
 
 35: A B: bus <n>: (A B C: buses | AV B- CV: busses), bus's
-## to avoid confusion with buss
 
 35: A B: bus <v>: (A Bv C: bused | AV B: bussed), (A Bv C: busing | AV B: bussing), (A Bv C: buses | AV B: busses)
-## to avoid confusion with buss
 
 60: bus. <abbr>
 
@@ -83115,7 +83110,7 @@
 
 80: cozey <n>: cozeys
 
-70 [5desk] [moby]: - <m>: cozied†, cozying†, - # fixme: cozied, cozying, cozies: check for variants
+70 [5desk] [moby]: - <m>: cozied†, cozying†, - # fixme: cozied, cozies, cozying: check for variants
 80: cozie <m>: -, -, cozies†
 
 70 [5desk] [moby]: - <a>: cozier†, coziest† # fixme: cozier, coziest: check for variants
@@ -87329,10 +87324,10 @@
 
 80: curably
 
-50 [name]: Curaçao <n/place>: Curaçao's
+50 [name]: _: Curaçao <n/place>: Curaçao's
 50 [name]: _-: Curacao <n/place>: Curacao's
-70 [5desk]: Curaçao <n/place>: Curaçao's
-70 [5desk]: _-: Curacao <n/place>: Curacao's
+70 [5desk]: _: Curaçao <n/place>: Curaçao's
+70 [5desk]: _-: Curacao <n/place>: Curacaos-, Curacao's
 
 55: curaçao <n> # accented
 55: _~: curacao <n> # need-accent
@@ -96437,8 +96432,8 @@
 
 70 [moby]: de profundis
 
-35: A C D: deprogram <v>: (A C D: deprogrammed | Av: deprogramed), (A C D: deprogramming | Av: deprograming), deprograms
-35: B Cv Dv: deprogramme <v>: deprogrammed, deprogramming, deprogrammes
+50: A C D: deprogram <v>: (A C D: deprogrammed | Av: deprogramed), (A C D: deprogramming | Av: deprograming), deprograms
+50: B Cv Dv: deprogramme <v>: deprogrammed, deprogramming, deprogrammes
 
 70 [5desk]: deprogrammer <n>: deprogrammers
 
@@ -102886,7 +102881,7 @@
 60: B: déshabillé <n>
 80: A Bv: - <n>: dishabilles~
 80: Av: - <n>: deshabilles~
-80: B: - <n>: déshabillés
+80: B: - <n>: déshabillés~
 
 80 [ukacd]: dishabit
 
@@ -113481,8 +113476,8 @@
 
 50: A C Dv: edema <n>: edema's
 50: B D: oedema <n>: oedema's
-60: A C Dv: - <n>: edemas~
-60: B D: - <n>: oedemas~
+80: A C Dv: - <n>: edemas~
+80: B D: - <n>: oedemas~
 
 80 [ukacd]: A C Dv: edematose
 80 [ukacd]: B D: oedematose
@@ -129455,7 +129450,7 @@
 
 55: fantasia <n>: fantasias
 
-35: - <m>: fantasied†, fantasying†, - # fixme: fantasied, fantasying, fantasies: check for variants
+35: - <m>: fantasied†, fantasying†, - # fixme: fantasied, fantasies, fantasying: check for variants
 80: fantasie <m>: -, -, fantasies†
 
 55: fantasist <n>: fantasists, fantasist's
@@ -140722,7 +140717,7 @@
 50: _~: frappe <a> # need-accent
 
 70 [5desk]: frappé <v> # accented
-70 [5desk]: _~: frappe <v>: (frapped† | frappeed), (frappeing | frapping†), frappes #! unmarked variants: frapped, frappeed, frappeing, frapping
+70 [5desk]: _~: frappe <v>: (frapped† | frappeed), (frappeing | frapping†), frappes #! unmarked variants: frapped, frappeed, frappeing, frapping # need-accent # fixme: lemma_rank originally "-"
 
 70 [moby]: Frascati <n/upper?>: Frascatis
 
@@ -160146,7 +160141,7 @@
 55: _V {2}: hollo <i> # fixme: lemma_rank originally "-"
 
 60: _: halloo <v>: -, hallooing, halloos
-60: _V {1}: hallo <v>: -, halloing, (hallos | hollos | -: halloes-) #! unmarked variants: hallos, hollos
+60: _V {1}: hallo <v>: -, halloing, (hallos | hollos | -: halloes-) #! unmarked variants: hallos, hollos # fixme: halloes: check if variant; lemma_rank originally "-"
 60: _V {2}: hollo <v>: -, holloing, holloes
 70: _: - <v>: hallooed, -, -
 70: _V {1}: - <v>: halloed, -, -
@@ -164942,7 +164937,7 @@
 
 35: hello <i>
 
-70 [5desk] [moby]: -hello <v>: helloed, helloing, (helloes | hellos) #! unmarked variants: helloes, hellos
+70 [5desk] [moby]: -hello <v>: helloed, helloing, (helloes | hellos) #! unmarked variants: helloes, hellos # fixme: helloed: check for variants
 
 80 [ukacd]: hellova
 
@@ -168415,7 +168410,7 @@
 
 70 [moby]: hill myna <n>: hill myna's
 
-80: hillo <m>: hilloed, hilloing, (_: hilloes | A- B-: hillos) #! missing non-variants: hilloes, hillos
+80: hillo <m>: hilloed, hilloing, (_: hilloes | A- B-: hillos) #! missing non-variants: hilloes, hillos # fixme: hilloed: check for variants; hillos: check if variant
 
 80: hilloa <m>: hilloaed, hilloaing, hilloas # fixme: hilloaed: check for variants
 
@@ -214692,7 +214687,9 @@
 
 80 [ukacd]: loveworthy
 
-55: _: lovey <n>: loveys
+60: lovey <wp> # lovey-dovey
+
+60 GB: lovey <n>: loveys
 
 80 [ukacd]: lovey-dovey
 
@@ -216247,8 +216244,8 @@
 
 50 [name]: Luvs <n/name?>: Luvs's
 
-55 GB: _: luvvie <n>: luvvies
-55 GB: _v: luvvy <n>: luvvies
+60 GB: _: luvvie <n>: luvvies
+60 GB: _v: luvvy <n>: luvvies
 
 70 [moby]: Luwian <n/upper>: Luwians-
 
@@ -229241,7 +229238,7 @@
 
 80: micell <n>: micells
 
-80: micella <n>: (A- B-: micellas | B: micellae) #! missing non-variants: micellas, micellae
+80: micella <n>: (A- B-: micellas | B: micellae) #! missing non-variants: micellas, micellae # fixme: micellas: check if variant
 
 80: micellar
 
@@ -233167,7 +233164,7 @@
 
 80: mislie <m>: mislain, mislying, mislies
 
-80: mislight <m>: (mislighted | mislit), mislighting, mislights #! unmarked variants: mislighted, mislit
+80: mislight <m>: (mislighted | mislit), mislighting, mislights #! unmarked variants: mislighted, mislit # fixme: mislit: check if variant
 
 70 [5desk] [moby]: mislike <m>: misliked, misliking, mislikes
 
@@ -279875,7 +279872,7 @@
 
 80: photosynthate <n>: photosynthates
 
-35: photosynthesis <n> #! missing non-variants: photosyntheses, photosynthesises
+35: photosynthesis <n> #! missing non-variants: photosyntheses, photosynthesises # fixme: photosyntheses: check if variant
 65: - <n>: (A- B- Z-: photosyntheses~ | B: photosynthesises-†)
 
 60: A Z: photosynthesize <v>: photosynthesized, photosynthesizing, photosynthesizes
@@ -282248,7 +282245,7 @@
 
 80 [ukacd]: pinnock <n>: pinnocks
 
-80: pinnula <n>: (A- B-: pinnulas | B: pinnulae) #! missing non-variants: pinnulas, pinnulae
+80: pinnula <n>: (A- B-: pinnulas | B: pinnulae) #! missing non-variants: pinnulas, pinnulae # fixme: pinnulas: check if variant
 
 80: pinnular
 
@@ -282292,7 +282289,7 @@
 
 60: _: piñon <n>: (piñons | v: piñones), piñon's
 60: _v: pinyon <n>: pinyons, pinyon's
-60: _-: pinon <n>: (pinons | v: pinones), pinon's
+60: _-: pinon <n>: (pinons | ~: pinones), pinon's
 
 80 [moby]: Pinon <n/place>
 
@@ -283441,9 +283438,9 @@
 
 80 [ukacd]: plaguesome
 
-80: plaguey <aj>
+80: plaguey <aj>: plaguier, plaguiest
 
-80: plaguey <av>: plaguier, plaguiest
+80: plaguey <av>
 
 80: plaguily <av>
 
@@ -304532,7 +304529,7 @@
 
 80: radioisotopically
 
-80: radiolabel <m>: (radiolabeled | -: radiolabelled), (radiolabeling | radiolabelling), radiolabels #! unmarked variants: radiolabeling, radiolabelling
+80: radiolabel <m>: (radiolabeled | -: radiolabelled), (radiolabeling | radiolabelling), radiolabels #! unmarked variants: radiolabeling, radiolabelling # fixme: radiolabelled: check if variant
 
 80 [ukacd]: Radiolaria <n/upper>
 
@@ -307615,7 +307612,7 @@
 
 80: reavow <m>: reavowed, reavowing, reavows
 
-70 [5desk]: reawake <m>: (reawaked | -: reawoke), (reawaked | reawoken | -: reawoke), reawaking, reawakes #! unmarked variants: reawaked, reawoken
+70 [5desk]: reawake <m>: (reawaked | -: reawoke), (reawaked | reawoken | -: reawoke), reawaking, reawakes #! unmarked variants: reawaked, reawoken # fixme: reawoke: check if variant
 
 50: reawaken <v>: reawakened, reawakening, reawakens
 
@@ -315711,9 +315708,9 @@
 
 35: reunion <n>: reunions, reunion's
 
-50 [name]: Réunion <n/place>: Réunion's
+50 [name]: _: Réunion <n/place>: Réunion's
 50 [name]: _-: Reunion <n/place>: Reunion's
-60: Réunion <n/place>: Réunion's
+60: _: Réunion <n/place>: Réunion's
 60: _-: Reunion <n/place>: Reunion's
 
 80: reunionism <n>: reunionisms
@@ -332412,9 +332409,9 @@
 
 80: seconal <n>: seconals
 
-35: second <n>: seconds, second's
-
 35: second <n_v/ordinal>: seconded, seconding, seconds
+
+35: second <n> {unit}: seconds, second's
 
 70 [moby]: Second Advent <n/upper>
 
@@ -348105,10 +348102,10 @@
 
 70 [moby]: soi-disant <aj>
 
-60: soigné <aj>
+60: _: soigné <aj>
 60: _V: soigne <aj>
 
-55: soignée <aj>
+55: _: soignée <aj>
 55: _V: soignee <aj>
 
 35: soil <n>: soil's
@@ -369964,7 +369961,7 @@
 
 60 [extra]: synth <n>: synths
 
-35: synthesis <n>: (_: syntheses | A- B-: synthesises-†) #! missing non-variants: syntheses, synthesises
+35: synthesis <n>: (_: syntheses | A- B-: synthesises-†) #! missing non-variants: syntheses, synthesises # fixme: synthesises: check if variant
 
 80: synthesist <n>: synthesists
 

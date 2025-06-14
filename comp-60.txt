@@ -116,6 +116,7 @@ Missing words, unclassified:
   dialyzes
   driers
   dybbuks
+  edemas
   elevenses
   emfs
   emojis
@@ -148,6 +149,7 @@ Missing words, unclassified:
   likest
   lingerings
   lipsticked
+  loveys
   matzohs
   matzos
   matzot
@@ -243,7 +245,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 159
+total: 161
 
 Missing words, common variant:
   airguns
