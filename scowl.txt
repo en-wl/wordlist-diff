@@ -208014,7 +208014,7 @@
 
 80: littery
 
-35 70: little <aj>
+35: little <aj>
 70: - <aj>: littler-, littlest-
 
 35: little <av>: less, least
@@ -309509,9 +309509,9 @@
 
 35: resume <v>: resumed, resuming, resumes
 
-50 [extra]: _: résumé <n>: résumés
-50 [extra]: _v: resume <n>: resumes
-50 [extra]: _V: resumé <n>: resumés
+50 [extra] 70 [5desk] [moby]: _: résumé <n>: résumés
+50 [extra] 70 [5desk] [moby]: _v: resume <n>: resumes
+50 [extra] 70 [5desk] [moby]: _V: resumé <n>: resumés
 
 80: resumer <n>: resumers
 
@@ -413031,7 +413031,7 @@
 
 80 [ukacd]: whodunnitry
 
-35 50: whoever <pn>
+35: whoever <pn>
 50: - <pn>: whomever
 
 35: whole <n>: wholes
