@@ -766,6 +766,7 @@ total: 50
 
 New words, ok, in 2of12id:
   attaches
+  axe
   blissed
   blisses
   blissing
@@ -842,7 +843,7 @@ New words, ok, in 2of12id:
   weirding
   weirds
   whizkids
-total: 77
+total: 78
 
 New words, ok, other:
   Curaçao

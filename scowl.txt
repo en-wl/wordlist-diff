@@ -25554,12 +25554,15 @@
 
 80 [ukacd]: aws
 
-35: A: ax <n_v>: axed, axing, axes†, ax's
-35: A= B: axe <n_v>: axed, axing, axes†, axe's
+80: axal
+
+35: A B: axe <n_v>: axed, axing, axes†, axe's
+35: A.: ax <n_v>: axed, axing, axes†, ax's
+## Up to around 2021 M-W preferred _ax_ over _axe_, but the entry was updated
+##   and they wrote an article on why _axe_ is preferred.  Some other American
+##   dictionaries still preferred _ax_, however.
 
 80 [moby]: ax. <abbr>
-
-80: axal
 
 80: axel <n>: axels
 
