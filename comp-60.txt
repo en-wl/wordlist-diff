@@ -971,7 +971,6 @@ Missing words, ok, uncommon form:
   accessioning
   aliened
   aliening
-  analytics
   anons
   antipodals
   ashed
@@ -1055,7 +1054,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 90
+total: 89
 
 Missing words, ok, variant:
   Curacao

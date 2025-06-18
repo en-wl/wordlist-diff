@@ -23120,6 +23120,7 @@ analysts
 analytic
 analytical
 analytically
+analytics
 anapest
 anapestic
 anapestics

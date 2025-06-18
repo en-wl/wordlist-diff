@@ -12148,9 +12148,6 @@
 35: _: analytical <aj>
 35: _=: analytic <aj>
 
-60 [extra] 70 [5desk] [moby]: _=: - <n>: analytics
-70 [5desk] [moby]: _=: -analytic <n>
-
 50: _: analytically <av>
 50: _v: analyticalally <av>
 
@@ -12158,6 +12155,8 @@
 
 80: _: analyticity <n>: analyticities
 80: _v: analyticality <n>
+
+60 [extra] 70 [5desk] [moby]: analytics <n>
 
 80: A C: analyzability <n>: analyzabilities
 80: B: analysability <n>
@@ -219227,10 +219226,8 @@
 
 80 [ukacd]: matgrass <n>: matgrasses
 
-35: A C: math <n>: math's- #! maths: extra spellings: B D Z
+35: A C: math <n>
 35: B: maths <n>
-80: A C: - <n>: (A C: math~ | B: maths~)
-80: B: - <n>
 
 70 [moby]: math. <abbr>
 

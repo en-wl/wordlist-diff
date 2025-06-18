@@ -23271,6 +23271,7 @@ analysts
 analytic
 analytical
 analytically
+analytics
 analyzable
 analyze
 analyzed
@@ -66896,7 +66897,6 @@ mates
 matey
 mateys
 math
-math's
 mathematical
 mathematically
 mathematician
