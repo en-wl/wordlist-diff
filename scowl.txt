@@ -373298,7 +373298,7 @@
 35: AV B-: thru <pp>
 70: +: thru <pp>
 
-50 US: thru <we>
+50 US: thru <we> # drive-thru
 
 70 [moby]: through-composed
 
