@@ -5420,7 +5420,7 @@
 
 80: affectionless
 
-70 [-]: affective <aj>
+70 [5desk] [moby] 80: affective <aj>
 
 70 [5desk] 80: affectively
 
@@ -51484,9 +51484,9 @@
 
 40: calendar year <n>: calendar years
 
-70 [-]: calender <n_v>: calendered, calendering, calenders
+70 [-] [5desk] [moby] 80 [ukacd]: calender <n_v>: calendered, calendering, calenders
 
-80 [-]: calendered <aj>
+80: calendered <aj>
 
 80: calenderer <n>: calenderers
 
@@ -141958,13 +141958,13 @@
 
 70 [moby] 80: frow <n>: frows
 
-70 [-]: froward <aj>
+70 [-] [5desk] [moby] 80 [ukacd]: froward <aj>
 
 70 [5desk]: Froward </upper?>
 
-70 [-]: frowardly
+70 [5desk] 80: frowardly
 
-70 [-]: frowardness <n>
+70 [-] [5desk] 80 [ukacd]: frowardness <n>
 80: - <n>: frowardnesses~
 
 35: frown <n_v>: frowned, frowning, frowns
@@ -189918,7 +189918,7 @@
 
 80 [moby]: irreg. <abbr>
 
-70 [-]: irregardless <av>
+70 [-] [5desk]: irregardless <av>
 
 35: irregular <n>: irregulars, irregular's
 
