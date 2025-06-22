@@ -1057,6 +1057,8 @@ Missing words, ok, variant:
   anyways
   birdying
   congresspeople
+  cossetted
+  cossetting
   druggy
   fora
   gasses
@@ -1074,5 +1076,5 @@ Missing words, ok, variant:
   unpeople
   zloties
   Ångström
-total: 23
+total: 25
 
