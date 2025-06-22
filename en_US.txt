@@ -27203,7 +27203,6 @@ beholders
 beholding
 beholds
 behoove
-behoove's
 behooved
 behooves
 behooving
@@ -42902,7 +42901,6 @@ dishonesty
 dishonor
 dishonor's
 dishonorable
-dishonorable's
 dishonorably
 dishonored
 dishonoring
@@ -48935,7 +48933,6 @@ faves
 favor
 favor's
 favorable
-favorable's
 favorably
 favored
 favoring
@@ -53598,7 +53595,6 @@ godchildren
 godchildren's
 goddammit
 goddamn
-goddamn's
 goddamned
 goddaughter
 goddaughter's
@@ -54987,7 +54983,6 @@ gymslip
 gymslips
 gynecologic
 gynecological
-gynecological's
 gynecologist
 gynecologist's
 gynecologists
@@ -67058,6 +67053,8 @@ meager
 meagerly
 meagerness
 meagerness's
+meagerrer
+meagerrest
 meal
 meal's
 mealier
@@ -73183,7 +73180,6 @@ organists
 organization
 organization's
 organizational
-organizational's
 organizationally
 organizations
 organize
@@ -75519,7 +75515,6 @@ patronizer's
 patronizers
 patronizes
 patronizing
-patronizing's
 patronizingly
 patrons
 patronymic
@@ -80776,7 +80771,6 @@ psephologists
 psephology
 pseud
 pseudo
-pseudo's
 pseudonym
 pseudonymous
 pseudonyms
@@ -102567,7 +102561,6 @@ unfastens
 unfathomable
 unfathomably
 unfavorable
-unfavorable's
 unfavorably
 unfazed
 unfeasible
@@ -103879,7 +103872,6 @@ utilities
 utility
 utility's
 utilizable
-utilizable's
 utilization
 utilization's
 utilize

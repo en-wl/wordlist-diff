@@ -26841,7 +26841,6 @@ beholders
 beholding
 beholds
 behove
-behove's
 behoved
 behoves
 behoving
@@ -42528,7 +42527,6 @@ dishonesty
 dishonour
 dishonour's
 dishonourable
-dishonourable's
 dishonourably
 dishonoured
 dishonouring
@@ -48550,7 +48548,6 @@ faves
 favour
 favour's
 favourable
-favourable's
 favourably
 favoured
 favouring
@@ -53208,7 +53205,6 @@ godchildren
 godchildren's
 goddammit
 goddamn
-goddamn's
 goddamned
 goddaughter
 goddaughter's
@@ -54604,7 +54600,6 @@ gymslip
 gymslips
 gynaecologic
 gynaecological
-gynaecological's
 gynaecologist
 gynaecologist's
 gynaecologists
@@ -66684,6 +66679,8 @@ meagre
 meagrely
 meagreness
 meagreness's
+meagrer
+meagrest
 meal
 meal's
 mealier
@@ -72821,7 +72818,6 @@ organics
 organisation
 organisation's
 organisational
-organisational's
 organisationally
 organisations
 organise
@@ -75169,7 +75165,6 @@ patroniser's
 patronisers
 patronises
 patronising
-patronising's
 patronisingly
 patrons
 patronymic
@@ -80429,7 +80424,6 @@ psephologists
 psephology
 pseud
 pseudo
-pseudo's
 pseudonym
 pseudonymous
 pseudonyms
@@ -102228,7 +102222,6 @@ unfastens
 unfathomable
 unfathomably
 unfavourable
-unfavourable's
 unfavourably
 unfazed
 unfeasible
@@ -103534,7 +103527,6 @@ uteri
 uterine
 uterus
 utilisable
-utilisable's
 utilisation
 utilisation's
 utilise
