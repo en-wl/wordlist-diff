@@ -92335,6 +92335,8 @@ snowmobiles
 snowmobiling
 snowplough
 snowplough's
+snowploughed
+snowploughing
 snowploughs
 snows
 snowshoe
