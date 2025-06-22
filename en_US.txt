@@ -33585,6 +33585,7 @@ chlorophyll's
 chloroplast
 chloroplasts
 chm
+choc
 chock
 chockablock
 chocked
@@ -33597,6 +33598,7 @@ chocolate
 chocolate's
 chocolates
 chocolaty
+chocs
 choice
 choicer
 choices
@@ -93275,6 +93277,7 @@ sphincters
 sphinx
 sphinx's
 sphinxes
+spic
 spice
 spice's
 spiced
@@ -93284,6 +93287,7 @@ spiciest
 spicily
 spiciness
 spicing
+spics
 spicule
 spicules
 spicy

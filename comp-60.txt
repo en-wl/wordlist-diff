@@ -103,8 +103,6 @@ Missing words, unclassified:
   cavilings
   cerebra
   chlamydias
-  choc
-  chocs
   cicerones
   cloven
   coccis
@@ -196,7 +194,6 @@ Missing words, unclassified:
   sames
   sangs
   scleroses
-  scrogs
   semipros
   sharking
   sheller
@@ -215,8 +212,6 @@ Missing words, unclassified:
   somethings
   somewhats
   speakings
-  spic
-  spics
   sportscasting
   sputa
   stater
@@ -227,7 +222,6 @@ Missing words, unclassified:
   testings
   thesauri
   tricepses
-  trons
   troubleshooted
   tunnelings
   veges
@@ -245,7 +239,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 161
+total: 155
 
 Missing words, common variant:
   airguns
@@ -914,7 +908,6 @@ Missing words, ok, other:
   arsing
   cellulars
   duelings
-  es
   fer
   french
   gs
@@ -928,7 +921,7 @@ Missing words, ok, other:
   sens
   ts
   whiskys
-total: 18
+total: 17
 
 Missing words, ok, uncommon derived aj/av:
   adverser
@@ -989,6 +982,7 @@ Missing words, ok, uncommon form:
   donged
   donging
   dowdies
+  es
   glamoured
   glamouring
   grahams
@@ -1026,6 +1020,7 @@ Missing words, ok, uncommon form:
   satellited
   satelliting
   scanties
+  scrogs
   seeings
   semiglosses
   sharked
@@ -1047,6 +1042,7 @@ Missing words, ok, uncommon form:
   thous
   touchings
   trilaterals
+  trons
   troys
   unknowings
   vagabonded
@@ -1054,7 +1050,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 89
+total: 92
 
 Missing words, ok, variant:
   Curacao
