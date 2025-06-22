@@ -13565,14 +13565,9 @@
 
 80: Angst <n/upper?>: Angsts
 
-50: angstrom <n>: angstroms
-
-50 [name] 80: Ångström <n> # accented
-50 [name] 80: _~: Angstrom <n> # need-accent # fixme: pos_class originally "upper"
-50 [name]: - <n>: Ångström's
-50 [name]: _~: - <n>: Angstrom's
-80: - <n>: Ångströms-
-80: _~: - <n>: Angstroms-
+50: _: angstrom <n>: angstroms
+50: _V: ångström <n>: ångströms
+50: _-: Ångström <n>: Ångströms
 
 80 [ukacd]: anguiform
 
@@ -168925,7 +168920,7 @@
 70 [moby]: H.M.S. <abbr>
 
 35 [ukfreq] 50: ho <n>
-65: - <n>: (ho's- | ?: hos-)
+50: - <n>: hos
 
 35 [ukfreq] 50: ho <i>
 

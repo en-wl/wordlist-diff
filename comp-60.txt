@@ -918,7 +918,6 @@ Missing words, ok, other:
   fer
   french
   gs
-  hos
   ks
   ls
   mes
@@ -929,7 +928,7 @@ Missing words, ok, other:
   sens
   ts
   whiskys
-total: 19
+total: 18
 
 Missing words, ok, uncommon derived aj/av:
   adverser
@@ -1079,5 +1078,6 @@ Missing words, ok, variant:
   tsarists
   unpeople
   zloties
-total: 21
+  Ångström
+total: 22
 

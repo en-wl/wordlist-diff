@@ -1199,8 +1199,6 @@ Angolans
 Angora
 Angora's
 Angoras
-Angstrom
-Angstrom's
 Anguilla
 Anguilla's
 Angus
@@ -87874,7 +87872,6 @@ hl
 hm
 hmm
 ho
-ho's
 hoactzin
 hoactzin's
 hoactzins
@@ -170562,8 +170559,6 @@ zymoses
 zymosis
 zymotic
 zymurgy
-Ångström
-Ångström's
 Übermensch
 Übermensch's
 Übermenschen

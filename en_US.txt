@@ -886,8 +886,6 @@ Angolan's
 Angolans
 Angora
 Angora's
-Angstrom
-Angstrom's
 Anguilla
 Anguilla's
 Angus
@@ -57445,6 +57443,7 @@ horticulture
 horticulturist
 horticulturist's
 horticulturists
+hos
 hosanna
 hosannas
 hose
