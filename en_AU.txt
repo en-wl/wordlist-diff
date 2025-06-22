@@ -26257,6 +26257,7 @@ barman
 barman's
 barmen
 barmen's
+barmy
 barn
 barn's
 barnacle
@@ -38109,6 +38110,7 @@ cowsheds
 cowslip
 cowslips
 cox
+cox's
 coxcomb
 coxcomb's
 coxcombs
@@ -39867,6 +39869,7 @@ deadens
 deader
 deadest
 deadhead
+deadhead's
 deadheaded
 deadheading
 deadheads
@@ -62872,6 +62875,7 @@ km
 kn
 knack
 knacker
+knacker's
 knackered
 knackering
 knackers
@@ -63671,6 +63675,7 @@ lavishest
 lavishing
 lavishly
 lavishness
+lavs
 law
 law's
 lawbreaker
@@ -67227,7 +67232,6 @@ medium's
 mediums
 medley
 medleys
-meds
 medulla
 medullas
 medusa
@@ -77653,7 +77657,6 @@ plane
 plane's
 planed
 planeload
-planeloads
 planer
 planer's
 planers
@@ -78465,6 +78468,7 @@ pompously
 pompousness
 poms
 ponce
+ponce's
 ponced
 ponces
 poncho
@@ -79120,6 +79124,7 @@ prates
 pratfall
 pratfalls
 prating
+prats
 prattle
 prattled
 prattler
@@ -86925,6 +86930,7 @@ rubs
 ruby
 ruched
 ruck
+ruck's
 rucked
 rucking
 rucks
@@ -93391,6 +93397,7 @@ sphinx
 sphinx's
 sphinxes
 spic
+spic's
 spice
 spice's
 spiced
@@ -97126,6 +97133,7 @@ swordsmen's
 swore
 sworn
 swot
+swot's
 swots
 swotted
 swotting

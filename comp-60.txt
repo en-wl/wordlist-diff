@@ -97,7 +97,6 @@ Missing words, unclassified:
   aviatrices
   barmier
   barmiest
-  barmy
   blamer
   bolivares
   buccaneering
@@ -143,7 +142,6 @@ Missing words, unclassified:
   kuchens
   latices
   lats
-  lavs
   lbs
   liker
   likest
@@ -179,7 +177,6 @@ Missing words, unclassified:
   piing
   plectrums
   pompadoured
-  prats
   prophylaxes
   précised
   précising
@@ -241,7 +238,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 155
+total: 152
 
 Missing words, common variant:
   airguns
@@ -864,7 +861,6 @@ New words, ok, other:
   entr'actes
   falafel
   falafels
-  meds
   metaverse
   metaverses
   mujahideen
@@ -878,7 +874,7 @@ New words, ok, other:
   speccing
   woker
   wokest
-total: 36
+total: 35
 
 Missing words, ok, archaic:
   begat
@@ -1070,6 +1066,7 @@ Missing words, ok, variant:
   nonoccurence
   phoneyed
   phoneying
+  planeloads
   samurais
   seguing
   superheros
@@ -1077,5 +1074,5 @@ Missing words, ok, variant:
   unpeople
   zloties
   Ångström
-total: 22
+total: 23
 

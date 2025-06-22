@@ -77396,6 +77396,8 @@ foeticide
 foeticide's
 foeticides
 foetid
+foetider
+foetidest
 foetiparous
 foetor
 foetor's
@@ -122388,7 +122390,6 @@ plane
 plane's
 planed
 planeload
-planeloads
 planer
 planer's
 planers

@@ -1067,7 +1067,8 @@
 
 80 [moby]: Absecon <n/place>
 
-55: abseil <n_v>: abseiled, abseiling, abseils
+55: abseil <n_v>: abseiled, -, abseils
+60: - <n_v>: -, abseiling, -
 
 80 [ospdadd]: abseiler <n>: abseilers
 
@@ -4148,7 +4149,7 @@
 
 85 [ukacd]: ad-men
 
-55: admin <abbr>
+85 [ukacd]: admin <abbr>
 
 50 hacker 55: -admin <n>
 50 hacker 85 [ukacd]: - <n>: admins-
@@ -10633,7 +10634,7 @@
 
 55: alveolar <n>: alveolars
 
-70 [3of6] [moby] 80: alveolar <aj>
+55: alveolar <aj>
 
 80: alveolarly
 
@@ -10645,10 +10646,8 @@
 
 80 [2dicts]: alveolation <n>: alveolations
 
-80 [ospdadd] 85 [ukacd]: A: alveole <n>
-80 [ospdadd] 85 [ukacd]: B: alveolae <n>
-85 [ukacd]: A: - <n>: alveoles!
-85 [ukacd]: B: - <n>
+85 [ukacd]: A: alveole <n>: alveoles
+85 [ukacd]: B: alveolae <n>
 
 85 [ukacd]: alveolitis <n>
 
@@ -16492,8 +16491,7 @@
 
 50: antiquary <n>: antiquaries, antiquary's
 
-55: - <v>: antiquated, -, -
-60: antiquate <v>: -, antiquating, antiquates
+60: antiquate <v>: antiquated, antiquating, antiquates
 
 35: antiquated <aj>
 
@@ -17076,12 +17074,6 @@
 
 80 [stale] 85 [ukacd]: -anvil <v>: -, -, anvils
 80 [stale]: - <v>: (A: anviled | B: anvilled), (A: anviling | B: anvilling), -
-
-80 [stale]: A: anviled
-80 [stale]: B: anvilled
-
-80 [stale]: A: anviling
-80 [stale]: B: anvilling
 
 80 [stale]: anviltop <n>: anviltops
 
@@ -19247,11 +19239,10 @@
 
 80: arbitrable <aj>
 
-55: arbitrage <n>
+60: arbitrage <n>
 80: - <n>: arbitrages~
 
-55: arbitrage <v>
-60: - <v>: arbitraged, arbitraging, arbitrages
+60: arbitrage <v>: arbitraged, arbitraging, arbitrages
 
 55: arbitrager <n>: arbitragers, arbitrager's
 
@@ -26376,10 +26367,9 @@
 70 [moby] 80 [stale] 85 [ukacd]: avion <n>
 70 [moby] 80 [stale]: - <n>: avions
 
-55: -avionic <n>
-85 [ukacd]: - <n>: avionics!
+55: avionic <aj>
 
-60: avionic <aj>
+85 [ukacd]: !avionic <n>: avionics
 
 50: avionics <n>
 
@@ -27836,7 +27826,7 @@
 55: - <n>: backrooms
 70 [3of6] 80: -backroom <n>
 
-55: backroom <a>
+60: backroom <a>
 
 70 [3of6]: backroom boys
 
@@ -29254,11 +29244,10 @@
 
 80 [moby]: Ballwin <n/place>
 
-55: -bally <n>
-80: - <n>: ballies
-
 55: bally <aj>
 85 [ukacd]: - <aj>: ballier, balliest
+
+80: -bally <n>: ballies
 
 80 [moby]: Bally <n/place>
 
@@ -30612,7 +30601,7 @@
 
 85 [ukacd]: barmkin <n>: barmkins
 
-70 [3of6] [moby] 80: barmy <aj>
+55: barmy <aj>
 
 35: barn <n>: barns, barn's
 
@@ -30826,7 +30815,8 @@
 
 85 [ukacd]: barrace
 
-55: barrack <n_v>: barracked, barracking, barracks
+55: barrack <n_v>: barracked, -, -
+60: - <n_v>: -, barracking, barracks
 
 80: barracker <n>: barrackers
 
@@ -31537,6 +31527,8 @@
 
 50: bast <n>
 80: - <n>: basts~
+
+85 [ukacd]: !bast <v>: basted†, basting†, basts
 
 85 [ukacd]: basta
 
@@ -33063,12 +33055,6 @@
 
 80 [stale]: becudgel <m>: (A: becudgeled | B: becudgelled), (A: becudgeling | B: becudgelling), becudgels
 
-80 [stale]: A: becudgeled
-80 [stale]: B: becudgelled
-
-80 [stale]: A: becudgeling
-80 [stale]: B: becudgelling
-
 85 [ukacd]: becurl <m>: becurled, becurling, becurls
 
 80 [stale]: becurse <m>: (becursed | becurst), becursing, becurses #! unmarked variants: becursed, becurst
@@ -33099,7 +33085,8 @@
 
 85 [ukacd]: bedash <m>: bedashed, bedashing, bedashes
 
-55: bedaub <v>: bedaubed, bedaubing, bedaubs
+55: bedaub <v>: -, bedaubing, bedaubs
+60: - <v>: bedaubed, -, -
 
 80: bedaubed <aj>
 
@@ -33265,8 +33252,7 @@
 
 80 [stale]: bedquilt <n>: bedquilts
 
-55: - <v>: bedraggled, -, -
-60: bedraggle <v>: -, bedraggling, bedraggles
+60: bedraggle <v>: bedraggled, bedraggling, bedraggles
 
 40: bedraggled <aj>
 
@@ -33285,12 +33271,6 @@
 85 [ukacd]: bedright
 
 80 [stale]: bedrivel <m>: (A: bedriveled | B: bedrivelled), (A: bedriveling | B: bedrivelling), bedrivels
-
-80 [stale]: A: bedriveled
-80 [stale]: B: bedrivelled
-
-80 [stale]: A: bedriveling
-80 [stale]: B: bedrivelling
 
 35: bedrock <n>: bedrocks
 
@@ -33870,8 +33850,8 @@
 55: A Cv DV: behaviorist <n>: behaviorists, behaviorist's
 55: B C D: behaviourist <n>: behaviourists, behaviourist's
 
-70 [3of6] 85 [ukacd]: A Cv DV: behaviorist <aj> # fixme: lemma_rank originally "-"
-70 [3of6] 85 [ukacd]: B C D: behaviourist <aj>
+55: A Cv DV: behaviorist <aj> # fixme: lemma_rank originally "-"
+55: B C D: behaviourist <aj>
 
 70 [5desk] 80: A Cv DV: behavioristic <aj>
 70 [5desk] 80: B C D: behaviouristic <aj>
@@ -33928,8 +33908,8 @@
 50: A C: behoove <v>: behooved, behooving, behooves
 50: B: behove <v>: behoved, behoving, behoves
 
-55: A C: !behoove <n>: behooves
-55: B: !behove <n>: behoves
+85 [ukacd]: A C: !behoove <n>: behooves
+85 [ukacd]: B: !behove <n>: behoves
 
 80: A C: behooving <n>
 80: B: behoving <n>
@@ -33992,8 +33972,7 @@
 
 80: bejesus
 
-55: - <v>: (A: bejeweled | B: bejewelled), -, -
-60: bejewel <v>: -, (A: bejeweling | B: bejewelling), bejewels
+60: bejewel <v>: (A: bejeweled | B: bejewelled), (A: bejeweling | B: bejewelling), bejewels
 
 70 [3of6] [5desk] 80: A: bejeweled
 70 [3of6] [5desk] 80: B: bejewelled
@@ -34536,7 +34515,7 @@
 80 [upper]: Belongership <n/upper?>: Belongerships
 
 35 [ukfreq] 55: belonging <n>
-55: - <n>: belongings
+70 [3of6] [5desk] [moby] 80: - <n>: belongings
 
 80: belongingness <n>: belongingnesses
 
@@ -34683,8 +34662,7 @@
 
 80 [stale]: bemurmur <m>: bemurmured, bemurmuring, bemurmurs
 
-55: - <v>: bemused, -, -
-60: bemuse <v>: -, bemusing, bemuses
+60: bemuse <v>: bemused, bemusing, bemuses
 
 35 [ukfreq] 40: bemused <aj>
 
@@ -36778,8 +36756,7 @@
 
 80 [2dicts]: bicentric <aj>
 
-55: - <n>: biceps†
-60: bicep <n>
+60: bicep <n>: biceps†
 
 70 [moby] 80 [2dicts] 85 [ukacd]: bicephalous <aj>
 
@@ -37007,7 +36984,7 @@
 
 85 [ukacd]: bifariously
 
-70 [3of6] [moby] 80: biff <n>: biffs
+55: biff <n>: biffs
 
 50 hacker 55: biff <v>: biffed, biffing, biffs
 
@@ -39714,7 +39691,7 @@
 
 85 [ukacd]: blagger <n>: blaggers
 
-70 [3of6] 80 [ospdadd] 85 [ukacd]: blagging <n>
+55: blagging <n>
 80 [ospdadd]: - <n>: blaggings
 
 70 [moby] 85 [ukacd]: blague <n>: blagues
@@ -40171,8 +40148,7 @@
 
 70 [3of6] 80: bleached <aj>
 
-55: - <n>: bleachers
-60: bleacher <n>: bleacher's
+60: bleacher <n>: bleachers, bleacher's
 
 60: bleacher <a>
 
@@ -40343,15 +40319,13 @@
 
 50 hacker: bletch
 
-70 [3of6] [5desk] [moby] 80: blether <n>: blethers
-
-70: blether <v>: blethered, blethering, blethers
+70: blether <n_v>: blethered, blethering, blethers
 
 85 [ukacd]: bletheration
 
 85 [ukacd]: bletherer <n>: bletherers
 
-70 [3of6] 80: blethering <n>
+70: blethering <n>
 85 [ukacd]: - <n>: bletherings!
 
 85 [ukacd]: bletherskate <n>: bletherskates
@@ -40501,7 +40475,7 @@
 
 50: blinker <n_v>: blinkered, blinkering, blinkers
 
-35 [ukfreq] 55: blinkered <a>
+35 [ukfreq] 60: blinkered <a>
 
 70 [3of6] [5desk] [moby] 80: blinkers
 
@@ -41781,7 +41755,7 @@
 
 85 [ukacd]: boatie <n>: boaties
 
-50 [ukfreq] 55: boating <n>
+50 [ukfreq] 60: boating <n>
 80: - <n>: boatings~
 
 80 [ospdadd]: boatlift <m>: boatlifted, boatlifting, boatlifts
@@ -43233,10 +43207,9 @@
 
 85 [ukacd]: booh <m>: boohed, boohing, boohs
 
-55: boohoo <n_v>: -, -, -
-60: - <n_v>: boohooed, boohooing, boohoos
+60: boohoo <n_v>: boohooed, boohooing, boohoos
 
-55: boohoo <i>
+60: boohoo <i>
 
 70 [3of6] [5desk] 80: booing
 
@@ -43849,7 +43822,7 @@
 40: borrower <n>: borrowers, borrower's
 
 35 [ukfreq] 55: borrowing <n>
-55: - <n>: borrowings
+60: - <n>: borrowings
 
 70 [3of6] [5desk] 80: borrowings
 
@@ -46189,7 +46162,8 @@
 
 55: breadbox <n>: breadboxes
 
-55: breadcrumb <n>: breadcrumbs
+55: breadcrumb <n>
+60: - <n>: breadcrumbs
 
 85 [ukacd]: bread-crumb <n>: bread-crumbs
 
@@ -47851,12 +47825,6 @@
 
 80: A Z: bromize <m>: bromized, bromizing, bromizes
 80: B: bromise <m>
-
-80: A Z: bromized
-80: B: bromised
-
-80: A Z: bromizing
-80: B: bromising
 
 70 [5desk] [moby] 85 [ukacd]: Bromley </upper?>
 
@@ -50330,7 +50298,8 @@
 55: - <n>: burbles
 
 35 [ukfreq] 55: burble <v>
-50 hacker 55: - <v>: burbled, burbling, burbles
+50 hacker 55: - <v>: burbled, -, burbles
+50 hacker 60: - <v>: -, burbling, -
 
 80: burbler <n>: burblers
 
@@ -51115,7 +51084,7 @@
 
 70 [5desk] [moby] 80: buskined
 
-70 [3of6] 80: busking <n>
+55: busking <n>
 85 [ukacd]: - <n>: buskings!
 
 80 [moby]: Buskirk <n/place>
@@ -51183,8 +51152,8 @@
 
 70 [3of6] [moby] 85 [ukacd]: bust-up <n>: bust-ups
 
-55: busty <aj>: bustier, -
-60: - <aj>: -, bustiest
+55: busty <aj>
+60: - <aj>: bustier, bustiest
 
 80: busulfan <n>: busulfans
 
@@ -56296,8 +56265,8 @@
 
 80: carbonade <n>: carbonades
 
-80: A: carbonades
-80: B: carbonadoes
+85 [ukacd]: A: carbonades
+85 [ukacd]: B: carbonadoes
 
 70 [moby] 80: carbonado <n>: carbonados
 
@@ -57174,12 +57143,15 @@
 60: _v {1}: carney <n>: carneys, carney's
 60: _v {2}: carnie <n>: carneys, carnie's # fixme: lemma_rank originally "-"
 
-70 [5desk] 85 [ukacd]: _: carny <v>: -, -, carnies # fixme: lemma_rank originally "-"
-70 [5desk] 85 [ukacd]: _v {1}: carney <v>: -, -, carneys # fixme: lemma_rank originally "!"
-70 [5desk] 85 [ukacd]: _v {2}: carnie <v>: -, -, (carnies | v: carneys)
+70 [5desk] 80: _: carny <v> # fixme: lemma_rank originally "-"
+70 [5desk] 80: _v {1}: carney <v> # fixme: lemma_rank originally "!"
+70 [5desk] 80: _v {2}: carnie <v>
 70 [5desk] 80 [ospdadd] 85 [ukacd]: _: - <v>: carnied, carnying, -
 70 [5desk] 80 [ospdadd] 85 [ukacd]: _v {1}: - <v>: carneyed, carneying, -
 70 [5desk] 80 [ospdadd] 85 [ukacd]: _v {2}: - <v>: carnied, carnying, -
+70 [5desk] 85 [ukacd]: _: - <v>: -, -, carnies
+70 [5desk] 85 [ukacd]: _v {1}: - <v>: -, -, carneys
+70 [5desk] 85 [ukacd]: _v {2}: - <v>: -, -, (carnies | v: carneys)
 
 85 [ukacd]: _: -carny <a>
 85 [ukacd]: _v {1}: -carney <a>
@@ -57451,7 +57423,8 @@
 
 40: car pool <n>: car pools, car pool's
 
-55: carpool <n_v>: carpooled, carpooling, carpools
+55: carpool <n_v>: carpooled, -, carpools
+60: - <n_v>: -, carpooling, -
 
 60: car-pooler
 
@@ -58044,7 +58017,7 @@
 
 55: casebook <n>: casebooks
 
-70 [moby] 80: casebook <aj>
+55: casebook <aj>
 
 70 [moby]: casebound
 
@@ -58243,8 +58216,10 @@
 
 35: _: casino <n> {:1}: casinos, casino's
 
-35: _: casino <n> {card game}: casinos, casino's
-35: _V: cassino <n> {card game}: cassinos, cassino's
+35: _: casino <n> {card game}: casino's
+35: _V: cassino <n> {card game}: cassino's
+70 [3of6] 80: _: - <n> {card game}: casinos~
+70 [3of6] 80: _V: - <n> {card game}: cassinos~
 
 50 [name]: Casio <n/name?>: Casio's
 
@@ -60823,10 +60798,9 @@
 55: centralism <n>
 70 [moby] 80: - <n>: centralisms-
 
-55: -centralist <n>
-80: - <n>: centralists
-
 55: centralist <aj>
+
+80: -centralist <n>: centralists
 
 80: centralistic <aj>
 
@@ -65970,10 +65944,9 @@
 
 85 [ukacd]: chobdar <n>: chobdars
 
-55: !choc <v>: -, -, chocs
-85 [ukacd]: - <v>: chocked-†, chocking-†, -
+55: choc <n>: chocs
 
-70 [3of6] 85 [ukacd]: choc <n>: chocs
+85 [ukacd]: !choc <v>: chocked†, chocking†, chocs
 
 80 [moby]: Choccolocco <n/place>
 
@@ -68545,7 +68518,7 @@
 
 70: -cissy <n>: cissies
 
-70 [3of6] 80: cissy <aj>
+70: cissy <aj>
 
 70 [moby] 80: cist <n>: cists
 
@@ -72018,8 +71991,6 @@
 70 [3of6] 80: -cobweb <v>: -, -, cobwebs
 80: - <v>: -, cobwebbing, -
 
-55: cobwebbed
-
 85 [ukacd]: cobwebbery
 
 60: cobwebby <aj>: cobwebbier, cobwebbiest
@@ -74977,8 +74948,7 @@
 
 70 [moby] 85 [ukacd]: come round <v>
 
-55: - <n>: comestibles
-60: comestible <n>
+60: comestible <n>: comestibles
 
 60: comestible <aj>
 
@@ -76108,11 +76078,8 @@
 85 [ukacd]: A: comper <m>: -, -, compers
 85 [ukacd]: B: compoer <m>
 
-55: compère <v>: compèred, compèring, compères # accented
-55: _~: compere <v>: compered, compering, comperes # need-accent
-
-70 [3of6] 80: compère <n>: compères # accented
-70 [3of6] 80: _~: compere <n>: comperes # need-accent
+55: compère <n_v>: compèred, compèring, compères # accented
+55: _~: compere <n_v>: compered, compering, comperes # need-accent
 
 35: compete <v>: competed, competing, competes
 
@@ -76732,8 +76699,8 @@
 40: A Z: computerize <v>: computerized, computerizing, computerizes
 40: B: computerise <v>: computerised, computerising, computerises
 
-35 [ukfreq] 70 [3of6] [5desk] 80: A Z: computerized
-35 [ukfreq] 70 [3of6] [5desk] 80: B: computerised
+35 [ukfreq] 55: A Z: computerized
+35 [ukfreq] 55: B: computerised
 
 60: computerized axial tomography <n>
 
@@ -77887,7 +77854,8 @@
 
 70 [5desk] 80: configurative
 
-35 [ukfreq] 55: configure <v>: configured, configuring, -
+35 [ukfreq] 55: configure <v>: -, configuring, -
+35 [ukfreq] 60: - <v>: configured, -, -
 55: - <v>: -, -, configures
 
 35 [ukfreq] 70 [3of6] 80: configured <aj>
@@ -81512,7 +81480,7 @@
 70 [3of6] 80: -coppice <v>: -, -, coppices
 70: - <v>: coppiced, coppicing, -
 
-70 [3of6] [5desk] 80: coppiced
+70: coppiced
 
 85 [ukacd]: coppin <n>: coppins
 
@@ -81757,11 +81725,11 @@
 55: -cor <m>
 80: - <m>: -, -, cors-
 
-55: cor <abbr>
-
 70 [moby]: cor. <abbr>
 
 80 [moby]: Cor. <abbr>
+
+85 [ukacd]: cor <abbr>
 
 50: Cora <n/person>: Cora's
 
@@ -83332,9 +83300,7 @@
 
 80: cosey <a>: (- | B Cv: cosier†), (- | B Cv: cosiest†) #! missing non-variants: cosier, cosiest
 
-55: cosh <v>: coshed, coshing, coshes
-
-70 [3of6] [moby] 80: cosh <n>: coshes
+55: cosh <n_v>: coshed, coshing, coshes
 
 70 [moby] 80: cosher <aj>
 
@@ -84656,8 +84622,7 @@
 
 70 [moby] 80 [2dicts]: countertype <n>: countertypes
 
-55: - <v>: -, countervailing, -
-60: countervail <v>: countervailed, -, countervails
+60: countervail <v>: countervailed, countervailing, countervails
 
 85 [ukacd]: countervailable
 
@@ -85433,12 +85398,8 @@
 
 80: cowy <a>: cowier, cowiest
 
-35 [ukfreq] 70 [3of6] [moby] 80: cox <n>
-70 [3of6] [moby]: - <n>: cox's
-70 [3of6] [moby] 80: - <n>: coxes
-
-35 [ukfreq] 55: cox <v>
-55: - <v>: coxed, coxing, coxes
+35 [ukfreq] 55: cox <n_v>: -, -, -
+55: - <n_v>: coxed, coxing, coxes, cox's
 
 50: Cox <n/person>: Cox's
 
@@ -86701,10 +86662,8 @@
 
 70 [moby] 85 [ukacd]: crenel <v>
 
-55: A Bv: - <v>: crenelated, -, -
-55: B: - <v>: crenellated, -, -
-60: A Bv: crenelate <v>: -, crenelating, crenelates
-60: B: crenellate <v>: -, crenellating, crenellates
+60: A Bv: crenelate <v>: crenelated, crenelating, crenelates
+60: B: crenellate <v>: crenellated, crenellating, crenellates
 
 85 [ukacd]: A Bv: -crenelate <a>
 85 [ukacd]: B: -crenellate <a>
@@ -87481,7 +87440,7 @@
 35 AU [extra]: - <n>: croc's
 
 35 AU [extra] 80: croc <v>: -, -, crocs
-80: - <v>: crocked-†, crocking-†, -
+80: - <v>: crocked-, crocking-, -
 
 50 [name] 70 [5desk] [moby]: Croce <n/name?>: Croce's
 
@@ -87515,7 +87474,7 @@
 
 35: crock <n>: crocks, crock's
 
-80: -crock <v>: crocked†, crocking†, crocks
+85 [ukacd]: -crock <v>: crocked†, crocking†, crocks
 
 50: crocked <aj>
 
@@ -88954,9 +88913,9 @@
 80: A Z: crystallizer <n>: crystallizers
 80: B: crystalliser <n>: crystallisers
 
-70 [3of6] 80: A Z: crystallizing <n>
-70 [3of6] 80: AV: crystalizing <n>
-70 [3of6] 80: B: crystallising <n>
+55: A Z: crystallizing <n>
+55: AV: crystalizing <n>
+55: B: crystallising <n>
 
 80 [moby]: crystallo <pre>
 
@@ -89180,7 +89139,7 @@
 
 55: cuboid <n>: cuboids
 
-70 [3of6] [moby] 80: cuboid <aj>
+55: cuboid <aj>
 
 80: cuboidal <aj>
 
@@ -89782,14 +89741,14 @@
 70 [moby] 80: A: cupelation <n>
 70 [moby] 80: B: cupellation <n>: cupellations
 
-80: A: cupeled
-80: B: cupelled
+85 [ukacd]: A: cupeled
+85 [ukacd]: B: cupelled
 
 80: A: cupeler <n>: cupelers
 80: B: cupeller <n>: cupellers
 
-80: A: cupeling
-80: B: cupelling
+85 [ukacd]: A: cupeling
+85 [ukacd]: B: cupelling
 
 80 [moby]: Cupertino <n/place>
 
@@ -92770,8 +92729,7 @@
 
 80: dandified <aj>
 
-55: - <v>: dandified, -, -
-60: dandify <v>: -, dandifying, dandifies
+60: dandify <v>: dandified, dandifying, dandifies
 
 80: dandily <av>
 
@@ -94112,10 +94070,9 @@
 
 50 [name] 70 [5desk]: Deadhead <n/name?>: Deadhead's
 
-55: -deadhead <v>: deadheaded, deadheading, deadheads
+55: deadhead <n>: deadheads, deadhead's
 
-70 [3of6] [5desk] [moby] 80: deadhead <n>: deadheads
-70 [3of6] [5desk] [moby]: - <n>: deadhead's
+55: -deadhead <v>: deadheaded, deadheading, deadheads
 
 40: dead heat <n>: dead heats
 
@@ -94774,8 +94731,7 @@
 
 55: decaff <n>: decaffs
 
-55: - <v>: decaffeinated, -, -
-60: decaffeinate <v>: -, decaffeinating, decaffeinates
+60: decaffeinate <v>: decaffeinated, decaffeinating, decaffeinates
 
 40: decaffeinated
 
@@ -95048,9 +95004,6 @@
 65: - <aj_av>: decenter-, decentest-
 
 80: decenter <m>: decentered, decentering, decenters # fixme: decenters: check for variants
-
-80: A: decenters
-80: B: decentres
 
 35: decently <av>
 
@@ -95573,7 +95526,7 @@
 
 55: -deconstructionist <n>: deconstructionists
 
-70 [5desk] 80: deconstructionist <aj>
+55: deconstructionist <aj>
 
 80: deconstructive
 
@@ -96439,7 +96392,8 @@
 
 70 [5desk] [moby] 80: defloration <n>: deflorations
 
-55: deflower <v>: deflowered, deflowering, deflowers
+55: deflower <v>: -, deflowering, deflowers
+60: - <v>: deflowered, -, -
 
 70 [3of6] [5desk] 80: deflowered
 
@@ -96824,12 +96778,6 @@
 80 [2dicts]: A Z: dehydrogenize <m>: dehydrogenized, dehydrogenizing, dehydrogenizes
 80 [2dicts]: B: dehydrogenise <m>
 
-80 [2dicts]: A Z: dehydrogenized
-80 [2dicts]: B: dehydrogenised
-
-80 [2dicts]: A Z: dehydrogenizing
-80 [2dicts]: B: dehydrogenising
-
 85 [ukacd]: A Z: dehypnotization <n>: dehypnotizations
 85 [ukacd]: B: dehypnotisation <n>: dehypnotisations
 
@@ -96949,8 +96897,7 @@
 40: déjà vu <n> # accented
 40: _~: deja vu <n> # need-accent
 
-55: - <v>: dejected, -, -
-60: deject <v>: -, dejecting, dejects
+60: deject <v>: dejected, dejecting, dejects
 
 85 [ukacd]: -deject <a>
 
@@ -100851,11 +100798,11 @@
 80 [stale] 85 [ukacd]: devel <m>: -, -, devels
 80 [stale]: - <m>: develed, develing, -
 
-80 [stale] 85 [ukacd]: A: develed
-80 [stale] 85 [ukacd]: B: develled
+85 [ukacd]: A: develed
+85 [ukacd]: B: develled
 
-80 [stale] 85 [ukacd]: A: develing
-80 [stale] 85 [ukacd]: B: develling
+85 [ukacd]: A: develing
+85 [ukacd]: B: develling
 
 35: develop <v>: developed, developing, develops
 
@@ -103587,7 +103534,7 @@
 
 35: dimple <n_v>: dimpled, dimpling, dimples
 
-55: dimpled <a>
+60: dimpled <a>
 
 85 [ukacd]: dimplement <n>: dimplements
 
@@ -104803,11 +104750,11 @@
 
 80 [stale] 85 [ukacd]: disbowel <m>: (A: disboweled | B: disbowelled), (A: disboweling | B: disbowelling), disbowels
 
-80 [stale] 85 [ukacd]: A: disboweled
-80 [stale] 85 [ukacd]: B: disbowelled
+85 [ukacd]: A: disboweled
+85 [ukacd]: B: disbowelled
 
-80 [stale] 85 [ukacd]: A: disboweling
-80 [stale] 85 [ukacd]: B: disbowelling
+85 [ukacd]: A: disboweling
+85 [ukacd]: B: disbowelling
 
 70 [moby] 85 [ukacd]: disbranch <m>: disbranched, disbranching, disbranches
 
@@ -105870,8 +105817,8 @@
 35: A Cv DV: dishonorable <aj>
 35: B C D: dishonourable <aj>
 
-55: A Cv DV: -dishonorable <n>
-55: B C D: -dishonourable <n>
+85 [ukacd]: A Cv DV: !dishonorable <n>
+85 [ukacd]: B C D: !dishonourable <n>
 
 70 [moby] 85 [ukacd]: dishonorable discharge <n>
 
@@ -105881,14 +105828,14 @@
 40: A Cv DV: dishonorably <av>
 40: B C D: dishonourably <av>
 
-55: A Cv DV: -dishonorably <n>
-55: B C D: -dishonourably <n>
+85 [ukacd]: A Cv DV: !dishonorably <n>
+85 [ukacd]: B C D: !dishonourably <n>
 
 85 [ukacd]: A: dishonorary
 85 [ukacd]: B: dishonourary
 
-70 [3of6] 80: A Cv DV: dishonored <aj>
-70 [3of6] 80: B C D: dishonoured <aj>
+55: A Cv DV: dishonored <aj>
+55: B C D: dishonoured <aj>
 
 80: A Cv DV: dishonorer <n>: dishonorers
 80: B C D: dishonourer <n>: dishonourers
@@ -105939,7 +105886,7 @@
 85 [ukacd]: dish-water
 
 55: dishy <aj>
-80: - <aj>: dishier-, dishiest-
+80: - <aj>: dishier, dishiest
 
 85 [ukacd]: disillude <m>: disilluded, disilluding, disilludes
 
@@ -108868,10 +108815,9 @@
 
 85 [ukacd]: dog-latin
 
-55: dogleg <n_v>: -, -, doglegs
-60: - <n_v>: doglegged, doglegging, -
+60: dogleg <n_v>: doglegged, doglegging, doglegs
 
-55: dogleg <a>
+60: dogleg <a>
 
 85 [ukacd]: dog-leg
 
@@ -108915,13 +108861,7 @@
 
 80: dognap <m>: (A: dognaped | B: dognapped), (A: dognaping | B: dognapping), dognaps
 
-80: A: dognaped
-80: B: dognapped
-
 80: dognaper <n>: dognapers
-
-80: A: dognaping
-80: B: dognapping
 
 60 [extra] 80: dognapper <n>
 80: - <n>: dognappers-
@@ -111694,7 +111634,7 @@
 55: - <v>: dratted, -, -
 80: -drat <v>: -, dratting, drats
 
-55: drat <i>
+60: drat <i>
 
 85 [ukacd]: dratchell <n>: dratchells
 
@@ -112087,10 +112027,9 @@
 
 80 [moby]: Drewsey <n/place>
 
-55: - <a>: -, driest†
-85 [ukacd]: !drey <a>: drier†, -
-
 80 [ospdadd] 85 [ukacd]: drey <n>: dreys
+
+85 [ukacd]: !drey <a>: drier†, driest†
 
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Dreyfus <n/upper>
 50 [name] 70 [5desk] [moby]: - <n/upper>: Dreyfus's
@@ -112599,8 +112538,8 @@
 80: _: droughtiness <n>: droughtinesses
 80: _V: drouthiness <n>
 
-70 [moby] 80: _: droughty <a>: droughtier, droughtiest
-70 [moby] 80: _V: drouthy <a>: drouthier, drouthiest
+70 [moby] 80: _: !droughty <a>: droughtier, droughtiest
+70 [moby] 80: _V: !drouthy <a>: drouthier, drouthiest
 
 50 AU [town]: Drouin <n/place>: Drouin's
 
@@ -112682,8 +112621,10 @@
 
 70 [moby] 80: drugget <n>: druggets
 
-55: _: druggie <n>: druggies, druggie's
-55: _V: druggy <n>: druggies, druggy's
+55: _: druggie <n>: druggie's
+55: _V: druggy <n>: druggy's
+60: _: - <n>: druggies
+60: _V: - <n>: druggies
 
 80: _: -druggy <a>: druggier, druggiest
 80: _V: -druggie <a>: druggier, druggiest
@@ -113383,10 +113324,10 @@
 
 80 [moby]: Duewest <n/place>
 
-35 [ukfreq] 55: duff <n>
-55: - <n>: duffs
+35 [ukfreq] 60: duff <n>
+60: - <n>: duffs
 
-35 [ukfreq] 55: duff <a>
+35 [ukfreq] 60: duff <a>
 
 55: - <v>: duffed, duffing, -
 70 [3of6] 85 [ukacd]: -duff <v>: -, -, duffs
@@ -115714,8 +115655,7 @@
 
 80 [moby]: Eaugalle <n/place>
 
-55: - <n>: eaves
-60: eave <n>
+60: eave <n>: eaves
 
 80: eaved
 
@@ -117907,10 +117847,8 @@
 35: elasticity <n>
 65: - <n>: elasticities-
 
-55: A Z: - <v>: elasticized, -, -
-55: B: - <v>: elasticised, -, -
-60: A Z: elasticize <v>: -, elasticizing, elasticizes
-60: B: elasticise <v>: -, elasticising, elasticises
+60: A Z: elasticize <v>: elasticized, elasticizing, elasticizes
+60: B: elasticise <v>: elasticised, elasticising, elasticises
 
 70 [3of6] 80: A Z: elasticized <aj>
 70 [3of6] 80: B: elasticised <aj>
@@ -119802,11 +119740,11 @@
 
 70 [moby] 80: embowel <m>: (A: emboweled | B: embowelled), (A: emboweling | B: embowelling), embowels
 
-80: A: emboweled
-80: B: embowelled
+85 [ukacd]: A: emboweled
+85 [ukacd]: B: embowelled
 
-80: A: emboweling
-80: B: embowelling
+85 [ukacd]: A: emboweling
+85 [ukacd]: B: embowelling
 
 85 [ukacd]: embowelment <n>: embowelments
 
@@ -120389,8 +120327,8 @@
 35 [ukfreq] 55: A Z: emphasized <aj>
 35 [ukfreq] 55: B: emphasised <aj>
 
-35 [ukfreq] 70 [3of6] 80: A Z: emphasizing <n>
-35 [ukfreq] 70 [3of6] 80: B: emphasising <n>
+35 [ukfreq] 55: A Z: emphasizing <n>
+35 [ukfreq] 55: B: emphasising <n>
 
 35: emphatic <aj>
 
@@ -121770,11 +121708,11 @@
 50: A Z: energizer <n>: energizers, energizer's
 50: B: energiser <n>: energisers, energiser's
 
-55: A Z: energizing <n>
-55: B: energising <n> # fixme: lemma_rank originally "-"
-
 55: A Z: energizing <aj>
 55: B: energising <aj>
+
+70 [3of6] [5desk] 80: A Z: energizing <n>
+70 [3of6] [5desk] 80: B: energising <n> # fixme: lemma_rank originally "-"
 
 70 [moby] 85 [ukacd]: energumen <n>: energumens
 
@@ -123951,7 +123889,7 @@
 
 55: epidural <n>: epidurals
 
-70 [3of6] [5desk] 80: epidural <aj>
+55: epidural <aj>
 
 80: epifauna <n>: epifaunas
 
@@ -124640,8 +124578,8 @@
 50: A Z: equalizer <n>: equalizers, equalizer's
 50: B: equaliser <n>: equalisers, equaliser's
 
-70 [3of6] 80: A Z: equalizing <n>
-70 [3of6] 80: B: equalising <n>
+55: A Z: equalizing <n>
+55: B: equalising <n>
 
 35: equally <av>
 
@@ -125342,8 +125280,8 @@
 80: !erne <v>: -, -, ernes
 85 [ukacd]: - <v>: erned†, erning†, -
 
-80: A: ernes
-80: B: renes
+85 [ukacd]: A: ernes
+85 [ukacd]: B: renes
 
 50: Ernest <n/person>: Ernest's
 
@@ -125531,8 +125469,8 @@
 
 50 [name] 60: Erse <n/upper>: Erse's
 
-80: A: erses
-80: B: reses
+85 [ukacd]: A: erses
+85 [ukacd]: B: reses
 
 70 [moby] 80: A: ersh <n>
 70 [moby] 80: B: resh <n>: (A: reshes | B: reshoes†) #! reshes: extra spellings: A
@@ -130088,10 +130026,10 @@
 
 70 [moby] 80: expertize <m>: expertized, expertizing, expertizes # fixme: expertized, expertizing: check for variants
 
-80: A Z: expertized
+85 [ukacd]: A Z: expertized
 #! missing spellings: B D
 
-80: A Z: expertizing
+85 [ukacd]: A Z: expertizing
 #! missing spellings: B D
 
 35: expertly <av>
@@ -131436,10 +131374,10 @@
 
 85 [ukacd]: fa'ard
 
-55: -fab <n>
-80 [ospdadd]: - <n>: fabs
-
 55: fab <aj>
+
+80 [ospdadd] 85 [ukacd]: -fab <n>
+80 [ospdadd]: - <n>: fabs
 
 70 [moby] 85 [ukacd]: fabaceous
 
@@ -134008,8 +133946,8 @@
 35: A Cv DV: favorable <aj>
 35: B C D: favourable <aj>
 
-55: A Cv DV: -favorable <n>
-55: B C D: -favourable <n>
+85 [ukacd]: A Cv DV: !favorable <n>
+85 [ukacd]: B C D: !favourable <n>
 
 70 [5desk] 80: A Cv DV: favorableness <n>: favorablenesses
 70 [5desk] 80: B C D: favourableness <n>: favourablenesses
@@ -134703,10 +134641,9 @@
 
 60: felicitate <v>: felicitated, felicitating, felicitates
 
-55: - <n>: felicitations
-60: felicitation <n>
+60: felicitation <n>: felicitations
 
-55: felicitations <i>
+60: felicitations <i>
 
 70 [5desk] 80: felicitator <n>: felicitators
 
@@ -135316,12 +135253,6 @@
 80 [stale] 85 [ukacd]: ferrel <m>: -, -, ferrels
 80 [stale]: - <m>: (A: ferreled | B: ferrelled), (A: ferreling | B: ferrelling), -
 
-80 [stale]: A: ferreled
-80 [stale]: B: ferrelled
-
-80 [stale]: A: ferreling
-80 [stale]: B: ferrelling
-
 50: Ferrell <n/person>: Ferrell's
 
 80 [moby]: Ferrellsburg <n/place>
@@ -135691,7 +135622,7 @@
 35: A B C: fetid <aj>
 35: Bv: foetid <aj>
 65: A B C: - <aj>: fetider-, fetidest-
-65: Bv: - <aj>
+65: Bv: - <aj>: foetider-, foetidest-
 
 80 [ospdadd]: fetidity <n>: fetidities
 
@@ -135993,12 +135924,10 @@
 80: A: - <n>: fiberglasses~
 80: B: - <n>: fibreglasses~
 
-55: A: -fiberglass <v>
-55: B: -fibreglass <v>
-80: A: - <v>: fiberglassed, fiberglassing, fiberglasses
-80: B: - <v>
-
 70 [moby]: fiber glass
+
+80: A: -fiberglass <v>: fiberglassed, fiberglassing, fiberglasses
+80: B: -fibreglass <v>
 
 80: A: fiberization <n>: fiberizations
 80: B: fibrisation <n>
@@ -139186,8 +139115,8 @@
 50: A Cv DV: flavorless <aj>
 50: B C D: flavourless <aj>
 
-55: A Cv DV: -flavorless <n>: flavorless
-55: B C D: -flavourless <n>: flavourless
+85 [ukacd]: A Cv DV: !flavorless <n>: flavorless
+85 [ukacd]: B C D: !flavourless <n>: flavourless
 
 70 [moby] 80 [2dicts] 85 [ukacd]: A B: flavorous <aj>
 70 [moby] 80 [2dicts] 85 [ukacd]: B-: flavourous <aj>
@@ -140764,10 +140693,9 @@
 
 70 [moby] 85 [ukacd]: fly ash <n>
 
-55: -flyaway <n>
-80: - <n>: flyaways
-
 55: flyaway <aj>
+
+80: -flyaway <n>: flyaways
 
 70 [moby] 80 [ospdadd] 85 [ukacd]: flyback <n>
 70 [moby] 80 [ospdadd]: - <n>: flybacks
@@ -145083,7 +145011,8 @@
 
 35: freeway <n>: freeways, freeway's
 
-55: freewheel <v>: freewheeled, freewheeling, freewheels
+55: freewheel <v>: freewheeled, -, freewheels
+60: - <v>: -, freewheeling, -
 
 85 [ukacd]: -freewheel <n>: freewheels
 
@@ -145658,7 +145587,8 @@
 
 80: friezelike
 
-55: frig <v>: frigged, frigging, frigs
+55: frig <v>: frigged, -, frigs
+60: - <v>: -, frigging, -
 
 35: frigate <n>: frigates
 
@@ -146777,8 +146707,7 @@
 55: fug <n>
 70 [moby] 80: - <n>: fugs-
 
-55: -fug <v>
-80: - <v>: fugged, fugging, fugs
+80: -fug <v>: fugged, fugging, fugs
 
 70 [5desk] [moby] 80: fugacious <aj>
 
@@ -149301,7 +149230,7 @@
 60: gaminess <n>
 80: - <n>: gaminesses~
 
-35 [ukfreq] 55: gaming <n>
+35 [ukfreq] 60: gaming <n>
 80: - <n>: gamings~
 
 35 [ukfreq] 50: gamma <n>
@@ -150993,10 +150922,8 @@
 
 40: GED <n/upper>: GEDs
 
-80: A: ged <n>
-80: B: gaed <n>
-80 [stale] 85 [ukacd]: A: - <n>: geds
-80 [stale] 85 [ukacd]: B: - <n>
+80 [stale] 85 [ukacd]: A: ged <n>: geds
+80 [stale] 85 [ukacd]: B: gaed <n>
 
 80: gedankenexperiment <n>: gedankenexperiments
 
@@ -151311,7 +151238,7 @@
 
 80 [moby]: gen <suf>
 
-50 hacker 70 [3of6] [moby] 80: gen <n>: gens
+50 hacker 55: gen <n>: gens
 
 50: Gena <n/person>: Gena's
 
@@ -151751,7 +151678,7 @@
 
 80 [upper] 85 [ukacd]: Genro </upper?>
 
-70 [3of6] [5desk] [moby] 80: gens
+55: gens
 
 85 [ukacd]: gensdarmes
 
@@ -153223,8 +153150,7 @@
 
 70 [5desk] 80: gibingly <av>
 
-55: - <n>: giblets
-60: giblet <n>
+60: giblet <n>: giblets
 
 40: giblets
 
@@ -153658,9 +153584,6 @@
 80: A: gimbaled <aj>
 80: B: gimballed <aj>
 
-80: A: gimbaling
-80: B: gimballing
-
 60: gimbals <n>
 
 70 [extra]: gimble
@@ -153956,15 +153879,15 @@
 
 40: Girl Scouts </upper?>
 
-55: _: -girly <n>
-55: _v: -girlie <n>
-70: _: - <n>: girlies
-70: _v: - <n>
-
 55: _: girly <a>
 55: _v: girlie <a>
 65: _: - <a>: girlier-, girliest-
 65: _v: - <a>: girlier-, girliest-
+
+70 [3of6] 80: _: -girly <n>
+70 [3of6] 80: _v: -girlie <n>
+70: _: - <n>: girlies
+70: _v: - <n>
 
 80: girn <m>: girned, girning, girns
 
@@ -155767,8 +155690,7 @@
 
 80: gnar <m>: gnarred†, gnarring†, gnars
 
-55: - <n_v>: gnarled, -, -
-60: gnarl <n_v>: -, gnarling, gnarls
+60: gnarl <n_v>: gnarled, gnarling, gnarls
 
 35: gnarled <aj>
 
@@ -156175,17 +156097,13 @@
 40: _: goddamn <i>
 40: _v: goddam <i> # fixme: lemma_rank originally "-"
 
-55: _: -goddamn <n>
-55: _v: -goddam <n>
-80: _: - <n>: goddamns-
-80: _v: - <n>: goddams-
-
-55: _: -goddamn <v>
-55: _v: -goddam <v> # fixme: goddammed, goddamming: check if variant
-80: _: - <v>: goddamned, goddamning, goddamns
-80: _v: - <v>: (goddamed | -: goddammed-), (goddaming | -: goddamming-), goddams
-
 80 [upper]: Goddam <m/upper?>: Goddammed, Goddamming, Goddams
+
+80: _: -goddamn <n>: goddamns
+80: _v: -goddam <n>: goddams
+
+80: _: -goddamn <v>: goddamned, goddamning, goddamns
+80: _v: -goddam <v>: (goddamed | -: goddammed-), (goddaming | -: goddamming-), goddams # fixme: goddammed, goddamming: check if variant
 
 80 [upper]: Goddamn <m/upper?>: Goddamned, Goddamning, Goddamns
 
@@ -156828,8 +156746,8 @@
 
 80: goloshe <n>: goloshes
 
-80: A: goloshes
-80: B: goloshoes
+85 [ukacd]: A: goloshes
+85 [ukacd]: B: goloshoes
 
 85 [ukacd]: golp <n>: golps
 
@@ -158237,10 +158155,9 @@
 
 80 [2dicts]: gradability <n>: gradabilities
 
-55: !gradable <n>
-85 [ukacd]: - <n>: gradables
-
 55: gradable <aj>
+
+85 [ukacd]: !gradable <n>: gradables
 
 60: gradate <v>: gradated, gradating, gradates
 
@@ -160661,6 +160578,8 @@
 50: grippe <n>
 80: - <n>: grippes~
 
+85 [ukacd]: !grippe <v>: gripped†, gripping†, -
+
 60: gripper <n>: grippers
 
 40: gripping <aj>
@@ -160767,9 +160686,7 @@
 
 85 [ukacd]: Grizelda </upper?>
 
-55: grizzle <v>: -, grizzling, grizzles
-
-70 [3of6] [moby] 80: grizzle <n>: grizzles
+55: grizzle <n_v>: -, grizzling, grizzles
 
 35: grizzled <aj>
 
@@ -161253,7 +161170,8 @@
 55: grout <n>
 80: - <n>: grouts~
 
-55: grout <v>: grouted, grouting, grouts
+55: grout <v>: grouted, -, grouts
+60: - <v>: -, grouting, -
 
 70 [5desk] 80: grouter <n>: grouters
 
@@ -161418,8 +161336,8 @@
 
 80 [stale] 85 [ukacd]: -gruel <v>: (A Cv: grueled | B C: gruelled), (A Cv: grueling | B C: gruelling), gruels
 
-80 [stale] 85 [ukacd]: A Cv: grueled
-80 [stale] 85 [ukacd]: B C: gruelled
+85 [ukacd]: A Cv: grueled
+85 [ukacd]: B C: gruelled
 
 80 [stale]: A: grueler <n>: gruelers
 80 [stale]: B: grueller <n>: gruellers
@@ -161503,7 +161421,8 @@
 
 70 [moby] 80: grumous <aj>
 
-55: grump <n>: grumps, grump's
+55: grump <n>: grump's
+60: - <n>: grumps
 
 80: -grump <v>: grumped, grumping, grumps
 
@@ -162458,8 +162377,7 @@
 
 85 [ukacd]: gumshield <n>: gumshields
 
-55: gumshoe <n_v>: -, -, gumshoes, gumshoe's
-60: - <n_v>: gumshoed, gumshoeing, -
+60: gumshoe <n_v>: gumshoed, gumshoeing, gumshoes, gumshoe's
 
 60: gum tree <n>: gum trees
 
@@ -162869,8 +162787,8 @@
 
 80: guttation <n>: guttations
 
-80: A: gutte
-80: B: guttae
+85 [ukacd]: A: gutte
+85 [ukacd]: B: guttae
 
 80 [moby]: Guttenberg <n/place>
 
@@ -163142,8 +163060,8 @@
 40: A C Dv: gynecological <aj>
 40: B D: gynaecological <aj>
 
-55: A C Dv: -gynecological <n>
-55: B D: -gynaecological <n>
+85 [ukacd]: A C Dv: !gynecological <n>
+85 [ukacd]: B D: !gynaecological <n>
 
 70 [5desk]: gynecologically
 
@@ -165444,11 +165362,11 @@
 
 70 [5desk] [moby] 80: handsel <m>: (A: handseled | B: handselled), (A: handseling | B: handselling), handsels
 
-80: A: handseled
-80: B: handselled
+85 [ukacd]: A: handseled
+85 [ukacd]: B: handselled
 
-80: A: handseling
-80: B: handselling
+85 [ukacd]: A: handseling
+85 [ukacd]: B: handselling
 
 50: handset <n>: handsets
 
@@ -165730,11 +165648,11 @@
 
 70 [5desk] [moby] 80: hansel <m>: (A: hanseled- | B: hanselled-), (A: hanseling- | B: hanselling-), hansels-
 
-80: A: hanseled
-80: B: hanselled
+85 [ukacd]: A: hanseled
+85 [ukacd]: B: hanselled
 
-80: A: hanseling
-80: B: hanselling
+85 [ukacd]: A: hanseling
+85 [ukacd]: B: hanselling
 
 80 [moby]: Hansell <n/place>
 
@@ -167975,8 +167893,8 @@
 
 60: headpin <n>: headpins
 
-55: - <v>: headquartered, -, headquarters†
-60: headquarter <v>: -, headquartering, -
+55: - <v>: headquartered, -, -
+60: headquarter <v>: -, headquartering, headquarters†
 
 35: headquarters <n>: headquarters
 
@@ -168864,8 +168782,8 @@
 
 40: he'd <s>
 
-80: A: hed
-80: B: haed
+85 [ukacd]: A: hed
+85 [ukacd]: B: haed
 
 85 [ukacd]: Hedda Gabler </upper?>
 
@@ -169530,7 +169448,7 @@
 
 85 [ukacd]: helleborine <n>
 
-80: A: helled
+85 [ukacd]: A: helled
 #! missing spellings: B Z C D
 
 70 [moby] 85 [ukacd]: Hellen </upper?>
@@ -171649,7 +171567,8 @@
 70 [moby] 80 [2dicts] 85 [ukacd]: A Dv: heterism <n>
 70 [moby] 80 [2dicts] 85 [ukacd]: B D: hetaerism <n>: hetaerisms
 
-55: hetero <n>: heteros
+55: hetero <n>
+60: - <n>: heteros
 
 55: hetero <a>
 
@@ -172526,12 +172445,6 @@
 70 [5desk] [moby] 80: A Z: hierarchize <m>: hierarchized, hierarchizing, hierarchizes
 70 [5desk] [moby] 80: B: hierarchise <m>
 
-80: A Z: hierarchized
-80: B: hierarchised
-
-80: A Z: hierarchizing
-80: B: hierarchising
-
 35: hierarchy <n>: hierarchies, hierarchy's
 
 70 [5desk] [moby] 80: hieratic <n>
@@ -173243,8 +173156,8 @@
 
 80: hillocky
 
-80 [stale] 85 [ukacd]: A: hilloed
-80 [stale] 85 [ukacd]: B: hilloaed
+85 [ukacd]: A: hilloed
+85 [ukacd]: B: hilloaed
 
 80 [moby]: Hillrose <n/place>
 
@@ -173724,11 +173637,11 @@
 
 80 [stale] 85 [ukacd]: hirsel <m>: (A: hirseled | B: hirselled), (A: hirseling | B: hirselling), hirsels
 
-80 [stale] 85 [ukacd]: A: hirseled
-80 [stale] 85 [ukacd]: B: hirselled
+85 [ukacd]: A: hirseled
+85 [ukacd]: B: hirselled
 
-80 [stale] 85 [ukacd]: A: hirseling
-80 [stale] 85 [ukacd]: B: hirselling
+85 [ukacd]: A: hirseling
+85 [ukacd]: B: hirselling
 
 80 [stale] 85 [ukacd]: hirsle <m>: hirsled, hirsling, hirsles
 
@@ -174181,9 +174094,6 @@
 
 55: _: hmm <i>
 55: _v: hm <i> # fixme: lemma_rank originally "-"
-
-55: _: -hmm <abbr>
-55: _v: -hm <abbr>
 
 60: HM </abbr?>
 
@@ -175653,9 +175563,6 @@
 
 80: hominize <m>: hominized, hominizing, hominizes
 
-80: A Z: hominized
-80: B: hominised
-
 60 [extra] 70 [5desk] [moby] 80: hominoid <n>: hominoids
 60 [extra] 70 [5desk] [moby]: - <n>: hominoid's
 
@@ -176199,9 +176106,12 @@
 
 60: honker <n>: honkers, honker's
 
-55: _: honky <n>: honkies, honky's
-55: _v: honkie <n>: honkies, honkie's
-55: _V: honkey <n>: honkeys, honkey's
+55: _: honky <n>: honky's
+55: _v: honkie <n>: honkie's
+55: _V: honkey <n>: honkey's
+60: _: - <n>: honkies
+60: _v: - <n>: honkies
+60: _V: - <n>: honkeys
 
 50: honky-tonk <n>: honky-tonks
 
@@ -176249,8 +176159,8 @@
 40: A Cv DV: honorably <av>
 40: B C D: honourably <av>
 
-55: A Cv DV: -honorably <n>
-55: B C D: -honourably <n>
+85 [ukacd]: A Cv DV: !honorably <n>
+85 [ukacd]: B C D: !honourably <n>
 
 80: honorand <n>: honorands
 
@@ -176615,7 +176525,7 @@
 
 60: Hoover Dam <n/upper>
 
-70 [3of6] [5desk] 80 [ospdadd] 85 [ukacd]: hoovering
+55: hoovering
 
 80 [moby]: Hooversville <n/place>
 
@@ -177637,7 +177547,7 @@
 60: hot rodder <n>
 65: - <n>: hot rodders-
 
-55: hots <n>
+60: hots <n>
 
 40: hot seat <n>: hot seats
 
@@ -177868,8 +177778,8 @@
 
 70 [moby] 80: housel <m>: (A: houseled | B: houselled), (A: houseling | B: houselling), housels
 
-80: A: houseled
-80: B: houselled
+85 [ukacd]: A: houseled
+85 [ukacd]: B: houselled
 
 70 [moby] 80: houseleek <n>: houseleeks
 
@@ -179025,8 +178935,8 @@
 50: A Cv DV: humorless <aj>
 50: B C D: humourless <aj>
 
-55: A Cv DV: -humorless <n>: humorless
-55: B C D: -humourless <n>: humourless
+85 [ukacd]: A Cv DV: !humorless <n>: humorless
+85 [ukacd]: B C D: !humourless <n>: humourless
 
 60: humorlessly <av>
 
@@ -179754,8 +179664,8 @@
 70 [5desk]: A Z: - <n>: hybridizer's
 70 [5desk]: B: - <n>: hybridiser's
 
-80: A Z: hybridizing <n>
-80: B: hybridising <n>
+55: A Z: hybridizing <n>
+55: B: hybridising <n>
 
 80: hybridoma <n>: hybridomas
 
@@ -181025,8 +180935,7 @@
 
 50 [+] 55: hyperlink <n>: hyperlinks, hyperlink's
 
-50 [+] 55: hyperlink <v>
-50 [+] 60: - <v>: hyperlinked, hyperlinking, hyperlinks
+50 [+] 60: hyperlink <v>: hyperlinked, hyperlinking, hyperlinks
 
 80: A Dv: hyperlipemia <n>: hyperlipemias
 80: B D: hyperlipaemia <n>
@@ -182159,7 +182068,7 @@
 
 50: ibid. <av/abbr?>
 
-55: ibid <abbr>
+55: -ibid
 
 80 [moby]: -ibid. <abbr>
 
@@ -182884,12 +182793,6 @@
 
 80: A Z: ideologize <m>: ideologized, ideologizing, ideologizes
 80: B: ideologise <m>
-
-80: A Z: ideologized
-80: B: ideologised
-
-80: A Z: ideologizing
-80: B: ideologising
 
 55: ideologue <n>: ideologues, ideologue's
 
@@ -183917,8 +183820,7 @@
 
 80: imagistically
 
-55: - <n>: (A: imagoes | Av Bv: imagines† | B: imagos)
-60: imago <n>: imago's
+60: imago <n>: (A: imagoes | Av Bv: imagines† | B: imagos), imago's
 
 50: imam <n>: imams, imam's
 
@@ -184351,8 +184253,8 @@
 55: A Z: immobilizer <n>: immobilizers
 55: B: immobiliser <n>: immobilisers
 
-70 [3of6] 80: A Z: immobilizing <n>
-70 [3of6] 80: B: immobilising <n>
+55: A Z: immobilizing <n>
+55: B: immobilising <n>
 
 70 [5desk] [moby] 80: immoderacy <n>: immoderacies
 
@@ -187964,7 +187866,7 @@
 
 55: indie <n>: indies, indie's
 
-70 [3of6] [5desk] 80: indie <aj>
+55: indie <aj>
 
 50 [name] 70 [5desk] [moby]: Indies <n/name?>: Indies's
 
@@ -189307,7 +189209,8 @@
 
 55: infill <m>: infilled, infilling, infills
 
-85 [ukacd]: infilling <n>: infillings!
+55: infilling <n>
+85 [ukacd]: - <n>: infillings!
 
 85 [ukacd]: infilter <m>: infiltered, infiltering, infilters
 
@@ -189887,11 +189790,10 @@
 
 80 [moby]: Ingraham <n/place>
 
-55: - <v>: ingrained, -, -
-60: ingrain <v>: -, ingraining, ingrains
-
 60: ingrain <n>
 80: - <n>: ingrains~
+
+60: ingrain <v>: ingrained, ingraining, ingrains
 
 60: ingrain <a>
 
@@ -192862,7 +192764,8 @@
 60: interlining <n>: interlinings
 
 50 [ukfreq] 55: - <v>: interlinked, -, -
-55: interlink <v>: -, interlinking, interlinks
+55: interlink <v>: -, -, interlinks
+60: - <v>: -, interlinking, -
 
 85 [ukacd]: -interlink <n>: interlinks
 
@@ -195260,8 +195163,8 @@
 50: A B Z: ionizer <n>: ionizers, ionizer's
 50: Bv: ioniser <n>: ionisers, ioniser's
 
-70 [3of6] 80: A Z: ionizing <n>
-70 [3of6] 80: B: ionising <n>
+55: A Z: ionizing <n>
+55: B: ionising <n>
 
 70 [moby] 80: ionogen <n>: ionogens
 
@@ -198358,9 +198261,10 @@
 
 70 [moby]: Jammu and Kashmir <n/upper>
 
-55: jammy <a>: jammier, jammiest
+55: jammy <n>
+70 [3of6] 80: - <n>: jammies-
 
-85 [ukacd]: !jammy <n>
+55: jammy <a>: jammier, jammiest
 
 60: jam-pack
 
@@ -199242,9 +199146,9 @@
 
 85 [ukacd]: jemminess
 
-55: -jemmy <v>: jemmied, jemmying, jemmies
+55: jemmy <n>: jemmies
 
-70 [3of6] [moby] 80: jemmy <n>: jemmies
+55: -jemmy <v>: jemmied, jemmying, jemmies
 
 70 [5desk] [moby]: Jena <n/upper>: Jena's
 
@@ -200011,7 +199915,7 @@
 
 80 [stale] 85 [ukacd]: jinker <n>: jinkers
 
-70 [3of6] 80: jinks <n>
+55: jinks <n>
 
 50 [name] 70 [5desk] [moby]: Jinnah <n/upper>: Jinnah's
 
@@ -205130,8 +205034,6 @@
 55: - <v>: kilted, -, -
 80: -kilt <v>: -, kilting, kilts
 
-55: kilted
-
 50: kilter <n>
 80: - <n>: kilters~
 
@@ -205941,6 +205843,8 @@
 50: kith <n>: kith's
 80: - <n>: kiths~
 
+85 [ukacd]: !kith <v>: kithed†, kithing†, kiths
+
 70 [3of6] [moby] 85 [ukacd]: kith and kin
 
 70 [moby] 80: kithara <n>: kitharas
@@ -206255,13 +206159,12 @@
 80 [stale] 85 [ukacd]: -knack <v>: -, -, knacks
 80 [stale]: - <v>: knacked, knacking, -
 
-35 [ukfreq] 70 [3of6] [moby] 80: knacker <n>
-70 [3of6] [moby]: - <n>: knacker's
-70 [3of6] [moby] 80: - <n>: knackers
+35 [ukfreq] 55: knacker <n>
+55: - <n>: knackers, knacker's
 
 55: -knacker <v>: knackered, knackering, knackers
 
-70 [3of6] 80: knackered <aj>
+55: knackered <aj>
 
 70 [3of6] 85 [ukacd]: knacker's yard <n>
 70 [3of6]: - <n>: knacker's yards
@@ -208316,6 +208219,8 @@
 
 60: lac <n>
 80: - <n>: lacs~
+
+85 [ukacd]: !lac <v>: (laced† | lacked†), (lacing† | lacking†), lacs #! unmarked variants: laced, lacked, lacing, lacking
 
 80 [moby]: Lacamp <n/place>
 
@@ -210933,7 +210838,7 @@
 70 [5desk]: - <n>: lasher's
 
 50 [ukfreq] 55: lashing <n>
-55: - <n>: lashings
+60: - <n>: lashings
 
 85 [ukacd]: !lashing <aj>
 
@@ -211698,11 +211603,11 @@
 
 80 [stale] 85 [ukacd]: lauwine <n>: lauwines
 
-55: -lav <v>
-
-70 [3of6] 80: lav <n>: lavs
+55: lav <n>: lavs
 
 80 [ucacr]: LAV </abbr?>
+
+85 [ukacd]: !lav <v>
 
 85 [ukacd]: !lav <abbr>
 
@@ -212182,7 +212087,7 @@
 
 80 [moby]: lb. t. <abbr>
 
-55: lbw <abbr>
+55: lbw
 
 50: l.c. <abbr>
 
@@ -212612,8 +212517,8 @@
 
 35: leather <a>
 
-70 [3of6] 80: -leather <v>: -, -, leathers
-80: - <v>: leathered, leathering, -
+70 [3of6] 85 [ukacd]: -leather <v>: -, -, leathers
+85 [ukacd]: - <v>: leathered, leathering, -
 
 70 [5desk] [moby] 80: leatherback <n>: leatherbacks
 70 [5desk] [moby]: - <n>: leatherback's
@@ -212751,10 +212656,10 @@
 50 [name] 85 [ukacd]: Le Carre <n/name?>
 50 [name]: - <n/name?>: Le Carre's
 
-55: lech <n>: leches, lech's
-
 55: - <v>: leched, leching, -
 70 [3of6] 80: -lech <v>: -, -, leches
+
+60: lech <n>: leches, lech's
 
 80: lechayim <n>: lechayims
 
@@ -216426,6 +216331,8 @@
 
 70 [5desk] 80 [upper]: Limey <n/upper?>: Limeys
 
+85 [ukacd]: !limey <a>: limier†, limiest†
+
 70 [moby] 80 [2dicts]: limicoline
 
 70 [moby] 80 [2dicts] 85 [ukacd]: limicolous
@@ -217758,9 +217665,6 @@
 
 35: lithe <aj>: lither, lithest
 
-80: A: lithed
-80: B: lithoed
-
 55: lithely <a>
 
 80 [stale]: A Dv: lithemia <n>: lithemias
@@ -219032,8 +218936,8 @@
 
 70 [moby]: Loeb <n/upper>: Loeb's
 
-80: A: loed
-80: B: looed
+85 [ukacd]: A: loed
+85 [ukacd]: B: looed
 
 70 [5desk] [moby] 80: loess <n>
 
@@ -220699,7 +220603,8 @@
 
 70 [moby]: loup-garou <n>: loup-garou's
 
-55: lour <v>: loured, louring, lours
+55: lour <v>: loured, -, lours
+60: - <v>: -, louring, -
 
 50: Lourdes <n/person>: Lourdes's
 
@@ -221978,10 +221883,9 @@
 
 55: lumpectomy <n>: lumpectomies
 
-55: -lumpen <n>
-80: - <n>: lumpens
-
 55: lumpen <aj>
+
+80: -lumpen <n>: lumpens
 
 85 [ukacd]: lumpenly
 
@@ -222560,6 +222464,8 @@
 70 [5desk] 80: luxation <n>: luxations
 
 70 [5desk] [moby] 80: luxe <aj>
+
+85 [ukacd]: !luxe <n>: luxes†
 
 50: Luxembourg <n/place>: Luxembourg's
 
@@ -223724,10 +223630,9 @@
 
 85 [ukacd]: macrodome <n>: macrodomes
 
-55: -macroeconomic <n>
-85 [ukacd]: - <n>: macroeconomics!
+55: macroeconomic <aj>
 
-70 [3of6] [5desk] 80: macroeconomic <aj>
+85 [ukacd]: !macroeconomic <n>: macroeconomics
 
 55: macroeconomics <n>
 
@@ -229785,7 +229690,7 @@
 
 55: -matey <n>: mateys
 
-70 [3of6] [moby] 80: matey <aj>
+55: matey <aj>
 80 [3of6] [ospdadd] 85 [ukacd]: - <aj>: matier†, matiest†
 
 80: mateyness <n>: mateynesses
@@ -231644,7 +231549,8 @@
 
 80 [moby]: Mecosta <n/place>
 
-40: -med <n>: meds
+40: -med <n>
+65: - <n>: meds-
 
 60: _: med. <abbr>
 60: _~: med <abbr>
@@ -234319,8 +234225,8 @@
 60: A Z: mesmerizer <n>: mesmerizers, mesmerizer's
 60: B: mesmeriser <n>: mesmerisers, mesmeriser's
 
-70 [3of6] [5desk] 80: A Z: mesmerizing <aj>
-70 [3of6] [5desk] 80: B: mesmerising <aj>
+55: A Z: mesmerizing <aj>
+55: B: mesmerising <aj>
 
 70 [5desk]: mesmerizingly
 
@@ -234748,8 +234654,6 @@
 70 [moby] 80: A: metalize <v>: metalized, metalizing, metalizes
 70 [moby] 80: B: metallise <v>: metallised, metallising, metallises
 70 [moby] 80: Z: metallize <v>: metallized, metallizing, metallizes
-
-70: metalled
 
 35: metallic <aj>
 
@@ -238505,8 +238409,8 @@
 35: A Z: minimize <v>: minimized, minimizing, minimizes
 35: B: minimise <v>: minimised, minimising, minimises
 
-35 [ukfreq] 70 [3of6] 80: A Z: minimized <aj>
-35 [ukfreq] 70 [3of6] 80: B: minimised <aj>
+35 [ukfreq] 55: A Z: minimized <aj>
+35 [ukfreq] 55: B: minimised <aj>
 
 70 [5desk] 80: A Z: minimizer <n>: minimizers
 70 [5desk] 80: B: minimiser <n>: minimisers
@@ -239666,8 +239570,7 @@
 60: misguidance <n>
 80: - <n>: misguidances~
 
-55: - <v>: misguided, -, -
-60: misguide <v>: -, misguiding, misguides
+60: misguide <v>: misguided, misguiding, misguides
 
 35 [ukfreq] 40: misguided <aj>
 
@@ -240078,8 +239981,8 @@
 
 80: misroute <m>: misrouted, misrouting, misroutes
 
-80: A: misrouting
-80: B: misrouteing
+85 [ukacd]: A: misrouting
+85 [ukacd]: B: misrouteing
 
 50: misrule <n>
 80: - <n>: misrules~
@@ -241215,6 +241118,7 @@
 70 [3of6]: modern-day <aj>
 
 70 [5desk] 80: moderne <aj>
+85 [ukacd]: - <aj>: moderner†, modernest†
 
 80: -moderne <n>: modernes
 
@@ -243987,8 +243891,8 @@
 60: A Z: moralizer <n>: moralizers, moralizer's
 60: B: moraliser <n>: moralisers, moraliser's
 
-50 [ukfreq] 70 [3of6] [5desk] 80: A Z: moralizing <n>
-50 [ukfreq] 70 [3of6] [5desk] 80: B: moralising <n>
+50 [ukfreq] 55: A Z: moralizing <n>
+50 [ukfreq] 55: B: moralising <n>
 
 70 [5desk]: A Z: moralizingly <n>
 70 [5desk]: B: moralisingly <n>
@@ -244723,7 +244627,8 @@
 
 50: mosey <v>: moseyed, moseying, moseys
 
-55: mosh <v>: moshed, moshing, moshes
+55: mosh <v>: moshed, -, moshes
+60: - <v>: -, moshing, -
 
 80 [moby]: Moshannon <n/place>
 
@@ -247477,10 +247382,9 @@
 
 80 [moby]: Munith <n/place>
 
-55: munition <n_v>: -, -, munitions
-60: - <n_v>: munitioned, munitioning, -
+60: munition <n_v>: munitioned, munitioning, munitions
 
-55: munition <a>
+60: munition <a>
 
 85 [ukacd]: munitioneer <n>: munitioneers
 
@@ -252530,12 +252434,6 @@
 80: A Z: nephrectomize <m>: nephrectomized, nephrectomizing, nephrectomizes
 80: B: nephrectomise <m>
 
-80: A Z: nephrectomized
-80: B: nephrectomised
-
-80: A Z: nephrectomizing
-80: B: nephrectomising
-
 70 [moby] 80: nephrectomy <n>: nephrectomies
 
 80: nephric
@@ -254307,8 +254205,8 @@
 
 85 [ukacd]: niellated
 
-80: A: nielled
-80: B: nielloed
+85 [ukacd]: A: nielled
+85 [ukacd]: B: nielloed
 
 80: nielli
 
@@ -254721,6 +254619,8 @@
 
 35: nil <a>
 
+85 [ukacd]: !nil <v>: nilled†, -, nils
+
 80 [moby]: Niland <n/place>
 
 85 [ukacd]: nil carborundum illegitimi
@@ -254860,8 +254760,7 @@
 
 85 [ukacd]: ninepenny morris
 
-55: - <n>: ninepins
-60: ninepin <n>
+60: ninepin <n>: ninepins
 
 85 [ukacd]: nine-pin
 
@@ -263594,8 +263493,8 @@
 50: A Cv DV: odorless <aj>
 50: B C D: odourless <aj>
 
-55: A Cv DV: -odorless <n>: odorless
-55: B C D: -odourless <n>: odourless
+85 [ukacd]: A Cv DV: !odorless <n>: odorless
+85 [ukacd]: B C D: !odourless <n>: odourless
 
 70 [5desk]: odorlessly
 
@@ -267865,8 +267764,8 @@
 35 [ukfreq] 40: A Z: organizational <aj>
 35 [ukfreq] 40: B: organisational <aj>
 
-55: A Z: -organizational <n>
-55: B: -organisational <n>
+85 [ukacd]: A Z: !organizational <n>
+85 [ukacd]: B: !organisational <n>
 
 60: A Z: organizationally <av>
 60: B: organisationally <av> # fixme: lemma_rank originally "-"
@@ -269907,12 +269806,6 @@
 
 80 [stale]: outcavil <m>: (A: outcaviled | B: outcavilled), (A: outcaviling | B: outcavilling), outcavils
 
-80 [stale]: A: outcaviled
-80 [stale]: B: outcavilled
-
-80 [stale]: A: outcaviling
-80 [stale]: B: outcavilling
-
 80: outcharge <m>: outcharged, outcharging, outcharges
 
 80: outcharm <m>: outcharmed, outcharming, outcharms
@@ -270625,9 +270518,6 @@
 80 [stale]: A DV: outsavor <v>: outsavored, outsavoring, outsavors
 #! missing spellings: B Z C
 
-80 [stale]: A DV: outsavoring
-80 [stale]: B D: outsavouring
-
 80 [ospdadd]: outsay <m>: outsaid, outsaying, outsays
 
 80: outscheme <m>: outschemed, outscheming, outschemes
@@ -270700,8 +270590,7 @@
 
 80: outskate <m>: outskated, outskating, outskates
 
-55: - <n>: outskirts
-60: outskirt <n>
+60: outskirt <n>: outskirts
 
 35: outskirts
 
@@ -270782,8 +270671,7 @@
 
 85 [ukacd]: outstrain <m>: outstrained, outstraining, outstrains
 
-55: - <v>: outstretched, -, -
-60: outstretch <v>: -, outstretching, outstretches
+60: outstretch <v>: outstretched, outstretching, outstretches
 
 40: outstretched <aj>
 
@@ -270947,11 +270835,9 @@
 
 55: outwith
 
-55: outwork <n>
-60: - <n>: outworks
+60: outwork <n>: outworks
 
-55: outwork <v> # fixme: outwrought: check if variant
-60: - <v>: (outworked | -: outwrought-), outworking, outworks
+60: outwork <v>: (outworked | -: outwrought-), outworking, outworks # fixme: outwrought: check if variant
 
 55: outworker <n>: outworkers
 
@@ -271229,8 +271115,7 @@
 
 50: overbalance <n_v>: overbalanced, overbalancing, overbalances
 
-55: - <v>: -, overbearing, - # fixme: overborn: check if variant
-60: overbear <v>: overbore, (overborne | -: overborn-), -, overbears
+60: overbear <v>: overbore, (overborne | -: overborn-), overbearing, overbears # fixme: overborn: check if variant
 
 35: overbearing <aj>
 
@@ -271737,8 +271622,7 @@
 
 70 [5desk] 85 [ukacd]: overexcitable
 
-55: - <v>: overexcited, -, -
-60: overexcite <v>: -, overexciting, overexcites
+60: overexcite <v>: overexcited, overexciting, overexcites
 
 70 [3of6] [5desk] 80: overexcited <aj>
 
@@ -272126,8 +272010,7 @@
 
 70 [moby] 80: overissue <m>: overissued, overissuing, overissues
 
-55: - <v>: overjoyed, -, -
-60: overjoy <v>: -, overjoying, overjoys
+60: overjoy <v>: overjoyed, overjoying, overjoys
 
 40: overjoyed <aj>
 
@@ -272211,7 +272094,8 @@
 80 [stale]: overlewd
 
 50: - <v>: overlay, -, -
-55: overlie <v>: -, overlain, overlying, overlies
+55: overlie <v>: -, overlain, -, overlies
+60: - <v>: -, overlying, -
 
 85 [ukacd]: overlier <n>: overliers
 
@@ -272906,8 +272790,7 @@
 
 50: overstuffed <aj>
 
-55: - <v>: oversubscribed, -, -
-60: oversubscribe <v>: -, oversubscribing, oversubscribes
+60: oversubscribe <v>: oversubscribed, oversubscribing, oversubscribes
 
 70 [3of6] 80: oversubscribed <aj>
 
@@ -273002,8 +272885,7 @@
 
 80: overtip <m>: overtipped, overtipping, overtips
 
-55: - <v>: overtired, -, -
-60: overtire <v>: -, overtiring, overtires
+60: overtire <v>: overtired, overtiring, overtires
 
 70 [3of6] [5desk] 80: overtired
 
@@ -273068,7 +272950,8 @@
 
 55: overvaluation <n>: overvaluations
 
-55: overvalue <v>: overvalued, overvaluing, overvalues
+55: overvalue <v>: -, overvaluing, overvalues
+60: - <v>: overvalued, -, -
 
 70 [3of6] [5desk] 80: overvalued
 
@@ -273541,8 +273424,8 @@
 50: A Z: oxidizer <n>: oxidizers, oxidizer's
 50: B: oxidiser <n>: oxidisers, oxidiser's
 
-70 [3of6] 80: A Z: oxidizing <n>
-70 [3of6] 80: B: oxidising <n>
+55: A Z: oxidizing <n>
+55: B: oxidising <n>
 
 80: oxidoreductase <n>: oxidoreductases
 
@@ -276360,10 +276243,8 @@
 
 85 [ukacd]: pantherish
 
-55: _: - <n>: panties
-55: _v: - <n>: panties
-60: _: pantie <n>: pantie's
-60: _v: panty <n>: panty's
+60: _: pantie <n>: panties, pantie's
+60: _v: panty <n>: panties, panty's
 
 35 [ukfreq] 40: panties
 
@@ -278176,11 +278057,10 @@
 
 35: parkway <n>: parkways, parkway's
 
-55: !parky <n>
-85 [ukacd]: - <n>: parkies†
-
 55: parky <aj>
 85 [ukacd]: - <aj>: parkier†, parkiest†
+
+85 [ukacd]: !parky <n>: parkies†
 
 80 [moby]: Parl. <abbr>
 
@@ -279780,8 +279660,8 @@
 80: A: patine <m>: patined, patining, patines
 #! missing spellings: B Z C D
 
-80: A: patined
-80: B: patinaed
+80 [ospdadd] 85 [ukacd]: A: patined
+80 [ospdadd] 85 [ukacd]: B: patinaed
 
 80 [stale]: patinize <v>: patinized, patinizing, patinizes
 
@@ -279985,8 +279865,8 @@
 35 [ukfreq] 40: A Z: patronizing <aj>
 35 [ukfreq] 40: B: patronising <aj>
 
-55: A Z: -patronizing <n>
-55: B: -patronising <n>
+85 [ukacd]: A Z: -patronizing <n>
+85 [ukacd]: B: -patronising <n>
 
 40: A Z: patronizingly <av>
 40: B: patronisingly <av>
@@ -282095,8 +281975,7 @@
 
 85 [ukacd]: pencraft
 
-55: - <v>: -, pending, -
-60: pend <v>: pended, -, pends
+60: pend <v>: pended, pending, pends
 
 35: pendant <n>: pendants
 
@@ -284643,8 +284522,8 @@
 
 40: per se <av>
 
-70 [moby] 80: A: perse <n>: perses
-70 [moby] 80: B: prese <n>: preses†
+70 [moby] 80: A: !perse <n>: perses
+70 [moby] 80: B: !prese <n>: preses†
 
 35: persecute <v>: persecuted, persecuting, persecutes
 
@@ -285583,7 +285462,8 @@
 
 85 [ukacd]: petrocurrency <n>: petrocurrencies
 
-55: petrodollar <n>: petrodollars
+55: petrodollar <n>
+60: - <n>: petrodollars
 
 70 [3of6] [5desk] 80: petrodollars
 
@@ -286609,7 +286489,7 @@
 
 50: philanderer <n>: philanderers, philanderer's
 
-55: philandering <n>
+60: philandering <n>
 80: - <n>: philanderings~
 
 85 [ukacd]: philanthrope <n>: philanthropes
@@ -286891,8 +286771,8 @@
 60: A Z: philosophizer <n>: philosophizers, philosophizer's
 60: B: philosophiser <n>: philosophisers, philosophiser's
 
-35 [ukfreq] 70 [3of6] 80: A Z: philosophizing <n>
-35 [ukfreq] 70 [3of6] 80: B: philosophising <n>
+35 [ukfreq] 55: A Z: philosophizing <n>
+35 [ukfreq] 55: B: philosophising <n>
 
 35: philosophy <n>: philosophies, philosophy's
 
@@ -289628,8 +289508,6 @@
 40: pigmentation <n>
 80: - <n>: pigmentations~
 
-55: pigmented
-
 85 [ukacd]: pigmoid
 
 85 [ukacd]: pignerate <m>: pignerated, pignerating, pignerates
@@ -290101,7 +289979,8 @@
 
 50: pince-nez <n>
 
-55: pincer <n>: pincers, pincer's
+55: pincer <n>: pincer's
+60: - <n>: pincers
 
 85 [ukacd]: -pincer <v>: pincered, pincering, pincers
 
@@ -291637,7 +291516,7 @@
 35 [ukfreq] 70 [3of6] 80: placing <n>
 55: - <n>: placings
 
-70 [3of6] [5desk] 80 [ospdadd] 85 [ukacd]: placings
+55: placings
 
 85 [ukacd]: placit <n>: placits
 
@@ -291872,7 +291751,7 @@
 
 70 [moby]: plane geometry <n>
 
-55: planeload <n>: (planeload | planeloads) #! unmarked variants: planeload, planeloads
+55: planeload <n>: (planeload | -: planeloads-) # fixme: planeloads: check if variant
 
 80 [2dicts]: planeness <n>: planenesses
 
@@ -292840,7 +292719,8 @@
 55: plebby <a>
 85 [ukacd]: - <a>: plebbier-, plebbiest-
 
-55: plebe <n>: plebes, plebe's
+55: plebe <n>: plebe's
+60: - <n>: plebes
 
 85 [ukacd]: plebean <n>: plebeans
 
@@ -292865,7 +292745,7 @@
 
 50: plebiscite <n>: plebiscites
 
-70 [3of6] [5desk] [moby] 80: plebs
+55: plebs
 
 85 [ukacd]: Plecoptera <n/upper>
 
@@ -293305,7 +293185,7 @@
 
 80: ploidy <n>: ploidies
 
-70 [3of6] [moby] 80: plonk <n>: plonks
+55: plonk <n>: plonks
 
 50 hacker 55: plonk <v>: plonked, plonking, plonks
 
@@ -294782,9 +294662,7 @@
 
 85 [ukacd]: pole-ax <m>: pole-axed†, pole-axing†, pole-axes†
 
-55: poleaxe <v>: poleaxed, poleaxing, poleaxes
-
-70 [3of6] [5desk] [moby] 80: poleaxe <n>: poleaxes
+55: poleaxe <n_v>: poleaxed, poleaxing, poleaxes
 
 85 [ukacd]: pole-axe <m>: pole-axed†, pole-axing†, pole-axes†
 
@@ -295008,8 +294886,8 @@
 40: A Z: politicize <v>: politicized, politicizing, politicizes
 40: B: politicise <v>: politicised, politicising, politicises
 
-70 [3of6] [5desk] 80: A Z: politicized
-70 [3of6] [5desk] 80: B: politicised
+55: A Z: politicized
+55: B: politicised
 
 70 [5desk] [moby] 80: politick <v>: politicked, -, politicks
 
@@ -295868,7 +295746,7 @@
 
 80: polyribosome <n>: polyribosomes
 
-70 [3of6] [5desk] 80: polys
+55: polys
 
 70 [5desk] [moby] 80: polysaccharide <n>: polysaccharides
 
@@ -296218,10 +296096,9 @@
 
 50 [name] 60 60 US [town]: Ponce <n/place>: Ponce's
 
-55: -ponce <v>: ponced, poncing, ponces
+55: ponce <n>: ponces, ponce's
 
-70 [3of6] [moby] 80: ponce <n>: ponces
-70 [3of6] [moby]: - <n>: ponce's
+55: -ponce <v>: ponced, poncing, ponces
 
 70 [moby] 85 [ukacd]: ponceau <n>: ponceaus
 
@@ -296316,9 +296193,9 @@
 
 85 [ukacd]: poney <m>: poneyed, poneying, poneys
 
-55: -pong <v>: ponged, ponging, pongs
+55: pong <n>: pongs
 
-70 [3of6] 80: pong <n>: pongs
+55: -pong <v>: ponged, ponging, pongs
 
 85 [ukacd]: ponga
 
@@ -297484,7 +297361,7 @@
 
 55: positivist <n>: positivists, positivist's
 
-70 [3of6] [5desk] 80: positivist <aj>
+55: positivist <aj>
 
 70 [5desk] 80: positivistic <aj>
 
@@ -299469,9 +299346,7 @@
 
 80 [2dicts]: prandially
 
-55: prang <v>: pranged, pranging, prangs
-
-70 [3of6] [moby] 80: prang <n>: prangs
+55: prang <n_v>: pranged, pranging, prangs
 
 35: prank <n>: pranks
 
@@ -299505,9 +299380,9 @@
 60: praseodymium <n>
 80: - <n>: praseodymiums~
 
-55: -prat <v>
+55: prat <n>: prats
 
-70 [3of6] [moby] 80: prat <n>: prats
+85 [ukacd]: !prat <v>
 
 50 [name]: Pratchett <n/name?>: Pratchett's
 
@@ -299871,10 +299746,9 @@
 55: precariousness <n>
 80: - <n>: precariousnesses~
 
-55: -precast <m>
-80: - <m>: precast, precasting, precasts
-
 55: precast <aj>
+
+80: -precast <m>: precast, precasting, precasts
 
 80 [2dicts] 85 [ukacd]: precative <aj>
 
@@ -300211,7 +300085,8 @@
 
 80: preconviction <n>: preconvictions
 
-55: precook <v>: precooked, precooking, precooks
+55: precook <v>: -, precooking, precooks
+60: - <v>: precooked, -, -
 
 70 [3of6] 80: precooked <aj>
 
@@ -300438,8 +300313,7 @@
 35 [ukfreq] 55: predictor <n>
 55: - <n>: predictors, predictor's
 
-55: - <v>: predigested, -, -
-60: predigest <v>: -, predigesting, predigests
+60: predigest <v>: predigested, predigesting, predigests
 
 70 [3of6] 80: predigested <aj>
 
@@ -303319,8 +303193,8 @@
 40: A Z: prioritize <v>: prioritized, prioritizing, prioritizes
 40: B: prioritise <v>: prioritised, prioritising, prioritises
 
-70 [3of6] 80: A Z: prioritizing <n>
-70 [3of6] 80: B: prioritising <n>
+55: A Z: prioritizing <n>
+55: B: prioritising <n>
 
 35: priority <n>: priorities
 
@@ -304277,7 +304151,7 @@
 
 35: profiteer <n_v>: profiteered, profiteering, profiteers, profiteer's
 
-55: profiteering <n>
+60: profiteering <n>
 80: - <n>: profiteerings~
 
 80: profiter <n>: profiters
@@ -307463,10 +307337,9 @@
 
 85 [ukacd]: psychometer <n>: psychometers
 
-55: !psychometric <n>
-85 [ukacd]: - <n>: psychometrics
-
 55: psychometric <aj>
+
+85 [ukacd]: !psychometric <n>: psychometrics
 
 80 [2dicts] 85 [ukacd]: psychometrical
 
@@ -307844,7 +307717,7 @@
 
 80 [2dicts] 85 [ukacd]: puberulous
 
-55: pubes <n>: pubes†
+60: pubes <n>: pubes†
 
 40: pubescence <n>
 80: - <n>: pubescences~
@@ -307853,8 +307726,7 @@
 
 40: pubic <aj>
 
-55: - <n>: (pubes† | -: pubises-) # fixme: pubises: check if variant
-60: pubis <n>
+60: pubis <n>: (pubes† | -: pubises-) # fixme: pubises: check if variant
 
 80 [moby]: publ. <abbr>
 
@@ -307912,8 +307784,8 @@
 35 [ukfreq] 55: A Z: publicized <aj>
 35 [ukfreq] 55: B: publicised <aj>
 
-35 [ukfreq] 70 [3of6] 80: A Z: publicizing <n>
-35 [ukfreq] 70 [3of6] 80: B: publicising <n>
+35 [ukfreq] 55: A Z: publicizing <n>
+35 [ukfreq] 55: B: publicising <n>
 
 70 [moby] 85 [ukacd]: public law <n>
 
@@ -311520,9 +311392,6 @@
 
 70 [moby] 80: quaternity <n>: quaternities
 
-80 [stale]: A: quaters
-80 [stale]: B: quatres
-
 85 [ukacd]: quatorzain <n>: quatorzains
 
 80 [stale] 85 [ukacd]: quatorze <n>: quatorzes
@@ -312075,7 +311944,7 @@
 
 55: quieten <v>: quietened, quietening, quietens
 
-70 [3of6] 80: quietening <n>
+55: quietening <n>
 85 [ukacd]: - <n>: quietenings!
 
 35 [ukfreq] 70 [3of6] 80: quieter <n>
@@ -316201,8 +316070,8 @@
 80: A Z: realizer <n>: realizers
 80: B: realiser <n>: realisers
 
-35 [ukfreq] 70 [3of6] 80: A Z: realizing <n>
-35 [ukfreq] 70 [3of6] 80: B: realising <n>
+35 [ukfreq] 55: A Z: realizing <n>
+35 [ukfreq] 55: B: realising <n>
 
 80 [2dicts]: realliance <n>: realliances
 
@@ -316741,6 +316610,8 @@
 
 60: _: rec. <abbr>
 60: _~: rec <abbr>
+
+85 [ukacd]: !rec <v>: recked†, recking†, recs
 
 40: recalcitrance <n>
 80: - <n>: recalcitrances~
@@ -317381,9 +317252,6 @@
 
 80: reconceptualize <m>: reconceptualized, reconceptualizing, reconceptualizes
 
-80: A Z: reconceptualizing
-80: B: reconceptualising
-
 70 [5desk] 80: reconcilability <n>: reconcilabilities
 
 50: reconcilable <aj>
@@ -317994,10 +317862,9 @@
 
 50: redbreast <n>: redbreasts, redbreast's
 
-55: -redbrick <n>
-80: - <n>: redbricks
-
 55: redbrick <aj>
+
+80: -redbrick <n>: redbricks
 
 80 [upper]: Redbrick </upper?>
 
@@ -318619,10 +318486,9 @@
 
 80: reductionism <n>: reductionisms
 
-55: -reductionist <n>
-80: - <n>: reductionists
-
 55: reductionist <aj>
+
+80: -reductionist <n>: reductionists
 
 80: reductionistic
 
@@ -319389,7 +319255,7 @@
 
 55: reformist <n>: reformists, reformist's
 
-70 [3of6] [5desk] 80: reformist <aj>
+55: reformist <aj>
 
 70 [moby] 85 [ukacd]: Reform Judaism <n/upper>
 70 [moby]: - <n/upper>: Reform Judaism's
@@ -320129,7 +319995,8 @@
 
 80: rehospitalize <m>: rehospitalized, rehospitalizing, rehospitalizes
 
-55: rehouse <v>: rehoused, rehousing, rehouses
+55: rehouse <v>: rehoused, -, rehouses
+60: - <v>: -, rehousing, -
 
 70 [3of6] 80: rehousing <n>
 85 [ukacd]: - <n>: rehousings!
@@ -321131,9 +320998,6 @@
 
 80: A Z: rematerialize <v>: rematerialized, rematerializing, rematerializes
 #! missing spellings: B D
-
-80: A Z: rematerialized
-80: B: rematerialised
 
 80 [moby]: Rembert <n/place>
 
@@ -323155,7 +323019,8 @@
 
 70 [moby] 85 [ukacd]: res gestae <n>
 
-55: reshape <v>: reshaped, reshaping, reshapes
+55: reshape <v>: reshaped, -, reshapes
+60: - <v>: -, reshaping, -
 
 80: reshaper <n>: reshapers
 
@@ -323372,7 +323237,7 @@
 
 85 [ukacd]: re-site <m>: re-sited, re-siting, re-sites
 
-70 [3of6] 80: resitting <n>
+55: resitting <n>
 80: - <n>: resittings
 
 80 [2dicts]: resituate <m>: resituated, resituating, resituates
@@ -328708,7 +328573,7 @@
 
 85 [ukacd]: Roddick </upper?>
 
-35 [ukfreq] 70 [5desk] 85 [ukacd]: !rode <v>
+35 [ukfreq] 70 [3of6] [5desk] 80: !rode <v>
 70 [5desk] 85 [ukacd]: - <v>: roded, roding, rodes
 
 70 [moby] 85 [ukacd]: -rode <n>
@@ -329102,7 +328967,7 @@
 
 55: rollmop <n>: rollmops
 
-70 [3of6] 80: rollmops <n>
+55: rollmops <n>
 
 85 [ukacd]: rollneck <n>: rollnecks
 
@@ -330487,8 +330352,10 @@
 
 40: rough-and-tumble <aj>
 
-55: roughcast <n_v>: -, -, -
-70 [moby] 80: - <n_v>: -, roughcasting-, roughcasts-
+55: roughcast <n>
+70 [moby] 80: - <n>: roughcasts-
+
+70 [moby] 80: roughcast <v>: -, roughcasting, roughcasts
 
 80 [2dicts]: roughcaster <n>: roughcasters
 
@@ -331393,10 +331260,7 @@
 
 70 [moby] 80: ruching <n>: ruchings
 
-55: ruck <v>: rucked, rucking, rucks
-
-70 [3of6] [5desk] [moby] 80: ruck <n>: rucks
-70 [3of6] [5desk] [moby]: - <n>: ruck's
+55: ruck <n_v>: rucked, rucking, rucks, ruck's
 
 80 [moby]: Ruckersville <n/place>
 
@@ -337541,8 +337405,7 @@
 
 70 [5desk] 80: scabrousness <n>: scabrousnesses
 
-55: - <n>: scads
-60: scad <n>: scad's
+60: scad <n>: scads, scad's
 
 40: scads
 
@@ -337868,8 +337731,8 @@
 
 85 [ukacd]: !scape <suf>
 
-80: A: scaped
-80: B: scapaed
+85 [ukacd]: A: scaped
+85 [ukacd]: B: scapaed
 
 35: scapegoat <n_v>: scapegoated, scapegoating, scapegoats, scapegoat's
 
@@ -338086,8 +337949,7 @@
 
 70 [3of6] 85 [ukacd]: scarlet women
 
-55: scarp <n_v>: -, -, scarps
-60: - <n_v>: scarped, scarping, -
+60: scarp <n_v>: scarped, scarping, scarps
 
 85 [ukacd]: scarpa <m>: scarpaed, scarpaing, scarpas
 
@@ -338218,7 +338080,7 @@
 85 [ukacd]: scattiness
 
 55: scatty <aj>
-80: - <aj>: scattier-, scattiest-
+80: - <aj>: scattier, scattiest
 
 85 [ukacd]: scaturient
 
@@ -339356,8 +339218,8 @@
 
 85 [ukacd]: scissiparity
 
-55: scissor <v>: -, -, scissors
-60: - <v>: scissored, scissoring, -
+55: scissor <v>
+60: - <v>: scissored, scissoring, scissors
 
 85 [ukacd]: scissorer <n>: scissorers
 
@@ -340728,9 +340590,9 @@
 
 50 [name]: Scruggs <n/name?>: Scruggs's
 
-55: -scrum <v>: scrummed, scrumming, scrums
+55: scrum <n>: scrums
 
-70 [3of6] [5desk] 80: scrum <n>: scrums
+55: -scrum <v>: scrummed, scrumming, scrums
 
 85 [ukacd]: scrumdown <n>: scrumdowns
 
@@ -342130,6 +341992,8 @@
 60: secret ballot <n>
 
 35: secrete <v>: secreted, secreting, secretes
+
+85 [ukacd]: !secrete <a>
 
 80: secreter <n>
 80 [ospdadd]: - <n>: secreters
@@ -345172,7 +345036,7 @@
 35 [ukfreq] 70 [3of6] 80: sequencer <n>
 50 [ukfreq] 70 [3of6] 80: - <n>: sequencers
 
-35 [ukfreq] 55: sequencing <n>
+35 [ukfreq] 60: sequencing <n>
 80: - <n>: sequencings~
 
 80: sequency <n>: sequencies
@@ -345198,7 +345062,8 @@
 
 80 [2dicts] 85 [ukacd]: sequestrant <n>: sequestrants
 
-55: sequestrate <v>: sequestrated, sequestrating, sequestrates
+55: sequestrate <v>: -, sequestrating, sequestrates
+60: - <v>: sequestrated, -, -
 
 70 [3of6] [5desk] 80: sequestrated
 
@@ -347712,8 +347577,7 @@
 
 85 [ukacd]: sheathy
 
-55: - <n_v>: -, -, sheaves†
-60: sheave <n_v>: sheaved, sheaving, -
+60: sheave <n_v>: sheaved, sheaving, sheaves†
 
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Sheba <n/name?>
 50 [name] 70 [5desk] [moby]: - <n/name?>: Sheba's
@@ -348023,8 +347887,7 @@
 50: _: shellac <n_v>: shellacked, shellacking, shellacs, shellac's
 50: _-: shellack <n_v>: shellacked, shellacking, shellacks, shellack's
 
-55: shellacking <n>
-60: - <n>: shellackings
+60: shellacking <n>: shellackings
 
 70 [moby] 80: shellback <n>: shellbacks
 
@@ -349524,11 +349387,8 @@
 
 50 [ukfreq] 55: shortish <aj>
 
-35 [ukfreq] 70 [3of6] [5desk] 80: shortlist <n>
-70 [3of6] [5desk] 80: - <n>: shortlists
-
-35 [ukfreq] 55: shortlist <v>
-55: - <v>: shortlisted, shortlisting, shortlists
+35 [ukfreq] 55: shortlist <n_v>: -, -, -
+55: - <n_v>: shortlisted, shortlisting, shortlists
 
 60: short list <n>: short lists
 
@@ -349605,8 +349465,10 @@
 
 50: short-winded <aj>
 
-55: _: shorty <n>: shorties, shorty's
-55: _v: shortie <n>: shorties, shortie's
+55: _: shorty <n>: shorty's
+55: _v: shortie <n>: shortie's
+60: _: - <n>: shorties
+60: _v: - <n>: shorties
 
 60: _: shorty <a> # fixme: lemma_rank originally "-"
 60: _v: shortie <a>
@@ -353511,7 +353373,7 @@
 55: skiffle <n>
 70 [moby] 80: - <n>: skiffles-
 
-55: -skiffle <v>
+80 [stale] 85 [ukacd]: -skiffle <v>
 80 [stale]: - <v>: skiffled, skiffling, skiffles
 
 35 [ukfreq] 40: skiing <n>
@@ -353798,7 +353660,7 @@
 
 85 [ukacd]: !skiver <v>: skivered, skivering, skivers
 
-70 [3of6] 80: skiving <n>
+55: skiving <n>
 85 [ukacd]: - <n>: skivings!
 
 70 [3of6] [5desk] 80: skivvies
@@ -353945,8 +353807,7 @@
 
 85 [ukacd]: skyclad
 
-55: - <v>: -, skydiving, -
-60: skydive <v>: (skydived | ~: skydove), -, skydives
+60: skydive <v>: (skydived | ~: skydove), skydiving, skydives
 
 40: skydiver <n>: skydivers, skydiver's
 
@@ -354126,7 +353987,7 @@
 55: - <v>: slagged, slagging, -
 70 [3of6] 80: -slag <v>: -, -, slags
 
-70 [3of6] [5desk] 80: slagging
+55: slagging
 
 70 [5desk] 80: slaggy <a>: slaggier, slaggiest
 
@@ -356732,9 +356593,7 @@
 
 80: snib <m>: snibbed, snibbing, snibs
 
-55: snick <v>: snicked, snicking, snicks
-
-70 [moby] 80: snick <n>: snicks
+55: snick <n_v>: snicked, snicking, snicks
 
 85 [ukacd]: snick-and-snee
 
@@ -359429,6 +359288,8 @@
 
 80: -sooth <a>: soother, soothest
 
+85 [ukacd]: !sooth <v>: soothed†, soothing†, sooths
+
 35: soothe <v>: soothed, soothing, soothes
 
 60: soother <n>: soothers
@@ -360984,10 +360845,7 @@
 
 85 [ukacd]: spalt <m>: spalted, spalting, spalts
 
-50 [+] 70 [3of6] [5desk] 80: spam <n>: spams
-50 [+] 70 [3of6] [5desk]: - <n>: spam's
-
-50 [+] 55: spam <v>: spammed, spamming, spams
+50 [+] 55: spam <n_v>: spammed, spamming, spams, spam's
 
 50 [name] 70 [moby] 80 [upper]: Spam <n/upper>
 50 [name] 70 [moby]: - <n/upper>: Spam's
@@ -361247,11 +361105,10 @@
 
 70 [moby] 85 [ukacd]: sparkling wine <n>
 
-55: !sparkly <n>
-85 [ukacd]: - <n>: sparklies
-
 55: sparkly <aj>
 80: - <aj>: sparklier, sparkliest
+
+85 [ukacd]: !sparkly <n>: sparklies
 
 35: spark plug <n>: spark plugs
 
@@ -362611,19 +362468,17 @@
 
 85 [ukacd]: spial
 
-55: _: spic <v>: -, -, spics # fixme: lemma_rank originally "!"
-85 [ukacd]: _: - <v>: spiced-†, spicing-†, -
+55: _: spic <n>: spics, spic's
+55: _V: spick <n>: spicks, spick's
+55: _-: spik <n>: spiks, spik's
 
-70 [3of6] [moby] 80: _: spic <n>: spics
-70 [3of6] [moby] 80: _V: spick <n>: spicks
-70 [3of6] [moby] 80: _-: spik <n>: spiks
-70 [3of6] [moby]: _: - <n>: spic's
-70 [3of6] [moby]: _V: - <n>: spick's
-70 [3of6] [moby]: _-: - <n>: spik's
+55: _: spic <aj>
+55: _V: spick <aj>
+55: _-: spik <aj> # fixme: lemma_rank originally "-"
 
-70 [3of6] [moby] 80: _: spic <aj>
-70 [3of6] [moby] 80: _V: spick <aj>
-70 [3of6] [moby] 80: _-: spik <aj> # fixme: lemma_rank originally "-"
+85 [ukacd]: _: !spic <v>: spiced†, spicing†, spics
+85 [ukacd]: _V: !spick <v>
+85 [ukacd]: _-: !spik <v>
 
 50 [name] 70 [5desk]: Spica <n/upper>: Spica's
 
@@ -362751,15 +362606,15 @@
 70 [moby]: A: Spiers <n/upper?>: Spiers's
 70 [moby]: B: Spires <n/upper?>: Spires's
 
-55: -spiff <v>: spiffed, spiffing, spiffs
+55: spiff <n>: spiffs
 
-70 [3of6] 80: spiff <n>: spiffs
+55: -spiff <v>: spiffed, spiffing, spiffs
 
 70 [5desk] 80: spiffily
 
 80: spiffiness <n>: spiffinesses
 
-70 [3of6] [moby] 80: spiffing <aj>
+55: spiffing <aj>
 
 85 [ukacd]: spifflicate <m>: spifflicated, spifflicating, spifflicates
 
@@ -363513,9 +363368,6 @@
 70 [5desk] 80: splendrous
 
 80: splenectomize <m>: splenectomized, splenectomizing, splenectomizes
-
-80: A Z: splenectomized
-80: B: splenectomised
 
 60 [extra] 70 [moby] 80: splenectomy <n>
 70 [moby] 80: - <n>: splenectomies-
@@ -366540,8 +366392,7 @@
 55: starfruit <n>
 80: - <n>: starfruits-
 
-55: - <v>: -, stargazing, -
-60: stargaze <v>: stargazed, -, stargazes
+60: stargaze <v>: stargazed, stargazing, stargazes
 
 85 [ukacd]: star-gaze <m>: star-gazed, star-gazing, star-gazes
 
@@ -366575,7 +366426,7 @@
 55: - <n>: starkers
 70 [3of6] 80: starker <n>
 
-70 [3of6] 80: starkers <aj>
+55: starkers <aj>
 
 50 [name]: Starkey <n/upper>: Starkey's
 
@@ -367791,7 +367642,8 @@
 
 85 [ukacd]: Stenmark </upper?>
 
-55: steno <n>: stenos
+55: steno <n>
+60: - <n>: stenos
 
 80 [moby]: steno <pre>
 
@@ -369017,7 +368869,7 @@
 
 55: stipendiary <n>: stipendiaries, stipendiary's
 
-70 [3of6] [moby] 80: stipendiary <aj>
+55: stipendiary <aj>
 
 85 [ukacd]: stipendiate <m>: stipendiated, stipendiating, stipendiates
 
@@ -369385,8 +369237,7 @@
 55: stodge <n>
 70 [moby] 80: - <n>: stodges-
 
-55: -stodge <v>
-80: - <v>: stodged, stodging, stodges
+80: -stodge <v>: stodged, stodging, stodges
 
 85 [ukacd]: stodger <n>: stodgers
 
@@ -369410,8 +369261,10 @@
 
 80: stogey <n>: stogeys
 
-55: _: stogie <n>: stogies, stogie's
-55: _=: stogy <n>: stogies, stogy's
+55: _: stogie <n>: stogie's
+55: _=: stogy <n>: stogy's
+60: _: - <n>: stogies
+60: _=: - <n>: stogies
 
 40: stoic <n>: stoics, stoic's
 
@@ -372239,14 +372092,13 @@
 
 35 [ukfreq] 50: stylistic <aj>
 
-55: - <n>: stylistics
-85 [ukacd]: !stylistic <n>
+85 [ukacd]: !stylistic <n>: stylistics
 
 80 [2dicts]: stylistical
 
 50: stylistically <av>
 
-70 [3of6] [5desk] 80: stylistics
+55: stylistics
 
 70 [moby] 80: stylite <n>: stylites
 70 [moby]: - <n>: stylite's
@@ -372586,9 +372438,6 @@
 80: subcategorization <n>: subcategorizations
 
 80: subcategorize <m>: subcategorized, subcategorizing, subcategorizes
-
-80: A Z: subcategorizing
-80: B: subcategorising
 
 60: subcategory <n>: subcategories
 
@@ -374711,7 +374560,7 @@
 35: suede <n>
 80: - <n>: suedes~
 
-80: -suede <v>: sueded, sueding, suedes
+85 [ukacd]: -suede <v>: sueded, sueding, suedes
 
 85 [ukacd]: suedette
 
@@ -378177,7 +378026,8 @@
 70 [3of6] 85 [ukacd]: suspended sentence <n>
 70 [3of6]: - <n>: suspended sentences
 
-55: suspender <n>: suspenders
+55: suspender <n>
+60: - <n>: suspenders
 
 70 [3of6] [moby] 85 [ukacd]: suspender belt <n>: suspender belts
 
@@ -379631,14 +379481,11 @@
 
 35 [ukfreq] 70 [3of6] [5desk] [moby] 80: sworn <aj>
 
-55: swot <v>: swotted, swotting, swots
-
-70 [3of6] [moby] 80: swot <n>: swots
-70 [3of6] [moby]: - <n>: swot's
+55: swot <n_v>: swotted, swotting, swots, swot's
 
 80: swotter <n>: swotters
 
-70 [3of6] 80: swotting <n>
+55: swotting <n>
 85 [ukacd]: - <n>: swottings!
 
 80 [stale] 85 [ukacd]: swoun <m>: swouned, swouning, swouns
@@ -380042,8 +379889,8 @@
 40: A Z: sympathizer <n>: sympathizers, sympathizer's
 40: B: sympathiser <n>: sympathisers, sympathiser's
 
-70 [3of6] 80: A Z: sympathizing <n>
-70 [3of6] 80: B: sympathising <n>
+55: A Z: sympathizing <n>
+55: B: sympathising <n>
 
 80 [2dicts]: A Z: sympathizingly <a>
 80 [2dicts]: B: sympathisingly <a>
@@ -381281,10 +381128,10 @@
 
 80: -tabour <v>: taboured, tabouring, tabours # fixme: taboured, tabouring: check for variants
 
-80: B: taboured
+85 [ukacd]: B: taboured
 #! missing spellings: A
 
-80: B: tabouring
+85 [ukacd]: B: tabouring
 #! missing spellings: A
 
 70 [moby] 85 [ukacd]: tabret <n>: tabrets
@@ -384037,7 +383884,10 @@
 
 85 [ukacd]: tattow <m>: tattowed, tattowing, tattows
 
-35 [ukfreq] 70 [3of6] [moby] 80: tatty <aj>
+35 [ukfreq] 55: tatty <aj>
+85 [ukacd]: - <aj>: tattier†, tattiest†
+
+85 [ukacd]: !tatty <n>: tatties†
 
 85 [ukacd]: tatu <n>: tatus
 
@@ -384688,7 +384538,7 @@
 
 55: tearaway <n>: tearaways
 
-70 [3of6] 80: tearaway <aj>
+55: tearaway <aj>
 
 70 [moby] 85 [ukacd]: tear down <v>
 
@@ -385382,8 +385232,8 @@
 80: A: - <n>: teles
 80: B: - <n>
 
-70 [moby] 80: A: tele <pre>
-70 [moby] 80: B: telae <pre>
+70 [moby] 80: A: !tele <pre>
+70 [moby] 80: B: !telae <pre>
 
 85 [ukacd]: telearchics
 
@@ -385420,8 +385270,7 @@
 
 80 [2dicts]: telecommunicator <n>: telecommunicators
 
-55: - <v>: -, telecommuting, -
-60: telecommute <v>: telecommuted, -, telecommutes
+60: telecommute <v>: telecommuted, telecommuting, telecommutes
 
 40: telecommuter <n>: telecommuters
 
@@ -385430,7 +385279,7 @@
 
 50: teleconference <n_v>: teleconferenced, teleconferencing, teleconferences
 
-55: teleconferencing <n>
+60: teleconferencing <n>
 80: - <n>: teleconferencings~
 
 85 [ukacd]: telecontrol <n>: telecontrols
@@ -386218,8 +386067,8 @@
 60: A Z: temporizer <n>: temporizers, temporizer's
 60: B: temporiser <n>: temporisers, temporiser's
 
-70 [3of6] 80: A Z: temporizing <n>
-70 [3of6] 80: B: temporising <n>
+55: A Z: temporizing <n>
+55: B: temporising <n>
 85 [ukacd]: A Z: - <n>: temporizings!
 85 [ukacd]: B: - <n>: temporisings!
 
@@ -387544,8 +387393,8 @@
 
 85 [ukacd]: tertius <n>
 
-80: A: terts
-80: B: trets
+85 [ukacd]: A: terts
+85 [ukacd]: B: trets
 
 70 [moby]: Tertullian <n/upper>: Tertullian's
 
@@ -387601,8 +387450,7 @@
 
 85 [ukacd]: tessellar
 
-55: - <v>: tessellated, -, -
-60: tessellate <v>: -, tessellating, tessellates
+60: tessellate <v>: tessellated, tessellating, tessellates
 
 70 [3of6] [5desk] [moby] 80: tessellated <aj>
 
@@ -388264,7 +388112,7 @@
 
 35: texture <n_v>: textured, texturing, textures
 
-55: textured <aj>
+60: textured <aj>
 
 80: textureless
 
@@ -388827,8 +388675,6 @@
 55: - <v>: themed, -, -
 70 [3of6] 80: -theme <v>: -, -, themes
 80: - <v>: -, theming, -
-
-55: themed
 
 85 [ukacd]: themeless
 
@@ -389822,7 +389668,7 @@
 50: thievery <n>
 80: - <n>: thieveries~
 
-55: thieving <n>
+60: thieving <n>
 80: - <n>: thievings~
 
 85 [ukacd]: !thieving <aj>
@@ -392563,7 +392409,8 @@
 
 50 [name]: Ting <n/name?>: Ting's
 
-55: ting <n_v>: tinged†, tinging†, tings
+55: ting <n_v>: -, tinging†, tings
+60: - <n_v>: tinged†, -, -
 
 70 [moby] 85 [ukacd]: ting-a-ling
 
@@ -392677,12 +392524,11 @@
 
 85 [ukacd]: tin-plate
 
-55: !tinpot <n>
-85 [ukacd]: - <n>: tinpots
-
 55: tinpot <aj>
 
 70 [3of6]: tin-pot
+
+85 [ukacd]: !tinpot <n>: tinpots
 
 35: tinsel <n>
 80: - <n>: tinsels~
@@ -393627,7 +393473,8 @@
 
 80 [upper]: Tofutti <n/upper?>: Tofuttis
 
-55: tog <n_v>: togged, togging, togs
+55: tog <n_v>: -, togging, togs
+60: - <n_v>: togged, -, -
 
 35: toga <n>: (togas | ~: togae)
 
@@ -394276,8 +394123,7 @@
 
 80 [moby]: Toney <n/place>
 
-55: - <n_v>: -, -, tongs
-60: tong <n_v>: tonged, tonging, -
+60: tong <n_v>: tonged, tonging, tongs
 
 50: Tonga <n/place>: Tonga's
 
@@ -394674,8 +394520,8 @@
 
 85 [ukacd]: topectomy <n>: topectomies
 
-55: _: topee <n> {hat}: (topees | -: topee-), topee's # fixme: topee: check if variant
-55: _v: topi <n> {hat}: (topis | -: topi-), topi's # fixme: topi: check if variant
+55: _: topee <n> {hat}: (topee | topees), topee's #! unmarked variants: topee, topees
+55: _v: topi <n> {hat}: (topi | topis), topi's #! unmarked variants: topi, topis
 
 55: _: topi <n> {antelope}: (topi | v: topis), topi's
 
@@ -396603,9 +396449,6 @@
 80: A Z: traditionalize <v>: traditionalized, traditionalizing, traditionalizes
 #! missing spellings: B D
 
-80: A Z: traditionalized
-80: B: traditionalised
-
 35: traditionally <av>
 
 85 [ukacd]: traditionarily
@@ -397053,13 +396896,13 @@
 35: AV Z Cv: tranquillizer <n>: tranquillizers, tranquillizer's
 35: B CV: tranquilliser <n>: tranquillisers, tranquilliser's
 
-55: A C: -tranquilizing <n>
-55: AV Z Cv: -tranquillizing <n>
-55: B CV: -tranquillising <n>
-
 55: A C: tranquilizing <aj>
 55: AV Z Cv: tranquillizing <aj>
 55: B CV: tranquillising <aj>
+
+85 [ukacd]: A C: !tranquilizing <n>
+85 [ukacd]: AV Z Cv: !tranquillizing <n>
+85 [ukacd]: B CV: !tranquillising <n>
 
 85 [ukacd]: A Z: tranquilizingly
 85 [ukacd]: B: tranquilisingly
@@ -397433,10 +397276,8 @@
 80: A Z: transistorization <n>: transistorizations
 80: B: transistorisation <n>: transistorisations
 
-55: A Z: - <v>: transistorized, -, -
-55: B: - <v>: transistorised, -, -
-60: A Z: transistorize <v>: -, transistorizing, transistorizes
-60: B: transistorise <v>: -, transistorising, transistorises
+60: A Z: transistorize <v>: transistorized, transistorizing, transistorizes
+60: B: transistorise <v>: transistorised, transistorising, transistorises
 
 55: A Z: transistorized <aj>
 55: B: transistorised <aj>
@@ -398101,8 +397942,8 @@
 40: A Z: traumatize <v>: traumatized, traumatizing, traumatizes
 40: B: traumatise <v>: traumatised, traumatising, traumatises
 
-35 [ukfreq] 70 [3of6] [5desk] 80: A Z: traumatized
-35 [ukfreq] 70 [3of6] [5desk] 80: B: traumatised
+35 [ukfreq] 55: A Z: traumatized
+35 [ukfreq] 55: B: traumatised
 
 85 [ukacd]: traumatological
 
@@ -400944,8 +400785,7 @@
 70 [5desk] 80: troubler <n>: troublers
 70 [5desk]: - <n>: troubler's
 
-55: - <v>: -, troubleshooting, -
-60: troubleshoot <v>: (troubleshot | ?: troubleshooted), -, troubleshoots
+60: troubleshoot <v>: (troubleshot | ?: troubleshooted), troubleshooting, troubleshoots
 
 40: troubleshooter <n>: troubleshooters, troubleshooter's
 
@@ -402570,7 +402410,8 @@
 
 80: turbocar <n>: turbocars
 
-55: turbocharge <v>: turbocharged, turbocharging, turbocharges
+55: turbocharge <v>: turbocharged, -, turbocharges
+60: - <v>: -, turbocharging, -
 
 55: turbocharger <n>: turbochargers
 
@@ -403139,7 +402980,8 @@
 
 50 [name]: Tut <n/name?>: Tut's
 
-55: tut <n_v>: tutted, tutting, tuts
+55: tut <n_v>: tutted, tutting, -
+60: - <n_v>: -, -, tuts
 
 55: tut <i>
 
@@ -403561,7 +403403,7 @@
 
 60: 'twill
 
-80: -twill <v>: twilled, twilling, twills
+85 [ukacd]: -twill <v>: twilled, twilling, twills
 
 50: twilled <aj>
 
@@ -404234,8 +404076,8 @@
 70 [5desk]: A Z: - <n>: tyrannizer's
 70 [5desk]: B: - <n>: tyranniser's
 
-70 [3of6] 80: A Z: tyrannizing <n>
-70 [3of6] 80: B: tyrannising <n>
+55: A Z: tyrannizing <n>
+55: B: tyrannising <n>
 
 50: tyrannosaur <n>: tyrannosaurs, tyrannosaur's
 
@@ -406179,9 +406021,7 @@
 
 60: unbaked <a>
 
-55: unbalance <v>: -, unbalancing, unbalances
-
-70 [3of6] [moby] 80: unbalance <n>: unbalances
+55: unbalance <n_v>: -, unbalancing, unbalances
 
 80 [2dicts]: unbalanceable
 
@@ -407130,8 +406970,7 @@
 
 70 [5desk] 80: unclosed
 
-55: - <v>: unclothed, -, -
-60: unclothe <v>: -, unclothing, unclothes
+60: unclothe <v>: unclothed, unclothing, unclothes
 
 70 [3of6] [5desk] 80: unclothed <aj>
 
@@ -407776,7 +407615,8 @@
 
 70 [5desk] 80: uncurious
 
-55: uncurl <v>: uncurled, uncurling, uncurls
+55: uncurl <v>: -, uncurling, uncurls
+60: - <v>: uncurled, -, -
 
 70 [3of6] 80: uncurled <aj>
 
@@ -408632,8 +408472,7 @@
 
 35: underside <n>: undersides
 
-55: - <v>: undersigned†, -, -
-60: undersign <v>: -, undersigning, undersigns
+60: undersign <v>: undersigned†, undersigning, undersigns
 
 50: undersigned <n>: undersigned
 
@@ -409834,8 +409673,8 @@
 35: A Cv DV: unfavorable <aj>
 35: B C D: unfavourable <aj>
 
-55: A Cv DV: -unfavorable <n>
-55: B C D: -unfavourable <n>
+85 [ukacd]: A Cv DV: !unfavorable <n>
+85 [ukacd]: B C D: !unfavourable <n>
 
 80: A Cv DV: unfavorableness <n>: unfavorablenesses
 80: B C D: unfavourableness <n>: unfavourablenesses
@@ -411696,11 +411535,11 @@
 
 70 [moby] 80: unkennel <m>: (A: unkenneled | B: unkennelled), (A: unkenneling | B: unkennelling), unkennels
 
-80: A: unkenneled
-80: B: unkennelled
+85 [ukacd]: A: unkenneled
+85 [ukacd]: B: unkennelled
 
-80: A: unkenneling
-80: B: unkennelling
+85 [ukacd]: A: unkenneling
+85 [ukacd]: B: unkennelling
 
 80 [stale] 85 [ukacd]: unkent
 
@@ -411874,12 +411713,6 @@
 50: unlettered <aj>
 
 80 [stale]: unlevel <m>: (A: unleveled | B: unlevelled), (A: unleveling | B: unlevelling), unlevels
-
-80 [stale]: A: unleveled
-80 [stale]: B: unlevelled
-
-80 [stale]: A: unleveling
-80 [stale]: B: unlevelling
 
 80: unlevied
 
@@ -412946,7 +412779,7 @@
 
 85 [ukacd]: unpickable
 
-70 [3of6] [5desk] 80: unpicked
+55: unpicked
 
 80: unpicturesque <aj>
 
@@ -421864,8 +421697,8 @@
 
 70 [5desk] 80: vesiculation <n>: vesiculations
 
-80 [stale] 85 [ukacd]: A: vesicule
-80 [stale] 85 [ukacd]: B: vesiculae
+85 [ukacd]: A: vesicule
+85 [ukacd]: B: vesiculae
 
 85 [ukacd]: vesiculose
 
@@ -424470,8 +424303,8 @@
 55: -vocab <n>
 80 [ospdadd]: - <n>: vocabs-
 
-55: _: vocab. <abbr>
-55: _~: vocab <abbr>
+60: _: vocab. <abbr>
+60: _~: vocab <abbr>
 
 60: vocable <n>: vocables
 
@@ -424525,8 +424358,8 @@
 70 [5desk]: A Z: - <n>: vocalizer's
 70 [5desk]: B: - <n>: vocaliser's
 
-70 [3of6] 80: A Z: vocalizing <n>
-70 [3of6] 80: B: vocalising <n>
+55: A Z: vocalizing <n>
+55: B: vocalising <n>
 
 50: vocally <av>
 
@@ -426858,7 +426691,7 @@
 
 80: wanion <n>: wanions
 
-70 [3of6] 80 [ospdadd] 85 [ukacd]: wank <n>: wanks
+55: wank <n>: wanks
 
 50 hacker 55: wank <v>: wanked, wanking, wanks
 
@@ -430471,8 +430304,8 @@
 40: A Z: westernize <v>: westernized, westernizing, westernizes
 40: B: westernise <v>: westernised, westernising, westernises
 
-70 [3of6] 80: A Z: westernized
-70 [3of6] 80: B: westernised
+55: A Z: westernized
+55: B: westernised
 
 70 [3of6]: Western medicine </upper?>
 
@@ -431350,7 +431183,7 @@
 
 55: whinge <m>: whinged, (whingeing | whinging), whinges #! unmarked variants: whingeing, whinging
 
-70 [3of6] 80: whingeing <n>
+55: whingeing <n>
 85 [ukacd]: - <n>: whingeings!
 
 70 [5desk]: whingeingly
@@ -432337,8 +432170,6 @@
 
 70 [moby] 80: whoreson <n>: whoresons
 70 [moby]: - <n>: whoreson's
-
-55: whoring
 
 60: whorish <a>
 
@@ -434348,9 +434179,8 @@
 
 35: wit <a>
 
-55: @wit <v>: -, -, wot
 60: - <v>: wist, -, -
-80: - <v>: -, -, -, witting, -, wost-, (wit- | ?: wite-), -
+80: @wit <v>: -, -, -, witting, wot, wost-, (wit- | ?: wite-), -
 
 80: witan <n>
 80 [ospdadd] [plurals]: - <n>: witans
@@ -434623,8 +434453,7 @@
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Witwatersrand <n/upper>
 50 [name] 70 [5desk] [moby]: - <n/upper>: Witwatersrand's
 
-55: - <v>: -, -, wives†
-60: wive <v>: wived, wiving, -
+60: wive <v>: wived, wiving, wives†
 
 80 [stale]: wiver <n>: wivers
 
@@ -436265,7 +436094,7 @@
 
 85 [ukacd]: wosbird <n>: wosbirds
 
-70 [3of6] [moby] 80: wot <m>
+55: wot <m>
 70 [moby] 80: - <m>: wotted, wotting, wots
 
 50 [name] 70 [moby] 85 [ukacd]: Wotan <n/upper>
@@ -437798,14 +437627,18 @@
 
 35: _: yak <v> {:1}
 
-35: _: yak <n> {:2}: (yaks | -: yak-), yak's # fixme: yak: check if variant
-35: _V: yack <n> {:2}: (yacks | -: yack-) # fixme: yack: check if variant
+35: _: yak <n> {:2}: yak's # fixme: yaks: check if variant
+35: _V: yack <n> {:2} # fixme: yacks: check if variant
+65: _: - <n> {:2}: (yak- | -: yaks~)
+65: _V: - <n> {:2}: (yack- | -: yacks~)
 
 35: _: yak <v> {:2}: yakked, yakking, yaks
 35: _V: yack <v> {:2}: yacked, yacking, yacks
 
-35: _: yak <n> {:3}: (yaks | -: yak-), yak's # fixme: yak: check if variant
-35: _V: yack <n> {:3}: (yacks | -: yack-), yack's # fixme: yack: check if variant
+35: _: yak <n> {:3}: yak's # fixme: yaks: check if variant
+35: _V: yack <n> {:3}: yack's # fixme: yacks: check if variant
+65: _: - <n> {:3}: (yak- | -: yaks~)
+65: _V: - <n> {:3}: (yack- | -: yacks~)
 
 35: _: yak <v> {:3}
 35: _V: yack <v> {:3}
