@@ -906,6 +906,7 @@ Missing words, ok, other:
   arsing
   cellulars
   duelings
+  es
   fer
   french
   gs
@@ -919,7 +920,7 @@ Missing words, ok, other:
   sens
   ts
   whiskys
-total: 17
+total: 18
 
 Missing words, ok, uncommon derived aj/av:
   adverser
@@ -980,7 +981,6 @@ Missing words, ok, uncommon form:
   donged
   donging
   dowdies
-  es
   glamoured
   glamouring
   grahams
@@ -1048,7 +1048,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 92
+total: 91
 
 Missing words, ok, variant:
   Curacao

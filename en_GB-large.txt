@@ -32256,6 +32256,7 @@ alphorn
 alphorns
 alphoses
 alphosis
+alphosises
 alpine
 alpines
 alpinist
@@ -32733,6 +32734,7 @@ amorettos
 amorini
 amorino
 amoroso
+amorosos
 amorous
 amorously
 amorousness
@@ -33261,10 +33263,6 @@ androids
 androsterone
 androsterones
 ane
-anear
-aneared
-anearing
-anears
 anecdotage
 anecdotages
 anecdotal
@@ -34166,7 +34164,6 @@ antipodean
 antipodeans
 antipodes
 antipole
-antipoles
 antipollution
 antipope
 antipope's
@@ -35894,6 +35891,7 @@ ashier
 ashiest
 ashlar
 ashlaring
+ashlarings
 ashlars
 ashore
 ashram
@@ -36292,6 +36290,7 @@ astoundingly
 astounds
 astraddle
 astragal
+astragali
 astragals
 astragalus
 astragaluses
@@ -36415,7 +36414,6 @@ atelectases
 atelectasis
 atelier
 ateliers
-ates
 athanor
 athanors
 atheism
@@ -40465,8 +40463,6 @@ bidirectional
 bidirectionally
 bids
 bield
-bielded
-bielding
 bields
 biennial
 biennially
@@ -47101,6 +47097,7 @@ carpets
 carpi
 carping
 carpings
+carpogonia
 carpogonium
 carpologies
 carpology
@@ -48287,7 +48284,6 @@ centrum
 centrums
 cents
 centum
-centums
 centuple
 centupled
 centuples
@@ -48455,9 +48451,7 @@ cesareans
 cess
 cessation
 cessations
-cessed
 cesses
-cessing
 cession
 cessionaries
 cessionary
@@ -48472,7 +48466,6 @@ cestode
 cestode's
 cestodes
 cestoid
-cestoids
 cesura
 cesurae
 cesuras
@@ -48996,7 +48989,6 @@ chaser's
 chasers
 chases
 chasing
-chasings
 chasm
 chasm's
 chasmic
@@ -51200,8 +51192,6 @@ cleavers
 cleaves
 cleaving
 cleek
-cleeked
-cleeking
 cleeks
 clef
 clefs
@@ -52202,6 +52192,7 @@ coextends
 coextensive
 coextensively
 coff
+coffed
 coffee
 coffee's
 coffeecake
@@ -52220,6 +52211,7 @@ coffers
 coffin
 coffin's
 coffined
+coffing
 coffining
 coffins
 coffle
@@ -52424,6 +52416,7 @@ coleopterans
 coleoptile
 coleoptiles
 coleorhiza
+coleorhizae
 coles
 coleslaw
 coleus
@@ -55672,7 +55665,6 @@ coopery
 cooping
 coops
 cooption
-cooptions
 cooptive
 coordinate
 coordinated
@@ -57760,7 +57752,6 @@ cringle
 cringles
 crining
 crinite
-crinites
 crinkle
 crinkled
 crinkleroot
@@ -58176,7 +58167,6 @@ cruiserweight's
 cruiserweights
 cruises
 cruising
-cruisings
 cruller
 crullers
 crumb
@@ -62672,7 +62662,6 @@ desmid
 desmid's
 desmids
 desmoid
-desmoids
 desolate
 desolated
 desolately
@@ -63231,7 +63220,6 @@ diabetic
 diabetic's
 diabetics
 diablerie
-diableries
 diabolic
 diabolical
 diabolically
@@ -67256,8 +67244,6 @@ drossiest
 drossy
 drought
 drought's
-droughtier
-droughtiest
 droughts
 droughty
 drove
@@ -68167,6 +68153,7 @@ eating
 eatings
 eats
 eau
+eaus
 eaux
 eave
 eaves
@@ -68237,6 +68224,7 @@ ecdysiasts
 ecdysis
 eceses
 ecesis
+ecesises
 echelon
 echelon's
 echeloning
@@ -69019,7 +69007,6 @@ electrodynamic
 electrodynamics
 electrodynamometer
 electrodynamometers
-electroed
 electroencephalogram
 electroencephalograms
 electroencephalograph
@@ -69032,7 +69019,6 @@ electroforming
 electroforms
 electrograph
 electrographs
-electroing
 electrojet
 electrojets
 electrokinetic
@@ -69080,6 +69066,7 @@ electrophilic
 electrophoreses
 electrophoresis
 electrophoretic
+electrophori
 electrophorus
 electrophoruses
 electrophotographies
@@ -69943,7 +69930,6 @@ encephalography
 encephalomyelitides
 encephalomyelitis
 encephalon
-encephalons
 encephalous
 enchain
 enchained
@@ -70160,6 +70146,7 @@ endnotes
 endoblast
 endoblast's
 endoblasts
+endocardia
 endocardial
 endocarditis
 endocarditises
@@ -70206,7 +70193,6 @@ endometrial
 endometrioses
 endometriosis
 endometrium
-endometriums
 endomorph
 endomorph's
 endomorphic
@@ -70580,6 +70566,7 @@ enormousness
 enoses
 enosis
 enosis's
+enosises
 enough
 enounce
 enounced
@@ -71150,6 +71137,7 @@ epical
 epically
 epicalyx
 epicalyxes
+epicanthi
 epicanthus
 epicanthuses
 epicardia
@@ -71209,6 +71197,7 @@ epidurals
 epifocal
 epigaeal
 epigaeous
+epigastria
 epigastrium
 epigastriums
 epigene
@@ -72316,7 +72305,6 @@ eurythermal
 eurythmic
 eurythmics
 eusporangiate
-eustacies
 eustacy
 eustasies
 eustasy
@@ -74984,9 +74972,7 @@ fees
 feet
 feet's
 feeze
-feezed
 feezes
-feezing
 feign
 feigned
 feigner
@@ -75135,7 +75121,6 @@ fencer's
 fencers
 fences
 fencible
-fencibles
 fencing
 fend
 fended
@@ -76401,7 +76386,6 @@ flakiness
 flaking
 flaks
 flaky
-flam
 flamage
 flambe
 flambeau
@@ -76441,9 +76425,6 @@ flamings
 flammability
 flammable
 flammables
-flammed
-flamming
-flams
 flan
 flanch
 flanched
@@ -78449,7 +78430,6 @@ foxiest
 foxily
 foxiness
 foxing
-foxings
 foxtail
 foxtails
 foxtrot
@@ -78806,6 +78786,7 @@ freighting
 freights
 freity
 fremd
+fremds
 fremitus
 fremituses
 frenemies
@@ -78963,7 +78944,6 @@ frilliest
 frilliness
 frillinesses
 frilling
-frillings
 frills
 frilly
 fringe
@@ -81296,8 +81276,6 @@ getaway
 getaways
 gets
 getter
-gettered
-gettering
 getters
 getting
 getup
@@ -82112,6 +82090,7 @@ glozes
 glozing
 glucagon
 glucagons
+glucina
 glucinum
 glucinums
 gluconeogeneses
@@ -82388,6 +82367,8 @@ godparent
 godparent's
 godparents
 godroon
+godrooned
+godrooning
 godroons
 gods
 godsend
@@ -82953,7 +82934,6 @@ gram
 gram's
 gramarye
 gramaryes
-gramercies
 gramercy
 gramicidin
 gramicidins
@@ -84342,9 +84322,7 @@ guppy's
 gurdwara
 gurdwaras
 gurge
-gurged
 gurges
-gurging
 gurgitation
 gurgitations
 gurgle
@@ -85079,7 +85057,6 @@ halogenating
 halogenous
 halogens
 haloid
-haloids
 haloing
 halon
 halophyte
@@ -85588,7 +85565,6 @@ harper's
 harpers
 harpies
 harping
-harpings
 harpist
 harpist's
 harpists
@@ -86348,7 +86324,6 @@ heeled
 heeler
 heelers
 heeling
-heelings
 heelless
 heelpiece
 heelpieces
@@ -86878,6 +86853,7 @@ hesitating
 hesitatingly
 hesitation
 hesitations
+hesperidia
 hesperidin
 hesperidins
 hesperidium
@@ -87216,15 +87192,11 @@ highrises
 highroad
 highroads
 highs
-hight
 hightail
 hightailed
 hightailing
 hightails
-highted
 hightest
-highting
-hights
 highway
 highway's
 highwayman
@@ -87645,8 +87617,6 @@ hoicked
 hoicking
 hoicks
 hoiden
-hoidened
-hoidening
 hoidens
 hoist
 hoisted
@@ -87798,7 +87768,6 @@ homeboy
 homeboy's
 homeboys
 homebred
-homebreds
 homebuyer
 homebuyers
 homecoming
@@ -88502,6 +88471,7 @@ hospitalizing
 hospitals
 hospitia
 hospitium
+hospitiums
 hospodar
 hospodars
 host
@@ -89245,6 +89215,7 @@ hydraulics
 hydrazine
 hydrazines
 hydria
+hydrias
 hydric
 hydride
 hydrides
@@ -89334,6 +89305,7 @@ hydromancies
 hydromancy
 hydromechanics
 hydromedusa
+hydromedusae
 hydromedusas
 hydromel
 hydromels
@@ -89481,6 +89453,7 @@ hypaesthesias
 hypaethral
 hypallage
 hypallages
+hypanthia
 hypanthium
 hypanthiums
 hype
@@ -92057,7 +92030,6 @@ indicators
 indicatory
 indices
 indicia
-indicias
 indict
 indictability
 indictable
@@ -95597,6 +95569,8 @@ jackdaw's
 jackdaws
 jacked
 jackeroo
+jackerooed
+jackerooing
 jackeroos
 jacket
 jacket's
@@ -96152,6 +96126,7 @@ jiving
 jivy
 jo
 joannes
+joanneses
 job
 job's
 jobbed
@@ -97058,6 +97033,7 @@ keno
 kenogenesis
 kenoses
 kenosis
+kenosises
 kens
 kenspeckle
 kent
@@ -97076,7 +97052,6 @@ kepping
 keps
 kept
 keramic
-keramics
 keratin
 keratinise
 keratinised
@@ -98786,6 +98761,7 @@ lapsing
 lapstrake
 lapstrakes
 lapsus
+lapsuses
 laptop
 laptop's
 laptops
@@ -101639,7 +101615,6 @@ lorica's
 loricae
 loricae's
 loricate
-loricates
 lorikeet
 lorikeet's
 lorikeets
@@ -101932,7 +101907,6 @@ ludicrousness
 ludo
 lues
 luetic
-luetics
 luff
 luffa
 luffas
@@ -103663,8 +103637,6 @@ margay's
 margays
 marge
 margent
-margented
-margenting
 margents
 marges
 margin
@@ -104726,6 +104698,7 @@ mediums
 mediumship
 mediumships
 medius
+mediuses
 medlar
 medlars
 medley
@@ -105724,7 +105697,6 @@ meteorology
 meteors
 meter
 meterage
-meterages
 metered
 metering
 meters
@@ -111346,7 +111318,6 @@ nictitations
 niddering
 nidderings
 nide
-nided
 nides
 nidi
 nidicolous
@@ -111355,7 +111326,6 @@ nidifies
 nidifugous
 nidify
 nidifying
-niding
 nidus
 niduses
 niece
@@ -111707,6 +111677,7 @@ noel
 noels
 noeses
 noesis
+noesises
 noetic
 nog
 noggin
@@ -112840,6 +112811,7 @@ nudging
 nudibranch
 nudibranch's
 nudibranches
+nudibranchs
 nudicaul
 nudism
 nudist
@@ -113748,7 +113720,6 @@ odontoblasts
 odontograph
 odontographs
 odontoid
-odontoids
 odontological
 odontologies
 odontologist
@@ -115274,7 +115245,6 @@ otoscopes
 ottar
 ottars
 ottava
-ottavas
 otter
 otter's
 otters
@@ -117015,6 +116985,8 @@ packthreads
 pact
 pact's
 paction
+pactioned
+pactioning
 pactions
 pacts
 pacy
@@ -119514,7 +119486,6 @@ penologists
 penology
 pens
 pensee
-pensees
 pensile
 pension
 pensionable
@@ -119535,7 +119506,6 @@ penstemons
 penstock
 penstocks
 pensée
-pensées
 pent
 pentachlorophenol
 pentachlorophenols
@@ -119876,6 +119846,7 @@ pericarditides
 pericarditis
 pericardium
 pericarp
+perichondria
 perichondrium
 pericline
 periclines
@@ -119921,8 +119892,10 @@ perimorphs
 perinatal
 perinea
 perineal
+perinephria
 perinephrium
 perineum
+perineuria
 perineuritis
 perineurium
 perineuriums
@@ -119948,7 +119921,9 @@ periodontist
 periodontist's
 periodontists
 periods
+perionychia
 perionychium
+periostea
 periosteum
 periosteums
 periostitis
@@ -121271,7 +121246,6 @@ phylloclades
 phyllode
 phyllodes
 phylloid
-phylloids
 phyllome
 phyllomes
 phylloquinone
@@ -123732,6 +123706,7 @@ polyvinyl
 polyzoan
 polyzoan's
 polyzoans
+polyzoaria
 polyzoarium
 polyzoic
 pom
@@ -127917,7 +127892,6 @@ pulers
 pules
 puli
 puling
-pulings
 pulis
 pull
 pullback
@@ -128556,6 +128530,7 @@ pyrophyllite
 pyrophyllites
 pyroses
 pyrosis
+pyrosises
 pyrostat
 pyrostats
 pyrotechnic
@@ -129800,6 +129775,7 @@ ramtils
 ramulose
 ran
 rance
+ranced
 rances
 ranch
 ranch's
@@ -129821,6 +129797,7 @@ rancider
 rancidest
 rancidity
 rancidness
+rancing
 rancorous
 rancorously
 rancour
@@ -130073,6 +130050,8 @@ ratfinks
 rath
 rathe
 rather
+rathest
+raths
 rathskeller
 rathskellers
 ratifiable
@@ -136385,8 +136364,6 @@ roundworm
 roundworm's
 roundworms
 roup
-rouped
-rouping
 roups
 rouse
 roused
@@ -136658,6 +136635,7 @@ ruggedness
 rugger
 ruggers
 rugging
+ruggings
 rugose
 rugosities
 rugosity
@@ -138194,7 +138172,6 @@ scalene
 scaleni
 scalenus
 scalepan
-scalepans
 scaler
 scalers
 scales
@@ -138995,7 +138972,6 @@ scrammed
 scramming
 scrams
 scrannel
-scrannels
 scrap
 scrapbook
 scrapbooks
@@ -140962,7 +140938,6 @@ sforzando
 sforzandos
 sforzati
 sforzato
-sforzatos
 sfumato
 sfumatos
 sgraffiti
@@ -141259,8 +141234,6 @@ shaves
 shaving
 shavings
 shaw
-shawed
-shawing
 shawl
 shawl's
 shawls
@@ -145705,7 +145678,6 @@ spaetzle
 spaetzles
 spaghetti
 spagyric
-spagyrics
 spahi
 spahis
 spall
@@ -146160,6 +146132,7 @@ spermatids
 spermatium
 spermatocyte
 spermatocytes
+spermatogonia
 spermatogonium
 spermatophore
 spermatophores
@@ -153064,6 +153037,7 @@ tantalum
 tantamount
 tantara
 tantaras
+tanti
 tantivies
 tantivy
 tanto
@@ -154302,6 +154276,7 @@ terminologist
 terminologists
 terminology
 terminus
+termitaria
 termitarium
 termite
 termite's
@@ -157899,7 +157874,6 @@ triad
 triad's
 triadelphous
 triadic
-triadics
 triads
 triage
 triaged
@@ -162807,9 +162781,7 @@ uprooting
 uproots
 uprose
 uprush
-uprushed
 uprushes
-uprushing
 ups
 upscale
 upset
@@ -163867,9 +163839,7 @@ velour
 velours
 velum
 velure
-velured
 velures
-veluring
 velutinous
 velvet
 velveteen
@@ -165605,7 +165575,6 @@ waffler's
 wafflers
 waffles
 waffling
-wafflings
 waft
 waftage
 waftages
@@ -166321,8 +166290,6 @@ watery
 wats
 watt
 wattage
-watter
-wattest
 wattle
 wattled
 wattles
