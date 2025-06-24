@@ -1,13 +1,46 @@
 New words, unclassified:
+  barcode
+  barcodes
+  boomtown
+  boomtowns
+  brownnoser
+  carpooler
+  chowchow
+  clearheadedness
+  cornpone
+  crewneck
+  crewnecks
+  dodgeball
+  feeblemindedness
+  frontman
+  getups
+  grandmaster
+  grandmasters
+  leadoff
+  lightheadedness
   meagerrer
   meagerrest
+  newsagencies
+  newsagency
   ourself
+  peacoat
+  playdate
+  playdates
+  pushbutton
   quadrillionth
   quadrillionths
+  ratfink
+  rolltop
+  simplemindedness
+  sonofabitch
+  stuntwoman
   themself
+  waterskiing
+  wetsuit
+  wetsuits
   whomso
   whoseso
-total: 8
+total: 41
 
 New words, upper plural:
   Amerasians
@@ -126,7 +159,6 @@ Missing words, unclassified:
   fayer
   firstborns
   flooder
-  garbageman
   givings
   grindings
   grovelled
@@ -238,18 +270,219 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 152
+total: 151
 
 Missing words, common variant:
+  absentminded
+  airbag
+  airbags
+  airbase
+  airbases
   airguns
   airletters
+  airtime
   amoebae
+  backseat
+  backseats
+  ballgame
+  ballgames
+  bankcard
+  bankcards
+  bestselling
+  blowjob
+  blowjobs
+  bluejeans
+  brainwave
+  brainwaves
+  breakpoints
+  brushoff
+  brushoffs
+  bubblegum
+  builtin
+  camelhair
+  catchphrase
+  catchphrases
+  chickenfeed
+  chickenhearted
+  chickenpox
+  clearheaded
+  closeup
+  closeups
+  coastguard
+  coastguards
+  coffeecake
+  coffeecakes
   coneys
+  conman
+  crawlspace
+  crawlspaces
+  daycare
+  deescalation
+  deice
+  deiced
+  deices
+  deicing
+  dreamworld
+  dreamworlds
+  dumdum
+  dumdums
+  eyeopener
+  eyeopeners
+  firetruck
+  firetrucks
+  flareup
+  flareups
+  flashcard
+  flashcards
+  flowchart
+  flowcharts
+  folksinger
+  folksingers
+  followup
+  followups
   formulae
+  fortuneteller
+  fortunetellers
+  fortunetelling
+  fourposter
+  fourposters
   fête
   fêtes
+  garbageman
+  godawful
+  goldmine
+  goldmines
+  goosebumps
+  grownup
+  grownups
+  hairdryer
+  hairdryers
+  hairspray
+  hairsprays
+  halfwit
+  halfwits
+  hangup
+  hangups
+  hardhats
+  hardliner
+  hardliners
+  hardworking
+  headcount
+  headcounts
+  heatwave
+  heatwaves
+  heavyhearted
+  highchair
+  highchairs
+  highhandedness
+  highroad
+  highroads
   hippy
-total: 8
+  homepage
+  homepages
+  hotplate
+  hotplates
+  icecap
+  icecaps
+  landmine
+  landmines
+  launchpad
+  launchpads
+  lawnmower
+  lawnmowers
+  letterbomb
+  letterbombs
+  lifebelt
+  lifebelts
+  lifebuoy
+  lifebuoys
+  lightheaded
+  lipread
+  lipreads
+  longstanding
+  mealymouthed
+  muddleheaded
+  mugshot
+  mugshots
+  muleskinner
+  muleskinners
+  muskox
+  muskoxen
+  nightlight
+  nightlights
+  nosecone
+  nosecones
+  noway
+  offsite
+  onsite
+  openhearted
+  paperclip
+  paperclips
+  parimutuel
+  parimutuels
+  payphone
+  payphones
+  pointblank
+  poorboy
+  popup
+  popups
+  preowned
+  punchline
+  punchlines
+  ripcord
+  ripcords
+  ripoff
+  ripoffs
+  screensaver
+  screensavers
+  sendoff
+  sendoffs
+  showoff
+  showoffs
+  sixshooter
+  smartypants
+  smokescreen
+  smokescreens
+  soundbite
+  soundbites
+  spacetime
+  spiderweb
+  spiderwebs
+  startup
+  startups
+  swansong
+  swansongs
+  swearword
+  swearwords
+  sweatsuit
+  sweatsuits
+  sweetcorn
+  teabag
+  teabags
+  topnotch
+  tossup
+  tossups
+  trashcan
+  trashcans
+  tuneup
+  tuneups
+  voicemail
+  voicemails
+  warmhearted
+  waterhole
+  waterholes
+  waterlilies
+  waterlily
+  waterwheel
+  waterwheels
+  wheatgerm
+  whizkid
+  wholewheat
+  wildcard
+  wildcards
+  wiseguy
+  wiseguys
+total: 209
 
 Missing words, upper:
   ABMs
@@ -776,7 +1009,6 @@ New words, ok, in 2of12id:
   collateralized
   collateralizes
   collateralizing
-  conmen
   donut
   downscaled
   downscales
@@ -786,10 +1018,13 @@ New words, ok, in 2of12id:
   gelcaps
   geysered
   geysering
+  gooseflesh
   guilted
   guilting
   guilts
   honeylocusts
+  hotline
+  hotlines
   indirected
   indirecting
   indirects
@@ -820,23 +1055,25 @@ New words, ok, in 2of12id:
   outplacing
   overspilled
   pantyliners
-  poorboys
   pronominals
   protostats
   recastings
   reprised
   revampings
+  roundtable
   shinguards
   silkscreened
   silkscreening
-  sixshooters
+  spinoff
+  spinoffs
   thumpings
   virtuosos
   weirded
   weirding
   weirds
-  whizkids
-total: 78
+  wonton
+  wontons
+total: 82
 
 New words, ok, other:
   Curaçao
