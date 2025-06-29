@@ -20755,6 +20755,7 @@ abounds
 about
 above
 aboveboard
+aboveground
 abracadabra
 abrade
 abraded
@@ -21809,6 +21810,7 @@ affection
 affectionate
 affectionately
 affections
+affective
 affects
 afferent
 affiance
@@ -22073,6 +22075,7 @@ aha
 ahchoo
 ahead
 ahem
+ahold
 ahoy
 aid
 aid's
@@ -23249,6 +23252,7 @@ anorexic
 anorexic's
 anorexics
 another
+another's
 ans
 answer
 answerable
@@ -23583,6 +23587,8 @@ apish
 apishly
 aplenty
 aplomb
+apnoea
+apnoeas
 apocalypse
 apocalypses
 apocalyptic
@@ -25407,6 +25413,7 @@ backcomb
 backcombed
 backcombing
 backcombs
+backcountry
 backdate
 backdated
 backdates
@@ -27567,14 +27574,19 @@ biorhythms
 bios
 biosensor
 biosensors
+biosolid
+biosolids
 biosphere
 biosphere's
 biospheres
 biosynthesis
+biota
+biotas
 biotech
 biotechnological
 biotechnology
 biotechnology's
+bioterrorism
 biotin
 bipartisan
 bipartisanship
@@ -30566,6 +30578,7 @@ byword
 bywords
 byzantine
 c
+c'mon
 ca
 cab
 cab's
@@ -31451,6 +31464,7 @@ carefulness
 caregiver
 caregiver's
 caregivers
+caregiving
 careless
 carelessly
 carelessness
@@ -34402,6 +34416,8 @@ coccus
 coccus's
 coccyges
 coccyx
+cochair
+cochairs
 cochineal
 cochineal's
 cochlea
@@ -34515,6 +34531,8 @@ codifies
 codify
 codifying
 coding
+codirector
+codirectors
 codon
 codons
 codpiece
@@ -34575,6 +34593,12 @@ coffin's
 coffined
 coffining
 coffins
+cofound
+cofounded
+cofounder
+cofounders
+cofounding
+cofounds
 cog
 cog's
 cogency
@@ -34639,6 +34663,10 @@ cohort
 cohort's
 cohorts
 cohos
+cohost
+cohosted
+cohosting
+cohosts
 coif
 coiffed
 coiffing
@@ -34699,8 +34727,10 @@ coleus
 coleuses
 coley
 coleys
+coli
 colic
 colicky
+coliform
 coliseum
 coliseum's
 coliseums
@@ -34790,6 +34820,7 @@ colleens
 college
 college's
 colleges
+collegial
 collegiality
 collegian
 collegian's
@@ -36130,6 +36161,7 @@ conks
 connect
 connectable
 connected
+connectedness
 connecting
 connection
 connection's
@@ -36401,6 +36433,10 @@ constructions
 constructive
 constructively
 constructiveness
+constructivism
+constructivism's
+constructivist
+constructivists
 constructor
 constructor's
 constructors
@@ -37102,6 +37138,9 @@ corneal
 corneas
 corned
 corner
+cornerback
+cornerback's
+cornerbacks
 cornered
 cornering
 corners
@@ -37588,6 +37627,9 @@ countersunk
 countertenor
 countertenor's
 countertenors
+counterterrorism
+countertop
+countertops
 countervail
 countervailed
 countervailing
@@ -37700,6 +37742,8 @@ couturiers
 covalent
 covariance
 covariant
+covariate
+covariates
 cove
 cove's
 coven
@@ -38059,6 +38103,7 @@ creasing
 create
 created
 creates
+creatine
 creating
 creation
 creation's
@@ -38433,6 +38478,7 @@ crosspiece
 crosspieces
 crossroad
 crossroads
+crosstalk
 crosstown
 crosswalk
 crosswalks
@@ -39052,6 +39098,7 @@ cwt
 cyan
 cyanide
 cyanobacteria
+cyber
 cyberbullies
 cyberbully
 cybercafe
@@ -40137,6 +40184,8 @@ defenceless
 defencelessly
 defencelessness
 defencelessness's
+defenceman
+defencemen
 defences
 defencing
 defend
@@ -44045,6 +44094,8 @@ drives
 driveshaft
 driveshaft's
 driveshafts
+drivetrain
+drivetrains
 driveway
 driveway's
 driveways
@@ -44275,6 +44326,8 @@ duet's
 duets
 duff
 duffed
+duffel
+duffels
 duffer
 duffer's
 duffers
@@ -44475,7 +44528,9 @@ dwindle
 dwindled
 dwindles
 dwindling
+dyad
 dyadic
+dyads
 dybbuk
 dybbuk's
 dybbukim
@@ -45312,6 +45367,7 @@ eloquence
 eloquent
 eloquently
 else
+else's
 elsewhere
 elucidate
 elucidated
@@ -46806,6 +46862,8 @@ ethereally
 ethic
 ethical
 ethically
+ethicist
+ethicists
 ethics
 ethmoid
 ethnic
@@ -47752,6 +47810,8 @@ exterminator
 exterminator's
 exterminators
 external
+externalities
+externality
 externalization
 externalization's
 externalizations
@@ -48635,6 +48695,8 @@ feedings
 feedlot
 feedlots
 feeds
+feedstock
+feedstocks
 feel
 feeler
 feeler's
@@ -48719,6 +48781,8 @@ feminize
 feminized
 feminizes
 feminizing
+femme
+femmes
 femoral
 femur
 femurs
@@ -50254,6 +50318,7 @@ foo
 foobar
 food
 food's
+foodborne
 foodie
 foodie's
 foodies
@@ -51283,6 +51348,7 @@ frontierswomen's
 fronting
 frontispiece
 frontispieces
+frontline
 frontman
 fronts
 frontward
@@ -52287,6 +52353,7 @@ generalist's
 generalists
 generalities
 generality
+generalizability
 generalization
 generalization's
 generalizations
@@ -52604,6 +52671,7 @@ giddy
 gift
 gift's
 gifted
+giftedness
 gifting
 gifts
 gig
@@ -53563,6 +53631,9 @@ grandiloquent
 grandiose
 grandiosely
 grandiosity
+grandkid
+grandkid's
+grandkids
 grandly
 grandma
 grandma's
@@ -60243,6 +60314,7 @@ interactive
 interactively
 interactivity
 interacts
+interagency
 interbred
 interbreed
 interbreeding
@@ -60290,6 +60362,9 @@ interconnects
 intercontinental
 intercourse
 intercultural
+intercut
+intercuts
+intercutting
 interdenominational
 interdepartmental
 interdependence
@@ -60323,7 +60398,9 @@ interfiled
 interfiles
 interfiling
 intergalactic
+intergenerational
 intergovernmental
+intergroup
 interim
 interior
 interior's
@@ -62861,6 +62938,9 @@ land's
 landau
 landaus
 landed
+lander
+lander's
+landers
 landfall
 landfalls
 landfill
@@ -63007,6 +63087,8 @@ lardy
 large
 largehearted
 largely
+largemouth
+largemouths
 largeness
 larger
 larges
@@ -63336,6 +63418,8 @@ leafy
 league
 league's
 leagued
+leaguer
+leaguers
 leagues
 leaguing
 leak
@@ -66396,6 +66480,8 @@ matchmakers
 matchmaking
 matchstick
 matchsticks
+matchup
+matchups
 matchwood
 mate
 mate's
@@ -66838,6 +66924,8 @@ melanges
 melanin
 melanoma
 melanomas
+melatonin
+melatonin's
 meld
 melded
 melding
@@ -67436,6 +67524,7 @@ microwaves
 microwaving
 mics
 mid
+midafternoon
 midair
 midday
 midden
@@ -67471,6 +67560,7 @@ midis
 midland
 midlands
 midlife
+midmorning
 midmost
 midnight
 midnight's
@@ -67480,6 +67570,7 @@ midrib
 midribs
 midriff
 midriffs
+midseason
 midsection
 midsections
 midshipman
@@ -68183,6 +68274,8 @@ misogynistic
 misogynists
 misogynous
 misogyny
+misperception
+misperceptions
 misplace
 misplaced
 misplacement
@@ -69346,6 +69439,7 @@ muckrakes
 muckraking
 mucks
 mucky
+mucosa
 mucous
 mucus
 mud
@@ -69472,6 +69566,7 @@ multiculturalism
 multiculturalism's
 multidimensional
 multidisciplinary
+multiethnic
 multifaceted
 multifamily
 multifarious
@@ -69487,8 +69582,10 @@ multilingual
 multilingualism
 multimedia
 multimedia's
+multimillion
 multimillionaire
 multimillionaires
+multimillions
 multinational
 multinationals
 multipart
@@ -70355,6 +70452,7 @@ neoconservative's
 neoconservatives
 neocortex
 neodymium
+neoliberal
 neolithic
 neologism
 neologisms
@@ -70872,6 +70970,8 @@ noels
 noggin
 noggins
 nohow
+noir
+noirs
 noise
 noised
 noiseless
@@ -71212,6 +71312,7 @@ nonsensically
 nonsensitive
 nonsexist
 nonsexual
+nonsignificant
 nonskid
 nonslip
 nonsmoker
@@ -71417,6 +71518,7 @@ notes
 noteworthiness
 noteworthy
 nothing
+nothing's
 nothingness
 notice
 noticeable
@@ -72532,6 +72634,7 @@ oppositely
 opposites
 opposition
 opposition's
+oppositional
 oppositions
 oppress
 oppressed
@@ -75936,6 +76039,7 @@ personally
 personals
 personalty
 personas
+personhood
 personification
 personification's
 personifications
@@ -77723,6 +77827,8 @@ polemicist
 polemicist's
 polemicists
 polemics
+polenta
+polentas
 poles
 polestar
 polestars
@@ -77748,6 +77854,7 @@ policyholders
 policymaker
 policymaker's
 policymakers
+policymaking
 poling
 polio
 polio's
@@ -78347,7 +78454,9 @@ postscripts
 postseason
 postseason's
 postseasons
+postsecondary
 postsynaptic
+posttest
 postulate
 postulated
 postulates
@@ -78725,6 +78834,8 @@ predate
 predated
 predates
 predating
+predation
+predations
 predator
 predator's
 predators
@@ -79097,6 +79208,7 @@ preserver
 preserver's
 preservers
 preserves
+preservice
 preserving
 preset
 presets
@@ -82270,6 +82382,7 @@ rearrested
 rearresting
 rearrests
 rears
+rearview
 rearward
 rearwards
 reascend
@@ -82328,6 +82441,8 @@ reattempt
 reattempted
 reattempting
 reattempts
+reauthorization
+reauthorizations
 reauthorize
 reauthorized
 reauthorizes
@@ -83331,7 +83446,9 @@ refracted
 refracting
 refraction
 refractive
+refractor
 refractories
+refractors
 refractory
 refracts
 refrain
@@ -84799,6 +84916,8 @@ responded
 respondent
 respondent's
 respondents
+responder
+responders
 responding
 responds
 response
@@ -85941,6 +86060,7 @@ rocketry
 rockets
 rockfall
 rockfalls
+rockfish
 rockier
 rockiest
 rockiness
@@ -87947,6 +88067,9 @@ screeds
 screen
 screen's
 screened
+screener
+screener's
+screeners
 screening
 screenings
 screenplay
@@ -89491,6 +89614,8 @@ shies
 shift
 shift's
 shifted
+shifter
+shifters
 shiftier
 shiftiest
 shiftily
@@ -90212,6 +90337,8 @@ significantly
 signification
 significations
 signified
+signifier
+signifiers
 signifies
 signify
 signifying
@@ -91280,6 +91407,8 @@ smallholders
 smallholding
 smallholdings
 smallish
+smallmouth
+smallmouths
 smallness
 smallpox
 smalls
@@ -91860,6 +91989,7 @@ societal
 societies
 society
 society's
+sociocultural
 socioeconomic
 socioeconomically
 sociological
@@ -93786,6 +93916,9 @@ starriest
 starring
 starry
 stars
+starship
+starship's
+starships
 starstruck
 start
 start's
@@ -93975,6 +94108,9 @@ steeds
 steel
 steel's
 steeled
+steelhead
+steelhead's
+steelheads
 steelier
 steeliest
 steeliness
@@ -95235,6 +95371,8 @@ subprograms
 subroutine
 subroutines
 subs
+subscale
+subscales
 subscribe
 subscribed
 subscriber
@@ -95338,6 +95476,8 @@ subtends
 subterfuge
 subterfuges
 subterranean
+subtest
+subtests
 subtext
 subtexts
 subtitle
@@ -95367,6 +95507,8 @@ subtrahends
 subtropic
 subtropical
 subtropics
+subtype
+subtypes
 suburb
 suburb's
 suburban
@@ -97470,6 +97612,7 @@ teems
 teen
 teen's
 teenage
+teenaged
 teenager
 teenager's
 teenagers
@@ -97504,6 +97647,8 @@ telecaster's
 telecasters
 telecasting
 telecasts
+telecom
+telecom's
 telecommunication
 telecommunications
 telecommute
@@ -97513,6 +97658,7 @@ telecommuters
 telecommutes
 telecommuting
 telecommuting's
+telecoms
 teleconference
 teleconferenced
 teleconferences
@@ -98133,6 +98279,7 @@ therapists
 therapy
 therapy's
 there
+there'll
 there's
 thereabout
 thereabouts
@@ -98471,6 +98618,8 @@ thrush
 thrush's
 thrushes
 thrust
+thruster
+thrusters
 thrusting
 thrusts
 thud
@@ -98985,6 +99134,7 @@ tocopherol
 tocsin
 tocsins
 today
+today's
 toddies
 toddle
 toddled
@@ -99644,6 +99794,8 @@ trailed
 trailer
 trailer's
 trailers
+trailhead
+trailheads
 trailing
 trails
 train
@@ -99803,6 +99955,7 @@ transformable
 transformation
 transformational
 transformations
+transformative
 transformed
 transformer
 transformers
@@ -101835,6 +101988,7 @@ undersecretary's
 undersell
 underselling
 undersells
+underserved
 undersexed
 undershirt
 undershirts
@@ -102381,6 +102535,7 @@ univalent
 univalve
 univalve's
 univalves
+univariate
 universal
 universalism
 universalist
@@ -102541,6 +102696,7 @@ unmounted
 unmourned
 unmovable
 unmoved
+unmoving
 unmusical
 unnameable
 unnamed
@@ -105522,6 +105678,7 @@ weekenders
 weekending
 weekends
 weeklies
+weeklong
 weekly
 weekly's
 weeknight
@@ -105791,11 +105948,13 @@ whelped
 whelping
 whelps
 when
+when's
 whence
 whenever
 whens
 whensoever
 where
+where'd
 where's
 whereabouts
 whereas
@@ -107172,6 +107331,7 @@ xylophonist's
 xylophonists
 y
 y'all
+y'know
 ya
 yacht
 yacht's

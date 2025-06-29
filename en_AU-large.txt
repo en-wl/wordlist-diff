@@ -8718,6 +8718,7 @@ Euripidean
 Euripides
 Euripides's
 Euro
+Euroamerican
 Eurobond
 Eurobonds
 Eurocentric
@@ -33654,6 +33655,7 @@ anorthosites
 anosmia
 anosmias
 another
+another's
 anoxaemia
 anoxaemia's
 anoxemia
@@ -34007,6 +34009,7 @@ antihumanism
 antihumanisms
 antihypertensive
 antihypertensives
+antiinflammatory
 antiknock
 antilabour
 antilepton
@@ -40751,6 +40754,8 @@ bioscopy
 biosecurity
 biosensor
 biosensors
+biosolid
+biosolids
 biosphere
 biosphere's
 biospheres
@@ -45178,6 +45183,7 @@ byword
 bywords
 byzantine
 c
+c'mon
 ca
 ca'canny
 cab
@@ -51730,6 +51736,8 @@ coccus's
 coccygeal
 coccyges
 coccyx
+cochair
+cochairs
 cochineal
 cochineal's
 cochlea
@@ -51898,6 +51906,8 @@ codifies
 codify
 codifying
 coding
+codirector
+codirectors
 codling
 codling's
 codlings
@@ -52026,6 +52036,12 @@ coffled
 coffles
 coffling
 coffs
+cofound
+cofounded
+cofounder
+cofounders
+cofounding
+cofounds
 cog
 cog's
 cogency
@@ -52230,6 +52246,7 @@ colicky
 colicroot
 colicroots
 colies
+coliform
 coliseum
 coliseum's
 coliseums
@@ -54247,6 +54264,7 @@ connaturally
 connect
 connectable
 connected
+connectedness
 connecting
 connection
 connection's
@@ -54686,6 +54704,7 @@ consumptive's
 consumptively
 consumptives
 cont
+cont'd
 contact
 contact's
 contactable
@@ -56651,6 +56670,8 @@ covalent
 covariance
 covariances
 covariant
+covariate
+covariates
 cove
 cove's
 coven
@@ -57745,6 +57766,7 @@ crossruff
 crossruffed
 crossruffing
 crossruffs
+crosstalk
 crosstie
 crossties
 crosstown
@@ -58770,6 +58792,7 @@ cyanotype
 cyanotypes
 cyathus
 cyathuses
+cyber
 cyberbullies
 cyberbully
 cybercafe
@@ -60515,6 +60538,8 @@ defenceless
 defencelessly
 defencelessness
 defencelessness's
+defenceman
+defencemen
 defences
 defencing
 defend
@@ -68689,6 +68714,7 @@ eloquence
 eloquent
 eloquently
 else
+else's
 elsewhere
 elucidate
 elucidated
@@ -76816,6 +76842,7 @@ foo
 foobar
 food
 food's
+foodborne
 foodie
 foodie's
 foodies
@@ -80084,6 +80111,7 @@ genera
 generable
 general
 general's
+generalisability
 generalisation
 generalisation's
 generalisations
@@ -82213,6 +82241,9 @@ grandioseness
 grandiosenesses
 grandiosity
 grandioso
+grandkid
+grandkid's
+grandkids
 grandly
 grandma
 grandma's
@@ -92972,6 +93003,7 @@ interactive
 interactively
 interactivity
 interacts
+interagency
 interatomic
 interbrain
 interbrains
@@ -93125,6 +93157,7 @@ intergrade
 intergraded
 intergrades
 intergrading
+intergroup
 interim
 interior
 interior's
@@ -97923,6 +97956,8 @@ lares
 large
 largehearted
 largely
+largemouth
+largemouths
 largeness
 larger
 larges
@@ -105109,9 +105144,11 @@ micturating
 micturition
 micturitions
 mid
+midafternoon
 midair
 midbrain
 midbrains
+midcentury
 midcourse
 midcourses
 midday
@@ -105163,6 +105200,7 @@ midlands
 midlife
 midline
 midlines
+midmorning
 midmost
 midnight
 midnight's
@@ -105175,6 +105213,7 @@ midrib
 midribs
 midriff
 midriffs
+midseason
 midsection
 midsections
 midship
@@ -108224,8 +108263,10 @@ multilingualism
 multimedia
 multimedia's
 multimedias
+multimillion
 multimillionaire
 multimillionaires
+multimillions
 multinational
 multinationals
 multinuclear
@@ -110519,6 +110560,8 @@ nogs
 nohow
 noil
 noils
+noir
+noirs
 noise
 noised
 noiseless
@@ -111428,6 +111471,7 @@ noteworthiest
 noteworthiness
 noteworthy
 nothing
+nothing's
 nothingness
 notice
 noticeable
@@ -118920,6 +118964,7 @@ personate
 personated
 personates
 personating
+personhood
 personification
 personification's
 personifications
@@ -122964,7 +123009,10 @@ postseason
 postseason's
 postseasonal
 postseasons
+postsecondary
 postsynaptic
+posttest
+posttraumatic
 postulancies
 postulancy
 postulant
@@ -124228,6 +124276,7 @@ preserver
 preserver's
 preservers
 preserves
+preservice
 preserving
 preses
 preset
@@ -128366,6 +128415,8 @@ range's
 ranged
 rangefinder
 rangefinders
+rangeland
+rangelands
 ranger
 ranger's
 rangers
@@ -129044,6 +129095,7 @@ rearrested
 rearresting
 rearrests
 rears
+rearview
 rearward
 rearwards
 reascend
@@ -142278,6 +142330,8 @@ smallholders
 smallholding
 smallholdings
 smallish
+smallmouth
+smallmouths
 smallness
 smallpox
 smalls
@@ -145936,6 +145990,9 @@ starriest
 starring
 starry
 stars
+starship
+starship's
+starships
 starstruck
 start
 start's
@@ -148254,6 +148311,8 @@ subsample
 subsampled
 subsamples
 subsampling
+subscale
+subscales
 subscapular
 subscribe
 subscribed
@@ -148410,6 +148469,8 @@ subterfuges
 subternatural
 subterrane
 subterranean
+subtest
+subtests
 subtext
 subtexts
 subtextual
@@ -151868,6 +151929,8 @@ telecaster's
 telecasters
 telecasting
 telecasts
+telecom
+telecom's
 telecommunication
 telecommunications
 telecommute
@@ -152967,6 +153030,9 @@ therapsids
 therapy
 therapy's
 there
+there'd
+there'll
+there're
 there's
 thereabout
 thereabouts
@@ -154229,6 +154295,7 @@ tocsin
 tocsins
 tod
 today
+today's
 toddies
 toddle
 toddled
@@ -155205,6 +155272,8 @@ trailed
 trailer
 trailer's
 trailers
+trailhead
+trailheads
 trailing
 trails
 train
@@ -155429,6 +155498,7 @@ transformable
 transformation
 transformational
 transformations
+transformative
 transformed
 transformer
 transformers
@@ -158692,6 +158762,7 @@ undersecretary's
 undersell
 underselling
 undersells
+underserved
 underset
 undersets
 undersetting
@@ -159471,6 +159542,7 @@ univalent
 univalve
 univalve's
 univalves
+univariate
 universal
 universalisation
 universalisation's
@@ -164794,6 +164866,9 @@ wharfingers
 wharve
 wharves
 what
+what'd
+what'll
+what're
 what's
 whatchamacallit
 whatchamacallits
@@ -164888,6 +164963,7 @@ whelped
 whelping
 whelps
 when
+when's
 whenas
 whence
 whencesoever
@@ -164896,6 +164972,7 @@ whenever
 whens
 whensoever
 where
+where'd
 where'er
 where's
 whereabout
@@ -166777,6 +166854,7 @@ xyster
 xysters
 y
 y'all
+y'know
 ya
 yabber
 yabber's

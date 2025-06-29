@@ -1,46 +1,196 @@
 New words, unclassified:
+  aboveground
+  affective
+  ahold
+  apnea
+  apneas
+  backcountry
   barcode
   barcodes
+  biosolid
+  biosolids
+  biota
+  biotas
+  bioterrorism
   boomtown
   boomtowns
   brownnoser
+  c'mon
+  caregiving
   carpooler
+  casa
+  casas
   chowchow
   clearheadedness
+  cochair
+  cochairs
+  codirector
+  codirectors
+  cofound
+  cofounded
+  cofounder
+  cofounders
+  cofounding
+  cofounds
+  cohost
+  cohosted
+  cohosting
+  cohosts
+  coli
+  coliform
+  collegial
+  connectedness
+  constructivism
+  constructivist
+  constructivists
+  cornerback
+  cornerbacks
   cornpone
+  counterterrorism
+  countertop
+  countertops
+  covariate
+  covariates
+  creatine
   crewneck
   crewnecks
+  crosstalk
+  cyber
+  defenseman
+  defensemen
   dodgeball
+  drivetrain
+  drivetrains
+  duffel
+  duffels
+  dyad
+  dyads
+  ethicist
+  ethicists
+  externalities
+  externality
   feeblemindedness
+  feedstock
+  feedstocks
+  femme
+  femmes
+  foodborne
+  frontline
   frontman
+  generalizability
   getups
+  giftedness
+  grandkid
+  grandkids
   grandmaster
   grandmasters
+  interagency
+  intercut
+  intercuts
+  intercutting
+  intergenerational
+  intergroup
+  landers
+  largemouth
+  largemouths
   leadoff
+  leaguer
+  leaguers
   lightheadedness
+  matchup
+  matchups
   meagerrer
   meagerrest
+  melatonin
+  midafternoon
+  midmorning
+  midseason
+  misperception
+  misperceptions
+  mucosa
+  multiethnic
+  multimillion
+  multimillions
+  muni
+  munis
+  neoliberal
   newsagencies
   newsagency
+  noir
+  noirs
+  nonsignificant
+  oppositional
   ourself
   peacoat
+  personhood
   playdate
   playdates
+  polenta
+  polentas
+  policymaking
+  postsecondary
+  posttest
+  predation
+  predations
+  preservice
   pushbutton
   quadrillionth
   quadrillionths
   ratfink
+  rearview
+  reauthorization
+  reauthorizations
+  refractor
+  refractors
+  responder
+  responders
+  rockfish
   rolltop
+  schooler
+  schoolers
+  screener
+  screeners
+  shifter
+  shifters
+  signifier
+  signifiers
   simplemindedness
+  smallmouth
+  smallmouths
+  sociocultural
   sonofabitch
+  starship
+  starships
+  steelhead
+  steelheads
   stuntwoman
+  subscale
+  subscales
+  subtest
+  subtests
+  subtype
+  subtypes
+  telecom
+  telecoms
   themself
+  there'll
+  thruster
+  thrusters
+  trailhead
+  trailheads
+  transformative
+  underserved
+  univariate
+  unmoving
   waterskiing
+  weeklong
   wetsuit
   wetsuits
+  where'd
   whomso
   whoseso
-total: 41
+  y'know
+total: 191
 
 New words, upper plural:
   Amerasians
@@ -1066,6 +1216,7 @@ New words, ok, in 2of12id:
   silkscreening
   spinoff
   spinoffs
+  teenaged
   thumpings
   virtuosos
   weirded
@@ -1073,7 +1224,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 82
+total: 83
 
 New words, ok, other:
   Curaçao
@@ -1134,9 +1285,8 @@ total: 16
 
 Missing words, ok, improper derived:
   dimer
-  lander
   magus
-total: 3
+total: 2
 
 Missing words, ok, other:
   arsed

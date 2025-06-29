@@ -885,8 +885,9 @@
 35: _V: above-board <aj_av>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [moby] 80: _: aboveground <aj>
-70 [moby] 80: _V: above-ground <aj>
+60 [coca] 70 [moby] 80: _: aboveground <aj>
+60 [coca] 70 [moby] 80: _?: above ground <aj>
+60 [coca] 70 [moby] 80: _V: above-ground <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: above-mentioned <aj>
@@ -5491,7 +5492,7 @@
 
 80: affectionless
 
-70 [3of6] [5desk] [moby] 80: affective <aj>
+60 [coca] 70 [3of6] [5desk] [moby] 80: affective <aj>
 
 70 [5desk] 80: affectively
 
@@ -6951,8 +6952,8 @@
 
 80 [moby]: Ahmeek <n/place>
 
-70 [3of6] 80: ahold <n>
-80: - <n>: aholds
+60 [coca] 70 [3of6] 80: ahold <n> (informal)
+80: - <n> (informal): aholds
 
 70 [moby]: A horizon <n/upper>
 
@@ -14692,7 +14693,7 @@
 
 80: anosmic <aj>
 
-35: another <pn>
+35: another <pn>: -, -, -, another's
 
 35: another <d>
 
@@ -15361,7 +15362,8 @@
 
 70 [5desk] 80: antianxiety
 
-70 [5desk] 80: antiapartheid <aj>
+60 [coca] 70 [5desk] 80: _: anti-apartheid <aj>
+60 [coca] 70 [5desk] 80: _v: antiapartheid <aj>
 
 80: -antiapartheid <n>: antiapartheids
 
@@ -15959,6 +15961,9 @@
 60: anti-imperialist
 
 70 [3of6]: anti-inflamatory <n>: anti-inflamatories
+
+60 [coca]: _: anti-inflammatory <aj>
+60 [coca]: _v: antiinflammatory <aj>
 
 85 [ukacd]: antiinflammatory
 
@@ -17521,8 +17526,8 @@
 
 85 [ukacd]: aplustre <n>: aplustres
 
-70 [5desk] [moby] 80: A C Dv: apnea <n>: apneas
-70 [5desk] [moby] 80: B D: apnoea <n>: apnoeas
+60 [coca] 70 [5desk] [moby] 80: A C Dv: apnea <n>: apneas
+60 [coca] 70 [5desk] [moby] 80: B D: apnoea <n>: apnoeas
 70 [5desk] [moby]: A C Dv: - <n>: apnea's
 70 [5desk] [moby]: B D: - <n>: apnoea's
 
@@ -27557,9 +27562,9 @@
 
 70 [3of6]: back copy <n>: back copies
 
-70 [3of6] [moby] 80: _: backcountry <n>
-70 [3of6] [moby] 80: _v: back country <n>
-70 [3of6] [moby] 80: _V: back-country <n>
+50 [coca] 70 [3of6] [moby] 80: _: backcountry <n>
+50 [coca] 70 [3of6] [moby] 80: _v: back country <n>
+50 [coca] 70 [3of6] [moby] 80: _V: back-country <n>
 80: _: - <n>: backcountries
 80: _v: - <n>
 80: _V: - <n>
@@ -38161,7 +38166,7 @@
 
 80: biosocially
 
-80: biosolid <n>: biosolids
+50 [coca] 80: biosolid <n>: biosolids
 
 50: biosphere <n>: biospheres, biosphere's
 
@@ -38196,7 +38201,7 @@
 
 80: biosystematist <n>: biosystematists
 
-70 [5desk] [moby] 80: biota <n>: biotas
+60 [coca] 70 [5desk] [moby] 80: biota <n>: biotas
 70 [5desk] [moby]: - <n>: biota's
 
 60 [extra] 70 [3of6] [5desk] 80: biotech <n>
@@ -38215,7 +38220,7 @@
 
 80: biotelemetry <n>: biotelemetries
 
-70 [3of6]: bioterrorism <n>
+60 [coca] 70 [3of6]: bioterrorism <n>
 
 80: biotherapy <n>: biotherapies
 
@@ -56696,7 +56701,8 @@
 
 50: caregiver <n>: caregivers, caregiver's
 
-70 [5desk] 80: caregiving <n>: caregivings
+60 [coca] 70 [5desk] 80: caregiving <n>
+70 [5desk] 80: - <n>: caregivings
 
 70 [3of6]: care home <n>: care homes
 
@@ -57885,10 +57891,10 @@
 
 80 [moby]: Caryville <n/place>
 
-70 [moby] 80: casa <n>: casas
-70 [moby]: - <n>: casa's
-
 80 [moby]: Casa <n/place>
+
+60 US [coca] 70 [moby] 80: casa <n>: casas
+60 US [coca] 70 [moby]: - <n>: casa's
 
 60: casaba <n>: casabas
 
@@ -64499,7 +64505,7 @@
 
 80 [moby]: Cheyney <n/place>
 
-70 [5desk] [moby] 80: chez
+70 [5desk] [moby] 80: chez <pp>
 
 60: _: chg. <abbr>
 60: _~: chg <abbr>
@@ -71361,6 +71367,8 @@
 
 70 [moby]: cml. <abbr>
 
+60 [coca]: c'mon <s> (informal)
+
 70 [3of6]: CND </abbr?>
 
 85 [ukacd]: cnemial
@@ -72056,9 +72064,10 @@
 
 50 [name] 70 [5desk] [moby]: Cochabamba <n/name?>: Cochabamba's
 
-80: cochair <m>: cochaired, cochairing, cochairs
+60 [coca] 85 [ukacd]: _: cochair <n>: cochairs
+60 [coca] 85 [ukacd]: _?: co-chair <n>: co-chairs
 
-85 [ukacd]: co-chair <n>: co-chairs
+80: cochair <m>: cochaired, cochairing, cochairs
 
 80: cochairman <n>: cochairmen
 
@@ -72537,7 +72546,8 @@
 
 80: codirection <n>: codirections
 
-80: codirector <n>: codirectors
+60 [coca] 80: _: codirector <n>: codirectors
+60 [coca] 80: _?: co-director <n>: co-directors
 
 80: codiscover <m>: codiscovered, codiscovering, codiscovers
 
@@ -72913,9 +72923,13 @@
 
 80: cofinance <m>: cofinanced, cofinancing, cofinances
 
+60 [coca]: _: cofound <v>: cofounded, cofounding, cofounds
+60 [coca]: _?: co-found <v>: co-founded, co-founding, co-founds
+
 80: cofound <m>: cofounded, cofounding, cofounds
 
-80: cofounder <n>: cofounders
+50 [coca] 80: _: cofounder <n>: cofounders
+50 [coca] 80: _?: co-founder <n>: co-founders
 
 80 [moby]: C. of S. <abbr>
 
@@ -73157,6 +73171,9 @@
 85 [ukacd]: cohortative <n>: cohortatives
 
 70 [moby] 80: cohosh <n>: cohoshes
+
+60 [coca]: _: cohost <n_v>: cohosted, cohosting, cohosts
+60 [coca]: _?: co-host <n_v>: co-hosted, co-hosting, co-hosts
 
 70 [5desk] 80: _: cohost <m>: cohosted, cohosting, cohosts
 70 [5desk] 80: _?: co-host <m>: co-hosted, co-hosting, co-hosts
@@ -73603,6 +73620,8 @@
 
 50 [name]: Colgate <n/name?>: Colgate's
 
+60 [coca]: coli <we> # E. coli
+
 70 [extra]: coli
 
 85 [ukacd]: colibri <n>: colibris
@@ -73617,6 +73636,8 @@
 50: colicky <aj>
 
 70 [moby] 80: colicroot <n>: colicroots
+
+60 [coca]: coliform <aj>
 
 80: coliform <n>: coliforms
 
@@ -73843,7 +73864,7 @@
 
 70 [5desk] 80: collegia
 
-70 [5desk] 80: collegial <aj>
+60 [coca] 70 [5desk] 80: collegial <aj>
 
 85 [ukacd]: collegialism
 
@@ -78602,7 +78623,8 @@
 
 80: connectedly
 
-80: connectedness <n>: connectednesses
+60 [coca] 80: connectedness <n>
+80: - <n>: connectednesses
 
 50: Connecticut <n/place>: Connecticut's
 
@@ -79435,12 +79457,13 @@
 60: constructiveness <n>
 80: - <n>: constructivenesses~
 
-70 [5desk] [moby] 80: constructivism <n>: constructivisms
-70 [5desk] [moby]: - <n>: constructivism's
+60 [coca] 70 [5desk] [moby] 80: constructivism <n>
+60 [coca] 70 [5desk] [moby]: - <n>: constructivism's
+70 [5desk] [moby] 80: - <n>: constructivisms
 
 80 [upper]: Constructivism <n/upper?>: Constructivisms
 
-70 [5desk] 80: constructivist <n>: constructivists
+60 [coca] 70 [5desk] 80: constructivist <n>: constructivists
 70 [5desk]: - <n>: constructivist's
 
 80 [upper]: Constructivist <n/upper?>: Constructivists
@@ -79709,6 +79732,8 @@
 50: _~: contd <abbr>
 
 70 [3of6]: -contd. </abbr?>
+
+70 [coca]: cont'd <abbr>
 
 70 [5desk] [moby] 80: conte <n>: contes
 
@@ -82242,8 +82267,8 @@
 
 35: corner <a>
 
-70 [5desk] 80: cornerback <n>: cornerbacks
-70 [5desk]: - <n>: cornerback's
+50 [coca] 70 [5desk] 80: cornerback <n>: cornerbacks
+50 [coca] 70 [5desk]: - <n>: cornerback's
 
 70 [3of6] [5desk] [moby] 80: cornered <aj>
 
@@ -84561,8 +84586,10 @@
 
 80: counterterror <aj>
 
-70 [3of6] 80: counterterrorism <n>
-80: - <n>: counterterrorisms
+60 [coca] 70 [3of6] 80: _: counterterrorism <n>
+60 [coca] 70 [3of6] 80: _v: counter-terrorism <n>
+80: _: - <n>: counterterrorisms
+80: _v: - <n>
 
 70 [3of6] 80: counterterrorist <n>
 80: - <n>: counterterrorists
@@ -84573,7 +84600,7 @@
 
 80: counterthrust <n>: counterthrusts
 
-70 [3of6] 80: countertop <n>: countertops
+60 [coca] 70 [3of6] 80: countertop <n>: countertops
 
 80: countertrade <n>: countertrades
 
@@ -85010,6 +85037,8 @@
 85 [ukacd]: - <n>: covariants-
 
 60 [extra] 80: covariant <aj>
+
+60 [coca]: covariate <n>: covariates
 
 80: covariation <n>: covariations
 
@@ -86319,7 +86348,8 @@
 
 85 [ukacd]: creatic
 
-70 [moby] 80: creatine <n>: creatines
+60 [coca] 70 [moby] 80: creatine <n>
+70 [moby] 80: - <n>: creatines
 
 70 [moby] 80: creatinine <n>: creatinines
 
@@ -87953,8 +87983,10 @@
 
 40: cross street <n>
 
-80: _: crosstalk <n>: crosstalks
-80: _V: cross-talk <n>
+60 [coca] 80: _: crosstalk <n>
+60 [coca] 80: _V: cross-talk <n>
+80: _: - <n>: crosstalks
+80: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6] 85 [ukacd]: cross the Rubicon </upper?>
@@ -90910,6 +90942,8 @@
 
 50 [name] 70 [moby] 85 [ukacd]: Cybele <n/upper>
 50 [name] 70 [moby]: - <n/upper>: Cybele's
+
+60 [coca]: cyber <aj>
 
 50 [+] 80 [3of6]: cyberbully <n>: cyberbullies
 
@@ -96130,8 +96164,8 @@
 80: A: - <n>: defenselessnesses~
 80: B: - <n>: defencelessnesses~
 
-80: A: defenseman <n>: defensemen
-80: B: defenceman <n>: defencemen
+60 [coca] 80: A: defenseman <n>: defensemen
+60 [coca] 80: B: defenceman <n>: defencemen
 
 40: defense mechanism <n>: defense mechanisms
 
@@ -112179,7 +112213,7 @@
 70 [3of6]: _.: drivetime
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [5desk] 80: drivetrain <n>: drivetrains
+60 [coca] 70 [5desk] 80: drivetrain <n>: drivetrains
 
 35: driveway <n>: driveways, driveway's
 
@@ -113259,7 +113293,7 @@
 
 80 [moby]: Duffau <n/place>
 
-70 [moby] 80: duffel <n>: duffels
+60 [coca] 70 [moby] 80: duffel <n>: duffels
 
 40: duffel bag <n>: duffel bags
 
@@ -114477,7 +114511,7 @@
 
 80: dyable
 
-70 [5desk] [moby] 80: dyad <n>: dyads
+60 [coca] 70 [5desk] [moby] 80: dyad <n>: dyads
 
 50 [ukfreq] 70 [5desk] [moby] 80: dyadic <aj>
 
@@ -119149,6 +119183,8 @@
 80 [moby]: Elsberry <n/place>
 
 35: else <a>
+
+60 [coca]: else's <we> # somebody else's / everybody else's
 
 35: elsewhere <av>
 
@@ -126582,7 +126618,7 @@
 
 85 [ukacd]: ethicism <n>
 
-70 [5desk] 80: ethicist <n>: ethicists
+60 [coca] 70 [5desk] 80: ethicist <n>: ethicists
 70 [5desk]: - <n>: ethicist's
 
 70 [moby] 80: A Z: ethicize <m>: ethicized, ethicizing, ethicizes
@@ -127384,6 +127420,10 @@
 50: euro <n>: euros, euro's
 
 70 [5desk] 80 [upper]: Euro <n/upper?>: Euros
+
+60 [coca]: _: Euro-American <aj>
+60 [coca]: _v: Euroamerican <aj>
+60 [coca]: _V: EuroAmerican <aj>
 
 85 [ukacd]: Eurobabble <n/upper>
 
@@ -130506,7 +130546,7 @@
 
 80: externalist <n>: externalists
 
-70 [moby] 80: externality <n>: externalities
+60 [coca] 70 [moby] 80: externality <n>: externalities
 
 60: A Z: externalization <n>: externalizations, externalization's
 60: B: externalisation <n>: externalisations, externalisation's
@@ -131366,8 +131406,12 @@
 
 85 [ukacd]: !faced <suf>
 
-70 [5desk] 80: _: facedown <n>: facedowns
-70 [5desk] 80: _?: face down <n>
+60 [coca] 70 [5desk] 80: _: face down <n>
+60 [coca] 70 [5desk] 80: _v: facedown <n>
+60 [coca] 70 [5desk] 80: _V: face-down <n>
+70 [5desk] 80: _: - <n>
+70 [5desk] 80: _v: - <n>: facedowns
+70 [5desk] 80: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 85 [ukacd]: face-harden <v>
@@ -134402,7 +134446,7 @@
 
 60: feedlot <n>: feedlots
 
-70 [5desk] 80: feedstock <n>: feedstocks
+60 [coca] 70 [5desk] 80: feedstock <n>: feedstocks
 
 70 [5desk] 80: feedstuff <n>: feedstuffs
 
@@ -134791,7 +134835,7 @@
 60 [brif] 70 [3of6] [5desk] [moby] 80: A Z: feminize <v>: feminized, feminizing, feminizes
 60 [brif] 70 [3of6] [5desk] [moby] 80: B: feminise <v>: feminised, feminising, feminises
 
-70 [moby] 80: femme <n>: femmes
+60 [coca] 70 [moby] 80: femme <n>: femmes
 
 70 [moby] 85 [ukacd]: femme de chambre
 
@@ -141403,6 +141447,9 @@
 
 60: food bank <n>: food banks
 
+60 [coca]: _: foodborne <aj>
+60 [coca]: _v: food-borne <aj>
+
 50: food chain <n>: food chains
 
 60: food coupon
@@ -146032,6 +146079,8 @@
 85 [ukacd]: frontlessly
 
 70 [moby] 80: frontlet <n>: frontlets
+
+60 [coca]: frontline <aj>
 
 70 [3of6] [5desk] [moby] 80: _: front line <n>: front lines
 70 [3of6] [5desk] [moby] 80: _.: frontline <n>: frontlines
@@ -151258,8 +151307,10 @@
 35 [ukfreq] 50: generality <n>
 50: - <n>: generalities
 
-80: A Z: generalizability <n>: generalizabilities
-80: B: generalisability <n>
+60 [coca] 80: A Z: generalizability <n>
+60 [coca] 80: B: generalisability <n>
+80: A Z: - <n>: generalizabilities
+80: B: - <n>
 
 80: A Z: generalizable <n>
 80: B: generalisable <n>
@@ -153177,7 +153228,8 @@
 
 80: giftedly
 
-70 [5desk] 80: giftedness <n>: giftednesses
+60 [coca] 70 [5desk] 80: giftedness <n>
+70 [5desk] 80: - <n>: giftednesses
 
 85 [stale]: giftless
 
@@ -158548,7 +158600,8 @@
 
 40: grand jury <n>: grand juries, grand jury's
 
-80: grandkid <n>: grandkids
+60 [coca] 80: grandkid <n>: grandkids
+60 [coca]: - <n>: grandkid's
 
 70 [moby]: Grand Lama <n/upper>: Grand Lama's
 
@@ -172652,8 +172705,8 @@
 70 [3of6] 80: _v: highflyer <n>: highflyers
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [3of6] 80: _: high-flying <aj>
-70 [3of6] 80: _v: highflying <aj>
+60 [coca] 70 [3of6] 80: _: high-flying <aj>
+60 [coca] 70 [3of6] 80: _v: highflying <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 50: high frequency <n>
@@ -191948,6 +192001,9 @@
 
 85 [stale]: interage
 
+60 [coca]: _: interagency <aj>
+60 [coca]: _v: inter-agency <aj>
+
 80: interagency
 
 60: inter alia <av>
@@ -192213,6 +192269,8 @@
 
 80: intercurrently
 
+60 [coca]: intercut <v>: intercut, intercutting, intercuts
+
 70 [3of6] [moby] 80: intercut <m>: intercut, intercutting, intercuts
 
 85 [ukacd]: interdash <m>: interdashed, interdashing, interdashes
@@ -192406,6 +192464,9 @@
 
 80: intergeneration <n>: intergenerations
 
+60 [coca]: _: intergenerational <aj>
+60 [coca]: _V: inter-generational <aj>
+
 70 [3of6] 80: intergenerational
 
 80: intergeneric
@@ -192425,6 +192486,9 @@
 80: intergraft <m>: intergrafted, intergrafting, intergrafts
 
 80: intergranular
+
+60 [coca]: _: intergroup <aj>
+60 [coca]: _v: inter-group <aj>
 
 80: intergroup
 
@@ -209517,8 +209581,8 @@
 
 80 [moby]: Landenberg <n/place>
 
-70 [5desk] 80: lander <n>: landers
-70 [5desk]: - <n>: lander's
+50 [coca] 70 [5desk] 80: lander <n>: landers
+50 [coca] 70 [5desk]: - <n>: lander's
 
 80 [moby]: -Lander <n/place>
 
@@ -210379,7 +210443,7 @@
 
 70 [moby] 85 [ukacd]: large-minded <aj>
 
-80: largemouth <n>: largemouths
+60 [coca] 80: largemouth <n>: largemouths
 
 70 [moby]: largemouth bass <n>: largemouth bass's
 
@@ -212134,6 +212198,8 @@
 
 70 [moby] 85 [ukacd]: League of Nations <n/upper>
 70 [moby]: - <n/upper>: League of Nations's
+
+60 [coca]: leaguer <n>: leaguers
 
 70 [moby] 80: leaguer <m>: leaguered, leaguering, leaguers
 
@@ -229402,7 +229468,7 @@
 
 40: matchstick <n>: matchsticks
 
-70 [5desk] 80: matchup <n>: matchups
+50 [coca] 70 [5desk] 80: _: matchup <n>: matchups
 
 60: matchwood <n>
 80: - <n>: matchwoods~
@@ -232269,8 +232335,8 @@
 
 85 [ukacd]: melastomaceous
 
-70 [3of6] [5desk] [moby] 80: melatonin <n>
-70 [3of6] [5desk] [moby]: - <n>: melatonin's
+60 [coca] 70 [3of6] [5desk] [moby] 80: melatonin <n>
+60 [coca] 70 [3of6] [5desk] [moby]: - <n>: melatonin's
 70 [5desk] [moby] 80: - <n>: melatonins
 
 50: Melba <n/person>: Melba's
@@ -236412,7 +236478,10 @@
 
 85 [ukacd]: !mid <abbr>
 
-80: midafternoon <n>: midafternoons
+60 [coca] 80: _: midafternoon <n>
+60 [coca] 80: _v: mid-afternoon <n>
+80: _: - <n>: midafternoons
+80: _v: - <n>
 
 40: _: midair <n>
 40: _v: mid-air <n>
@@ -236433,6 +236502,9 @@
 70 [moby] 80: _: midbrain <n>: midbrains
 70 [moby] 80: _V: mid-brain <n>
 ## Compound variant levels are a best guess based on freq and other related info.
+
+60 [coca]: _: mid-century <n>
+60 [coca]: _v: midcentury <n>
 
 70 [moby] 80: midcourse <n>: midcourses
 
@@ -236680,8 +236752,10 @@
 
 85 [stale]: midmonth <n>: midmonths
 
-80: _: midmorning <n>: midmornings
-80: _=: mid-morning <n>
+60 [coca] 80: _: midmorning <n>
+60 [coca] 80: _v: mid-morning <n>
+80: _: - <n>: midmornings
+80: _v: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 50: midmost <aj_av>
@@ -236732,6 +236806,9 @@
 35: midriff <n>: midriffs
 
 80: midsagittal
+
+60 [coca]: _: midseason <n>
+60 [coca]: _v: mid-season <n>
 
 60: midsection <n>: midsections
 
@@ -239655,7 +239732,7 @@
 
 70 [5desk] 80: misperceive <v>: misperceived, misperceiving, misperceives
 
-70 [5desk] 80: misperception <n>: misperceptions
+60 [coca] 70 [5desk] 80: misperception <n>: misperceptions
 
 85 [ukacd]: mispersuade <m>: mispersuaded, mispersuading, mispersuades
 
@@ -245739,7 +245816,8 @@
 
 85 [ukacd]: Mucorales <n/upper>
 
-70 [5desk] [moby] 80: mucosa <n>: mucosas
+60 [coca] 70 [5desk] [moby] 80: mucosa <n>
+70 [5desk] [moby] 80: - <n>: mucosas
 
 80: mucosal <aj>
 
@@ -246438,7 +246516,8 @@
 
 80: multienzyme
 
-70 [3of6] [5desk] 80: multiethnic <aj>
+60 [coca] 70 [3of6] [5desk] 80: _: multiethnic <aj>
+60 [coca] 70 [3of6] [5desk] 80: _v: multi-ethnic <aj>
 
 85 [ukacd]: multifaced
 
@@ -246605,7 +246684,7 @@
 
 80: multimillennial
 
-80: multimillion <n>: multimillions
+60 [coca] 80: multimillion <n>: multimillions
 
 40: multimillionaire <n>: multimillionaires
 
@@ -247150,7 +247229,7 @@
 
 85 [stale] [ukacd]: mungoose <n>: mungooses
 
-80: muni <n>: munis
+60 US [coca] 80: muni <n>: munis
 
 50: Munich <n/upper>: Munich's
 
@@ -251990,10 +252069,11 @@
 
 85 [ukacd]: neo-Latin </upper?>
 
+60 [coca] 70 [5desk] 80: _: neoliberal <aj>
+60 [coca] 70 [5desk] 80: _v: neo-liberal <aj>
+
 70 [5desk] 80: neoliberal <n>: neoliberals
 70 [5desk]: - <n>: neoliberal's
-
-70 [5desk] 80: neoliberal <aj>
 
 70 [5desk] 80: neoliberalism <n>: neoliberalisms
 70 [5desk]: - <n>: neoliberalism's
@@ -255395,7 +255475,7 @@
 
 85 [ukacd]: noint <m>: nointed, nointing, noints
 
-80: noir <n>: noirs
+60 [coca] 80: noir <n>: noirs
 
 80: noirish
 
@@ -258456,7 +258536,7 @@
 
 70 [5desk]: nonsignificance
 
-70 [5desk] 80: nonsignificant <aj>
+60 [coca] 70 [5desk] 80: nonsignificant <aj>
 
 80: nonsignificantly
 
@@ -259858,6 +259938,8 @@
 
 80: nother
 
+70 [coca]: nothin' <s> (colloquial)
+
 35: nothing <aj_av>
 
 35: nothing <pn>
@@ -259874,6 +259956,8 @@
 
 35 [ukfreq] 50: nothingness <n>
 80: - <n>: nothingnesses~
+
+60 [coca]: nothing's <s>
 
 85 [ukacd]: Nothofagus <n/upper>
 
@@ -266706,6 +266790,8 @@
 
 60: Opposition <n/upper>: Opposition's
 65: - <n/upper>: Oppositions-
+
+60 [coca]: oppositional <aj>
 
 70 [5desk] 80: oppositional
 
@@ -284561,7 +284647,8 @@
 
 80: personator <n>: personators
 
-80: personhood <n>: personhoods
+60 [coca] 80: personhood <n>
+80: - <n>: personhoods
 
 35: personification <n>: personifications, personification's
 
@@ -294466,8 +294553,8 @@
 
 80: polemonium <n>: polemoniums
 
-70 [3of6] [5desk] [moby] 80: polenta <n>
-70 [5desk] [moby] 80: - <n>: polentas
+60 [coca] 70 [3of6] [5desk] [moby] 80: polenta <n>
+60 [coca] 70 [5desk] [moby] 80: - <n>: polentas
 
 70 [3of6] 85 [ukacd]: pole position <n>
 70 [3of6]: - <n>: pole positions
@@ -294543,7 +294630,10 @@
 60 [brif] 70 [5desk] 80: policymaker <n>: policymakers
 60 [brif] 70 [5desk]: - <n>: policymaker's
 
-70 [5desk] 80: policymaking <n>: policymakings
+50 [coca] 70 [5desk] 80: _: policymaking <n>
+50 [coca] 70 [5desk] 80: _v: policy-making <n>
+70 [5desk] 80: _: - <n>: policymakings
+70 [5desk] 80: _v: - <n>
 
 80: poling <n>
 85 [ukacd]: - <n>: polings!
@@ -297888,6 +297978,9 @@
 
 70 [5desk]: postseasonal
 
+60 [coca]: _: postsecondary <aj>
+60 [coca]: _v: post-secondary <aj>
+
 80: postsecondary
 
 80: postshow
@@ -297920,6 +298013,9 @@
 80: _=: post-tension <m>: post-tensioned, post-tensioning, post-tensions
 ## Compound variant levels are a best guess based on freq and other related info.
 
+60 [coca]: _: posttest <aj>
+60 [coca]: _v: post-test <aj>
+
 80: posttest <n>: posttests
 
 60: post time
@@ -297929,6 +298025,9 @@
 80: posttransfusion
 
 80: posttranslational
+
+60 [coca]: _: post-traumatic <aj>
+60 [coca]: _v: posttraumatic <aj>
 
 80: posttraumatic
 
@@ -299894,7 +299993,7 @@
 
 40: predate <v>: predated, predating, predates
 
-70 [5desk] [moby] 80: predation <n>: predations
+60 [coca] 70 [5desk] [moby] 80: predation <n>: predations
 
 85 [ukacd]: predative
 
@@ -301598,6 +301697,12 @@
 50: preserver <n>: preservers, preserver's
 
 35 [ukfreq] 40: preserves
+
+60 [coca]: _: preservice <n>
+60 [coca]: _v: pre-service <n>
+
+60 [coca]: _: pre-service <aj>
+60 [coca]: _.: preservice <aj>
 
 80: preservice
 
@@ -314203,7 +314308,8 @@
 
 85 [ukacd]: rangefinding
 
-80: rangeland <n>
+65 [coca] 80: rangeland <n>
+65 [coca]: - <n>: rangelands
 
 80: rangelands
 
@@ -316004,6 +316110,8 @@
 
 80: rearticulate <m>: rearticulated, rearticulating, rearticulates
 
+50 [coca]: rearview <aj>
+
 40: _: rearview mirror <n>: rearview mirrors
 40: _v: rear-view mirror <n>: rear-view mirrors
 ## Compound variant levels are a best guess based on freq and other related info.
@@ -316125,8 +316233,8 @@
 80 [upper]: Réaumur <n> # accented # fixme: pos_class originally "upper?"
 80 [upper]: _~: Reaumur <n> # need-accent # fixme: pos_class originally "upper"
 
-70 [5desk] 80: A Z: reauthorization <n>: reauthorizations
-70 [5desk] 80: B: reauthorisation <n>: reauthorisations
+60 [coca] 70 [5desk] 80: A Z: reauthorization <n>: reauthorizations
+60 [coca] 70 [5desk] 80: B: reauthorisation <n>: reauthorisations
 70 [5desk]: A Z: - <n>: reauthorization's
 70 [5desk]: B: - <n>: reauthorisation's
 
@@ -319039,7 +319147,7 @@
 
 80: refractometry <n>: refractometries
 
-70 [5desk] [moby] 80: refractor <n>: refractors
+60 [coca] 70 [5desk] [moby] 80: refractor <n>: refractors
 
 70 [5desk] 80: refractorily
 
@@ -323213,7 +323321,7 @@
 
 85 [ukacd]: respondentia <n>: respondentias
 
-70 [5desk] 80: responder <n>: responders
+60 [coca] 70 [5desk] 80: responder <n>: responders
 70 [5desk]: - <n>: responder's
 
 85 [ukacd]: Responsa </upper?>
@@ -328102,8 +328210,8 @@
 
 80 [moby]: Rockfield <n/place>
 
-70 [5desk] [moby] 80: _: rockfish <n>
-70 [5desk] [moby] 80: _V: rock-fish <n>
+60 [coca] 70 [5desk] [moby] 80: _: rockfish <n>
+60 [coca] 70 [5desk] [moby] 80: _V: rock-fish <n>
 70 [5desk] [moby]: _: - <n>: rockfish's
 70 [5desk] [moby]: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
@@ -338519,6 +338627,8 @@
 
 70 [3of6] [5desk] 80: schooled
 
+60 CA [coca] 60 US [coca]: schooler <n>: schoolers, schooler
+
 85 [ukacd]: schoolery
 
 60: schoolfellow <n>: schoolfellows, schoolfellow's
@@ -339893,8 +340003,8 @@
 70 [3of6] 85 [ukacd]: screen door <n>
 70 [3of6]: - <n>: screen doors
 
-70 [3of6] [5desk] 80: screener <n>: screeners
-70 [3of6] [5desk]: - <n>: screener's
+60 [coca] 70 [3of6] [5desk] 80: screener <n>: screeners
+60 [coca] 70 [3of6] [5desk]: - <n>: screener's
 
 35 [ukfreq] 50: screening <n>
 50: - <n>: screenings
@@ -348047,7 +348157,7 @@
 
 80: shiftable
 
-70 [5desk] 80: shifter <n>: shifters
+60 [coca] 70 [5desk] 80: shifter <n>: shifters
 70 [5desk]: - <n>: shifter's
 
 50: shiftily <av>
@@ -350816,7 +350926,7 @@
 70 [3of6] 80: signified <n>
 80: - <n>: signifieds
 
-70 [5desk] 80: signifier <n>: signifiers
+60 [coca] 70 [5desk] 80: signifier <n>: signifiers
 
 35: signify <v>: signified, signifying, signifies
 
@@ -355243,7 +355353,7 @@
 
 60: small-mindedness
 
-80: smallmouth <n>: smallmouths
+60 [coca] 80: _: smallmouth <n>: smallmouths
 
 70 [moby]: smallmouth bass <n>: smallmouth bass's
 
@@ -357328,7 +357438,8 @@
 
 70 [5desk] 80: sociobiology <n>: sociobiologies
 
-70 [3of6] 80: sociocultural <aj>
+60 [coca] 70 [3of6] 80: _: sociocultural <aj>
+60 [coca] 70 [3of6] 80: _v: socio-cultural <aj>
 
 80: socioculturally
 
@@ -358609,6 +358720,8 @@
 80 [moby]: Somerton <n/place>
 
 85 [ukacd]: Somerville </upper?>
+
+70 [coca]: somethin' <s> (colloquial)
 
 35: something <av>
 
@@ -366237,7 +366350,8 @@
 
 85 [ukacd]: starshine
 
-80: starship <n>: starships
+60 [coca] 80: starship <n>: starships # 1.893
+60 [coca]: - <n>: starship's
 
 70 [3of6] 85 [ukacd]: star sign <n>: star signs
 
@@ -366983,8 +367097,8 @@
 
 60: steel guitar <n>: steel guitars
 
-70 [moby] 80: steelhead <n>: steelheads
-70 [moby]: - <n>: steelhead's
+60 [coca] 70 [moby] 80: steelhead <n>: steelheads
+60 [coca] 70 [moby]: - <n>: steelhead's
 
 80: steelie <n>: steelies
 
@@ -370924,7 +371038,7 @@
 
 80: stripeless
 
-70 [moby] 80: striper <n>: stripers
+70 [coca] [moby] 80: striper <n>: stripers
 70 [moby]: - <n>: striper's
 
 35 [ukfreq] 70 [3of6] 80: stripes <n>
@@ -373242,7 +373356,8 @@
 
 80: subsaturation <n>: subsaturations
 
-80: subscale <n>: subscales
+60 [coca] 80: _: subscale <n>: subscales
+60 [coca] 80: _V: sub-scale <n>: sub-scales
 
 70 [moby] 80: subscapular <n>
 85 [ukacd]: - <n>: subscapulars!
@@ -373659,7 +373774,7 @@
 
 85 [ukacd]: subtersensuous
 
-80: subtest <n>: subtests
+60 [coca] 80: subtest <n>: subtests
 
 60: subtext <n>: subtexts
 
@@ -373769,7 +373884,8 @@
 
 85 [stale]: subtunic <n>: subtunics
 
-70 [5desk] [moby] 80: subtype <n>: subtypes
+60 [coca] 70 [5desk] [moby] 80: _: subtype <n>: subtypes
+60 [coca] 70 [5desk] [moby] 80: _V: sub-type <n>: sub-types
 
 80: subtypical
 
@@ -384653,8 +384769,8 @@
 35: _v: teen-age <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70: _: teenaged <aj>
-70: _V: teen-aged <aj>
+60 [coca] 70: _: teenaged <aj>
+60 [coca] 70: _V: teen-aged <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 35: teenager <n>: teenagers, teenager's
@@ -384929,8 +385045,9 @@
 
 85 [ukacd]: telecine <n>: telecines
 
-70 [3of6] 80: - <n>: telecoms
-80: telecom <n>
+60 [coca] 80: telecom <n>
+60 [coca]: - <n>: telecom's
+60 [coca] 70 [3of6] 80: - <n>: telecoms
 
 85 [ukacd]: telecommand
 
@@ -388689,6 +388806,8 @@
 
 35: thereby <av>
 
+70 [coca]: there'd <s> (colloquial)
+
 60: therefor <av>
 
 35: therefore <av>
@@ -388703,6 +388822,8 @@
 
 70 [moby] 80: thereinto
 
+50 [coca]: there'll <s>
+
 60 [extra] 80: theremin <n>: theremins
 60 [extra]: - <n>: theremin's
 
@@ -388715,7 +388836,7 @@
 
 85 [ukacd]: thereout
 
-80: there're <s>
+70 [coca] 80: there're <s> (colloquial)
 
 35: there's <s>
 
@@ -390497,7 +390618,7 @@
 
 70 [moby]: thrust bearing <n>
 
-70 [5desk] [moby] 80: thruster <n>: thrusters
+60 [coca] 70 [5desk] [moby] 80: thruster <n>: thrusters
 70 [5desk] [moby]: - <n>: thruster's
 
 70 [moby]: thrust fault <n>
@@ -393030,6 +393151,7 @@
 70 [3of6] 85 [ukacd]: to date <av>
 
 35: today <n>
+60 [coca]: - <n>: today's
 80: - <n>: todays~
 
 35: today <av>
@@ -396301,7 +396423,7 @@
 
 70 [moby]: trailer truck <n>
 
-80: trailhead <n>: trailheads
+60 [coca] 80: trailhead <n>: trailheads
 
 35 [ukfreq] 70 [3of6] 80: trailing <n>
 
@@ -396815,6 +396937,8 @@
 80: transformationalist <n>: transformationalists
 
 80: transformationally
+
+60 [coca]: transformative <aj>
 
 80: transformative
 
@@ -407886,7 +408010,7 @@
 
 40: underpaid <a>
 
-70 [moby] 80: underpainting <n>: underpaintings
+65 [coca] 70 [moby] 80: _: underpainting <n>: underpaintings
 
 35: underpants <n>
 
@@ -408033,6 +408157,8 @@
 80: underseller <n>: undersellers
 
 85 [ukacd]: undersense <n>: undersenses
+
+60 [coca]: underserved <aj>
 
 80: underserved
 
@@ -410991,6 +411117,8 @@
 
 85 [ukacd]: univariant
 
+60 [coca]: univariate <n>
+
 80: univariate
 
 35: universal <n>: universals
@@ -411851,7 +411979,7 @@
 
 85 [ukacd]: unmovedly
 
-70 [moby] 80: unmoving <aj>
+60 [coca] 70 [moby] 80: unmoving <aj>
 
 70 [5desk] 85 [stale] [ukacd]: unmown <aj>
 
@@ -428866,7 +428994,8 @@
 60 [brif] 70 [3of6] [moby] 80: weekender <n>: weekenders
 60 [brif] 70 [3of6] [moby]: - <n>: weekender's
 
-70 [3of6] 80: weeklong <aj>
+60 [coca] 70 [3of6] 80: _: weeklong <aj>
+60 [coca] 70 [3of6] 80: _v: week-long <aj>
 
 35: weekly <n>: weeklies, weekly's
 
@@ -430141,6 +430270,8 @@
 
 40: whatchamacallit <n>: whatchamacallits
 
+70 [coca]: what'd <s> (colloquial)
+
 70 [moby] 85 [ukacd]: whate'er
 
 80 [moby]: Whately <n/place>
@@ -430155,12 +430286,16 @@
 60: _v: what if
 ## Compound variant levels are a best guess based on freq and other related info.
 
+70 [coca]: what'll <s> (nonstandard)
+
 85 [ukacd]: whatna
 
 80: whatness <n>: whatnesses
 
 50: whatnot <n>
 80: - <n>: whatnots~
+
+70 [coca]: what're <s> (nonstandard)
 
 40: what's <s>
 
@@ -430426,6 +430561,8 @@
 
 35: whenever <c>
 
+60 [coca]: when's <s>
+
 85 [ukacd]: whensoe'er
 
 60: whensoever <a>
@@ -430455,6 +430592,8 @@
 50: whereat <a>
 
 35: whereby <a>
+
+50 [coca]: where'd <s>
 
 70 [moby] 85 [ukacd]: where'er
 
@@ -433137,6 +433276,8 @@
 80: wingbow <n>: wingbows
 
 60: wing chair <n>: wing chairs
+
+60 [coca]: wing chun <n>: wing chun's
 
 60: wing collar <n>: wing collars
 
@@ -438138,6 +438279,8 @@
 
 80 [upper]: Yizkor <n/upper?>: Yizkors
 
+60 [coca]: y'know <s> (informal)
+
 80 [moby]: yl <suf>
 
 70 [moby] 85 [ukacd]: ylang-ylang <n>
@@ -440794,6 +440937,9 @@
 #:   x: 9: invalid
 #:
 #: Usage Notes:
+#:   colloquial
+#:   informal
+#:   nonstandard
 #:   offensive-1
 #:   offensive-2
 #:   vulgar-1
@@ -440809,6 +440955,7 @@
 #:   [3of6]
 #:   [5desk]
 #:   [brif]
+#:   [coca]
 #:   [cs]
 #:   [extra]
 #:   [lcacr]
