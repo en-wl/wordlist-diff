@@ -195749,7 +195749,7 @@
 
 80 [moby]: irreg. <abbr>
 
-70 [-] [5desk] 80: irregardless <av>
+70 [-] [5desk] 80: irregardless <av> (nonstandard)
 
 35: irregular <n>: irregulars, irregular's
 
