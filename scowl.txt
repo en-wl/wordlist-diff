@@ -131412,7 +131412,6 @@
 70 [5desk] 80: _: - <n>
 70 [5desk] 80: _v: - <n>: facedowns
 70 [5desk] 80: _V: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 85 [ukacd]: face-harden <v>
 
@@ -172707,7 +172706,6 @@
 
 60 [coca] 70 [3of6] 80: _: high-flying <aj>
 60 [coca] 70 [3of6] 80: _v: highflying <aj>
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: high frequency <n>
 
@@ -236756,7 +236754,6 @@
 60 [coca] 80: _v: mid-morning <n>
 80: _: - <n>: midmornings
 80: _v: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: midmost <aj_av>
 
