@@ -26540,14 +26540,13 @@
 60: awesomeness <n>
 80: - <n>: awesomenesses~
 
-50: _ {1}: awe-stricken <aj>
-50: _ {2}: awestruck <aj>
-50: _v: awe-struck <aj>
-50: _V: awestricken <aj>
-## Compound variant levels are a best guess based on freq and other related info.
-
 70 [5desk] 85 [ukacd]: - <m>: awestruck, (awestruck | V: awestricken), -, -
 85 [ukacd]: awestrike <m>: -, awestriking, awestrikes
+
+50: _: awestruck <aj>
+50: _?: awe-struck <aj>
+50: _V {1}: awe-stricken <aj>
+50: _V {2}: awestricken <aj>
 
 85 [ukacd]: aweto <n>: awetos
 
@@ -72064,10 +72063,10 @@
 
 50 [name] 70 [5desk] [moby]: Cochabamba <n/name?>: Cochabamba's
 
-60 [coca] 85 [ukacd]: _: cochair <n>: cochairs
-60 [coca] 85 [ukacd]: _?: co-chair <n>: co-chairs
+60 [coca] 80: _: cochair <n>: cochairs
+60 [coca] 80: _?: co-chair <n>: co-chairs
 
-80: cochair <m>: cochaired, cochairing, cochairs
+80: cochair <v>: cochaired, cochairing, cochairs
 
 80: cochairman <n>: cochairmen
 
@@ -72923,10 +72922,8 @@
 
 80: cofinance <m>: cofinanced, cofinancing, cofinances
 
-60 [coca]: _: cofound <v>: cofounded, cofounding, cofounds
-60 [coca]: _?: co-found <v>: co-founded, co-founding, co-founds
-
-80: cofound <m>: cofounded, cofounding, cofounds
+60 [coca] 80: _: cofound <v>: cofounded, cofounding, cofounds
+60 [coca] 80: _?: co-found <v>: co-founded, co-founding, co-founds
 
 50 [coca] 80: _: cofounder <n>: cofounders
 50 [coca] 80: _?: co-founder <n>: co-founders
@@ -73172,12 +73169,8 @@
 
 70 [moby] 80: cohosh <n>: cohoshes
 
-60 [coca]: _: cohost <n_v>: cohosted, cohosting, cohosts
-60 [coca]: _?: co-host <n_v>: co-hosted, co-hosting, co-hosts
-
-70 [5desk] 80: _: cohost <m>: cohosted, cohosting, cohosts
-70 [5desk] 80: _?: co-host <m>: co-hosted, co-hosting, co-hosts
-## Compound variant levels are a best guess based on freq and other related info.
+60 [coca] 70 [5desk] 80: _: cohost <n_v>: cohosted, cohosting, cohosts
+60 [coca] 70 [5desk] 80: _?: co-host <n_v>: co-hosted, co-hosting, co-hosts
 
 80: cohostess <m>: cohostessed, cohostessing, cohostesses
 
@@ -192267,9 +192260,7 @@
 
 80: intercurrently
 
-60 [coca]: intercut <v>: intercut, intercutting, intercuts
-
-70 [3of6] [moby] 80: intercut <m>: intercut, intercutting, intercuts
+60 [coca] 70 [3of6] [moby] 80: intercut <v>: intercut, intercutting, intercuts
 
 85 [ukacd]: interdash <m>: interdashed, interdashing, interdashes
 
@@ -199940,14 +199931,11 @@
 70 [3of6]: Jobseeker's Allowance </upper?>
 
 60 [brif] 85 [ukacd]: _: jobshare <n>
-60 [brif] 85 [ukacd]: _v: job share <n>
+60 [brif] 85 [ukacd]: _=: job share <n>
 60 [brif]: _: - <n>: jobshares
-60 [brif]: _v: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
+60 [brif]: _=: - <n>
 
-60: _: job-share <m>: job-shared, job-sharing, job-shares
-60: _V: job share <m>
-## Compound variant levels are a best guess based on freq and other related info.
+60: job-share <v>: job-shared, job-sharing, job-shares
 
 60: job-sharing
 
@@ -212197,9 +212185,9 @@
 70 [moby] 85 [ukacd]: League of Nations <n/upper>
 70 [moby]: - <n/upper>: League of Nations's
 
-60 [coca]: leaguer <n>: leaguers
+60 [coca] 70 [moby] 80: leaguer <n>: leaguers
 
-70 [moby] 80: leaguer <m>: leaguered, leaguering, leaguers
+70 [moby] 80: leaguer <v>: leaguered, leaguering, leaguers
 
 70 [3of6] 85 [ukacd]: league table <n>: league tables
 
@@ -328714,17 +328702,12 @@
 35: _v: rollercoaster <n>: rollercoasters
 ## Compound variant levels are a best guess based on freq and other related info.
 
-35: _: roller skate <n>: roller skates
-35: _v: rollerskate <n>
-## Compound variant levels are a best guess based on freq and other related info.
-
-35: _: roller skate <v>
+35: _: roller-skate <v>
 35: _v: rollerskate <v>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: - <v>: roller-skated, roller-skating, roller-skates
+40: _v: - <v>: rollerskated, rollerskating, rollerskates
 
-40: _: roller-skate <m>: roller-skated, roller-skating, roller-skates
-40: _v: rollerskate <m>
-## Compound variant levels are a best guess based on freq and other related info.
+35: roller skate <n>: roller skates
 
 50: roller skater
 
@@ -351199,13 +351182,11 @@
 
 80: silkoline <n>: silkolines
 
-60: _: silkscreen <n_v>: silkscreened, silkscreening, silkscreens
-60: _=: silk screen <n_v>: -, -, -
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: silkscreen <n>: silkscreens
+60: _=: silk screen <n>: silk screens
 
-60: _: silk-screen <m>: silk-screened, silk-screening, silk-screens
-60: _=: silk screen <m>
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: silkscreen <v>: silkscreened, silkscreening, silkscreens
+60: _=: silk-screen <v>: silk-screened, silk-screening, silk-screens
 
 85 [ukacd]: silktail <n>: silktails
 

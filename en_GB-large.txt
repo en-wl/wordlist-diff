@@ -136365,6 +136365,8 @@ rollercoaster
 rollercoasters
 rollers
 rollerskate
+rollerskated
+rollerskates
 rollerskating
 rollick
 rollicked
