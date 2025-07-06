@@ -74,6 +74,7 @@ New words, unclassified:
   feedstocks
   femme
   femmes
+  financials
   foodborne
   frontline
   frontman
@@ -84,6 +85,8 @@ New words, unclassified:
   grandkids
   grandmaster
   grandmasters
+  influencer
+  influencers
   interagency
   intercut
   intercuts
@@ -102,6 +105,8 @@ New words, unclassified:
   meagerrer
   meagerrest
   melatonin
+  microbiome
+  microbiomes
   midafternoon
   midmorning
   midseason
@@ -190,7 +195,7 @@ New words, unclassified:
   whomso
   whoseso
   y'know
-total: 191
+total: 196
 
 New words, upper plural:
   Amerasians

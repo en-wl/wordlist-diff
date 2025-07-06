@@ -49245,6 +49245,7 @@ financed
 finances
 financial
 financially
+financials
 financier
 financier's
 financiers
@@ -59571,6 +59572,9 @@ inflows
 influence
 influence's
 influenced
+influencer
+influencer's
+influencers
 influences
 influencing
 influential
@@ -67445,6 +67449,9 @@ microbiologist
 microbiologist's
 microbiologists
 microbiology
+microbiome
+microbiome's
+microbiomes
 microbreweries
 microbrewery
 microchip

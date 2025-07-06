@@ -136951,6 +136951,8 @@
 
 60: financial markets
 
+60 [extra]: financials <pl>
+
 60: financial year <n>: financial years
 
 35: financier <n>: financiers, financier's
@@ -189324,7 +189326,8 @@
 
 80: influenceable
 
-80: influencer <n>: influencers
+50 [+] 80: influencer <n>: influencers
+50 [+]: - <n>: influencer's
 
 70 [moby] 80: influent <aj>
 
@@ -235721,6 +235724,8 @@
 
 35: microbiology <n>
 80: - <n>: microbiologies~
+
+60 [extra]: microbiome <n>: microbiomes, microbiome's
 
 85 [ukacd]: microbiota
 
