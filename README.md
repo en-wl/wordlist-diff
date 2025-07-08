@@ -16,7 +16,7 @@ Author: Kevin Atkinson <kevina@gnu.org>
 Date:   Tue Sep 13 01:33:25 2016 -0400
 
     (Update web apps for Australian spelling.)
-    
+
     NO CHANGE.
     = 5742c1602ae3d6daebe57bd8da4b7ab2898a0e13
 ```
@@ -36,7 +36,7 @@ Author: Kevin Atkinson <kevina@gnu.org>
 Date:   Fri Jun 24 20:19:54 2016 -0400
 
     Add some high freq. words from issue #147, #148, #152.
-    
+
     = 62835398570f2fd24d5006aa4cee9de7e0048304
 ```
 

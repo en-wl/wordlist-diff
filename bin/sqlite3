@@ -1,0 +1,5 @@
+#!/bin/sh
+
+: ${SQLITE3:=/usr/bin/sqlite3}
+exec $SQLITE3 -init /dev/null "$@"
+

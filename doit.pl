@@ -4,6 +4,9 @@ use Cwd;
 use strict;
 use warnings;
 
+my $SCOWL_BRANCH = $ENV{SCOWL_BRANCH} // 'v2';
+my $DIFF_BRANCH = $ENV{DIFF_BRANCH} // 'diff';
+
 my @SKIP = qw(
   b6c86a021eb9373b11f0caec833b09137a88c159
   08bdc37dec9033335dcbb8fb2703e58f88db900b
@@ -34,7 +37,7 @@ foreach (@PRUNE) {$PRUNE{$_} = 1}
 
 my @commits;
 my %commits;
-open HIST, "git log scowl-7.0^..v2 --reverse --pretty='format:%H %P' |";
+open HIST, "git log scowl-7.0^..$SCOWL_BRANCH --reverse --pretty='format:%H %P' |";
 while (<HIST>) {
     chomp;
     my @d = split / /;
@@ -49,7 +52,7 @@ while (<HIST>) {
 $commits[0]{parentsId} = [];
 
 $commits[0]->{w_change} = 1;
-my $GIT="git log scowl-7.0^..v2 --pretty='format:%H' ";
+my $GIT="git log scowl-7.0^..$SCOWL_BRANCH --pretty='format:%H' ";
 my $FILTER = "-- . ':!site/' ':!.misc/' ':!**/README*' ':!README*'";
 open HIST, "($GIT $FILTER && echo && $GIT --first-parent --merges $FILTER && echo) | ";
 while (<HIST>) {
@@ -65,7 +68,7 @@ while (<HIST>) {
 #   will be re-done, but the contents will not be re-done.
 # Only one option can be used at a time, uncomment the one you want
 $/='===---===';
-open HIST, "git log diff --pretty='format:~ %H ~%n%B%n===---===%n' |";
+open HIST, "git log $DIFF_BRANCH --pretty='format:~ %H ~%n%B%n===---===%n' |";
 while (<HIST>) {
     next if /^\s+$/s;
     my ($new) = /~ ([a-z0-9]+) ~/ or die;
@@ -128,8 +131,10 @@ foreach my $c (@commits) {
                 sys "make && mkdir scowl/speller/hunspell && make -C scowl/speller hunspell";
                 sys "ln -s scowl/speller speller";
             } elsif (-d 'libscowl') {
-                sys "make";
+                sys "make scowl.txt";
                 sys "make -C speller hunspell";
+                sys "ln -s ../comp";
+                sys "comp/comp.sh";
             } else {
                 die
             }
@@ -141,6 +146,10 @@ foreach my $c (@commits) {
                 sys 'for f in ../speller/*.tocheck; do cp $f `basename $f .tocheck`.txt; done';
             }
             sys "git update-index --add en_*.txt";
+            if (-e '../scowl.txt') {
+                sys "cp ../scowl.txt ../comp-60.txt .";
+                sys "git update-index --add scowl.txt comp-60.txt";
+            }
         };
         $err = $@;
         chdir $dir or die;
@@ -178,7 +187,7 @@ foreach my $c (@commits) {
     chop $newId;
     print STDOUT "************* $newId\n";
     print STDERR "************* $newId\n";
-    sys "git branch -f diff $newId";
+    sys "git branch -f $DIFF_BRANCH $newId";
     $c->{newId} = $newId;
 }
 

@@ -1,13 +1,22 @@
+#!/bin/sh
+
 # this will update an already populated git-disk
 
 set -ex
 
+: ${SCOWL_BRANCH:=v2}
+export SCOWL_BRANCH
+: ${DIFF_BRANCH:=diff}
+export DIFF_BRANCH
+ROOTDIR="$PWD"
+
 cd git-disk
 
-git fetch src
-git checkout v2
-git reset --hard src/v2
+git reset --hard
 git clean -xfd
+git fetch src
+git checkout "$SCOWL_BRANCH"
+git reset --hard src/"$SCOWL_BRANCH"
 
 #git fetch diff
 #git branch -f diff diff/diff
@@ -17,6 +26,6 @@ cd ..
 if ! mountpoint -q git; then sh init.sh; fi
 
 cd git
-perl ../doit.pl
+PATH="$ROOTDIR/bin:$PATH" perl ../doit.pl
 
 echo 'now do: cd git; sh ../push.sh'
