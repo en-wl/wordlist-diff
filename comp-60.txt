@@ -1,8 +1,6 @@
 New words, unclassified:
-  meagerrer
-  meagerrest
   po'boy
-total: 3
+total: 1
 
 New words, upper plural:
   Amerasians
@@ -1106,6 +1104,8 @@ New words, ok, in 2of12id:
   kindergartners
   lipreaders
   lovechildren
+  meagerer
+  meagerest
   millennials
   nonexempts
   nonfoods
@@ -1139,7 +1139,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 84
+total: 86
 
 New words, ok, other:
   Curaçao

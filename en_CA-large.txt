@@ -54501,7 +54501,6 @@ constructively
 constructiveness
 constructivism
 constructivism's
-constructivisms
 constructivist
 constructivist's
 constructivists
@@ -103357,11 +103356,11 @@ meadowsweet
 meadowsweets
 meadowy
 meager
+meagerer
+meagerest
 meagerly
 meagerness
 meagerness's
-meagerrer
-meagerrest
 meagre
 meagrely
 meagreness

@@ -79416,7 +79416,7 @@
 
 60 [coca] 70 [5desk] [moby] 80: constructivism <n>
 60 [coca] 70 [5desk] [moby]: - <n>: constructivism's
-70 [5desk] [moby] 80: - <n>: constructivisms
+80: - <n>: constructivisms~
 
 80 [upper]: Constructivism <n/upper?>: Constructivisms
 
@@ -230921,10 +230921,10 @@
 
 50: Meagan <n/person>: Meagan's
 
-35: A Cv: meager <aj> # fixme: meagerer, meagerest: check if variant
-35: B C: meagre <aj>
-50: A Cv: - <aj>: (meagerrer | -: meagerer-), (meagerrest | -: meagerest-)
-50: B C: - <aj>: meagrer, meagrest
+35: A Cv: meager <aj>
+35: AV B C: meagre <aj>
+50: A Cv: - <aj>: meagerer-, meagerest-
+50: AV B C: - <aj>: meagrer-, meagrest-
 
 85 [ukacd]: A Cv: -meager <n>
 85 [ukacd]: B C: -meagre <n>: meagres
