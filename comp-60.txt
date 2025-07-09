@@ -1,215 +1,8 @@
-Missing words, NOT OK, closed form of compound word:
-  absentminded
-  airbag
-  airbags
-  airbase
-  airbases
-  airguns
-  airletters
-  airtime
-  angelfishes
-  backseat
-  backseats
-  ballgame
-  ballgames
-  bankcard
-  bankcards
-  bestselling
-  blowjob
-  blowjobs
-  bluejeans
-  brainwave
-  brainwaves
-  breakpoints
-  brushoff
-  brushoffs
-  bubblegum
-  builtin
-  catchphrase
-  catchphrases
-  chickenfeed
-  chickenhearted
-  chickenpox
-  clearheaded
-  closeup
-  closeups
-  coastguard
-  coastguards
-  coffeecake
-  coffeecakes
-  conman
-  crawlspace
-  crawlspaces
-  daycare
-  deescalation
-  deice
-  deiced
-  deices
-  deicing
-  dreamworld
-  dreamworlds
-  dumdum
-  dumdums
-  eyeopener
-  eyeopeners
-  firetruck
-  firetrucks
-  firstborns
-  flareup
-  flareups
-  flashcard
-  flashcards
-  flowchart
-  flowcharts
-  folksinger
-  folksingers
-  followup
-  followups
-  fortuneteller
-  fortunetellers
-  fortunetelling
-  fourposter
-  fourposters
-  garbageman
-  godawful
-  goldmine
-  goldmines
-  goosebumps
-  grownup
-  grownups
-  hairdryer
-  hairdryers
-  hairspray
-  hairsprays
-  halfwit
-  halfwits
-  hangup
-  hangups
-  hardhats
-  hardliner
-  hardliners
-  hardworking
-  headcount
-  headcounts
-  heatwave
-  heatwaves
-  heavyhearted
-  highchair
-  highchairs
-  highhandedness
-  highroad
-  highroads
-  homepage
-  homepages
-  hotplate
-  hotplates
-  icecap
-  icecaps
-  landmine
-  landmines
-  launchpad
-  launchpads
-  lawnmower
-  lawnmowers
-  letterbomb
-  letterbombs
-  lifebelt
-  lifebelts
-  lifebuoy
-  lifebuoys
-  lightheaded
-  lipread
-  lipreads
-  longstanding
-  mealymouthed
-  muddleheaded
-  mugshot
-  mugshots
-  muleskinner
-  muleskinners
-  muskox
-  muskoxen
-  nightlight
-  nightlights
-  nosecone
-  nosecones
-  noway
-  offsite
-  onsite
-  openhearted
-  paperclip
-  paperclips
-  parimutuel
-  parimutuels
-  payphone
-  payphones
-  percents
-  pointblank
-  poorboy
-  popup
-  popups
-  preowned
-  punchline
-  punchlines
-  ripcord
-  ripcords
-  ripoff
-  ripoffs
-  screensaver
-  screensavers
-  sendoff
-  sendoffs
-  showoff
-  showoffs
-  sixshooter
-  smartypants
-  smokescreen
-  smokescreens
-  soundbite
-  soundbites
-  spacetime
-  spiderweb
-  spiderwebs
-  startup
-  startups
-  swansong
-  swansongs
-  swearword
-  swearwords
-  sweatsuit
-  sweatsuits
-  sweetcorn
-  teabag
-  teabags
-  topnotch
-  tossup
-  tossups
-  trashcan
-  trashcans
-  tuneup
-  tuneups
-  voicemail
-  voicemails
-  warmhearted
-  waterhole
-  waterholes
-  waterlilies
-  waterlily
-  waterwheel
-  waterwheels
-  wheatgerm
-  whizkid
-  wholewheat
-  wildcard
-  wildcards
-  wiseguy
-  wiseguys
-total: 205
-
 New words, unclassified:
   meagerrer
   meagerrest
-total: 2
+  po'boy
+total: 3
 
 New words, upper plural:
   Amerasians
@@ -370,6 +163,7 @@ Missing words, unclassified:
   pareses
   patellae
   pencilings
+  percents
   peristalses
   pfennigs
   piing
@@ -436,11 +230,97 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 148
+total: 149
 
 Missing words, closed form of compound word marked as variant:
+  airbase
+  airbases
+  airletters
+  backseat
+  backseats
+  bankcard
+  bankcards
+  bluejeans
+  brushoff
+  brushoffs
+  builtin
   camelhair
-total: 1
+  chickenfeed
+  closeup
+  closeups
+  coastguard
+  coastguards
+  coffeecake
+  coffeecakes
+  conman
+  crawlspace
+  crawlspaces
+  deescalate
+  deescalated
+  deescalates
+  deescalating
+  deescalation
+  eyeopener
+  eyeopeners
+  firetruck
+  firetrucks
+  flareup
+  flareups
+  folksinging
+  followup
+  followups
+  fortuneteller
+  fortunetellers
+  fortunetelling
+  fourposter
+  fourposters
+  goldmine
+  goldmines
+  grownup
+  grownups
+  hangup
+  hangups
+  hardhats
+  headcount
+  headcounts
+  highchair
+  highchairs
+  highhanded
+  highhandedness
+  highroad
+  highroads
+  hotplate
+  hotplates
+  lawnmower
+  lawnmowers
+  letterbomb
+  letterbombs
+  nosecone
+  nosecones
+  offsite
+  onsite
+  pointblank
+  smartypants
+  smokescreen
+  smokescreens
+  soundbite
+  soundbites
+  swansong
+  swansongs
+  swearword
+  swearwords
+  teabag
+  teabags
+  topnotch
+  trashcan
+  trashcans
+  waterlilies
+  waterlily
+  waterwheel
+  waterwheels
+  wheatgerm
+  whizkid
+total: 87
 
 Missing words, common variant:
   amoebae
@@ -1134,11 +1014,13 @@ New words, ok, all-upper lemma:
 total: 50
 
 New words, ok, closed form of compound word:
+  airgun
   barcode
   barcodes
   boomtown
   boomtowns
   brownnoser
+  bubblegums
   carpooler
   chowchow
   clearheadedness
@@ -1151,6 +1033,7 @@ New words, ok, closed form of compound word:
   getups
   grandmaster
   grandmasters
+  halfwitted
   leadoff
   lightheadedness
   newsagencies
@@ -1165,10 +1048,11 @@ New words, ok, closed form of compound word:
   sonofabitch
   sou'westers
   stuntwoman
+  warmheartedly
   waterskiing
   wetsuit
   wetsuits
-total: 34
+total: 38
 
 New words, ok, in 2of12id:
   attaches
@@ -1202,6 +1086,7 @@ New words, ok, in 2of12id:
   guilted
   guilting
   guilts
+  hardline
   honeylocusts
   hotline
   hotlines
@@ -1254,7 +1139,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 83
+total: 84
 
 New words, ok, other:
   Curaçao
@@ -1466,6 +1351,8 @@ Missing words, ok, variant:
   druggy
   fora
   gasses
+  hairdryer
+  hairdryers
   humus
   kindergärtner
   kindergärtners
@@ -1473,12 +1360,14 @@ Missing words, ok, variant:
   phoneyed
   phoneying
   planeloads
+  poorboy
   samurais
   seguing
+  sixshooter
   superheros
   tsarists
   unpeople
   zloties
   Ångström
-total: 25
+total: 29
 

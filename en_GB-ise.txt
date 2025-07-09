@@ -20819,6 +20819,7 @@ absenteeism
 absentees
 absenting
 absently
+absentminded
 absentmindedly
 absentmindedness
 absents
@@ -22104,6 +22105,10 @@ aimlessness
 aims
 ain't
 air
+airbag
+airbags
+airbase
+airbases
 airbed
 airbeds
 airborne
@@ -22136,6 +22141,8 @@ airfield's
 airfields
 airflow
 airfreight
+airgun
+airguns
 airhead
 airhead's
 airheads
@@ -22188,6 +22195,7 @@ airstrikes
 airstrip
 airstrips
 airtight
+airtime
 airwaves
 airway
 airways
@@ -23040,6 +23048,7 @@ angel
 angel's
 angelfish
 angelfish's
+angelfishes
 angelic
 angelica
 angelical
@@ -25716,6 +25725,8 @@ ballet
 ballet's
 balletic
 ballets
+ballgame
+ballgames
 ballgirl
 ballgirls
 ballgown
@@ -27161,6 +27172,7 @@ bests
 bestseller
 bestseller's
 bestsellers
+bestselling
 bet
 bet's
 beta
@@ -28217,6 +28229,9 @@ blowholes
 blowier
 blowiest
 blowing
+blowjob
+blowjob's
+blowjobs
 blowlamp
 blowlamps
 blown
@@ -29192,6 +29207,8 @@ brainwash
 brainwashed
 brainwashes
 brainwashing
+brainwave
+brainwaves
 brainy
 braise
 braised
@@ -29354,6 +29371,7 @@ breaking
 breakneck
 breakout
 breakouts
+breakpoints
 breaks
 breakthrough
 breakthroughs
@@ -29845,6 +29863,8 @@ bub
 bubble
 bubble's
 bubbled
+bubblegum
+bubblegums
 bubbles
 bubblier
 bubbliest
@@ -31885,6 +31905,8 @@ catchment
 catchment's
 catchments
 catchpenny
+catchphrase
+catchphrases
 catchword
 catchwords
 catchy
@@ -32980,7 +33002,9 @@ chickadees
 chicken
 chicken's
 chickened
+chickenhearted
 chickening
+chickenpox
 chickens
 chickenshit
 chickenshits
@@ -33898,6 +33922,7 @@ clearances
 cleared
 clearer
 clearest
+clearheaded
 clearheadedness
 clearing
 clearing's
@@ -34348,6 +34373,9 @@ coasted
 coaster
 coaster's
 coasters
+coastguard
+coastguard's
+coastguards
 coasting
 coastline
 coastlines
@@ -39538,6 +39566,7 @@ day's
 daybed
 daybeds
 daybreak
+daycare
 daydream
 daydreamed
 daydreamer
@@ -40108,10 +40137,6 @@ deer's
 deerskin
 deerstalker
 deerstalkers
-deescalate
-deescalated
-deescalates
-deescalating
 def
 deface
 defaced
@@ -40373,8 +40398,12 @@ dehydrogenate
 dehydrogenated
 dehydrogenates
 dehydrogenating
+deice
+deiced
 deicer
 deicers
+deices
+deicing
 deification
 deification's
 deified
@@ -43983,6 +44012,8 @@ dreamland
 dreamless
 dreamlike
 dreams
+dreamworld
+dreamworlds
 dreamy
 drear
 drearier
@@ -44369,6 +44400,8 @@ dumbos
 dumbstruck
 dumbwaiter
 dumbwaiters
+dumdum
+dumdums
 dummies
 dummy
 dummy's
@@ -49399,6 +49432,7 @@ firs
 first
 firstborn
 firstborn's
+firstborns
 firsthand
 firstly
 firsts
@@ -49657,6 +49691,8 @@ flashback
 flashbacks
 flashbulb
 flashbulbs
+flashcard
+flashcards
 flashcube
 flashcubes
 flashed
@@ -50027,6 +50063,8 @@ flouting
 flouts
 flow
 flow's
+flowchart
+flowcharts
 flowed
 flower
 flower's
@@ -50270,7 +50308,8 @@ folks
 folksier
 folksiest
 folksiness
-folksinging
+folksinger
+folksingers
 folksy
 folktale
 folktales
@@ -52016,6 +52055,8 @@ garages
 garaging
 garb
 garbage
+garbageman
+garbageman's
 garbanzo
 garbanzos
 garbed
@@ -53211,6 +53252,7 @@ gobstopper
 gobstoppers
 god
 god's
+godawful
 godchild
 godchild's
 godchildren
@@ -53380,6 +53422,7 @@ goose
 goose's
 gooseberries
 gooseberry
+goosebumps
 goosed
 gooseflesh
 gooses
@@ -54810,6 +54853,8 @@ hairsplitter
 hairsplitter's
 hairsplitters
 hairsplitting
+hairspray
+hairsprays
 hairspring
 hairsprings
 hairstyle
@@ -54852,6 +54897,9 @@ halftimes
 halftone
 halftones
 halfway
+halfwit
+halfwits
+halfwitted
 halibut
 halibut's
 halibuts
@@ -55182,6 +55230,10 @@ hardiest
 hardihood
 hardily
 hardiness
+hardline
+hardliner
+hardliner's
+hardliners
 hardly
 hardness
 hardscrabble
@@ -55198,6 +55250,7 @@ hardware's
 hardwired
 hardwood
 hardwoods
+hardworking
 hardy
 hare
 hare's
@@ -55730,6 +55783,8 @@ heating
 heatproof
 heats
 heatstroke
+heatwave
+heatwaves
 heave
 heaved
 heaven
@@ -55752,6 +55807,7 @@ heaviness
 heaving
 heavy
 heavy's
+heavyhearted
 heavyset
 heavyweight
 heavyweight's
@@ -56231,7 +56287,6 @@ higher
 highers
 highest
 highfalutin
-highhanded
 highhandedly
 highland
 highlander
@@ -56673,6 +56728,8 @@ homeostatic
 homeowner
 homeowner's
 homeowners
+homepage
+homepages
 homer
 homer's
 homered
@@ -57870,6 +57927,8 @@ icebox
 iceboxes
 icebreaker
 icebreakers
+icecap
+icecaps
 iced
 iceman
 iceman's
@@ -62969,6 +63028,8 @@ landmark's
 landmarks
 landmass
 landmasses
+landmine
+landmines
 landowner
 landowner's
 landowners
@@ -63229,6 +63290,8 @@ launcher's
 launchers
 launches
 launching
+launchpad
+launchpads
 launder
 laundered
 launderer
@@ -63990,10 +64053,14 @@ lieutenant's
 lieutenants
 life
 life's
+lifebelt
+lifebelts
 lifeblood
 lifeboat
 lifeboat's
 lifeboats
+lifebuoy
+lifebuoys
 lifeforms
 lifeguard
 lifeguard's
@@ -64057,6 +64124,7 @@ lighters
 lightest
 lightface
 lightfaced
+lightheaded
 lightheadedness
 lighthearted
 lightheartedly
@@ -64299,9 +64367,11 @@ lipids
 liposuction
 lipped
 lippy
+lipread
 lipreader
 lipreaders
 lipreading
+lipreads
 lips
 lipstick
 lipstick's
@@ -64796,6 +64866,7 @@ longshoreman's
 longshoremen
 longshoremen's
 longsighted
+longstanding
 longtime
 longueur
 longueurs
@@ -66683,6 +66754,7 @@ mealy
 mealybug
 mealybug's
 mealybugs
+mealymouthed
 mean
 meander
 meandered
@@ -69451,6 +69523,7 @@ muddily
 muddiness
 muddle
 muddled
+muddleheaded
 muddles
 muddling
 muddy
@@ -69510,6 +69583,8 @@ muggle
 muggles
 muggy
 mugs
+mugshot
+mugshots
 mugwump
 mugwump's
 mugwumps
@@ -69534,6 +69609,8 @@ mulcts
 mule
 mule's
 mules
+muleskinner
+muleskinners
 muleteer
 muleteer's
 muleteers
@@ -69805,6 +69882,8 @@ muskiest
 muskiness
 muskmelon
 muskmelons
+muskox
+muskoxen
 muskrat
 muskrat's
 muskrats
@@ -70809,6 +70888,8 @@ nightingale
 nightingale's
 nightingales
 nightlife
+nightlight
+nightlights
 nightlong
 nightly
 nightmare
@@ -71595,6 +71676,7 @@ novitiate's
 novitiates
 now
 nowadays
+noway
 noways
 nowhere
 nowise
@@ -72556,6 +72638,7 @@ openers
 openest
 openhanded
 openhandedness
+openhearted
 opening
 openings
 openly
@@ -74479,6 +74562,8 @@ paperboard
 paperboy
 paperboy's
 paperboys
+paperclip
+paperclips
 papered
 paperer
 paperer's
@@ -74720,6 +74805,8 @@ pariah's
 pariahs
 paribus
 parietal
+parimutuel
+parimutuels
 paring
 parings
 parish
@@ -75259,6 +75346,8 @@ payoffs
 payola
 payout
 payouts
+payphone
+payphones
 payroll
 payroll's
 payrolls
@@ -77683,6 +77772,7 @@ pneumococci's
 pneumococcus
 pneumococcus's
 pneumonia
+po'boy
 poach
 poached
 poacher
@@ -78194,6 +78284,9 @@ populist's
 populists
 populous
 populousness
+popup
+popup's
+popups
 porcelain
 porcelains
 porch
@@ -79074,6 +79167,7 @@ preordain
 preordained
 preordaining
 preordains
+preowned
 prep
 prepackage
 prepackaged
@@ -80714,6 +80808,8 @@ punches
 punchier
 punchiest
 punching
+punchline
+punchlines
 punchy
 punctilio
 punctilious
@@ -85840,6 +85936,8 @@ riots
 rip
 rip's
 riparian
+ripcord
+ripcords
 ripe
 ripely
 ripen
@@ -85849,6 +85947,8 @@ ripening
 ripens
 riper
 ripest
+ripoff
+ripoffs
 riposte
 riposte's
 riposted
@@ -88075,6 +88175,9 @@ screenings
 screenplay
 screenplays
 screens
+screensaver
+screensaver's
+screensavers
 screenshot
 screenshots
 screenwriter
@@ -88852,6 +88955,8 @@ sender
 sender's
 senders
 sending
+sendoff
+sendoffs
 sends
 senescence
 senescent
@@ -89990,6 +90095,9 @@ showmanship
 showmen
 showmen's
 shown
+showoff
+showoff's
+showoffs
 showpiece
 showpieces
 showplace
@@ -92568,6 +92676,7 @@ spaceships
 spacesuit
 spacesuit's
 spacesuits
+spacetime
 spacewalk
 spacewalked
 spacewalking
@@ -92939,6 +93048,8 @@ spicy
 spider
 spider's
 spiders
+spiderweb
+spiderwebs
 spidery
 spied
 spiel
@@ -93930,6 +94041,9 @@ startles
 startling
 startlingly
 starts
+startup
+startup's
+startups
 starvation
 starve
 starved
@@ -96459,6 +96573,8 @@ sweatshirt
 sweatshirts
 sweatshop
 sweatshops
+sweatsuit
+sweatsuits
 sweaty
 swede
 swedes
@@ -96479,6 +96595,7 @@ sweetbreads
 sweetbrier
 sweetbrier's
 sweetbriers
+sweetcorn
 sweeten
 sweetened
 sweetener
@@ -99491,6 +99608,8 @@ tosser
 tossers
 tosses
 tossing
+tossup
+tossups
 tot
 tot's
 total
@@ -100915,6 +101034,8 @@ tuner
 tuner's
 tuners
 tunes
+tuneup
+tuneups
 tungsten
 tunic
 tunics
@@ -104700,6 +104821,8 @@ voiced
 voiceless
 voicelessly
 voicelessness
+voicemail
+voicemails
 voices
 voicing
 void
@@ -105206,6 +105329,8 @@ warmed
 warmer
 warmers
 warmest
+warmhearted
+warmheartedly
 warmheartedness
 warming
 warmish
@@ -105394,6 +105519,8 @@ waterfowls
 waterfront
 waterfront's
 waterfronts
+waterhole
+waterholes
 waterier
 wateriest
 wateriness
@@ -106197,6 +106324,7 @@ wholesaling
 wholesome
 wholesomely
 wholesomeness
+wholewheat
 wholly
 whom
 whomever
@@ -106327,6 +106455,9 @@ wiki
 wiki's
 wikis
 wild
+wildcard
+wildcard's
+wildcards
 wildcat
 wildcat's
 wildcats
@@ -106607,6 +106738,8 @@ wisecracked
 wisecracking
 wisecracks
 wised
+wiseguy
+wiseguys
 wisely
 wiser
 wises

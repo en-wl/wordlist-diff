@@ -1094,19 +1094,16 @@
 
 40: absently <av>
 
-40: _: absent-minded <aj>
-40: _v: absentminded <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: absentminded <aj>
+40: _?: absent-minded <aj>
 
-40: _: absent-mindedly <av>
-40: _.: absentmindedly <av>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: absentmindedly <av>
+40: _?: absent-mindedly <av>
 
-40: _: absent-mindedness <n>
-40: _.: absentmindedness <n>
-80: _: - <n>
-80: _.: - <n>: absentmindednesses~
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: absentmindedness <n>
+40: _?: absent-mindedness <n>
+80: _: - <n>: absentmindednesses~
+80: _?: - <n>
 
 70 [moby] 85 [ukacd]: absent without leave
 
@@ -7176,14 +7173,12 @@
 
 70 [3of6] 85 [ukacd]: air ambulance <n>: air ambulances
 
-40: _: air bag <n>: air bags
-40: _v: airbag <n>: airbags
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: airbag <n>: airbags
+40: _v: air bag <n>: air bags
 
-40: _: air base <n>: air bases
-40: _v: airbase <n>: airbases
-40: _-: air-base <n>: air-bases
-## Compound variant levels are a best guess based on freq and other related info.
+40: A Bv: air base <n>: air bases
+40: Av B: airbase <n>: airbases
+40: A- B-: air-base <n>: air-bases
 
 60 [brif] 70 [3of6] [moby] 85 [ukacd]: _: airbed <n>: airbeds
 60 [brif] 70 [3of6] [moby] 85 [ukacd]: _?: air bed <n>: air beds
@@ -7321,9 +7316,8 @@
 85 [ukacd]: airgraph <n>: airgraphs
 
 50: _: air gun <n>: air guns
-50: _v: airgun <n>: airguns
+50: _.: airgun <n>: airguns
 50: _V: air-gun <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: air hammer <n>
 
@@ -7366,7 +7360,6 @@
 
 60: _: air letter <n>: air letters
 60: _v: airletter <n>: airletters
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: airlift <n_v>: airlifted, airlifting, airlifts
 
@@ -7541,11 +7534,10 @@
 
 80: airtightness <n>: airtightnesses
 
-40: _: air time <n>
-40: _v: airtime <n>
-80: _: - <n>
-80: _v: - <n>: airtimes~
-## Compound variant levels are a best guess based on freq and other related info.
+40: air time
+
+60: airtime <n>
+80: - <n>: airtimes~
 
 60: air-to-air <aj>
 
@@ -13481,9 +13473,8 @@
 
 60: Angel Falls <n/upper>
 
-60: _: angelfish <n>: (angelfish | ?: angelfishes), angelfish's
+60: _: angelfish <n>: (angelfish | angelfishes*), angelfish's
 60: _-: angel-fish <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: angel food cake <n>: angel food cakes
 
@@ -27760,7 +27751,6 @@
 
 40: _: back seat <n>: back seats
 40: _v: backseat <n>: backseats
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: back-seat driver <n>
 60: _v: backseat driver <n>
@@ -29011,9 +29001,8 @@
 70 [moby] 80: _?: ball-flower <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-40: _: ball game <n>: ball games
-40: _v: ballgame <n>: ballgames
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: ballgame <n>: ballgames
+40: _?: ball game <n>: ball games
 
 60 [brif] 70 [3of6] [5desk] 85 [ukacd]: _: ballgirl <n>: ballgirls
 60 [brif] 70 [3of6] [5desk] 85 [ukacd]: _?: ball girl <n>: ball girls
@@ -29693,7 +29682,6 @@
 
 60: _: bank card <n>: bank cards
 60: _v: bankcard <n>: bankcards
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: bank check <n>
 
@@ -29735,13 +29723,12 @@
 70 [moby] 85 [ukacd]: bank manager <n>: bank managers
 70 [moby]: - <n>: bank manager's
 
-35 [ukfreq] 60: _: - <n>: banknotes
-35 [ukfreq] 60: _v: - <n>
-35 [ukfreq] 60: _-: - <n>: bank-notes
-50 [ukfreq] 60: _: banknote <n>
-50 [ukfreq] 60: _v: bank note <n>
-50 [ukfreq] 60: _-: bank-note <n>
-## Compound variant levels are a best guess based on freq and other related info.
+35 [ukfreq] 60: - <n>: banknotes
+50 [ukfreq] 60: banknote <n>
+
+60: bank note <n>
+
+85 [ukacd]: bank-note <n>: bank-notes
 
 70 [moby] 85 [ukacd]: Bank of England <n/upper>
 70 [moby]: - <n/upper>: Bank of England's
@@ -35867,9 +35854,8 @@
 
 80: bestsellerdom <n>: bestsellerdoms
 
-40: _: best-selling <aj>
-40: _v: bestselling <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: bestselling <aj>
+40: _?: best-selling <aj>
 
 85 [stale] [ukacd]: bestud <m>: bestudded, bestudding, bestuds
 
@@ -41022,10 +41008,9 @@
 35 [ukfreq] 70 [3of6] [moby] 80: blowing <n>
 
 50: _: blow job <n>: blow jobs
-50: _v: blowjob <n>: blowjobs
+50: _.: blowjob <n>: blowjobs
 60 [extra]: _: - <n>
-60 [extra]: _v: - <n>: blowjob's
-## Compound variant levels are a best guess based on freq and other related info.
+60 [extra]: _.: - <n>: blowjob's
 
 60 [brif] 70 [3of6] 80: blowlamp <n>: blowlamps
 
@@ -41240,7 +41225,6 @@
 
 35: _: blue jeans <n>
 35: _v: bluejeans <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 40: blue law <n>: blue laws
 
@@ -45505,11 +45489,10 @@
 35 [ukfreq] 40: brainwashing <n>
 80: - <n>: brainwashings~
 
-50: _: brain wave <n>
-50: _v: brainwave <n>
-60 [brif] 70 [3of6] 85 [ukacd]: _: - <n>
-60 [brif] 70 [3of6] 85 [ukacd]: _v: - <n>: brainwaves
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: brainwave <n>
+50: _?: brain wave <n>
+60 [brif] 70 [3of6] 85 [ukacd]: _: - <n>: brainwaves
+60 [brif] 70 [3of6] 85 [ukacd]: _?: - <n>
 
 60: brain waves
 
@@ -46220,11 +46203,10 @@
 
 60: break out <v>
 
-35 [ukfreq] 70 [3of6] 80: _: - <n>: break points
-35 [ukfreq] 70 [3of6] 80: _v: - <n>: breakpoints
-70 [3of6] 80: _: break point <n>
-70 [3of6] 80: _v: breakpoint <n>
-## Compound variant levels are a best guess based on freq and other related info.
+35 [ukfreq] 80: - <n> {computing}: breakpoints
+80: breakpoint <n> {computing}
+
+70 [3of6]: break point <n>: break points
 
 80 [moby]: Breaks <n/place>
 
@@ -48503,7 +48485,6 @@
 
 40: _: brush-off <n>: brush-offs
 40: _v: brushoff <n>: brushoffs
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: brush off <v>
 
@@ -48784,8 +48765,7 @@
 70 [moby]: bubble dance <n>
 
 40: _: bubble gum <n>: bubble gums
-40: _v: bubblegum <n>: bubblegums~
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: bubblegum <n>: bubblegums~
 
 80: bubblehead <n>: bubbleheads
 
@@ -49383,7 +49363,6 @@
 
 35 50 [+]: _: built-in <aj>
 35 50 [+]: _v: builtin <aj>
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: built-up <aj>
 
@@ -58885,13 +58864,12 @@
 80: - <n>: catchpennies
 85 [ukacd]: -catchpenny <n>
 
-40: _: catch phrase <n>
-40: _v: catchphrase <n>
+40: _: catchphrase <n>
+40: _v: catch phrase <n>
 40: _V: catch-phrase <n>
-60: _: - <n>
-60: _v: - <n>: catchphrases
+60: _: - <n>: catchphrases
+60: _v: - <n>
 60: _V: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 80: catchpole <n>: catchpoles
 
@@ -64675,16 +64653,14 @@
 80: _: - <n>
 80: _v: - <n>: chickenfeeds~
 80: _V: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6]: chicken-fried steak <n>: chicken-fried steaks
 
 70 [moby] 85 [ukacd]: chicken hawk <n>
 70 [moby]: - <n>: chicken hawk's
 
-50: _: chicken-hearted <aj>
-50: _v: chickenhearted <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: chickenhearted <aj>
+50: _?: chicken-hearted <aj>
 
 70 [5desk]: chickenheartedness
 
@@ -64692,11 +64668,10 @@
 
 70 [moby] 85 [ukacd]: chicken out <v>
 
-40: _: chicken pox <n>
-40: _v: chickenpox <n>
-80: _: - <n>
-80: _v: - <n>: chickenpoxes~
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: chickenpox <n>
+40: _?: chicken pox <n>
+80: _: - <n>: chickenpoxes~
+80: _?: - <n>
 
 60 [brif] 70 [3of6] 80: chickenshit <n> (vulgar-1): chickenshits
 
@@ -69801,19 +69776,16 @@
 
 80 [moby]: Clearfield <n/place>
 
-40: _: clear-headed <aj>
-40: _v: clearheaded <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: clearheaded <aj>
+40: _?: clear-headed <aj>
 
 80: _: clearheadedly
-80: _=: clear-headedly
-## Compound variant levels are a best guess based on freq and other related info.
+80: _?: clear-headedly
 
-60: _: clear-headedness <n>
-60: _.: clearheadedness <n>
-80: _: - <n>
-80: _.: - <n>: clearheadednesses
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: clearheadedness <n>
+60: _?: clear-headedness <n>
+80: _: - <n>: clearheadednesses
+80: _?: - <n>
 
 35: clearing <n>: clearings, clearing's
 
@@ -70851,7 +70823,6 @@
 
 40: _: close-up <n>: close-ups
 40: _v: closeup <n>: closeups
-## Compound variant levels are a best guess based on freq and other related info.
 
 35 [ukfreq] 60: closing <n>
 60: - <n>: closings
@@ -71742,13 +71713,12 @@
 
 40: Coast Guard </upper?>
 
-50: _: coast guard <n>
-50: _v: coastguard <n>
-60 [brif] 70 [3of6] [5desk]: _: - <n>
-60 [brif] 70 [3of6] [5desk]: _v: - <n>: coastguard's
-60 [brif] 70 [3of6] [5desk] 80: _: - <n>
-60 [brif] 70 [3of6] [5desk] 80: _v: - <n>: coastguards
-## Compound variant levels are a best guess based on freq and other related info.
+50: A B.: coast guard <n>
+50: Av B: coastguard <n>
+60 [brif] 70 [3of6] [5desk]: A B.: - <n>
+60 [brif] 70 [3of6] [5desk]: Av B: - <n>: coastguard's
+60 [brif] 70 [3of6] [5desk] 80: A B.: - <n>
+60 [brif] 70 [3of6] [5desk] 80: Av B: - <n>: coastguards
 
 80: coastguardman <n>: coastguardmen
 
@@ -71786,10 +71756,10 @@
 
 80 [moby]: Coatesville <n/place>
 
-40: coat hanger <n>: coat hangers
-
-35 AU [extra] 80 [3of6]: coathanger <n>: coathangers
-35 AU [extra]: - <n>: coathanger's
+35 AU [extra] 40: _: coat hanger <n>: coat hangers
+35 AU [extra] 40: _V: coathanger <n>: coathangers
+35 AU [extra]: _: - <n>
+35 AU [extra]: _V: - <n>: coathanger's
 
 70 [5desk] [moby] 80: coati <n>: coatis
 70 [5desk] [moby]: - <n>: coati's
@@ -72852,7 +72822,6 @@
 
 60: _: coffee cake <n>
 60: _v: coffeecake <n>: coffeecakes
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: coffee cup <n>
 
@@ -78558,16 +78527,11 @@
 50: Conley <n/person>: Conley's
 
 40: _: con man <n>: con man's
-40: _v {1}: con-man <n>
-40: _v {2}: conman <n>
-60: _: - <n>
-60: _v {1}: - <n>
+40: _v {1}: con-man <n>: con-man's
+40: _v {2}: conman <n>: conman's
+60: _: - <n>: con men
+60: _v {1}: - <n>: con-men
 60: _v {2}: - <n>: conmen
-## Compound variant levels are a best guess based on freq and other related info.
-
-70 [3of6] 85 [ukacd]: _: con men
-70 [3of6] 85 [ukacd]: _=: con-men
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 85 [ukacd]: con moto
 
@@ -86198,7 +86162,6 @@
 
 60: _: crawl space <n>: crawl spaces
 60: _v: crawlspace <n>: crawlspaces
-## Compound variant levels are a best guess based on freq and other related info.
 
 80: crawlway <n>: crawlways
 
@@ -93727,12 +93690,11 @@
 60: day camp <n>
 
 40: _: day care <n>
-40: _v {1}: day-care <n>
-40: _v {2}: daycare <n>
+40: _.: daycare <n>
+40: _v: day-care <n>
 80: _: - <n>
-80: _v {1}: - <n>
-80: _v {2}: - <n>: daycares~
-## Compound variant levels are a best guess based on freq and other related info.
+80: _.: - <n>: daycares~
+80: _v: - <n>
 
 60: day care center <n>
 
@@ -95990,13 +95952,11 @@
 
 80: deeryard <n>: deeryards
 
-50: _: deescalate <v>: deescalated, deescalating, deescalates
-50: _?: de-escalate <v>: de-escalated, de-escalating, de-escalates
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: de-escalate <v>: de-escalated, de-escalating, de-escalates
+50: _v: deescalate <v>: deescalated, deescalating, deescalates
 
 60: _: de-escalation <n>: de-escalations
 60: _v: deescalation <n>: deescalations~
-## Compound variant levels are a best guess based on freq and other related info.
 
 80: deet <n>: deets
 
@@ -96778,13 +96738,11 @@
 70 [moby] 80: A Z: dehypnotize <m>: dehypnotized, dehypnotizing, dehypnotizes
 70 [moby] 80: B: dehypnotise <m>: dehypnotised, dehypnotising, dehypnotises
 
-50: _: de-ice <v>: de-iced, de-icing, de-ices
-50: _v: deice <v>: deiced, deicing, deices
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: deice <v>: deiced, deicing, deices
+50: _?: de-ice <v>: de-iced, de-icing, de-ices
 
 50: _: deicer <n>: deicers
 50: _?: de-icer <n>: de-icers
-## Compound variant levels are a best guess based on freq and other related info.
 
 80: deicidal
 
@@ -111813,10 +111771,9 @@
 
 85 [ukacd]: dreamwhile
 
-60: _: dream world <n>
-60: _v: dreamworld <n>: dreamworlds
+60: _: dreamworld <n>: dreamworlds
+60: _v: dream world <n>
 60: _V: dream-world <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: dreamy <aj>: dreamier, dreamiest
 
@@ -113535,9 +113492,9 @@
 
 50: dumbwaiter <n>: dumbwaiters
 
-60: _: dum-dum <n>
-60: _v: dumdum <n>: dumdums
-## Compound variant levels are a best guess based on freq and other related info.
+60: dumdum <n>: dumdums
+
+60: dum-dum
 
 70 [3of6]: dumdum bullet <n>: dumdum bullets
 
@@ -131134,7 +131091,6 @@
 
 40: _: eye-opener <n>: eye-openers
 40: _v: eyeopener <n>: eyeopeners
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: eyeopening <a>
 60: _?: eye-opening <a>
@@ -137589,7 +137545,6 @@
 
 50: _: fire truck <n>: fire trucks
 50: _v: firetruck <n>: firetrucks
-## Compound variant levels are a best guess based on freq and other related info.
 
 40: firewall <n>: firewalls, firewall's
 
@@ -137674,9 +137629,8 @@
 
 40: first base <n>
 
-50: _: firstborn <n>: (firstborn | ?: firstborns), firstborn's
-50: _v: first-born <n>: first-borns-
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: firstborn <n>: firstborns, firstborn's
+50: _v: first-born <n>: first-borns, first-born's
 
 50: firstborn <aj>
 
@@ -138734,7 +138688,6 @@
 
 40: _: flare-up <n>: flare-ups
 40: _v: flareup <n>: flareups
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6] [moby] 80: flaring <aj>
 
@@ -138764,9 +138717,9 @@
 
 70 [moby] 85 [ukacd]: flash burn
 
-40: _: flash card <n>: flash cards
-40: _v: flashcard <n>: flashcards
-## Compound variant levels are a best guess based on freq and other related info.
+40: flash card <n> {learning aid}: flash cards
+
+60: flashcard <n> {flash cartridge}: flashcards
 
 60: flashcube <n>: flashcubes
 
@@ -140159,9 +140112,8 @@
 
 80: flowback <n>: flowbacks
 
-40: _: flow chart <n>: flow charts
-40: _v: flowchart <n>: flowcharts
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: flowchart <n>: flowcharts
+40: _?: flow chart <n>: flow charts
 
 80: flowcharting <n>: flowchartings
 
@@ -141230,18 +141182,15 @@
 80: - <n>: folksinesses~
 
 50: _: folk singer <n>: folk singers, folk singer's
-50: _v: folksinger <n>: folksingers
-## Compound variant levels are a best guess based on freq and other related info.
+50: _.: folksinger <n>: folksingers
 
-60: _: folksinging <n>
-60: _?: folk singing <n>
-80: _: - <n>: folksingings~
-80: _?: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: folk singing <n>
+60: _v: folksinging <n>
+80: _: - <n>
+80: _v: - <n>: folksingings~
 
 50: _: folk song <n>: folk songs
 50: _v: folksong <n>: folksongs
-## Compound variant levels are a best guess based on freq and other related info.
 
 80 [moby]: Folkston <n/place>
 
@@ -141312,7 +141261,6 @@
 
 40: _: follow-up <n>: follow-ups
 40: _v: followup <n>: followups
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: follow up <v>
 
@@ -143294,13 +143242,11 @@
 50: _: - <n>
 50: _v {1}: - <n>: fortune-tellers
 50: _v {2}: - <n>: fortunetellers
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: fortune-telling <n>
 60: _v: fortunetelling <n>
 80: _: - <n>
 80: _v: - <n>: fortunetellings~
-## Compound variant levels are a best guess based on freq and other related info.
 
 85 [ukacd]: fortunize
 
@@ -143722,7 +143668,6 @@
 
 60: _: four-poster <n>: four-posters
 60: _v: fourposter <n>: fourposters
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6]: four-poster bed <n>: four-poster beds
 
@@ -149577,13 +149522,12 @@
 
 60: garbage disposal <n>: garbage disposals
 
-40: _: garbage man <n>: garbage man's
-40: _v: garbageman <n>: garbageman's
-70 [3of6] [5desk] 80: _: - <n>
-70 [3of6] [5desk] 80: _v: - <n>: garbagemen
-70 [3of6] [5desk]: _: - <n>
-70 [3of6] [5desk]: _v: - <n>: -, -, garbagemen's
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: garbageman <n>: garbageman's
+40: _?: garbage man <n>: garbage man's
+70 [3of6] [5desk] 80: _: - <n>: garbagemen
+70 [3of6] [5desk] 80: _?: - <n>
+70 [3of6] [5desk]: _: - <n>: -, -, garbagemen's
+70 [3of6] [5desk]: _?: - <n>
 
 60: garbage truck <n>: garbage trucks
 
@@ -156053,9 +155997,8 @@
 
 60: Godard <n/upper>: Godard's
 
-40: _: god-awful <aj>
-40: _v: godawful <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: godawful <aj>
+40: _?: god-awful <aj>
 
 35: godchild <n>: godchildren, godchild's, godchildren's
 
@@ -156564,7 +156507,6 @@
 40: _: gold mine <n>: gold mines
 40: _v: goldmine <n>: goldmines
 40: _V: gold-mine <n>: gold-mines
-## Compound variant levels are a best guess based on freq and other related info.
 
 85 [ukacd]: goldminer <n>: goldminers
 
@@ -157296,9 +157238,8 @@
 
 50: gooseberry <n>: gooseberries
 
-40: _: goose bumps <n>
-40: _v: goosebumps <n>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: goosebumps <n>
+40: _?: goose bumps <n>
 
 70 [moby] 80: _: goosefish <n>
 70 [moby] 80: _V: goose-fish <n>
@@ -161235,7 +161176,6 @@
 
 35: _: grown-up <n>: grown-ups, grown-up's
 35: _v: grownup <n>: grownups, grownup's
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 85 [ukacd]: grow out of
 
@@ -163963,12 +163903,13 @@
 80: - <n>: hairdressings~
 
 40: _: hair dryer <n>: hair dryers
-40: _v {1}: hairdrier <n>: hairdriers
-40: _v {2}: hairdryer <n>: hairdryers
+40: _V {1}: hair drier <n>: hair driers
+40: _V {2}: hairdrier <n>: hairdriers
+40: _V {3}: hairdryer <n>: hairdryers
 60: _: - <n>
-60: _v {1}: - <n>: hairdrier's
-60: _v {2}: - <n>: hairdryer's
-## Compound variant levels are a best guess based on freq and other related info.
+60: _V {1}: - <n>: hair drier's
+60: _V {2}: - <n>: hairdrier's
+60: _V {3}: - <n>: hairdryer's
 
 85 [ukacd]: hair-drier <n>: hair-driers
 
@@ -164042,13 +163983,12 @@
 40: _v: hair-splitting <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-40: _: hair spray <n>
-40: _v: hairspray <n>
+40: _: hairspray <n>
+40: _?: hair spray <n>
 40: _-: hair-spray <n>
-60 [brif] 70 [3of6] 80: _: - <n>
-60 [brif] 70 [3of6] 80: _v: - <n>: hairsprays
+60 [brif] 70 [3of6] 80: _: - <n>: hairsprays
+60 [brif] 70 [3of6] 80: _?: - <n>
 60 [brif] 70 [3of6] 80: _-: - <n>: hair-sprays
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: hairspring <n>: hairsprings
 
@@ -164463,13 +164403,11 @@
 
 50: halfway house <n>: halfway houses
 
-50: _: half-wit <n>: half-wits, half-wit's
-50: _v: halfwit <n>: halfwits
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: halfwit <n>: halfwits
+50: _?: half-wit <n>: half-wits, half-wit's
 
-50: _: half-witted <aj>
-50: _v: halfwitted <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: halfwitted <aj>
+50: _?: half-witted <aj>
 
 85 [ukacd]: half-wittedly
 
@@ -165551,7 +165489,6 @@
 
 40: _: hang-up <n>: hang-ups
 40: _v: hangup <n>: hangups
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: hang up <v>
 
@@ -166055,7 +165992,6 @@
 
 40: _: hard hat <n>: hard hats, hard hat's
 40: _v: hardhat <n>: hardhats
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: hardhat <a>
 
@@ -166121,18 +166057,16 @@
 70 [moby] 85 [ukacd]: hard landing
 
 40: _: hard-line <aj>
-40: _v: hardline <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: hardline <aj>
 
 70 [3of6]: hard line <n>
 
 35 [ukfreq] 40: _: - <n>: hard-liners
-35 [ukfreq] 40: _v: - <n>: hardliners
+35 [ukfreq] 40: _.: - <n>: hardliners
 40: _: hard-liner <n>
-40: _v: hardliner <n>
+40: _.: hardliner <n>
 60: _: - <n>
-60: _v: - <n>: hardliner's
-## Compound variant levels are a best guess based on freq and other related info.
+60: _.: - <n>: hardliner's
 
 70 [moby] 85 [ukacd]: hard lines
 
@@ -166244,9 +166178,8 @@
 
 35: hardwood <a>
 
-40: _: hard-working <aj>
-40: _v: hardworking <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: hardworking <aj>
+40: _?: hard-working <aj>
 
 35: hardy <aj>: hardier, hardiest
 
@@ -167799,7 +167732,6 @@
 
 40: _: head count <n>: head counts
 40: _v: headcount <n>: headcounts
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: _: headdress <n>: headdresses
 50: _-: head-dress <n>: head-dresses
@@ -168064,10 +167996,12 @@
 35: health <n>: health's
 65: - <n>: healths-
 
-35 [+] 60: healthcare <n>: healthcare's
-80: - <n>: healthcares~
-
-40: health care <n>
+35 [+] 40: _: healthcare <n>
+35 [+] 40: _?: health care <n>
+35 [+] 60: _: - <n>: healthcare's
+35 [+] 60: _?: - <n>
+80: _: - <n>: healthcares~
+80: _?: - <n>
 
 70 [3of6]: health center <n>: health centers
 
@@ -168458,9 +168392,8 @@
 50: heatstroke <n>
 80: - <n>: heatstrokes~
 
-40: _: heat wave <n>: heat waves
-40: _v: heatwave <n>: heatwaves
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: heatwave <n>: heatwaves
+40: _?: heat wave <n>: heat waves
 
 70 [moby] 80: heaume <n>: heaumes
 
@@ -168545,9 +168478,8 @@
 
 85 [ukacd]: heavy-headedness
 
-50: _: heavy-hearted <aj>
-50: _v: heavyhearted <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: heavyhearted <aj>
+50: _?: heavy-hearted <aj>
 
 80: heavyheartedly
 
@@ -172618,7 +172550,6 @@
 40: _: high chair <n>: high chairs
 40: _v: highchair <n>: highchairs
 40: _V: high-chair <n>: high-chairs
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6] [moby] 85 [ukacd]: High Church <n/upper>
 70 [3of6] [moby]: - <n/upper>: High Church's
@@ -172714,9 +172645,8 @@
 
 70 [3of6]: high ground <n>
 
-40: high-handed <aj>
-
-60: highhanded <a>
+40: _: high-handed <aj>
+40: _v: highhanded <aj>
 
 50: high-handedly <av>
 
@@ -172726,7 +172656,6 @@
 50: _v: highhandedness <n>
 80: _: - <n>
 80: _v: - <n>: highhandednesses~
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: high-hat <m>
 65: - <m>: high-hatted-, high-hatting-, high-hats-
@@ -172873,7 +172802,6 @@
 
 60: _: high road <n>: high roads
 60: _v: highroad <n>: highroads
-## Compound variant levels are a best guess based on freq and other related info.
 
 40: high roller <n>: high rollers, high roller's
 
@@ -175378,8 +175306,7 @@
 80: homeownership <n>: homeownerships
 
 40: _: home page <n>: home pages
-40: _v: homepage <n>: homepages
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: homepage <n>: homepages
 
 40: home plate <n>
 
@@ -177539,7 +177466,6 @@
 40: _v: hotplate <n>
 60: _: - <n>
 60: _v: - <n>: hotplates
-## Compound variant levels are a best guess based on freq and other related info.
 
 50 [name]: Hotpoint <n/name?>: Hotpoint's
 
@@ -182164,9 +182090,8 @@
 70 [3of6] 85 [ukacd]: ice bucket <n>: ice buckets
 
 40: _: ice cap <n>: ice caps
-40: _v: icecap <n>: icecaps
+40: _.: icecap <n>: icecaps
 40: _-: ice-cap <n>: ice-caps
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: ice chest <n>
 
@@ -209683,9 +209608,8 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 40: _: land mine <n>: land mines
-40: _v: landmine <n>: landmines
+40: _.: landmine <n>: landmines
 40: _V: land-mine <n>: land-mines
-## Compound variant levels are a best guess based on freq and other related info.
 
 80 [moby]: Lando <n/place>
 
@@ -211326,11 +211250,9 @@
 
 35 [ukfreq] 70 [3of6] 80: launching <n>
 
-50: launching pad <n>: launching pads
-
-40: _: launch pad <n>: launch pads
-40: _v: launchpad <n>: launchpads
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: launchpad <n>: launchpads
+40: _? {1}: launch pad <n>: launch pads
+40: _? {2}: launching pad <n>: launching pads
 
 85 [ukacd]: laund
 
@@ -211668,7 +211590,6 @@
 40: _: lawn mower <n>: lawn mowers
 40: _v: lawnmower <n>: lawnmowers
 40: _V: lawn-mower <n>: lawn-mowers
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: lawn party <n>: lawn party's
 
@@ -214146,7 +214067,6 @@
 50 hacker 70 [3of6] 80: _: letter bomb <n>: letter bombs
 50 hacker 70 [3of6] 80: _=: letter-bomb <n>: letter-bombs
 50 hacker 70 [3of6] 80: _v: letterbomb <n>: letterbombs
-## Compound variant levels are a best guess based on freq and other related info.
 
 50 [ukfreq] 60 [brif] 70 [3of6] [moby] 80: _: letterbox <n>
 50 [ukfreq] 60 [brif] 70 [3of6] [moby] 80: _v: letter box <n>
@@ -215372,11 +215292,10 @@
 
 70 [3of6] 85 [ukacd]: life assurance <n>
 
-50: _: life belt <n>
-50: _v: lifebelt <n>
-60 [brif] 70 [3of6] [5desk] 85 [ukacd]: _: - <n>
-60 [brif] 70 [3of6] [5desk] 85 [ukacd]: _v: - <n>: lifebelts
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: lifebelt <n>
+50: _?: life belt <n>
+60 [brif] 70 [3of6] [5desk] 85 [ukacd]: _: - <n>: lifebelts
+60 [brif] 70 [3of6] [5desk] 85 [ukacd]: _?: - <n>
 
 50: _: lifeblood <n>
 50: _-: life-blood <n>
@@ -215388,13 +215307,12 @@
 
 85 [ukacd]: lifeboatman <n>: lifeboatmen
 
-40: _: life buoy <n>
-40: _v: lifebuoy <n>
+40: _: lifebuoy <n>
+40: _?: life buoy <n>
 40: _V: life-buoy <n>
-60: _: - <n>
-60: _v: - <n>: lifebuoys
+60: _: - <n>: lifebuoys
+60: _?: - <n>
 60: _V: - <n>: life-buoys
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [5desk] 80: lifecare <n>: lifecares-
 
@@ -215649,9 +215567,8 @@
 
 80: lightful
 
-40: _: light-headed <aj>
-40: _v: lightheaded <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: lightheaded <aj>
+40: _v: light-headed <aj>
 
 70 [5desk] 80: _: lightheadedly <av>
 70 [5desk] 80: _V: light-headedly <av>
@@ -217090,22 +217007,19 @@
 85 [ukacd]: !lippy <n>
 
 40: _: lip-read <v>
-40: _v: lipread <v>
+40: _.: lipread <v>
 60: _: - <v>
-60: _v: - <v>: lipread, lipreading, lipreads
-## Compound variant levels are a best guess based on freq and other related info.
+60: _.: - <v>: lipread, lipreading, lipreads
 
-60: _: lipreader <n>: lipreaders
-60: _?: lip-reader <n>: lip-readers
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: lip-reader <n>: lip-readers
+60: _.: lipreader <n>: lipreaders
 
-50: _: lipreading <n>
-50: _? {1}: lip reading <n>
-50: _? {2}: lip-reading <n>
-80: _: - <n>: lipreadings~
-80: _? {1}: - <n>
-80: _? {2}: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: lip-reading <n>
+50: _. {1}: lip reading <n>
+50: _. {2}: lipreading <n>
+80: _: - <n>
+80: _. {1}: - <n>
+80: _. {2}: - <n>: lipreadings~
 
 70 [3of6] 85 [ukacd]: lip-reads
 
@@ -219617,8 +219531,7 @@
 70 [moby] 80: longspur <n>: longspurs
 
 40: _: long-standing <aj>
-40: _v: longstanding <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: longstanding <aj>
 
 85 [ukacd]: longstop <n>: longstops
 
@@ -231066,9 +230979,8 @@
 60: _-: mealy-bug <n>: mealy-bugs
 ## Compound variant levels are a best guess based on freq and other related info.
 
-40: _: mealy-mouthed <aj>
-40: _v: mealymouthed <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: mealymouthed <aj>
+40: _?: mealy-mouthed <aj>
 
 85 [ukacd]: mealy-mouthedness
 
@@ -245884,9 +245796,8 @@
 
 70 [moby] 85 [ukacd]: muddlehead <n>: muddleheads
 
-50: _: muddle-headed <aj>
-50: _v: muddleheaded <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: muddleheaded <aj>
+50: _?: muddle-headed <aj>
 
 80: muddleheadedly
 
@@ -246102,8 +246013,7 @@
 70 [5desk] 80 [upper] 85 [ukacd]: Mughal <n/upper?>: Mughals
 
 60: _: mug shot <n>: mug shots
-60: _v: mugshot <n>: mugshots
-## Compound variant levels are a best guess based on freq and other related info.
+60: _.: mugshot <n>: mugshots
 
 80: mugwort <n>: mugworts
 
@@ -246212,9 +246122,8 @@
 
 80 [moby]: Muleshoe <n/place>
 
-60: _: mule skinner <n>: mule skinner's
-60: _v: muleskinner <n>: muleskinners
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: muleskinner <n>: muleskinners
+60: _?: mule skinner <n>: mule skinner's
 
 80: muleta <n>: muletas
 
@@ -247886,13 +247795,12 @@
 
 85 [ukacd]: muskone
 
-50: _: musk ox <n>: musk ox's
-50: _v {1}: musk-ox <n>
-50: _v {2}: muskox <n>
-60: _: - <n>
-60: _v {1}: - <n>
-60: _v {2}: - <n>: muskoxen
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: muskox <n>
+50: _?: musk ox <n>: musk ox's
+50: _v: musk-ox <n>
+60: _: - <n>: muskoxen
+60: _?: - <n>
+60: _v: - <n>
 
 50: muskrat <n>: (muskrat | muskrats*), muskrat's
 
@@ -254312,13 +254220,12 @@
 80: _v: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-40: _: night light <n>
-40: _v {1}: night-light <n>
-40: _v {2}: nightlight <n>
-60 [brif] 70 [3of6] 85 [ukacd]: _: - <n>
-60 [brif] 70 [3of6] 85 [ukacd]: _v {1}: - <n>: night-lights
-60 [brif] 70 [3of6] 85 [ukacd]: _v {2}: - <n>: nightlights
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: nightlight <n>
+40: _?: night light <n>
+40: _v: night-light <n>
+60 [brif] 70 [3of6] 85 [ukacd]: _: - <n>: nightlights
+60 [brif] 70 [3of6] 85 [ukacd]: _?: - <n>
+60 [brif] 70 [3of6] 85 [ukacd]: _v: - <n>: night-lights
 
 60: nightlong <aj>
 
@@ -259637,7 +259544,6 @@
 
 50: _: nose cone <n>: nose cones
 50: _v: nosecone <n>: nosecones
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6] [5desk] 80: nosed <aj>
 
@@ -260339,15 +260245,11 @@
 
 80 [moby]: Nowata <n/place>
 
-50: _: !no way <n>
-50: _v: !noway <n>
-85 [ukacd]: _: - <n>
-85 [ukacd]: _v: - <n>: noways
-## Compound variant levels are a best guess based on freq and other related info.
+50: noway <a>
 
-50: _: no way <a>
-50: _v: noway <a>
-## Compound variant levels are a best guess based on freq and other related info.
+50: no way
+
+85 [ukacd]: !noway <n>: noways
 
 60: noways <a>
 
@@ -263858,7 +263760,6 @@
 
 60: _: off-site <aj>
 60: _v: offsite <aj>
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: offspring <n>: (offspring | ~: offsprings), offspring's
 
@@ -265796,7 +265697,6 @@
 
 60: _: on-site <aj>
 60: _v: onsite <aj>
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: onslaught <n>: onslaughts
 
@@ -266263,15 +266163,13 @@
 80: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-50: _: open-hearted <aj>
-50: _v: openhearted <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _: openhearted <aj>
+50: _?: open-hearted <aj>
 
 80: openheartedly
 
 80: _: openheartedness <n>: openheartednesses
-80: _=: open-heartedness <n>
-## Compound variant levels are a best guess based on freq and other related info.
+80: _?: open-heartedness <n>
 
 60: open-hearth <aj>
 
@@ -276383,9 +276281,8 @@
 70 [moby]: paper chase <n>
 
 40: _: paper clip <n>: paper clips
-40: _v: paperclip <n>: paperclips
+40: _.: paperclip <n>: paperclips
 40: _V: paper-clip <n>: paper-clips
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: paper doll <n>
 
@@ -277783,8 +277680,7 @@
 80: parietes
 
 60: _: pari-mutuel <n>: pari-mutuels-
-60: _v: parimutuel <n>: parimutuels
-## Compound variant levels are a best guess based on freq and other related info.
+60: _.: parimutuel <n>: parimutuels
 
 50: paring <n>: parings
 
@@ -280262,9 +280158,8 @@
 60: pay-per-view
 
 40: _: pay phone <n>: pay phones
-40: _v: payphone <n>: payphones
+40: _.: payphone <n>: payphones
 40: _V: pay-phone <n>: pay-phones
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: _: payroll <n>: payrolls, payroll's
 35: _-: pay-roll <n>: pay-rolls
@@ -282952,13 +282847,10 @@
 35 [ukfreq] 70 [3of6] 80: perceiving <n>
 85 [ukacd]: - <n>: perceivings!
 
-35: _: percent <n>: (percent | ?: percents)
-35: _v: per cent <n>
-## Compound variant levels are a best guess based on freq and other related info.
+35: A Bv: percent <n>: percent
+35: AV B: per cent <n>: per cent
 
-35: _: percent <a>
-35: _v: per cent <a>
-## Compound variant levels are a best guess based on freq and other related info.
+35: percent <a>
 
 35: percentage <n>: percentages
 
@@ -293761,6 +293653,10 @@
 
 70 [3of6]: PO Box <n/upper>: PO Boxes
 
+60: _: po'boy <n>
+60: _v: poor boy <n>
+60: _V: poorboy <n>: poorboys
+
 80: poboy <n>: poboys
 
 80 [moby]: Poca <n/place>
@@ -294169,7 +294065,6 @@
 
 35: _: point-blank <aj_av>
 35: _v: pointblank <aj_av>
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 85 [ukacd]: point d'appui
 
@@ -296276,10 +296171,6 @@
 
 85 [ukacd]: !poor <n>
 
-60: _: poor boy <n>
-60: _v: poorboy <n>: poorboys
-## Compound variant levels are a best guess based on freq and other related info.
-
 50: poorhouse <n>: poorhouses
 
 80: poori <n>: pooris
@@ -296562,10 +296453,9 @@
 80 [upper]: Populuxe </upper?>
 
 60: _: pop-up <n>: pop-ups
-60: _v: popup <n>: popups
+60: _.: popup <n>: popups
 60 [extra]: _: - <n>
-60 [extra]: _v: - <n>: popup's
-## Compound variant levels are a best guess based on freq and other related info.
+60 [extra]: _.: - <n>: popup's
 
 80 [moby]: Poquonock <n/place>
 
@@ -301094,8 +300984,7 @@
 80: preovulatory
 
 60: _: pre-owned
-60: _v: preowned
-## Compound variant levels are a best guess based on freq and other related info.
+60: _.: preowned
 
 40: prep <n_v>: prepped, prepping, preps
 
@@ -308420,9 +308309,8 @@
 
 80: punchless
 
-35: _: punch line <n>: punch lines
-35: _v: punchline <n>: punchlines
-## Compound variant levels are a best guess based on freq and other related info.
+35: _: punchline <n>: punchlines
+35: _?: punch line <n>: punch lines
 
 70 [3of6] 85 [ukacd]: punch-up <n>: punch-ups
 
@@ -327244,10 +327132,9 @@
 
 80 [moby]: Riparius <n/place>
 
-40: _: rip cord <n>: rip cords
-40: _v: ripcord <n>: ripcords
+40: _: ripcord <n>: ripcords
+40: _?: rip cord <n>: rip cords
 40: _-: rip-cord <n>: rip-cords
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: ripe <aj>: riper, ripest
 
@@ -327281,8 +327168,7 @@
 50 [name] 70 [moby]: Ripley <n/name?>: Ripley's
 
 40: _: rip-off <n>: rip-offs
-40: _v: ripoff <n>: ripoffs
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: ripoff <n>: ripoffs
 
 70 [moby] 85 [ukacd]: Ripon <n/place>
 
@@ -340006,12 +339892,11 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: screen saver <n>: screen savers
-60: _v: screensaver <n>: screensavers
+60: _.: screensaver <n>: screensavers
 60: _V: screen-saver <n>: screen-savers
 60 [extra]: _: - <n>
-60 [extra]: _v: - <n>: screensaver's
+60 [extra]: _.: - <n>: screensaver's
 60 [extra]: _V: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 50 [+] 70 [3of6]: screenshot <n>: screenshots
 
@@ -343276,10 +343161,10 @@
 
 70 [moby] 85 [ukacd]: selling race <n>
 
-50 [+] 70 [5desk] 80: selloff <n>: selloffs
-50 [+] 70 [5desk]: - <n>: selloff's
-
-70 [3of6] 85 [ukacd]: sell-off <n>: sell-offs
+50 [+] 70 [3of6] [5desk] 80: _: sell-off <n>: sell-offs
+50 [+] 70 [3of6] [5desk] 80: _.: selloff <n>: selloffs
+50 [+] 70 [5desk]: _: - <n>
+50 [+] 70 [5desk]: _.: - <n>: selloff's
 
 70 [moby]: sell off <v>
 
@@ -344145,8 +344030,7 @@
 85 [ukacd]: - <n>: sendings
 
 40: _: send-off <n>: send-offs
-40: _v: sendoff <n>: sendoffs
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: sendoff <n>: sendoffs
 
 60: _: send-up <n>: send-ups
 60: _V: sendup <n>: sendups
@@ -349546,8 +349430,7 @@
 80: - <n>: showmanships~
 
 40: _: show-off <n>: show-offs, show-off's
-40: _v: showoff <n>: showoffs, showoff's
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: showoff <n>: showoffs, showoff's
 
 60: show off <v>
 
@@ -352737,8 +352620,7 @@
 85 [ukacd]: sixscore <n>: sixscores
 
 50: _: six-shooter <n>: six-shooters
-50: _v: sixshooter <n>: sixshooters
-## Compound variant levels are a best guess based on freq and other related info.
+50: _V: sixshooter <n>: sixshooters
 
 80: sixte <n>: sixtes
 
@@ -355485,7 +355367,6 @@
 40: _v: smartypants <n>
 60: _: - <n>
 60: _v: - <n>: smartypants
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: smash <n_v>: smashed, smashing, smashes
 
@@ -355818,7 +355699,6 @@
 
 40: _: smoke screen <n>: smoke screens
 40: _v: smokescreen <n>: smokescreens
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [3of6] 85 [ukacd]: smoke signal <n>: smoke signals
 
@@ -359753,9 +359633,12 @@
 
 85 [stale]: soullike
 
-50 [+] 70 [3of6]: soulmate <n>: soulmates
-
-60: soul mate <n>: soul mate's
+50 [+] 60: _: soulmate <n>
+50 [+] 60: _?: soul mate <n>
+50 [+] 70 [3of6]: _: - <n>: soulmates
+50 [+] 70 [3of6]: _?: - <n>
+60: _: - <n>
+60: _?: - <n>: soul mate's
 
 50: soul music
 
@@ -359785,7 +359668,6 @@
 
 40: _: sound bite <n>: sound bites
 40: _v: soundbite <n>: soundbites
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: soundboard <n>: soundboards
 60: _-: sound-board <n>
@@ -360523,8 +360405,7 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60 [] [+]: _: space-time <n>
-60 [] [+]: _v: spacetime <n>
-## Compound variant levels are a best guess based on freq and other related info.
+60 [] [+]: _.: spacetime <n>
 
 50: spacewalk <n_v>: spacewalked, spacewalking, spacewalks
 
@@ -361815,14 +361696,16 @@
 
 35: spellbound <aj>
 
-50 [+] 70 [3of6] 85 [ukacd]: spellcheck <n_v>: -, -, spellchecks
-50 [+] 70 [3of6]: - <n_v>: spellchecked, spellchecking, -
+50 [+] 60: _: spellcheck <n_v>: -, -, -
+50 [+] 60: _?: spell-check <n_v>: -, -, -
+50 [+] 70 [3of6] 85 [ukacd]: _: - <n_v>: -, -, spellchecks
+50 [+] 70 [3of6] 85 [ukacd]: _?: - <n_v>: -, -, -
+50 [+] 70 [3of6]: _: - <n_v>: spellchecked, spellchecking, -
+50 [+] 70 [3of6]: _?: - <n_v>: -, -, -
 
-60: spell-check
+50 [+] 60 [brif] 70 [3of6] 85 [ukacd]: spellchecker <n>: spellcheckers
 
-50 [+] 60: _: spellchecker <n>: spellcheckers
-50 [+] 60: _?: spell checker <n>: spell checkers
-## Compound variant levels are a best guess based on freq and other related info.
+60: spell checker <n>: spell checkers
 
 60: spelldown <n>: spelldowns
 
@@ -362407,13 +362290,10 @@
 
 70 [3of6]: spider's web <n>: spider's webs
 
-40: _: spider web <n>
-40: _v: spiderweb <n>
-40: _V: spider-web <n>
-60: _: - <n>
-60: _v: - <n>: spiderwebs
-60: _V: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
+40: spider web <n>
+
+60: _: spiderweb <n>: spiderwebs
+60: _V: spider-web <n>
 
 70 [moby] 80: _: spiderwort <n>: spiderworts
 70 [moby] 80: _V: spider-wort <n>
@@ -366404,10 +366284,9 @@
 80: startsy
 
 40 50 [+]: _: start-up <n>: start-ups
-40 50 [+]: _v: startup <n>: startups
+40 50 [+]: _.: startup <n>: startups
 50 [+] 70 [5desk]: _: - <n>
-50 [+] 70 [5desk]: _v: - <n>: startup's
-## Compound variant levels are a best guess based on freq and other related info.
+50 [+] 70 [5desk]: _.: - <n>: startup's
 
 70 [moby]: start up <v>
 
@@ -378313,7 +378192,6 @@
 50: _: swan song <n>: swan songs
 50: _v {1}: swan-song <n>: swan-songs
 50: _v {2}: swansong <n>: swansongs
-## Compound variant levels are a best guess based on freq and other related info.
 
 80 [moby]: Swanton <n/place>
 
@@ -378490,7 +378368,6 @@
 40: _: swear word <n>: swear words
 40: _v: swearword <n>: swearwords
 40: _V: swear-word <n>: swear-words
-## Compound variant levels are a best guess based on freq and other related info.
 
 35: sweat <n>: sweat's
 80: - <n>: sweats~
@@ -378540,9 +378417,8 @@
 
 60: sweat sock <n>
 
-40: _: sweat suit <n>: sweat suits
-40: _v: sweatsuit <n>: sweatsuits
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: sweatsuit <n>: sweatsuits
+40: _?: sweat suit <n>: sweat suits
 
 35 [ukfreq] 40: sweaty <a>
 40: - <a>: sweatier, sweatiest
@@ -378649,9 +378525,8 @@
 70 [moby]: sweet cider <n>
 
 50: _: sweet corn <n>
-50: _v {1}: sweet-corn <n>
-50: _v {2}: sweetcorn <n>
-## Compound variant levels are a best guess based on freq and other related info.
+50: _.: sweetcorn <n>
+50: _v: sweet-corn <n>
 
 35: sweeten <v>: sweetened, sweetening, sweetens
 
@@ -384141,7 +384016,6 @@
 40: _: tea bag <n>: tea bags
 40: _v: teabag <n>: teabags
 40: _-: tea-bag <n>: tea-bags
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 85 [ukacd]: tea ball <n>
 
@@ -394395,7 +394269,6 @@
 
 40: _: top-notch <aj>
 40: _v: topnotch <aj>
-## Compound variant levels are a best guess based on freq and other related info.
 
 80: topnotcher <n>: topnotchers
 
@@ -395041,8 +394914,7 @@
 70 [moby] 80: tosspot <n>: tosspots
 
 40: _: toss-up <n>: toss-ups
-40: _v: tossup <n>: tossups
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: tossup <n>: tossups
 
 85 [ukacd]: tossy
 
@@ -397651,7 +397523,6 @@
 40: _: trash can <n>: trash cans
 40: _v: trashcan <n>: trashcans
 40: _V: trash-can <n>: trash-cans
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: trash compactor
 
@@ -401922,8 +401793,7 @@
 70 [moby] 80: tunesmith <n>: tunesmiths
 
 40: _: tune-up <n>: tune-ups
-40: _v: tuneup <n>: tuneups
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: tuneup <n>: tuneups
 
 85 [ukacd]: tune up <v>
 
@@ -424129,13 +423999,12 @@
 60: voicelessness <n>
 80: - <n>: voicelessnesses~
 
-40 50 [+]: _: voice mail <n>
-40 50 [+]: _v {1}: voice-mail <n>
-40 50 [+]: _v {2}: voicemail <n>
-50 [+] 80 [3of6]: _: - <n>
+40 50 [+]: _: voicemail <n>
+40 50 [+]: _v {1}: voice mail <n>
+40 50 [+]: _v {2}: voice-mail <n>
+50 [+] 80 [3of6]: _: - <n>: voicemails
 50 [+] 80 [3of6]: _v {1}: - <n>
-50 [+] 80 [3of6]: _v {2}: - <n>: voicemails
-## Compound variant levels are a best guess based on freq and other related info.
+50 [+] 80 [3of6]: _v {2}: - <n>
 
 50: _: voice-over <n>: voice-overs
 50: _v: voiceover <n>: voiceovers
@@ -426711,19 +426580,16 @@
 
 50: warm front <n>: warm fronts
 
-40: _: warm-hearted <aj>
-40: _v: warmhearted <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: warmhearted <aj>
+40: _v: warm-hearted <aj>
 
-60: _: warm-heartedly
-60: _V: warmheartedly
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: warmheartedly
+60: _v: warm-heartedly
 
-60: _: warm-heartedness <n>
-60: _.: warmheartedness <n>
-80: _: - <n>
-80: _.: - <n>: warmheartednesses~
-## Compound variant levels are a best guess based on freq and other related info.
+60: _: warmheartedness <n>
+60: _v: warm-heartedness <n>
+80: _: - <n>: warmheartednesses~
+80: _v: - <n>
 
 35 [ukfreq] 70 [3of6] 80: warming <n>
 85 [ukacd]: - <n>: warmings
@@ -427622,10 +427488,9 @@
 80: _v: - <n>: waterhens
 ## Compound variant levels are a best guess based on freq and other related info.
 
-40: _: water hole <n>: water holes
-40: _v: waterhole <n>: waterholes
+40: _: waterhole <n>: waterholes
+40: _?: water hole <n>: water holes
 40: _-: water-hole <n>: water-holes
-## Compound variant levels are a best guess based on freq and other related info.
 
 85 [ukacd]: Waterhouse </upper?>
 
@@ -427675,7 +427540,6 @@
 
 50: _: water lily <n>: water lilies
 50: _v: waterlily <n>: waterlilies
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: _: waterline <n>: waterlines
 50: _v: water line <n>
@@ -427890,7 +427754,6 @@
 60: _: - <n>
 60: _v: - <n>: waterwheels
 60: _V: - <n>: water-wheels
-## Compound variant levels are a best guess based on freq and other related info.
 
 50: _: water wings <n>
 50: _=: water-wings <n>
@@ -430338,7 +430201,6 @@
 
 50: _: wheat germ <n>
 50: _v: wheatgerm <n>
-## Compound variant levels are a best guess based on freq and other related info.
 
 50 [name]: Wheaties <n/name?>: Wheaties's
 
@@ -431642,7 +431504,6 @@
 
 60: _: whiz kid <n>: whiz kids
 60: _v: whizkid <n>: whizkids
-## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: whizzbang <n>: whizzbangs
 60: _V: whizz-bang <n>: whizz-bangs!
@@ -431751,10 +431612,9 @@
 
 70 [moby] 85 [ukacd]: whole step <n>
 
-40: _: whole-wheat <aj>
-40: _v {1}: whole wheat <aj>
-40: _v {2}: wholewheat <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: _: wholewheat <aj>
+40: _?: whole wheat <aj>
+40: _v: whole-wheat <aj>
 
 70 [5desk] [moby] 80: wholism <n>: wholisms
 
@@ -432294,11 +432154,10 @@
 
 50: wild boar <n>: wild boars, wild boar's
 
-60: _: wild card <n>: wild cards
-60: _v: wildcard <n>: wildcards
-60 [extra]: _: - <n>
-60 [extra]: _v: - <n>: wildcard's
-## Compound variant levels are a best guess based on freq and other related info.
+60 [extra] 80: wildcard <n> {symbol}: wildcards
+60 [extra]: - <n> {symbol}: wildcard's
+
+60: wild card <n>: wild cards
 
 35: _: wildcat <n>: (wildcat | wildcats*), wildcat's
 35: _-: wild-cat <n>: wild-cats
@@ -433756,8 +433615,7 @@
 80: wisecracker <n>: wisecrackers
 
 40: _: wise guy <n>: wise guys, wise guy's
-40: _v: wiseguy <n>: wiseguys
-## Compound variant levels are a best guess based on freq and other related info.
+40: _.: wiseguy <n>: wiseguys
 
 85 [ukacd]: wiseling <n>: wiselings
 
@@ -433774,9 +433632,8 @@
 70 [moby] 80: wisent <n>: wisents
 70 [moby]: - <n>: wisent's
 
-80: _: wisewoman <n>: wisewomen
-80: _=: wise woman <n>
-## Compound variant levels are a best guess based on freq and other related info.
+80: _: wise woman <n>
+80: _.: wisewoman <n>: wisewomen
 
 85 [ukacd]: wise women
 

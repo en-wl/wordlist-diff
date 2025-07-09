@@ -43403,7 +43403,6 @@ breakings
 breakneck
 breakout
 breakouts
-breakpoint
 breakpoints
 breaks
 breakthrough
@@ -51639,9 +51638,6 @@ coat's
 coated
 coatee
 coatees
-coathanger
-coathanger's
-coathangers
 coati
 coati's
 coatimundi
@@ -54256,6 +54252,7 @@ conkers
 conking
 conks
 conman
+conman's
 conmen
 conn
 connate
@@ -84123,12 +84120,6 @@ hairdresser
 hairdresser's
 hairdressers
 hairdressing
-hairdrier
-hairdrier's
-hairdriers
-hairdryer
-hairdryer's
-hairdryers
 haired
 hairgrip
 hairgrips
@@ -118449,7 +118440,6 @@ percentage
 percentages
 percentile
 percentiles
-percents
 percept
 perceptibilities
 perceptibility
@@ -121782,6 +121772,7 @@ pneumonic
 pneumonoultramicroscopicsilicovolcanoconiosis
 pneumothorax
 pneumothoraxes
+po'boy
 poaceous
 poach
 poached
@@ -122541,8 +122532,6 @@ pooped
 pooping
 poops
 poor
-poorboy
-poorboys
 poorer
 poorest
 poorhouse
@@ -141352,8 +141341,6 @@ sixfold
 sixpence
 sixpences
 sixpenny
-sixshooter
-sixshooters
 sixteen
 sixteenmo
 sixteenmos
@@ -163979,6 +163966,7 @@ warmer
 warmers
 warmest
 warmhearted
+warmheartedly
 warmheartedness
 warming
 warmish
