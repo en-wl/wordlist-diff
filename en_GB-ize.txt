@@ -16572,10 +16572,6 @@ Salvador's
 Salvadoran
 Salvadoran's
 Salvadorans
-Salvadorean
-Salvadorean's
-Salvadorian
-Salvadorian's
 Salvatore
 Salvatore's
 Salween
@@ -62915,10 +62911,10 @@ lamb
 lamb's
 lambada
 lambadas
-lambaste
+lambast
 lambasted
-lambastes
 lambasting
+lambasts
 lambda
 lambdas
 lambed
@@ -75497,6 +75493,9 @@ pedantry
 pedants
 peddle
 peddled
+peddler
+peddler's
+peddlers
 peddles
 peddling
 pederast
@@ -75817,7 +75816,6 @@ perceive
 perceived
 perceives
 perceiving
-percent
 percentage
 percentages
 percentile

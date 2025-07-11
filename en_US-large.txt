@@ -23341,12 +23341,6 @@ Salvador's
 Salvadoran
 Salvadoran's
 Salvadorans
-Salvadorean
-Salvadorean's
-Salvadoreans
-Salvadorian
-Salvadorian's
-Salvadorians
 Salvatore
 Salvatore's
 Salween
@@ -43700,11 +43694,8 @@ briefless
 briefly
 briefness
 briefs
-brier
-brier's
 brierroot
 brierroots
-briers
 brierwood
 brierwoods
 briery

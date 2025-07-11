@@ -43788,11 +43788,8 @@ briefless
 briefly
 briefness
 briefs
-brier
-brier's
 brierroot
 brierroots
-briers
 brierwood
 brierwoods
 briery
@@ -119474,6 +119471,9 @@ pedants
 pedate
 peddle
 peddled
+peddler
+peddler's
+peddlers
 peddles
 peddling
 pederast

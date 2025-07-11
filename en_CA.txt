@@ -16568,10 +16568,6 @@ Salvador's
 Salvadoran
 Salvadoran's
 Salvadorans
-Salvadorean
-Salvadorean's
-Salvadorian
-Salvadorian's
 Salvatore
 Salvatore's
 Salween
@@ -29467,6 +29463,9 @@ brewing
 brewpub
 brewpubs
 brews
+briar
+briar's
+briars
 bribe
 bribed
 briber
@@ -29530,9 +29529,6 @@ briefings
 briefly
 briefness
 briefs
-brier
-brier's
-briers
 brig
 brigade
 brigade's
@@ -62922,10 +62918,10 @@ lamb
 lamb's
 lambada
 lambadas
-lambaste
+lambast
 lambasted
-lambastes
 lambasting
+lambasts
 lambda
 lambdas
 lambed
@@ -75810,7 +75806,6 @@ perceive
 perceived
 perceives
 perceiving
-percent
 percentage
 percentages
 percentile

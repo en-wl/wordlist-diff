@@ -46618,6 +46618,9 @@
 
 50: Brianna <n/person>: Brianna's
 
+50: A B: briar <n>: briars, briar's
+50: AV BV: brier <n>: briers, brier's
+
 70 [moby] 80 [upper] 85 [ukacd]: Briard <n/upper?>
 70 [moby] 80 [upper]: - <n/upper?>: Briards
 
@@ -46865,9 +46868,6 @@
 40: briefs
 
 80 [moby]: Brielle <n/place>
-
-50: A Bv C: brier <n>: briers, brier's
-50: Av B Cv: briar <n>: briars, briar's
 
 85 [ukacd]: briered
 
@@ -208981,8 +208981,8 @@
 
 60: lambada <n>: lambadas
 
-50: _: lambaste <v>: lambasted, lambasting, lambastes
-50: _v: lambast <v>: lambasted, lambasting, lambasts
+50: A Bv: lambaste <v>: lambasted, lambasting, lambastes
+50: Av B: lambast <v>: lambasted, lambasting, lambasts
 
 35 [ukfreq] 60: lambda <n>
 60: - <n>: lambdas
@@ -280893,8 +280893,9 @@
 
 35: peddle <v>: peddled, peddling, peddles
 
-35: A C: peddler <n>: peddlers, peddler's
-35: AV B Cv: pedlar <n>: pedlars, pedlar's
+35: A B C: peddler <n>: peddlers, peddler's
+35: AV B. Cv: pedlar <n>: pedlars, pedlar's
+35: A@ B@ C@: pedler <n>: pedlers
 
 80: peddlery <n>: peddleries
 
@@ -281031,8 +281032,6 @@
 85 [ukacd]: pedipalpus <n>: pedipalpuses
 
 80: pedlary <n>: pedlaries
-
-80: pedler <n>: pedlers
 
 80: pedlery <n>: pedleries
 
@@ -282850,7 +282849,8 @@
 35: A Bv: percent <n>: percent
 35: AV B: per cent <n>: per cent
 
-35: percent <a>
+35: A Bv: percent <av>
+35: AV B: per cent <av>
 
 35: percentage <n>: percentages
 
@@ -334277,18 +334277,16 @@
 
 50 [name] 60: Salvador <n/upper>: Salvador's
 
-50 [name] 60: Salvadoran <n/upper>: Salvadoran's
-60: - <n/upper>: Salvadorans
+50 [name] 60: A B: Salvadoran <n/upper>: Salvadoran's
+50 [name] 60: AV Bv {1}: Salvadorean <n/upper>: Salvadorean's
+50 [name] 60: AV Bv {2}: Salvadorian <n/upper>: Salvadorian's
+60: A B: - <n/upper>: Salvadorans
+60: AV Bv {1}: - <n/upper>: Salvadoreans
+60: AV Bv {2}: - <n/upper>: Salvadorians
 
-50 [name] 60: Salvadoran <aj/upper>
-
-60: Salvadorean <n/upper>: Salvadorean's
-65: - <n/upper>: Salvadoreans-
-
-60: Salvadorean <aj/upper>
-
-60: Salvadorian <n/upper>: Salvadorian's
-65: - <n/upper>: Salvadorians-
+50 [name] 60: A B: Salvadoran <aj/upper>
+50 [name] 60: AV Bv {1}: Salvadorean <aj/upper>
+50 [name] 60: AV Bv {2}: Salvadorian <aj/upper>
 
 35: salvage <n>
 80: - <n>: salvages~
@@ -383863,8 +383861,8 @@
 
 80 [upper]: Taxol <n/upper?>: Taxols
 
-60 [extra] 70 [5desk] 80: taxon <n>: (taxa | -: taxons-) # fixme: taxons: check if variant
-60 [extra] 70 [5desk]: - <n>: -, taxon's, (taxa's | -: taxons'-)
+60 [extra] 70 [5desk] 80: taxon <n>: (taxa | V: taxons)
+60 [extra] 70 [5desk]: - <n>: -, taxon's, (taxa's | V: taxons')
 
 85 [ukacd]: taxonomer <n>: taxonomers
 

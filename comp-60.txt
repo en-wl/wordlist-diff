@@ -660,8 +660,6 @@ Missing words, upper:
   Rubicons
   Rwandas
   Sabbaths
-  Salvadoreans
-  Salvadorians
   Saracens
   Scotchmen
   Scotchwomen
@@ -750,7 +748,7 @@ Missing words, upper:
   Zions
   Zoroastrianisms
   Zoroastrians
-total: 420
+total: 418
 
 Missing words, variant:
   bauds
@@ -1064,6 +1062,8 @@ New words, ok, in 2of12id:
   boogiemen
   bookended
   bookending
+  briar
+  briars
   burglarproofed
   burglarproofing
   burglarproofs
@@ -1139,7 +1139,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 86
+total: 88
 
 New words, ok, other:
   Curaçao
@@ -1342,9 +1342,15 @@ total: 91
 Missing words, ok, variant:
   Curacao
   Reunion
+  Salvadorean
+  Salvadoreans
+  Salvadorian
+  Salvadorians
   anchorpeople
   anyways
   birdying
+  brier
+  briers
   congresspeople
   cossetted
   cossetting
@@ -1369,5 +1375,5 @@ Missing words, ok, variant:
   unpeople
   zloties
   Ångström
-total: 29
+total: 35
 

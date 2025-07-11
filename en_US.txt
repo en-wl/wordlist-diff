@@ -16866,10 +16866,6 @@ Salvador's
 Salvadoran
 Salvadoran's
 Salvadorans
-Salvadorean
-Salvadorean's
-Salvadorian
-Salvadorian's
 Salvatore
 Salvatore's
 Salween
@@ -29828,6 +29824,9 @@ brewing
 brewpub
 brewpubs
 brews
+briar
+briar's
+briars
 bribe
 bribed
 briber
@@ -29891,9 +29890,6 @@ briefings
 briefly
 briefness
 briefs
-brier
-brier's
-briers
 brig
 brigade
 brigade's
