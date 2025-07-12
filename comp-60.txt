@@ -856,6 +856,9 @@ New words, ok, added:
   financials
   foodborne
   frontline
+  gaslighted
+  gaslighting
+  gaslit
   generalizability
   giftedness
   grandkid
@@ -954,7 +957,7 @@ New words, ok, added:
   whomso
   whoseso
   y'know
-total: 173
+total: 176
 
 New words, ok, all-upper lemma:
   ATMs

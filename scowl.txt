@@ -150033,6 +150033,8 @@
 
 50: gaslight <n>: gaslights
 
+50 [+]: gaslight <v>: (gaslighted | .: gaslit), gaslighting, gaslights
+
 70 [moby] 80: _: gaslit
 70 [moby] 80: _V: gas-lit
 ## Compound variant levels are a best guess based on freq and other related info.
