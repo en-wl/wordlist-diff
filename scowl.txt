@@ -75228,9 +75228,10 @@
 
 85 [ukacd]: commentatorial
 
-85 [ukacd]: commenter <n>: commenters!
-
-85 [ukacd]: commentor <n>: commentors
+50 [+] 85 [ukacd]: _: commenter <n>: commenters
+50 [+] 85 [ukacd]: _V: commentor <n>: commentors
+50 [+]: _: - <n>: commenter's
+50 [+]: _V: - <n>: commentor's
 
 35: commerce <n>
 80: - <n>: commerces~

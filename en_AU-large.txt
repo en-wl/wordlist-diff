@@ -52828,6 +52828,9 @@ commentator
 commentator's
 commentators
 commented
+commenter
+commenter's
+commenters
 commenting
 comments
 commerce

@@ -813,6 +813,8 @@ New words, ok, added:
   coli
   coliform
   collegial
+  commenter
+  commenters
   connectedness
   constructivism
   constructivist
@@ -957,7 +959,7 @@ New words, ok, added:
   whomso
   whoseso
   y'know
-total: 176
+total: 178
 
 New words, ok, all-upper lemma:
   ATMs
