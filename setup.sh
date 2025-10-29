@@ -4,8 +4,8 @@ set -e
 
 git init git-disk
 cd git-disk
-#git remote add src git@github.com:en-wl/wordlist.gi
-git remote add src /home/kevina/wordlist/v2-pub
+git remote add src git@github.com:en-wl/wordlist.git
+#git remote add src /home/kevina/wordlist/v2-pub
 git remote add diff git@github.com:en-wl/wordlist-diff.git
 git fetch src v1
 git fetch src

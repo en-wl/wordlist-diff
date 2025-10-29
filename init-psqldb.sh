@@ -10,6 +10,7 @@ then
     sudo umount psqldb
 fi
 
+mkdir -p psqldb
 sudo mount -t tmpfs -o size=1G none psqldb
 
 pgctl init -D "$PGDIR"

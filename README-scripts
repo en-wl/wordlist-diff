@@ -1,5 +1,36 @@
-Run this:
-  update.sh: this will update an already populated git-disk
+After initial checkout:
+  (1) run setup.sh to setup the git-disk repo
+  (2) edit psqldb-env.sh to suit your environment
 
-setup.sh: setup the git-disk repo
-init.sh: create the tmp git repo
+Then run
+  (1) init.sh to create the tmp git repo
+  (2) init-psqldb.sh to set up a local psqldb data in another tmp directory
+
+As both these scripts create a tmpfs mount there will need to rerun after a
+reboot or the mounts are removed.
+
+Once everything is set up finally run
+  update.sh to update the diff branch with the latest commits
+
+The tmpfs mounts will continue to take up memory.  They can be safely removed
+(unmounted).  However if a PostgreSQL server is still running it may need to
+be stopped first.  The easiest way is to stop the server is to source the
+psqldb-env.sh script and then use the pgctl alias to stop the server.  For example:
+  . psqldb-env.sh
+  pgctl stop
+
+To rerun the scripts on existing commits the easiest thing to do is to reset
+the diff branch in the git-disk directory.  For example:
+
+  cd git-disk
+  git branch -f diff 06b9c75aa72a171dc18a82c5c4a18d092ce8e3e5
+
+and rerun update.sh.
+
+The creation of the tmpfs mounts is for both speed and to reduce SSD wear.
+The mounts are not strictly needed and the scripts can easily be hacked to avoid
+requiring them.
+
+
+
+
