@@ -1,11 +1,13 @@
-# setup the git-disk repo
+#!/usr/bin/env bash
+set -euo pipefail
 
-set -e
+# Setup the git-disk repo
 
+rm -rf git-disk
 git init git-disk
 cd git-disk
 git remote add src git@github.com:en-wl/wordlist.git
-#git remote add src /home/kevina/wordlist/v2-pub
+#git remote add src "${HOME}/wordlist/v2-pub"
 git remote add diff git@github.com:en-wl/wordlist-diff.git
 git fetch src v1
 git fetch src

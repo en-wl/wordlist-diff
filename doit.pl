@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 use Data::Dumper;
 use Cwd;
 
@@ -62,7 +63,7 @@ while (<HIST>) {
 }
 
 #
-# Read existing entires.  
+# Read existing entries.
 # If option A and `newId` is defined is used the commit will be  assumed done.
 # If option B is used and `cached` is defined the commit messages
 #   will be re-done, but the contents will not be re-done.
