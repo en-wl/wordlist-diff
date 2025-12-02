@@ -1,3 +1,7 @@
+Requirements:
+  python-psycopg2
+  postgresql
+
 After initial checkout:
   (1) run setup.sh to setup the git-disk repo
   (2) edit psqldb-env.sh to suit your environment
@@ -30,7 +34,3 @@ and rerun update.sh.
 The creation of the tmpfs mounts is for both speed and to reduce SSD wear.
 The mounts are not strictly needed and the scripts can easily be hacked to avoid
 requiring them.
-
-
-
-
