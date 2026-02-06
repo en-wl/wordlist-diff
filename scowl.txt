@@ -15953,10 +15953,8 @@
 
 70 [3of6]: anti-inflamatory <n>: anti-inflamatories
 
-60 [coca]: _: anti-inflammatory <aj>
-60 [coca]: _v: antiinflammatory <aj>
-
-85 [ukacd]: antiinflammatory
+60 [coca] 85 [ukacd]: _: anti-inflammatory <aj>
+60 [coca] 85 [ukacd]: _v: antiinflammatory <aj>
 
 60: anti-intellectual <n>: anti-intellectual's
 
@@ -73582,9 +73580,7 @@
 
 50 [name]: Colgate <n/name?>: Colgate's
 
-60 [coca]: coli <we> # E. coli
-
-70 [extra]: coli
+60 [coca] 70 [extra]: coli <we> # E. coli
 
 85 [ukacd]: colibri <n>: colibris
 
@@ -191923,10 +191919,8 @@
 
 85 [stale]: interage
 
-60 [coca]: _: interagency <aj>
-60 [coca]: _v: inter-agency <aj>
-
-80: interagency
+60 [coca] 80: _: interagency <aj>
+60 [coca] 80: _v: inter-agency <aj>
 
 60: inter alia <av>
 
@@ -192384,10 +192378,8 @@
 
 80: intergeneration <n>: intergenerations
 
-60 [coca]: _: intergenerational <aj>
-60 [coca]: _V: inter-generational <aj>
-
-70 [3of6] 80: intergenerational
+60 [coca] 70 [3of6] 80: _: intergenerational <aj>
+60 [coca] 70 [3of6] 80: _V: inter-generational <aj>
 
 80: intergeneric
 
@@ -192407,10 +192399,8 @@
 
 80: intergranular
 
-60 [coca]: _: intergroup <aj>
-60 [coca]: _v: inter-group <aj>
-
-80: intergroup
+60 [coca] 80: _: intergroup <aj>
+60 [coca] 80: _v: inter-group <aj>
 
 85 [ukacd]: intergrow <m>: intergrew, intergrown, intergrowing, intergrows
 
@@ -266682,9 +266672,7 @@
 60: Opposition <n/upper>: Opposition's
 65: - <n/upper>: Oppositions-
 
-60 [coca]: oppositional <aj>
-
-70 [5desk] 80: oppositional
+60 [coca] 70 [5desk] 80: oppositional <aj>
 
 80: oppositionist <n>: oppositionists
 
@@ -297861,10 +297849,8 @@
 
 70 [5desk]: postseasonal
 
-60 [coca]: _: postsecondary <aj>
-60 [coca]: _v: post-secondary <aj>
-
-80: postsecondary
+60 [coca] 80: _: postsecondary <aj>
+60 [coca] 80: _v: post-secondary <aj>
 
 80: postshow
 
@@ -297909,10 +297895,8 @@
 
 80: posttranslational
 
-60 [coca]: _: post-traumatic <aj>
-60 [coca]: _v: posttraumatic <aj>
-
-80: posttraumatic
+60 [coca] 80: _: post-traumatic <aj>
+60 [coca] 80: _v: posttraumatic <aj>
 
 70 [3of6] 85 [ukacd]: post-traumatic stress disorder
 
@@ -301580,13 +301564,11 @@
 
 35 [ukfreq] 40: preserves
 
-60 [coca]: _: preservice <n>
-60 [coca]: _v: pre-service <n>
+60 [coca] 80: _: preservice <n>
+60 [coca] 80: _v: pre-service <n>
 
-60 [coca]: _: pre-service <aj>
-60 [coca]: _.: preservice <aj>
-
-80: preservice
+60 [coca] 80: _: pre-service <aj>
+60 [coca] 80: _.: preservice <aj>
 
 50: preset <v>: preset, presetting, presets
 
@@ -396794,9 +396776,7 @@
 
 80: transformationally
 
-60 [coca]: transformative <aj>
-
-80: transformative
+60 [coca] 80: transformative <aj>
 
 35 [ukfreq] 70 [3of6] 80: transformed <aj>
 
@@ -408012,9 +407992,7 @@
 
 85 [ukacd]: undersense <n>: undersenses
 
-60 [coca]: underserved <aj>
-
-80: underserved
+60 [coca] 80: underserved <aj>
 
 70 [moby] 80: underset <m>: underset, undersetting, undersets
 
@@ -410971,9 +410949,7 @@
 
 85 [ukacd]: univariant
 
-60 [coca]: univariate <n>
-
-80: univariate
+60 [coca] 80: univariate <n>
 
 35: universal <n>: universals
 
