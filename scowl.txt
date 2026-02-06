@@ -13475,6 +13475,7 @@
 
 60: _: angelfish <n>: (angelfish | angelfishes*), angelfish's
 60: _-: angel-fish <n>
+## Compound variant levels are a best guess based on freq and other related info.
 
 50: angel food cake <n>: angel food cakes
 
