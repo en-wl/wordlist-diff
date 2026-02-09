@@ -2,6 +2,10 @@ New words, unclassified:
   po'boy
 total: 1
 
+New words, upper:
+  Kyiv
+total: 1
+
 New words, upper plural:
   Amerasians
   Anglophiles
@@ -321,13 +325,14 @@ Missing words, closed form of compound word marked as variant:
 total: 87
 
 Missing words, common variant:
+  Kiev
   amoebae
   coneys
   formulae
   fête
   fêtes
   hippy
-total: 6
+total: 7
 
 Missing words, upper:
   ABMs

@@ -10323,8 +10323,6 @@ Kierkegaard
 Kierkegaard's
 Kieth
 Kieth's
-Kiev
-Kiev's
 Kigali
 Kigali's
 Kikuyu
@@ -10636,6 +10634,8 @@ Kwangju's
 Kwanzaa
 Kwanzaa's
 Ky
+Kyiv
+Kyiv's
 Kyle
 Kyle's
 Kyoto

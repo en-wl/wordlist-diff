@@ -204589,8 +204589,6 @@
 
 50: Kieth <n/person>: Kieth's
 
-50: Kiev <n/upper>: Kiev's
-
 70 [5desk] 80 [upper]: Kievan <n/upper?>: Kievans
 
 85 [ukacd]: kieve <n>: kieves
@@ -207614,6 +207612,9 @@
 70 [moby]: Kyd <n/upper>: Kyd's
 
 80: kye <n>: kyes
+
+50: _: Kyiv <n/place>: Kyiv's
+50: _v: Kiev <n/place>: Kiev's
 
 50: Kyle <n/person>: Kyle's
 
