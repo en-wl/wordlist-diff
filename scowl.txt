@@ -229098,7 +229098,8 @@
 70 [3of6] 85 [ukacd]: master bedroom <n>
 70 [3of6]: - <n>: master bedrooms
 
-50 [name]: MasterCard <n/name?>: MasterCard's
+50 [name]: _: Mastercard <n/name>: Mastercard's
+50 [name]: _v: MasterCard <n/name>: MasterCard's
 
 60: master chief petty officer
 
@@ -440719,6 +440720,7 @@
 #:
 #: Part of Speech Classes:
 #:   abbr?
+#:   name
 #:   name?
 #:   number
 #:   ordinal

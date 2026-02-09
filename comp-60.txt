@@ -4,7 +4,8 @@ total: 1
 
 New words, upper:
   Kyiv
-total: 1
+  Mastercard
+total: 2
 
 New words, upper plural:
   Amerasians
@@ -326,13 +327,14 @@ total: 87
 
 Missing words, common variant:
   Kiev
+  MasterCard
   amoebae
   coneys
   formulae
   fête
   fêtes
   hippy
-total: 7
+total: 8
 
 Missing words, upper:
   ABMs
