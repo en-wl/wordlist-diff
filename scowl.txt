@@ -300226,10 +300226,8 @@
 80: _=: pre-exilic
 ## Compound variant levels are a best guess based on freq and other related info.
 
-50: preexist <v>: preexisted, preexisting, preexists
-
-60: pre-exist <m>
-65: - <m>: pre-existed-, pre-existing-, pre-exists-
+50: A B- CV: preexist <v>: preexisted, preexisting, preexists
+50: AV B C: pre-exist <v>: pre-existed, pre-existing, pre-exists
 
 60: _: preexistence <n>
 60: _V: pre-existence <n>
@@ -300242,9 +300240,8 @@
 
 85 [ukacd]: pre-existent <aj>
 
-40: _: preexisting <aj>
-40: _v: pre-existing <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+40: A B- CV: preexisting <aj>
+40: AV B C: pre-existing <aj>
 
 80: preexperiment <n>: preexperiments
 
