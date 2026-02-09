@@ -5352,14 +5352,14 @@
 50: A B: aesthete <n>: aesthetes, aesthete's
 50: AV: esthete <n>: esthetes, esthete's
 
-35: A B C D: aesthetic <aj>
-35: Av Cv Dv: esthetic <aj>
+35: A B: aesthetic <aj>
+35: Av: esthetic <aj>
 
-85 [ukacd]: A B C D: -aesthetic <n>: aesthetics
-85 [ukacd]: Av Cv Dv: -esthetic <n>: esthetics
+85 [ukacd]: A B: -aesthetic <n>: aesthetics
+85 [ukacd]: Av: -esthetic <n>: esthetics
 
 35 [ukfreq] 40: A B: aesthetically <av>
-35 [ukfreq] 40: A-: esthetically <av>
+35 [ukfreq] 40: Av: esthetically <av>
 
 60: aestheticism <n>
 80: - <n>: aestheticisms~
@@ -5369,8 +5369,8 @@
 80: A Z: aestheticize <m>: aestheticized, aestheticizing, aestheticizes
 80: B: aestheticise <m>: aestheticised, aestheticising, aestheticises
 
-40: A B C D: aesthetics <n>
-40: Av Cv Dv: esthetics <n>
+40: A B: aesthetics <n>
+40: Av: esthetics <n>
 
 85 [ukacd]: aes triplex
 
