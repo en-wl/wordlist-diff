@@ -428320,9 +428320,8 @@
 
 70 [moby] 80: weaponeer <n>: weaponeers
 
-70 [3of6]: weaponise <m>: weaponised, weaponising, weaponises
-
-60 [extra] 70 [3of6]: weaponize <v>: weaponized, weaponizing, weaponizes
+60 [extra] 70 [3of6]: A Z: weaponize <v>: weaponized, weaponizing, weaponizes
+60 [extra] 70 [3of6]: B: weaponise <v>: weaponised, weaponising, weaponises
 
 50: weaponless <aj>
 

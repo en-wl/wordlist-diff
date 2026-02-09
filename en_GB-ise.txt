@@ -105667,10 +105667,10 @@ weaning
 weans
 weapon
 weapon's
-weaponize
-weaponized
-weaponizes
-weaponizing
+weaponise
+weaponised
+weaponises
+weaponising
 weaponless
 weaponry
 weapons

@@ -163909,10 +163909,6 @@ weapon
 weapon's
 weaponeer
 weaponeers
-weaponise
-weaponised
-weaponises
-weaponising
 weaponize
 weaponized
 weaponizes
