@@ -46989,10 +46989,10 @@ europium
 euros
 eutectic
 euthanasia
-euthanize
-euthanized
-euthanizes
-euthanizing
+euthanise
+euthanised
+euthanises
+euthanising
 euthenics
 eutrophication
 evacuate

@@ -127617,7 +127617,9 @@
 
 80: euthanatize <m>: euthanatized, euthanatizing, euthanatizes
 
-60: euthanize <v>: euthanized, euthanizing, euthanizes
+60: A Z: euthanize <v>: euthanized, euthanizing, euthanizes
+60: B Dv: euthanise <v>: euthanised, euthanising, euthanises
+60: D: euthanase <v>: euthanased, euthanasing, euthanases
 
 60: euthenics <n>
 

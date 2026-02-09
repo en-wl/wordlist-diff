@@ -72488,6 +72488,10 @@ eutectics
 eutectoid
 eutectoids
 euthanasia
+euthanise
+euthanised
+euthanises
+euthanising
 euthanize
 euthanized
 euthanizes
