@@ -438181,10 +438181,10 @@
 
 80: yogism <n>: yogisms
 
-35: A B Cv Dv: yogurt <n>: yogurts, yogurt's
-35: Bv Cv D: yoghurt <n>: yoghurts, yoghurt's
-35: Bv DV: yoghourt <n>: yoghourts, yoghourt's
-35: C: yogourt <n>: yogourts, yogourt's
+35: A Bv C: yogurt <n>: yogurts, yogurt's
+35: B CV: yoghurt <n>: yoghurts, yoghurt's
+35: B-: yoghourt <n>: yoghourts, yoghourt's
+35: Cv: yogourt <n>: yogourts, yogourt's
 
 70 [moby] 85 [ukacd]: yo-heave-ho
 
