@@ -179,6 +179,7 @@ Missing words, unclassified:
   rattlings
   ravelings
   raviolis
+  reactance
   residua
   revelings
   ringings
@@ -214,6 +215,7 @@ Missing words, unclassified:
   swaggerer
   testings
   thesauri
+  trabecula
   tricepses
   troubleshooted
   tunnelings
@@ -232,7 +234,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 148
+total: 150
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -790,6 +792,7 @@ New words, ok, added:
   Aotearoa
   Egyptologist
   Egyptologists
+  HVAC
   Instagrammed
   Instagrammer
   Instagrammers
@@ -814,6 +817,8 @@ New words, ok, added:
   apneas
   backcountry
   biblically
+  biofuel
+  biofuels
   biosolid
   biosolids
   biota
@@ -830,6 +835,12 @@ New words, ok, added:
   cochairs
   codirector
   codirectors
+  coevolution
+  coevolutions
+  coevolve
+  coevolved
+  coevolves
+  coevolving
   cofound
   cofounded
   cofounder
@@ -862,6 +873,8 @@ New words, ok, added:
   creatine
   crosstalk
   cyber
+  decomposer
+  decomposers
   defenseman
   defensemen
   dox
@@ -907,6 +920,7 @@ New words, ok, added:
   homeschooler
   homeschoolers
   homeschools
+  hydropower
   impactful
   influencer
   influencers
@@ -921,6 +935,8 @@ New words, ok, added:
   largemouths
   leaguer
   leaguers
+  liftgate
+  liftgates
   livestream
   livestreamed
   livestreaming
@@ -938,6 +954,8 @@ New words, ok, added:
   matchup
   matchups
   melatonin
+  metalloid
+  metalloids
   metaverse
   metaverses
   microbiome
@@ -946,6 +964,8 @@ New words, ok, added:
   microblogged
   microblogging
   microblogs
+  microcontroller
+  microcontrollers
   microplastic
   midafternoon
   midmorning
@@ -982,6 +1002,10 @@ New words, ok, added:
   posttest
   predation
   predations
+  preprogram
+  preprogrammed
+  preprogramming
+  preprograms
   preservice
   quadrillionth
   quadrillionths
@@ -990,6 +1014,8 @@ New words, ok, added:
   reauthorizations
   refractor
   refractors
+  reinstallation
+  reinstallations
   responder
   responders
   rockfish
@@ -1045,7 +1071,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 258
+total: 282
 
 New words, ok, all-upper lemma:
   ATMs

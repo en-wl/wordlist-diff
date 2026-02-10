@@ -7915,6 +7915,7 @@ HTML's
 HTTP
 HUD
 HUD's
+HVAC
 Ha
 Haas
 Haas's
@@ -27765,6 +27766,9 @@ biofeedback
 biofilm
 biofilm's
 biofilms
+biofuel
+biofuel's
+biofuels
 biog
 biographer
 biographer's
@@ -34878,6 +34882,13 @@ coeval
 coeval's
 coevally
 coevals
+coevolution
+coevolution's
+coevolutions
+coevolve
+coevolved
+coevolves
+coevolving
 coexist
 coexisted
 coexistence
@@ -40313,6 +40324,9 @@ decommissioning
 decommissions
 decompose
 decomposed
+decomposer
+decomposer's
+decomposers
 decomposes
 decomposing
 decomposition
@@ -58132,6 +58146,7 @@ hydroplaning
 hydroponic
 hydroponically
 hydroponics
+hydropower
 hydrosphere
 hydrotherapy
 hydrothermal
@@ -64527,6 +64542,8 @@ lifted
 lifter
 lifter's
 lifters
+liftgate
+liftgates
 lifting
 liftoff
 liftoffs
@@ -67785,6 +67802,8 @@ metalanguage
 metalanguages
 metalled
 metallic
+metalloid
+metalloids
 metallurgic
 metallurgical
 metallurgist
@@ -67974,6 +67993,9 @@ microcircuits
 microcode
 microcomputer
 microcomputers
+microcontroller
+microcontroller's
+microcontrollers
 microcosm
 microcosmic
 microcosms
@@ -79701,6 +79723,10 @@ preppiest
 prepping
 preppy
 preppy's
+preprogram
+preprogrammed
+preprogramming
+preprograms
 preps
 prepubescence
 prepubescent
@@ -82782,7 +82808,6 @@ reacquired
 reacquires
 reacquiring
 react
-reactance
 reactant
 reactants
 reacted
@@ -84373,6 +84398,8 @@ reinspected
 reinspecting
 reinspects
 reinstall
+reinstallation
+reinstallations
 reinstalled
 reinstalling
 reinstate
@@ -100373,7 +100400,6 @@ toyed
 toying
 toys
 tr
-trabecula
 trabeculae
 trabecular
 trace
@@ -104844,6 +104870,7 @@ vertebrate
 vertebrate's
 vertebrates
 vertex
+vertex's
 vertexes
 vertical
 vertically

@@ -10980,6 +10980,7 @@ HI
 HIV
 HIV's
 HM
+HMI
 HMO
 HMO's
 HMS
@@ -11005,6 +11006,7 @@ HTML's
 HTTP
 HUD
 HUD's
+HVAC
 Ha
 Haarlem
 Haas
@@ -28255,6 +28257,8 @@ Worcesters
 Worcestershire
 Worcestershire's
 Worcestershires
+WordPad
+WordPad's
 WordPress
 WordPress's
 Wordsworth
@@ -36180,6 +36184,7 @@ assurgent
 assuring
 assuror
 assurors
+astable
 astatic
 astatine
 aster
@@ -40675,6 +40680,7 @@ biodiesel
 biodiversity
 biodiversity's
 bioecology
+bioenergetics
 bioengineer
 bioengineered
 bioengineering
@@ -40689,6 +40695,7 @@ biofilm
 biofilm's
 biofilms
 biofuel
+biofuel's
 biofuels
 biog
 biogas
@@ -40731,6 +40738,7 @@ bioluminescence
 bioluminescences
 biolyses
 biolysis
+biomagnification
 biomarker
 biomarker's
 biomarkers
@@ -52020,6 +52028,7 @@ coevality
 coevally
 coevals
 coevolution
+coevolution's
 coevolutionary
 coevolutions
 coevolve
@@ -54747,6 +54756,7 @@ contacted
 contacting
 contactless
 contactor
+contactor's
 contactors
 contacts
 contagia
@@ -60282,6 +60292,7 @@ decomposable
 decompose
 decomposed
 decomposer
+decomposer's
 decomposers
 decomposes
 decomposing
@@ -61425,6 +61436,9 @@ demulsified
 demulsifies
 demulsify
 demulsifying
+demultiplexer
+demultiplexer's
+demultiplexers
 demur
 demure
 demurely
@@ -62240,6 +62254,10 @@ desolating
 desolation
 desolator
 desolators
+desolder
+desoldered
+desoldering
+desolders
 desorb
 desorbed
 desorbing
@@ -62355,6 +62373,7 @@ destructor
 destructors
 destructs
 desuetude
+desulphurisation
 desulphurise
 desulphurised
 desulphurises
@@ -67381,6 +67400,7 @@ dynamiting
 dynamo
 dynamoelectric
 dynamometer
+dynamometer's
 dynamometers
 dynamometries
 dynamometry
@@ -68580,6 +68600,7 @@ electroplate
 electroplated
 electroplates
 electroplating
+electropneumatic
 electropositive
 electros
 electroscope
@@ -70924,6 +70945,7 @@ equiponderated
 equiponderates
 equiponderating
 equipotential
+equipotentials
 equipped
 equipping
 equiprobable
@@ -99442,6 +99464,8 @@ lifted
 lifter
 lifter's
 lifters
+liftgate
+liftgates
 lifting
 liftoff
 liftoffs
@@ -99947,6 +99971,7 @@ liquidity
 liquidness
 liquidnesses
 liquids
+liquidus
 liquified
 liquifies
 liquify
@@ -103737,6 +103762,7 @@ mechanistically
 mechanists
 mechanotherapies
 mechanotherapy
+mechatronics
 med
 medal
 medalled
@@ -105057,6 +105083,9 @@ micrococcus
 microcode
 microcomputer
 microcomputers
+microcontroller
+microcontroller's
+microcontrollers
 microcopy
 microcosm
 microcosmic
@@ -105212,9 +105241,12 @@ microspores
 microsporophyll
 microsporophylls
 microstructure
+microstructure's
 microstructures
 microsurgery
 microsurgical
+microswitch
+microswitches
 microtome
 microtomes
 microtone
@@ -108439,6 +108471,7 @@ multiversities
 multiversity
 multiversity's
 multivibrator
+multivibrator's
 multivibrators
 multivitamin
 multivitamins
@@ -113505,6 +113538,9 @@ optionally
 optioned
 optioning
 options
+optocoupler
+optocoupler's
+optocouplers
 optometer
 optometers
 optometric
@@ -119485,6 +119521,8 @@ phases
 phasic
 phasing
 phasis
+phasor
+phasors
 phat
 phatic
 phatter
@@ -121290,7 +121328,10 @@ plasmodia's
 plasmodium
 plasmodium's
 plasmodiums
+plasmolyse
+plasmolysed
 plasmolyses
+plasmolysing
 plasmolysis
 plasmolytic
 plasmon
@@ -124240,7 +124281,10 @@ preppy
 preppy's
 preprandial
 preprofessional
-preprogramme
+preprogram
+preprogrammed
+preprogramming
+preprograms
 preps
 prepuberties
 prepuberty
@@ -131195,6 +131239,8 @@ reinspected
 reinspecting
 reinspects
 reinstall
+reinstallation
+reinstallations
 reinstalled
 reinstalling
 reinstate
@@ -155529,6 +155575,7 @@ transalpine
 transalpine's
 transatlantic
 transaxle
+transaxle's
 transaxles
 transcalent
 transceiver
@@ -162412,6 +162459,7 @@ vertebrate's
 vertebrates
 verted
 vertex
+vertex's
 vertexes
 vertical
 verticalities

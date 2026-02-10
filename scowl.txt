@@ -527,7 +527,7 @@
 
 70 [moby] 80: abiosis <n>: abioses
 
-70 [5desk] [moby] 80: abiotic
+70 [5desk] [extra] [moby] 80: abiotic <aj>
 
 80: abiotically
 
@@ -22918,7 +22918,7 @@
 
 85 [ukacd]: assythment <n>: assythments
 
-80: astable
+70 [extra] 80: astable <aj>
 
 85 [ukacd]: astacological
 
@@ -37847,6 +37847,8 @@
 
 80: bioenergetic <n>: bioenergetics
 
+70 [extra]: bioenergetics <n>
+
 85 [ukacd]: bio-energetics
 
 70 [5desk] 80: bioengineer <m>: bioengineered, bioengineering, bioengineers
@@ -37878,7 +37880,8 @@
 
 80: biofouling <n>: biofoulings
 
-70 [3of6] 80: biofuel <n>: biofuels
+60 [extra] 70 [3of6] 80: biofuel <n>: biofuels
+60 [extra]: - <n>: biofuel's
 
 60: _: biog. <abbr>
 60: _~: biog <abbr>
@@ -37916,7 +37919,8 @@
 
 80: biogeographical <aj>
 
-70 [5desk] [moby] 80: biogeography <n>: biogeographies
+70 [5desk] [extra] [moby] 80: biogeography <n>
+70 [5desk] [moby] 80: - <n>: biogeographies
 
 85 [ukacd]: biograph <n>: biographs
 
@@ -37981,6 +37985,8 @@
 70 [moby] 80: biolysis <n>: biolyses
 
 80: biolytic
+
+70 [extra]: biomagnification <n>
 
 60 [extra] 80: biomarker <n>: biomarkers
 60 [extra]: - <n>: biomarker's
@@ -46154,6 +46160,8 @@
 70 [3of6]: breakdown truck <n>: breakdown trucks
 
 50: breaker <n>: breakers, breaker's
+
+80 [extra]: breakerless <aj>
 
 60: _: break-even <n>
 60: _v: breakeven <n>
@@ -72781,11 +72789,15 @@
 
 60: coevally <a>
 
-70 [5desk] 80: coevolution <n>: coevolutions
+60 [extra] 70 [5desk] 80: _: coevolution <n>: coevolutions
+60 [extra] 70 [5desk] 80: _V: co-evolution <n>: co-evolutions
+60 [extra]: _: - <n>: coevolution's
+60 [extra]: _V: - <n>: co-evolution's
 
 70 [5desk] 80: coevolutionary
 
-70 [5desk] 80: coevolve <m>: coevolved, coevolving, coevolves
+60 [extra] 70 [5desk] 80: _: coevolve <v>: coevolved, coevolving, coevolves
+60 [extra] 70 [5desk] 80: _V: co-evolve <v>: co-evolved, co-evolving, co-evolves
 
 70 [moby] 80: coexecutor <n>: coexecutors
 
@@ -79629,7 +79641,8 @@
 
 60 [extra]: contactless
 
-70 [moby] 80: contactor <n>: contactors
+70 [extra] [moby] 80: contactor <n>: contactors
+70 [extra]: - <n>: contactor's
 
 70 [moby] 85 [ukacd]: contact print <n>: contact prints
 
@@ -94770,7 +94783,7 @@
 
 70 [5desk] 80: decalcifier <n>: decalcifiers
 
-70 [5desk] [moby] 80: decalcify <v>: decalcified, decalcifying, decalcifies
+70 [5desk] [extra] [moby] 80: decalcify <v>: decalcified, decalcifying, decalcifies
 
 70 [5desk] [moby] 80: decalcomania <n>: decalcomanias
 
@@ -95466,7 +95479,8 @@
 
 50 [ukfreq] 70 [3of6] [5desk] [moby] 80: decomposed
 
-70 [5desk] [moby] 80: decomposer <n>: decomposers
+60 [extra] 70 [5desk] [moby] 80: decomposer <n>: decomposers
+60 [extra]: - <n>: decomposer's
 
 85 [ukacd]: decomposite
 
@@ -98084,7 +98098,8 @@
 
 70 [moby] 80: demulsify <v>: demulsified, demulsifying, demulsifies
 
-80: demultiplexer <n>: demultiplexers
+70 [extra] 80: demultiplexer <n>: demultiplexers
+70 [extra]: - <n>: demultiplexer's
 
 50: demur <n>
 80: - <n>: demurs~
@@ -99965,6 +99980,8 @@
 
 85 [ukacd]: desolatory
 
+70 [extra]: desolder <v>: desoldered, desoldering, desolders
+
 80: desophisticated
 
 70 [moby] 80: desorb <v>: desorbed, desorbing, desorbs
@@ -100237,9 +100254,12 @@
 
 80: desulfur <m>: desulfured, desulfuring, desulfurs
 
-80: A: desulfurization <n>: desulfurizations
-80: B: desulphurisation <n>: desulphurisations
-80: Z: desulphurization <n>: desulphurizations
+70 [extra] 80: A: desulfurization <n>
+70 [extra] 80: B: desulphurisation <n>
+70 [extra] 80: Z: desulphurization <n>
+80: A: - <n>: desulfurizations
+80: B: - <n>: desulphurisations
+80: Z: - <n>: desulphurizations
 
 70 [moby] 80: A: desulfurize <v>: desulfurized, desulfurizing, desulfurizes
 70 [moby] 80: B: desulphurise <v>: desulphurised, desulphurising, desulphurises
@@ -107411,6 +107431,8 @@
 80: distributivity <n>: distributivities
 
 35: distributor <n>: distributors, distributor's
+
+80 [extra]: distributorless <aj>
 
 60 [brif] 80: distributorship <n>: distributorships
 
@@ -114637,7 +114659,8 @@
 
 85 [ukacd]: dynamograph <n>: dynamographs
 
-70 [5desk] [moby] 80: dynamometer <n>: dynamometers
+70 [5desk] [extra] [moby] 80: dynamometer <n>: dynamometers
+70 [extra]: - <n>: dynamometer's
 
 80: dynamometric
 
@@ -118168,7 +118191,8 @@
 
 80: electrochemist <n>: electrochemists
 
-70 [5desk] [moby] 80: electrochemistry <n>: electrochemistries
+70 [5desk] [extra] [moby] 80: electrochemistry <n>
+70 [5desk] [moby] 80: - <n>: electrochemistries
 
 80: electrocoagulation <n>: electrocoagulations
 
@@ -118447,6 +118471,10 @@
 
 70 [3of6] 80: electroplating <n>
 85 [ukacd]: - <n>: electroplatings!
+
+70 [extra]: electropneumatic <aj>
+
+80 [extra]: electropneumatics <n>
 
 85 [ukacd]: electropolar
 
@@ -124680,7 +124708,10 @@
 
 85 [ukacd]: equipotent <aj>
 
-70 [moby] 80: equipotential
+70 [extra] [moby] 80: equipotential <n>
+70 [extra]: - <n>: equipotentials
+
+70 [extra] [moby] 80: equipotential <aj>
 
 80: equipotentiality <n>: equipotentialities
 
@@ -172172,6 +172203,8 @@
 
 70 [3of6]: HGV <n/upper>: HGVs
 
+70 [extra]: HGV <abbr>
+
 60: _: hgwy. <abbr>
 60: _~: hgwy <abbr>
 
@@ -174071,6 +174104,8 @@
 
 80 [moby]: H.M. <abbr>
 
+70 [extra]: HMI <abbr>
+
 40: HMO <n/upper>: HMO's
 
 50 [name] 70 [5desk] 80 [upper]: Hmong <n/upper>
@@ -175717,8 +175752,8 @@
 
 70 [moby] 80: homolographic
 
-70 [5desk] [moby] 80: A B: homologue <n>: homologues
-70 [5desk] [moby] 80: Av: homolog <n>: homologs
+70 [5desk] [extra] [moby] 80: A B: homologue <n>: homologues
+70 [5desk] [extra] [moby] 80: Av: homolog <n>: homologs
 70 [5desk] [moby]: A B: - <n>: homologue's
 70 [5desk] [moby]: Av: - <n>: homolog's
 
@@ -179557,6 +179592,8 @@
 
 80 [moby]: H.V. <abbr>
 
+60 [extra]: HVAC <abbr>
+
 70 [moby] 80: hwan
 
 70 [5desk]: Hwang </upper?>
@@ -180165,7 +180202,8 @@
 
 80: hydroponist <n>: hydroponists
 
-70 [5desk] 80: hydropower <n>: hydropowers
+60 [extra] 70 [5desk] 80: hydropower <n>
+70 [5desk] 80: - <n>: hydropowers
 
 70 [moby] 80: hydrops <n>: hydropses
 
@@ -180958,7 +180996,8 @@
 
 80: hypermetrical
 
-70 [moby] 80: hypermetropia <n>: hypermetropias
+70 [extra] [moby] 80: hypermetropia <n>
+70 [moby] 80: - <n>: hypermetropias
 
 80: hypermetropic <aj>
 
@@ -191759,7 +191798,7 @@
 
 70 [5desk]: integumental <aj>
 
-70 [5desk] [moby] 80: integumentary <aj>
+70 [5desk] [extra] [moby] 80: integumentary <aj>
 
 50 [+]: intel <n>: intel's
 
@@ -193908,8 +193947,8 @@
 
 85 [ukacd]: intranational
 
-50 [+] 60 [brif] 70 [3of6] [5desk] 80: intranet <n>: intranets
-50 [+] 60 [brif] 70 [3of6] [5desk]: - <n>: intranet's
+50 [+] 60 [brif] [extra] 70 [3of6] [5desk] 80: intranet <n>: intranets
+50 [+] 60 [brif] [extra] 70 [3of6] [5desk]: - <n>: intranet's
 
 60: intrans <abbr>
 
@@ -215530,7 +215569,7 @@
 
 60: lifter <n>: lifters, lifter's
 
-80: liftgate <n>: liftgates
+60 [extra] 80: liftgate <n>: liftgates
 
 80: liftman <n>: liftmen
 
@@ -217197,7 +217236,8 @@
 
 70 [moby] 85 [ukacd]: liquid oxygen <n>
 
-80: liquidus <n>: liquiduses
+70 [extra] 80: liquidus <n>
+80: - <n>: liquiduses
 
 35: liquor <n>: liquor's
 80: - <n>: liquors~
@@ -222228,7 +222268,8 @@
 80: A Z: luteinize <m>: luteinized, luteinizing, luteinizes
 80: B: luteinise <m>: luteinised, luteinising, luteinises
 
-70 [moby] 85 [ukacd]: luteinizing hormone <n>
+70 [extra] [moby] 85 [ukacd]: luteinizing hormone <n>
+70 [extra]: - <n>: luteinizing hormones
 
 60: lutenist <n>: lutenists, lutenist's
 
@@ -224272,7 +224313,7 @@
 
 80: magnetometry <n>: magnetometries
 
-70 [moby] 85 [ukacd]: magnetomotive
+70 [moby] 80 [extra] 85 [ukacd]: magnetomotive <aj>
 
 70 [moby]: magnetomotive force <n>
 
@@ -231382,6 +231423,8 @@
 
 85 [ukacd]: mechatronic <n>: mechatronics
 
+70 [extra]: mechatronics <n>
+
 80: mechitza <n>: mechitzas
 
 80: mechitzot
@@ -232258,7 +232301,8 @@
 50: melanin <n>
 80: - <n>: melanins~
 
-70 [5desk] [moby] 80: melanism <n>: melanisms
+70 [5desk] [extra] [moby] 80: melanism <n>
+70 [5desk] [moby] 80: - <n>: melanisms
 
 85 [stale]: melanist <n>: melanists
 
@@ -234547,7 +234591,7 @@
 
 70 [moby] 80: metallography <n>: metallographies
 
-70 [3of6] 80: -metalloid <n>: metalloids
+60 [extra] 70 [3of6] 80: -metalloid <n>: metalloids
 
 70 [3of6] [moby] 80: metalloid <aj>
 
@@ -235825,6 +235869,8 @@
 
 85 [ukacd]: microcomputing
 
+60 [extra]: microcontroller <n>: microcontrollers, microcontroller's
+
 80: microcopies
 
 70 [moby] 80: microcopy <v>
@@ -236381,7 +236427,8 @@
 
 80: microstructural
 
-70 [moby] 80: microstructure <n>: microstructures
+70 [extra] [moby] 80: microstructure <n>: microstructures
+70 [extra]: - <n>: microstructure's
 
 85 [ukacd]: microsurgeon <n>: microsurgeons
 
@@ -236390,7 +236437,7 @@
 
 70 [5desk] 80: microsurgical
 
-80: microswitch <n>: microswitches
+70 [extra] 80: microswitch <n>: microswitches
 
 80: microteaching <n>: microteachings
 
@@ -247025,7 +247072,8 @@
 70 [moby] 80: multiversity <n>: multiversities
 70 [moby]: - <n>: multiversity's
 
-70 [moby] 85 [ukacd]: multivibrator <n>: multivibrators
+70 [extra] [moby] 85 [ukacd]: multivibrator <n>: multivibrators
+70 [extra]: - <n>: multivibrator's
 
 85 [ukacd]: multivious
 
@@ -266983,6 +267031,8 @@
 
 85 [ukacd]: optoacoustic
 
+70 [extra]: optocoupler <n>: optocouplers, optocoupler's
+
 80: optoelectronic <n>: optoelectronics
 
 80: optokinetic
@@ -286048,6 +286098,8 @@
 
 85 [ukacd]: Phasmidae </upper?>
 
+70 [extra]: phasor <n>: phasors
+
 60: phat <a>
 65: - <a>: phatter-, phattest-
 
@@ -291897,16 +291949,17 @@
 
 85 [stale]: plasmoid <n>: plasmoids
 
-70 [5desk] [moby] 80: plasmolysis <n>: plasmolyses† # fixme: plasmolyses: check for variants
+70 [5desk] [extra] [moby] 80: plasmolysis <n> # fixme: plasmolyses: check for variants
+70 [5desk] [moby] 80: - <n>: plasmolyses†
 
 70 [5desk] 80: plasmolytic
 
 80: plasmolytically
 
-70 [5desk] [moby] 80: A: - <m>: -, -, plasmolyzes
-70 [5desk] [moby] 80: B: - <m>: -, -, plasmolyses†
-80: A: plasmolyze <m>: plasmolyzed, plasmolyzing, -
-80: B: plasmolyse <m>: plasmolysed, plasmolysing, -
+70 [extra] 80: A: plasmolyze <v>: plasmolyzed, plasmolyzing, -
+70 [extra] 80: B: plasmolyse <v>: plasmolysed, plasmolysing, -
+70 [5desk] [extra] [moby] 80: A: - <v>: -, -, plasmolyzes
+70 [5desk] [extra] [moby] 80: B: - <v>: -, -, plasmolyses†
 
 60 [extra] 80: plasmon <n>
 80: - <n>: plasmons-
@@ -301282,8 +301335,10 @@
 
 70 [5desk] 80: preprofessional
 
-70 [5desk] 80: A C: preprogram <m>: (preprogramed | preprogrammed), (preprograming | preprogramming), preprograms #! unmarked variants: preprogramed, preprogrammed, preprograming, preprogramming
-70 [5desk] 80: B: preprogramme <m>
+60 [extra] 70 [5desk] 80: A B C D: preprogram <v>: (preprogrammed | V: preprogramed), (preprogramming | V: preprograming), preprograms
+60 [extra] 70 [5desk] 80: Av Bv Cv Dv: pre-program <v>: (pre-programmed | V: pre-programed), (pre-programming | V: pre-programing), pre-programs
+60 [extra] 70 [5desk] 80: BV {1}: pre-programme <v>: (pre-programmed | V: pre-programed), (pre-programming | V: pre-programing), pre-programmes
+60 [extra] 70 [5desk] 80: BV {2}: preprogramme <v>: (preprogrammed | V: preprogramed), (preprogramming | V: preprograming), preprogrammes
 
 40: prep school <n>: prep schools, prep school's
 
@@ -314938,6 +314993,8 @@
 
 85 [ukacd]: ratiocinatory
 
+80 [extra]: ratiometer <n>: ratiometers, ratiometer's
+
 35: ration <n_v>: rationed, rationing, rations
 
 35: rational <n>: rationals
@@ -315607,8 +315664,7 @@
 
 35: react <v>: reacted, reacting, reacts
 
-60 [extra] 70 [5desk] [moby] 80: reactance <n>
-70 [5desk] [moby] 80: - <n>: reactances-
+70 [5desk] [extra] [moby] 80: reactance <n>: reactances
 
 60: reactant <n>: reactants
 
@@ -320091,7 +320147,7 @@
 50 [+] 80: reinstall <v>: reinstalled, reinstalling, -
 80: - <v>: -, -, reinstalls-
 
-80: reinstallation <n>: reinstallations
+60 [extra] 80: reinstallation <n>: reinstallations
 
 85 [ukacd]: reinstalment <n>: reinstalments
 
@@ -395831,8 +395887,7 @@
 
 80: trabeation <n>: trabeations
 
-60 [extra] 80: trabecula <n>
-80: - <n>: trabeculas-
+70 [extra] 80: trabecula <n>: (trabeculae | V: trabeculas-)
 
 60 [extra] 80: trabecular <aj>
 
@@ -396706,7 +396761,8 @@
 
 35: transatlantic <aj>
 
-70 [5desk] 80: transaxle <n>: transaxles
+70 [5desk] [extra] 80: transaxle <n>: transaxles
+70 [extra]: - <n>: transaxle's
 
 80: transborder
 
@@ -410787,7 +410843,7 @@
 
 60 [brif] 80: uninterruptedly <av>
 
-60 [extra]: uninterruptible
+60 [extra]: uninterruptible <aj>
 
 80: unintimidated <aj>
 
@@ -411804,6 +411860,8 @@
 85 [ukacd]: unmilked
 
 70 [5desk] 80: unmilled
+
+80 [extra]: unminable <aj>
 
 85 [ukacd]: unminded
 
@@ -421219,6 +421277,7 @@
 
 35 [ukfreq] 50: - <n>: (vertexes | .: vertices)
 50: vertex <n>
+60 [extra]: - <n>: vertex's
 
 35: vertical <n>: verticals
 
@@ -435217,6 +435276,8 @@
 50: word of mouth <n>
 
 70 [moby] 85 [ukacd]: word order <n>
+
+70 [extra]: WordPad <n>: WordPad's
 
 70 [3of6] 85 [ukacd]: word-perfect <aj>
 
