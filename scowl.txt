@@ -226856,6 +226856,10 @@
 
 85 [ukacd]: mansonry
 
+60 [+]: mansplain <v>: mansplained, mansplaining, mansplains
+
+60 [+]: mansplainer <n>: mansplainers, mansplainer's
+
 85 [ukacd]: mansuete
 
 70 [5desk] [moby] 80: mansuetude <n>: mansuetudes
@@ -255964,7 +255968,8 @@
 
 80: nonbibliographic
 
-80: nonbinary
+60 [+] 80: A Bv: nonbinary <aj>
+60 [+] 80: AV B: non-binary <aj>
 
 60: nonbinding <a>
 
@@ -275940,7 +275945,10 @@
 
 85 [ukacd]: panpsychistic
 
-80: pansexual <n>
+60 [+] 80: pansexual <n>
+60 [+]: - <n>: pansexuals, pansexual's
+
+60 [+]: pansexual <aj>
 
 85 [ukacd]: pansexualism
 

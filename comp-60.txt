@@ -907,6 +907,12 @@ New words, ok, added:
   livestreamed
   livestreaming
   livestreams
+  mansplain
+  mansplained
+  mansplainer
+  mansplainers
+  mansplaining
+  mansplains
   matchup
   matchups
   melatonin
@@ -932,9 +938,12 @@ New words, ok, added:
   neoliberal
   noir
   noirs
+  nonbinary
   nonsignificant
   oppositional
   ourself
+  pansexual
+  pansexuals
   personhood
   podcaster
   podcasters
@@ -1004,7 +1013,7 @@ New words, ok, added:
   whomso
   whoseso
   y'know
-total: 217
+total: 226
 
 New words, ok, all-upper lemma:
   ATMs

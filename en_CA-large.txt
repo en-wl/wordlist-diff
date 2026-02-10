@@ -102423,6 +102423,13 @@ manslaughter
 manslayer
 manslayer's
 manslayers
+mansplain
+mansplained
+mansplainer
+mansplainer's
+mansplainers
+mansplaining
+mansplains
 mansuetude
 mansuetudes
 manta
@@ -110589,6 +110596,7 @@ nonbeliever's
 nonbelievers
 nonbelligerent
 nonbelligerents
+nonbinary
 nonbinding
 nonbook
 nonbooks
@@ -116226,6 +116234,9 @@ panpipes
 panpsychist
 panpsychists
 pans
+pansexual
+pansexual's
+pansexuals
 pansies
 pansophies
 pansophy
