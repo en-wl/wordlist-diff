@@ -43954,6 +43954,9 @@ brollies
 brolly
 bromal
 bromals
+bromance
+bromance's
+bromances
 bromate
 bromated
 bromates
@@ -56155,6 +56158,9 @@ cosmos
 cosmos's
 cosmoses
 cosplay
+cosplayer
+cosplayer's
+cosplayers
 cosponsor
 cosponsored
 cosponsoring
@@ -73716,6 +73722,11 @@ fanfaronaded
 fanfaronades
 fanfaronading
 fanfarons
+fanfic
+fanfic's
+fanfics
+fanfiction
+fanfiction's
 fang
 fang's
 fanged
@@ -112434,7 +112445,6 @@ offloads
 offprint
 offprints
 offs
-offscreen
 offset
 offsets
 offsetting
@@ -145752,6 +145762,7 @@ staves
 staving
 stay
 staycation
+staycation's
 staycations
 stayed
 stayer

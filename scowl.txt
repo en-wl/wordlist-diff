@@ -47687,6 +47687,8 @@
 
 70 [moby] 85 [stale]: bromal <n>: bromals
 
+60 [extra]: bromance <n>: bromances, bromance's
+
 70 [moby] 80: bromate <v>: bromated, bromating, bromates
 
 70 [moby]: Bromberg <n/upper>: Bromberg's
@@ -83434,6 +83436,8 @@
 
 50 [+] 60 [extra] 80 [3of6]: cosplay <n>
 80 [+]: - <n>: cosplays~
+
+60 [extra]: cosplayer <n>: cosplayers, cosplayer's
 
 60: cosponsor <n_v>: cosponsored, cosponsoring, cosponsors
 
@@ -132639,9 +132643,9 @@
 
 60: fandango <n>: (fandangos | ~: fandangoes)
 
-50 [+] 70 [5desk] 80: fandom <n>
-50 [+] 70 [5desk]: - <n>: fandom's
-70 [5desk] 80: - <n>: fandoms-
+50 [+] 60 [extra] 70 [5desk] 80: fandom <n>
+50 [+] 60 [extra] 70 [5desk]: - <n>: fandom's
+60 [extra] 70 [5desk] 80: - <n>: fandoms
 
 70 [5desk] [moby] 80: fane <n>: fanes
 
@@ -132661,7 +132665,16 @@
 
 85 [ukacd]: fanfaronas
 
-80: fanfic <n>: fanfics
+60 [extra] 80: _: fanfic <n>: fanfics
+60 [extra] 80: _V: fan fic <n>: fan fics
+60 [extra] 80: _-: fan-fic <n>: fan-fics
+60 [extra]: _: - <n>: fanfic's
+60 [extra]: _V: - <n>: fan fic's
+60 [extra]: _-: - <n>: fan-fic's
+
+60 [extra]: _: fan fiction <n>: fan fiction's
+60 [extra]: _v: fanfiction <n>: fanfiction's
+60 [extra]: _-: fan-fiction <n>: fan-fiction's
 
 80: fanfold <m>: fanfolded, fanfolding, fanfolds
 
@@ -263753,9 +263766,12 @@
 80: _=: off-scouring <n>: off-scourings
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [3of6] [5desk] 80: _: offscreen
-70 [3of6] [5desk] 80: _=: off-screen
-## Compound variant levels are a best guess based on freq and other related info.
+60 [extra] 70 [3of6] [5desk] 80: _: off-screen <aj>
+60 [extra] 70 [3of6] [5desk] 80: _V: offscreen <aj>
+
+60 [extra] 70 [3of6] [5desk] 80: _: off-screen <av>
+60 [extra] 70 [3of6] [5desk] 80: _V {1}: off screen <av>
+60 [extra] 70 [3of6] [5desk] 80: _V {2}: offscreen <av>
 
 85 [ukacd]: offscum
 
@@ -366685,7 +366701,10 @@
 
 85 [ukacd]: stayaway <n>: stayaways
 
-70 [3of6]: staycation <n>: staycations
+60 [extra] 70 [3of6]: _: staycation <n>: staycations
+60 [extra] 70 [3of6]: _-: stay-cation <n>: stay-cations
+60 [extra]: _: - <n>: staycation's
+60 [extra]: _-: - <n>: stay-cation's
 
 60 [brif] 70 [3of6] 80: stayer <n>: stayers
 

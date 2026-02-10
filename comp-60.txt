@@ -816,6 +816,8 @@ New words, ok, added:
   biota
   biotas
   bioterrorism
+  bromance
+  bromances
   c'mon
   caregiving
   casa
@@ -845,6 +847,8 @@ New words, ok, added:
   constructivists
   cornerback
   cornerbacks
+  cosplayer
+  cosplayers
   counterterrorism
   countertop
   countertops
@@ -875,6 +879,9 @@ New words, ok, added:
   ethicists
   externalities
   externality
+  fandoms
+  fanfic
+  fanfics
   feedstock
   feedstocks
   femme
@@ -978,6 +985,8 @@ New words, ok, added:
   sociocultural
   starship
   starships
+  staycation
+  staycations
   steelhead
   steelheads
   subscale
@@ -1013,7 +1022,7 @@ New words, ok, added:
   whomso
   whoseso
   y'know
-total: 226
+total: 235
 
 New words, ok, all-upper lemma:
   ATMs

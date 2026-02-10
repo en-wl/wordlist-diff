@@ -29940,6 +29940,9 @@ brokering
 brokers
 brollies
 brolly
+bromance
+bromance's
+bromances
 bromide
 bromide's
 bromides
@@ -37705,6 +37708,9 @@ cosmos
 cosmos's
 cosmoses
 cosplay
+cosplayer
+cosplayer's
+cosplayers
 cosponsor
 cosponsored
 cosponsoring
@@ -48676,8 +48682,12 @@ fandango
 fandangos
 fandom
 fandom's
+fandoms
 fanfare
 fanfares
+fanfic
+fanfic's
+fanfics
 fang
 fang's
 fanged
@@ -94663,6 +94673,9 @@ staved
 staves
 staving
 stay
+staycation
+staycation's
+staycations
 stayed
 stayer
 stayers
