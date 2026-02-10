@@ -854,6 +854,7 @@ New words, ok, added:
   countertops
   covariate
   covariates
+  coworking
   creatine
   crosstalk
   cyber
@@ -914,6 +915,10 @@ New words, ok, added:
   livestreamed
   livestreaming
   livestreams
+  lowball
+  lowballed
+  lowballing
+  lowballs
   mansplain
   mansplained
   mansplainer
@@ -1021,8 +1026,9 @@ New words, ok, added:
   where'd
   whomso
   whoseso
+  workspaces
   y'know
-total: 235
+total: 241
 
 New words, ok, all-upper lemma:
   ATMs

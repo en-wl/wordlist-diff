@@ -56673,6 +56673,7 @@ cowmen's
 coworker
 coworker's
 coworkers
+coworking
 cowpat
 cowpats
 cowpea
@@ -99796,6 +99797,7 @@ listlessly
 listlessness
 lists
 listserver
+listservers
 lit
 litanies
 litany
@@ -145798,8 +145800,6 @@ standpoints
 stands
 standstill
 standstills
-standup
-standups
 stane
 staned
 stanes
@@ -166343,6 +166343,7 @@ workshy
 worksite
 worksites
 workspace
+workspace's
 workspaces
 workstation
 workstation's

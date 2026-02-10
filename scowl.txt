@@ -85292,6 +85292,12 @@
 40: _?: co-worker <n>: co-workers, co-worker's
 ## Compound variant levels are a best guess based on freq and other related info.
 
+60 [extra]: _: coworking <n>
+60 [extra]: _V: co-working <n>
+
+60 [extra]: _: coworking <aj>
+60 [extra]: _V: co-working <aj>
+
 85 [ukacd]: cowp <n>: cowps
 
 70 [moby]: cow parsnip <n>
@@ -217321,7 +217327,10 @@
 
 80 [upper]: Listserv <n/upper?>: Listservs
 
-70 [5desk]: listserver
+70 [5desk] [extra]: _: listserver <n>
+70 [5desk] [extra]: _=: list server <n>
+70 [extra]: _: - <n>: listservers
+70 [extra]: _=: - <n>: list servers
 
 50: Liszt <n/upper>: Liszt's
 
@@ -220675,7 +220684,9 @@
 
 70 [moby]: Low Archipelago <n/upper>
 
-70 [5desk] 80: lowball <v>: lowballed, lowballing, lowballs
+60 [extra]: lowball <n>: lowballs
+
+60 [extra] 70 [5desk] 80: lowball <v>: lowballed, lowballing, lowballs
 
 60: low beam <n>
 
@@ -365908,17 +365919,15 @@
 
 35: standstill <n>: standstills
 
-50: stand-up <aj>
+50: _: stand-up <aj>
+50: _V: standup <aj>
+
+60 [extra] 70: _: -stand-up <n>
+60 [extra] 70: _V: -standup <n>
+60 [extra] 70 [3of6] 80: _: - <n>: stand-ups
+60 [extra] 70 [3of6] 80: _V: - <n>: standups
 
 60: stand up <v>
-
-70: standup <a>
-
-70: _: -stand-up <n>
-70: _v: -standup <n>
-70 [3of6] 80: _: - <n>: stand-ups
-70 [3of6] 80: _v: - <n>: standups~
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 80: stane <m>: staned, staning, stanes
 
@@ -435373,8 +435382,10 @@
 
 85 [ukacd]: Worksop </upper?>
 
-60 [extra] 70 [5desk] 80: workspace <n>
-70 [5desk] 80: - <n>: workspaces-
+60 [extra] 70 [5desk] 80: _: workspace <n>: workspaces
+60 [extra] 70 [5desk] 80: _V: work space <n>: work spaces
+60 [extra]: _: - <n>: workspace's
+60 [extra]: _V: - <n>: work space's
 
 35 [ukfreq] 40: _: - <n>: workstations
 35 [ukfreq] 40: _v: - <n>
