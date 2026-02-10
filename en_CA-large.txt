@@ -8081,7 +8081,11 @@ Egypt's
 Egyptian
 Egyptian's
 Egyptians
+Egyptological
 Egyptologies
+Egyptologist
+Egyptologist's
+Egyptologists
 Egyptology
 Egyptology's
 Ehrenberg
@@ -40599,6 +40603,8 @@ biometry
 bionic
 bionically
 bionics
+biopharmaceutical
+biopharmaceuticals
 biophysical
 biophysicist
 biophysicist's
@@ -50809,6 +50815,7 @@ cleanser
 cleansers
 cleanses
 cleansing
+cleantech
 cleanup
 cleanups
 clear
@@ -89815,6 +89822,7 @@ imp
 imp's
 impact
 impacted
+impactful
 impacting
 impaction
 impactions
@@ -133278,6 +133286,8 @@ revetments
 revets
 revetted
 revetting
+revictimization
+revictimizations
 review
 review's
 reviewed
@@ -164859,6 +164869,8 @@ wheatear's
 wheatears
 wheaten
 wheatgerm
+wheatgrass
+wheatgrasses
 wheatmeal
 wheatworm
 wheatworm's

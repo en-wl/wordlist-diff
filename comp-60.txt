@@ -788,6 +788,8 @@ total: 27
 
 New words, ok, added:
   Aotearoa
+  Egyptologist
+  Egyptologists
   Instagrammed
   Instagrammer
   Instagrammers
@@ -811,6 +813,7 @@ New words, ok, added:
   apnea
   apneas
   backcountry
+  biblically
   biosolid
   biosolids
   biota
@@ -822,6 +825,7 @@ New words, ok, added:
   caregiving
   casa
   casas
+  cleantech
   cochair
   cochairs
   codirector
@@ -903,6 +907,7 @@ New words, ok, added:
   homeschooler
   homeschoolers
   homeschools
+  impactful
   influencer
   influencers
   interagency
@@ -965,6 +970,8 @@ New words, ok, added:
   ourself
   pansexual
   pansexuals
+  personalization
+  personalizations
   personhood
   podcaster
   podcasters
@@ -1032,12 +1039,13 @@ New words, ok, added:
   vlogging
   vlogs
   weeklong
+  wheatgrass
   where'd
   whomso
   whoseso
   workspaces
   y'know
-total: 250
+total: 258
 
 New words, ok, all-upper lemma:
   ATMs

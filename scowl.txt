@@ -36497,8 +36497,8 @@
 
 70 [moby]: Biblical Latin <n/upper>
 
-70 [5desk] 80: _: biblically <av>
-70 [5desk] 80: _V: Biblically <av>
+60 [extra] 70 [5desk] 80: _: biblically <av>
+60 [extra] 70 [5desk] 80: _V: Biblically <av>
 
 80: biblicism <n>: biblicisms
 
@@ -38067,6 +38067,10 @@
 80: bioorganic
 
 85 [ukacd]: bioparent <n>: bioparents
+
+70 [extra]: biopharmaceutical <n>: biopharmaceuticals
+
+70 [extra]: biopharmaceutical <aj>
 
 85 [ukacd]: biophor <n>: biophors
 
@@ -69731,6 +69735,9 @@
 
 85 [ukacd]: cleanskin <n>: cleanskins
 
+60 [extra]: _: cleantech <n>
+60 [extra]: _V: clean-tech <n>
+
 70 [moby]: Cleanthes <n/upper>: Cleanthes's
 
 40: _: cleanup <n>: cleanups
@@ -70115,7 +70122,7 @@
 35 [ukfreq] 70 [3of6] 80: clicking <n>
 85 [ukacd]: - <n>: clickings!
 
-70 [3of6]: clickstream <n>: clickstreams
+70 [3of6] [extra]: clickstream <n>: clickstreams
 
 35: client <n>: clients, client's
 
@@ -117398,14 +117405,15 @@
 
 80: egyptian <n>: egyptians
 
-80 [upper] 85 [ukacd]: Egyptological </upper?>
+70 [extra] 80 [upper] 85 [ukacd]: Egyptological <aj>
 
-80 [upper] 85 [ukacd]: Egyptologist <n/upper>
-80 [upper]: - <n/upper>: Egyptologists-
+60 [extra] 80 [upper] 85 [ukacd]: Egyptologist <n/upper>
+60 [extra]: - <n/upper>: Egyptologist's
+60 [extra] 80 [upper]: - <n/upper>: Egyptologists
 
-50 [name] 70 [moby] 80 [upper] 85 [ukacd]: Egyptology <n/upper>
+50 [name] 60 [extra] 70 [moby] 80 [upper] 85 [ukacd]: Egyptology <n/upper>
 50 [name] 70 [moby]: - <n/upper>: Egyptology's
-70 [moby] 80 [upper]: - <n/upper>: Egyptologies-
+70 [moby] 80 [extra] [upper]: - <n/upper>: Egyptologies~
 
 35 [ukfreq] 40: eh <i>
 
@@ -184497,6 +184505,8 @@
 70 [3of6] [5desk] [moby] 80: impacted <aj>
 
 80: impacter <n>: impacters
+
+60 [extra]: impactful <aj>
 
 70 [5desk] [moby] 80: impaction <n>: impactions
 
@@ -284572,8 +284582,8 @@
 
 70 [moby]: personality test <n>
 
-70 [5desk] 80: A Z: personalization <n>: personalizations
-70 [5desk] 80: B: personalisation <n>: personalisations
+60 [extra] 70 [5desk] 80: A Z: personalization <n>: personalizations
+60 [extra] 70 [5desk] 80: B: personalisation <n>: personalisations
 70 [5desk]: A Z: - <n>: personalization's
 70 [5desk]: B: - <n>: personalisation's
 
@@ -324731,6 +324741,9 @@
 60: revetment <n>: revetments
 
 70 [5desk] 80: revetted
+
+70 [extra]: A Z: revictimization <n>: revictimizations
+70 [extra]: B: revictimisation <n>: revictimisations
 
 80: revictual <m>: (revictualed | revictualled), (revictualing | revictualling), revictuals #! unmarked variants: revictualed, revictualled, revictualing, revictualling
 
@@ -430297,6 +430310,9 @@
 
 50: _: wheat germ <n>
 50: _v: wheatgerm <n>
+
+60 [extra]: wheatgrass <n>
+70 [extra]: - <n>: wheatgrasses-
 
 50 [name]: Wheaties <n/name?>: Wheaties's
 
