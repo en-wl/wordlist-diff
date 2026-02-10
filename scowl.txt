@@ -36492,15 +36492,13 @@
 
 70 [3of6] 85 [ukacd]: Bible-thumper <n/upper>: Bible-thumpers
 
-35: biblical <aj>
-
-70: Biblical <n/upper>: Biblical's
+35: _: biblical <aj>
+35: _V: Biblical <aj>
 
 70 [moby]: Biblical Latin <n/upper>
 
-70 [5desk] 80 [upper]: Biblically </upper?>
-
-80: biblically
+70 [5desk] 80: _: biblically <av>
+70 [5desk] 80: _V: Biblically <av>
 
 80: biblicism <n>: biblicisms
 

@@ -3165,9 +3165,6 @@ Bib
 Bible
 Bible's
 Bibles
-Biblical
-Biblical's
-Biblically
 Biblicist
 Biblicists
 Bic
@@ -40104,6 +40101,7 @@ bibl
 bible
 bibles
 biblical
+biblically
 bibliog
 bibliographer
 bibliographer's
