@@ -42134,6 +42134,7 @@ bohemian's
 bohemianism
 bohemians
 bohrium
+bohrium's
 bohriums
 bohunk
 bohunks
@@ -55473,6 +55474,9 @@ copepod
 copepod's
 copepods
 coper
+copernicium
+copernicium's
+coperniciums
 copers
 copes
 copestone
@@ -59459,6 +59463,9 @@ darling
 darling's
 darlingest
 darlings
+darmstadtium
+darmstadtium's
+darmstadtiums
 darn
 darned
 darneder
@@ -66894,6 +66901,7 @@ dubitable
 dubitation
 dubitations
 dubnium
+dubnium's
 dubniums
 dubs
 ducal
@@ -76043,6 +76051,9 @@ flense
 flensed
 flenses
 flensing
+flerovium
+flerovium's
+fleroviums
 flesh
 fleshed
 flesher
@@ -84939,6 +84950,7 @@ hasn't
 hasp
 hasps
 hassium
+hassium's
 hassiums
 hassle
 hassled
@@ -100156,6 +100168,9 @@ liveries
 liverish
 liverishness
 liverishnesses
+livermorium
+livermorium's
+livermoriums
 livers
 liverwort
 liverworts
@@ -103965,6 +103980,7 @@ meiosis
 meiotic
 meiotically
 meitnerium
+meitnerium's
 meitneriums
 mel
 melamed
@@ -107696,6 +107712,9 @@ mosasaur
 mosasaurs
 moschatel
 moschatels
+moscovium
+moscovium's
+moscoviums
 mosey
 moseyed
 moseying
@@ -110391,6 +110410,9 @@ nihilists
 nihilities
 nihility
 nihils
+nihonium
+nihonium's
+nihoniums
 nikethamide
 nil
 nilgai
@@ -112827,6 +112849,9 @@ oftentimes
 ofter
 oftest
 ofttimes
+oganesson
+oganesson's
+oganessons
 ogdoad
 ogdoads
 ogee
@@ -134463,6 +134488,9 @@ roebuck
 roebuck's
 roebucks
 roentgen
+roentgenium
+roentgenium's
+roentgeniums
 roentgenogram
 roentgenograms
 roentgenologies
@@ -137930,6 +137958,7 @@ seabirds
 seaboard
 seaboards
 seaborgium
+seaborgium's
 seaborgiums
 seaborne
 seacoast
@@ -152374,6 +152403,9 @@ tenges
 tenne
 tenner
 tenners
+tennessine
+tennessine's
+tennessines
 tennis
 tennis's
 tenno

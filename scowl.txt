@@ -42200,7 +42200,8 @@
 
 50 [name] 60: Bohr <n/upper>: Bohr's
 
-70 [5desk] 80: bohrium <n>: bohriums
+70 [5desk] [extra] 80: bohrium <n>: bohriums
+70 [extra]: - <n>: bohrium's
 
 70 [moby]: Bohr theory <n/upper>
 
@@ -81288,6 +81289,8 @@
 
 80 [upper]: Copernicanism <n/upper?>: Copernicanisms
 
+70 [extra]: copernicium <n>: coperniciums, copernicium's
+
 50: Copernicus <n/upper>: Copernicus's
 
 80: copesetic <aj>
@@ -93154,6 +93157,8 @@
 85 [ukacd]: Darlingtonia <n/upper>
 
 70 [moby] 85 [ukacd]: Darmstadt </upper?>
+
+70 [extra]: darmstadtium <n>: darmstadtiums, darmstadtium's
 
 35: darn <n_v>: darned, darning, darns
 
@@ -112994,7 +112999,8 @@
 70 [5desk] 80 [upper] 85 [ukacd]: Dubliner <n/upper>: Dubliners-
 70 [5desk]: - <n/upper>: Dubliner's
 
-70 [5desk] 80: dubnium <n>: dubniums
+70 [5desk] [extra] 80: dubnium <n>: dubniums
+70 [extra]: - <n>: dubnium's
 
 50 [name] 60: Du Bois <n/upper>: Du Bois's
 
@@ -139260,6 +139266,8 @@
 70 [moby] 80: flense <v>: flensed, flensing, flenses
 
 80: flenser <n>: flensers
+
+70 [extra]: flerovium <n>: fleroviums, flerovium's
 
 35: flesh <n>
 80: - <n>: fleshes~
@@ -166886,7 +166894,8 @@
 
 85 [ukacd]: Hassidism <n/upper>
 
-70 [5desk] 80: hassium <n>: hassiums
+70 [5desk] [extra] 80: hassium <n>: hassiums
+70 [extra]: - <n>: hassium's
 
 35: hassle <n_v>: hassled, hassling, hassles
 
@@ -217912,6 +217921,8 @@
 
 60 US [town]: Livermore <n/place>: Livermore's
 
+70 [extra]: livermorium <n>: livermoriums, livermorium's
+
 50 [name] 60: Liverpool <n/upper>: Liverpool's
 
 50 [name] 60: Liverpudlian <n/upper>: Liverpudlian's
@@ -232141,7 +232152,8 @@
 
 70 [moby]: Meitner <n/upper>: Meitner's
 
-70 [5desk] 80: meitnerium <n>: meitneriums
+70 [5desk] [extra] 80: meitnerium <n>: meitneriums
+70 [extra]: - <n>: meitnerium's
 
 50: Mejia <n/person>: Mejia's
 
@@ -244452,6 +244464,8 @@
 
 85 [ukacd]: moschiferous
 
+70 [extra]: moscovium <n>: moscoviums, moscovium's
+
 50: Moscow <n/upper>: Moscow's
 
 85 [ukacd]: mose <m>: mosed, mosing, moses
@@ -254437,6 +254451,8 @@
 
 85 [ukacd]: nihonga
 
+70 [extra]: nihonium <n>: nihoniums, nihonium's
+
 70 [5desk]: Niihau </upper?>
 
 50 [name] 60: Nijinsky <n/upper>: Nijinsky's
@@ -263910,6 +263926,8 @@
 80: ogam <n>: ogams
 
 85 [ukacd]: ogamic
+
+70 [extra]: oganesson <n>: oganessons, oganesson's
 
 50 [name] 70 [5desk] [moby]: Ogbomosho <n/name?>: Ogbomosho's
 
@@ -328431,6 +328449,8 @@
 70 [brif] 80: röntgen <n>: röntgens # accented
 70 [brif] 80: _~: rontgen <n>: rontgens # need-accent
 
+70 [extra]: roentgenium <n>: roentgeniums, roentgenium's
+
 80: A Z: roentgenize <m>: roentgenized, roentgenizing, roentgenizes
 80: B: roentgenise <m>
 
@@ -340850,7 +340870,8 @@
 
 50 [name] 70 [moby]: Seaborg <n/upper>: Seaborg's
 
-70 [5desk] 80: seaborgium <n>: seaborgiums
+70 [5desk] [extra] 80: seaborgium <n>: seaborgiums
+70 [extra]: - <n>: seaborgium's
 
 60: seaborne <aj>
 
@@ -386128,6 +386149,8 @@
 50: Tennessee <n/place>: Tennessee's
 
 70 [5desk] 80 [upper]: Tennesseean <n/upper?>: Tennesseeans
+
+70 [extra]: tennessine <n>: tennessines, tennessine's
 
 80 [moby]: Tennga <n/place>
 
