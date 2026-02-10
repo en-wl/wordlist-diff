@@ -69832,6 +69832,7 @@ emmetropias
 emmets
 emo
 emoji
+emoji's
 emojis
 emollience
 emollient
@@ -80331,6 +80332,7 @@ gamelans
 gamely
 gameness
 gameplay
+gameplay's
 gamer
 gamers
 games
@@ -101288,6 +101290,11 @@ lives
 livest
 livestock
 livestock's
+livestream
+livestream's
+livestreamed
+livestreaming
+livestreams
 liveware
 livid
 livider
@@ -106238,6 +106245,9 @@ microbiome
 microbiome's
 microbiomes
 microblog
+microblog's
+microblogged
+microblogging
 microblogs
 microbrew
 microbrewer
@@ -165030,6 +165040,7 @@ video's
 videocassette
 videocassettes
 videoconference
+videoconference's
 videoconferences
 videoconferencing
 videodisc
@@ -165624,6 +165635,14 @@ vizor
 vizor's
 vizors
 vlf
+vlog
+vlog's
+vlogged
+vlogger
+vlogger's
+vloggers
+vlogging
+vlogs
 voc
 vocab
 vocable

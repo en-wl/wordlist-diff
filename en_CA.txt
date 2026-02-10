@@ -10493,6 +10493,7 @@ LLBs
 LLD
 LNG
 LOGO
+LOL
 LP
 LP's
 LPG
@@ -45637,6 +45638,8 @@ emitters
 emitting
 emo
 emoji
+emoji's
+emojis
 emollient
 emollients
 emolument
@@ -51994,6 +51997,8 @@ gamekeeper's
 gamekeepers
 gamely
 gameness
+gameplay
+gameplay's
 gamer
 games
 gamesmanship
@@ -64575,6 +64580,11 @@ lives
 livest
 livestock
 livestock's
+livestream
+livestream's
+livestreamed
+livestreaming
+livestreams
 liveware
 livid
 lividly
@@ -67528,6 +67538,11 @@ microbiology
 microbiome
 microbiome's
 microbiomes
+microblog
+microblog's
+microblogged
+microblogging
+microblogs
 microbreweries
 microbrewery
 microchip
@@ -104412,6 +104427,9 @@ video
 video's
 videocassette
 videocassettes
+videoconference
+videoconference's
+videoconferences
 videoconferencing
 videodisc
 videodisc's
@@ -104764,6 +104782,14 @@ vizier
 vizier's
 viziers
 vlf
+vlog
+vlog's
+vlogged
+vlogger
+vlogger's
+vloggers
+vlogging
+vlogs
 vocab
 vocable
 vocables

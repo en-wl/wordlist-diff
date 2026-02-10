@@ -120086,7 +120086,8 @@
 
 80: emodin <n>: emodins
 
-50 [+] 80 [3of6]: emoji <n>: (emoji | ?: emojis)
+50 [+] 80 [3of6]: emoji <n>: (emojis | V: emoji*)
+60 [+]: - <n>: emoji's
 
 85 [ukacd]: emollescence
 
@@ -149065,7 +149066,10 @@
 
 40: game plan <n>: game plans
 
-70 [3of6]: gameplay
+60 [extra] 70 [3of6]: _: gameplay <n>
+60 [extra] 70 [3of6]: _V: game play <n>
+60 [extra]: _: - <n>: gameplay's
+60 [extra]: _V: - <n>: game play's
 
 60: game point <n>: game points
 
@@ -217901,6 +217905,10 @@
 35: livestock <n>: livestock's
 80: - <n>: livestocks~
 
+60 [extra]: _: livestream <n_v>: livestreamed, livestreaming, livestreams, livestream's
+60 [extra]: _v: live stream <n_v>: live streamed, live streaming, live streams, live stream's
+60 [extra]: _V: live-stream <n_v>: live-streamed, live-streaming, live-streams, live-stream's
+
 70 [moby] 85 [ukacd]: live together <v>
 
 80: livetrap <m>: livetrapped, livetrapping, livetraps
@@ -219057,7 +219065,8 @@
 
 85 [ukacd]: lokshen soup
 
-70 [3of6]: LOL </abbr?>
+60 [extra] 70 [3of6]: _: LOL <abbr>
+60 [extra] 70 [3of6]: _V: lol <abbr>
 
 50: Lola <n/person>: Lola's
 
@@ -235641,7 +235650,10 @@
 
 85 [ukacd]: microbiota
 
-70 [3of6]: microblog <n>: microblogs
+60 [extra] 70 [3of6]: microblog <n>: microblogs
+60 [extra]: - <n>: microblog's
+
+60 [extra]: microblog <v>: microblogged, microblogging, microblogs
 
 70 [5desk] 80: _: microbrew <n>: microbrews
 70 [5desk] 80: _V: micro-brew <n>: micro-brews
@@ -421967,7 +421979,12 @@
 
 70 [3of6]: video clip <n>: video clips
 
-70 [3of6] 80: videoconference <n>: videoconferences
+60 [extra] 70 [3of6] 80: _: videoconference <n>: videoconferences
+60 [extra] 70 [3of6] 80: _v: video conference <n>: video conferences
+60 [extra] 70 [3of6] 80: _V: video-conference <n>: video-conferences
+60 [extra]: _: - <n>: videoconference's
+60 [extra]: _v: - <n>: video conference's
+60 [extra]: _V: - <n>: video-conference's
 
 60 [brif] 70 [3of6] 80: videoconferencing <n>
 80: - <n>: videoconferencings-
@@ -423772,6 +423789,10 @@
 60: VLF <n/upper>
 
 80 [moby]: Vliets <n/place>
+
+60 [extra]: vlog <n_v>: vlogged, vlogging, vlogs, vlog's
+
+60 [extra]: vlogger <n>: vloggers, vlogger's
 
 80 [ucacr]: VLSI </abbr?>
 
@@ -432018,9 +432039,10 @@
 
 80 [upper]: Wiffle <n/upper>: Wiffles-
 
-50 [+]: WiFi <n/upper>
-
-70 [3of6]: Wi-Fi </upper?>
+50 [+] 60 [extra] 70 [3of6]: A B: Wi-Fi <n>
+50 [+] 60 [extra] 70 [3of6]: A. B.: WiFi <n>
+50 [+] 60 [extra] 70 [3of6]: Av BV: wifi <n>
+50 [+] 60 [extra] 70 [3of6]: AV Bv: wi-fi <n>
 
 85 [ukacd]: wifie <n>: wifies
 

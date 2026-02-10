@@ -115,7 +115,6 @@ Missing words, unclassified:
   edemas
   elevenses
   emfs
-  emojis
   enamelings
   eucalypti
   eviller
@@ -233,7 +232,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 149
+total: 148
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -789,6 +788,7 @@ total: 27
 
 New words, ok, added:
   Aotearoa
+  LOL
   aboveground
   affective
   ahold
@@ -866,6 +866,7 @@ New words, ok, added:
   financials
   foodborne
   frontline
+  gameplay
   gaslighted
   gaslighting
   gaslit
@@ -886,6 +887,10 @@ New words, ok, added:
   largemouths
   leaguer
   leaguers
+  livestream
+  livestreamed
+  livestreaming
+  livestreams
   matchup
   matchups
   melatonin
@@ -893,6 +898,10 @@ New words, ok, added:
   metaverses
   microbiome
   microbiomes
+  microblog
+  microblogged
+  microblogging
+  microblogs
   midafternoon
   midmorning
   midseason
@@ -962,12 +971,20 @@ New words, ok, added:
   underserved
   univariate
   unmoving
+  videoconference
+  videoconferences
+  vlog
+  vlogged
+  vlogger
+  vloggers
+  vlogging
+  vlogs
   weeklong
   where'd
   whomso
   whoseso
   y'know
-total: 179
+total: 197
 
 New words, ok, all-upper lemma:
   ATMs
