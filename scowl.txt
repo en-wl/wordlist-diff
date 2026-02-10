@@ -65421,6 +65421,20 @@
 35 [ukfreq] 70 [3of6] [5desk] 80: chips <n>
 85 [ukacd]: - <n>: chipses!
 
+70 [extra]: A BV C: chip-seal <aj>
+70 [extra]: AV B CV D: chipseal <aj>
+70 [extra]: A- B- C-: chip seal <aj>
+
+70 [extra]: A BV C: chip seal <n_v>: chip sealed, chip sealing, chip seals
+70 [extra]: AV B CV D: chipseal <n_v>: chipsealed, chipsealing, chipseals
+
+## chip seal (chipseal):
+## In US and Canadian civil engineering, the two-word "chip seal"
+## is standard for nouns and verbs, while the hyphenated form is
+## preferred for adjectives. Conversely, the one-word "chipseal"
+## is the standard in Australia and New Zealand and preferred in
+## the UK.
+
 80: chipset <n>: chipsets
 
 70 [3of6] 85 [ukacd]: chip shop <n>: chip shops

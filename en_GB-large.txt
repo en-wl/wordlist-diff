@@ -49813,6 +49813,10 @@ chipping
 chippings
 chippy
 chips
+chipseal
+chipsealed
+chipsealing
+chipseals
 chirk
 chirked
 chirking
