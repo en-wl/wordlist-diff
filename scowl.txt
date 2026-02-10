@@ -17134,6 +17134,8 @@
 
 80: aortography <n>: aortographies
 
+60 [extra]: Aotearoa <n/place>: Aotearoa's
+
 70 [5desk] [moby] 80: aoudad <n>: aoudads
 70 [5desk] [moby]: - <n>: aoudad's
 

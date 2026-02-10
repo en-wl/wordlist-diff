@@ -788,6 +788,7 @@ Missing words, variant:
 total: 27
 
 New words, ok, added:
+  Aotearoa
   aboveground
   affective
   ahold
@@ -966,7 +967,7 @@ New words, ok, added:
   whomso
   whoseso
   y'know
-total: 178
+total: 179
 
 New words, ok, all-upper lemma:
   ATMs
