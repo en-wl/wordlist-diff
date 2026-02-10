@@ -815,6 +815,7 @@ New words, ok, added:
   ahold
   apnea
   apneas
+  auditable
   backcountry
   biblically
   biofuel
@@ -824,6 +825,7 @@ New words, ok, added:
   biota
   biotas
   bioterrorism
+  blacksmithing
   bromance
   bromances
   c'mon
@@ -1030,6 +1032,8 @@ New words, ok, added:
   smallmouth
   smallmouths
   sociocultural
+  splitter
+  splitters
   starship
   starships
   staycation
@@ -1050,9 +1054,11 @@ New words, ok, added:
   there'll
   thruster
   thrusters
+  tradable
   trailhead
   trailheads
   transformative
+  tunable
   underserved
   univariate
   unmoving
@@ -1071,7 +1077,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 282
+total: 288
 
 New words, ok, all-upper lemma:
   ATMs

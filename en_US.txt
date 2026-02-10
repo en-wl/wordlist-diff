@@ -25341,6 +25341,7 @@ audiovisual
 audiovisuals
 audit
 audit's
+auditable
 audited
 auditing
 audition
@@ -28202,6 +28203,7 @@ blackouts
 blacks
 blacksmith
 blacksmith's
+blacksmithing
 blacksmiths
 blacksnake
 blacksnake's
@@ -93714,6 +93716,8 @@ splinting
 splints
 split
 splits
+splitter
+splitters
 splitting
 splittings
 splodge
@@ -100308,6 +100312,7 @@ tractor's
 tractors
 tracts
 trad
+tradable
 trade
 trade's
 traded
@@ -101482,6 +101487,7 @@ tumultuously
 tun
 tuna
 tuna's
+tunable
 tunas
 tundra
 tundra's

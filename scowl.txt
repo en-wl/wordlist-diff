@@ -24692,7 +24692,7 @@
 
 35: audit <n_v>: audited, auditing, audits, audit's
 
-80: auditable
+60 [extra] 80: auditable <aj>
 
 80: auditee <n>: auditees
 
@@ -39476,7 +39476,8 @@
 
 35: blacksmith <n>: blacksmiths, blacksmith's
 
-70 [5desk] 80: blacksmithing <n>: blacksmithings
+60 [extra] 70 [5desk] 80: blacksmithing <n>
+70 [5desk] 80: - <n>: blacksmithings
 
 60: _: blacksnake <n>: blacksnakes, blacksnake's
 60: _V: black-snake <n>
@@ -75262,8 +75263,8 @@
 
 85 [ukacd]: commentatorial
 
-50 [+] 85 [ukacd]: _: commenter <n>: commenters
-50 [+] 85 [ukacd]: _V: commentor <n>: commentors
+50 [+] 60 [extra] 85 [ukacd]: _: commenter <n>: commenters
+50 [+] 60 [extra] 85 [ukacd]: _V: commentor <n>: commentors
 50 [+]: _: - <n>: commenter's
 50 [+]: _V: - <n>: commentor's
 
@@ -123752,7 +123753,7 @@
 
 80: epicuticular
 
-70 [moby] 80: epicycle <n>: epicycles
+70 [extra] [moby] 80: epicycle <n>: epicycles
 
 80: epicyclic <aj>
 
@@ -126637,7 +126638,7 @@
 
 85 [ukacd]: ethicism <n>
 
-60 [coca] 70 [5desk] 80: ethicist <n>: ethicists
+60 [coca] [extra] 70 [5desk] 80: ethicist <n>: ethicists
 70 [5desk]: - <n>: ethicist's
 
 70 [moby] 80: A Z: ethicize <m>: ethicized, ethicizing, ethicizes
@@ -188329,7 +188330,7 @@
 
 85 [ukacd]: inductivity <n>: inductivities
 
-70 [5desk] [moby] 80: inductor <n>: inductors
+70 [5desk] [extra] [moby] 80: inductor <n>: inductors
 
 35: indulge <v>: indulged, indulging, indulges
 
@@ -305319,7 +305320,7 @@
 
 85 [ukacd]: prosectorship <n>: prosectorships
 
-70 [5desk] 80: prosecutable
+70 [5desk] [extra] 80: prosecutable <aj>
 
 35: prosecute <v>: prosecuted, prosecuting, prosecutes
 
@@ -323363,7 +323364,7 @@
 
 85 [ukacd]: respondentia <n>: respondentias
 
-60 [coca] 70 [5desk] 80: responder <n>: responders
+60 [coca] [extra] 70 [5desk] 80: responder <n>: responders
 70 [5desk]: - <n>: responder's
 
 85 [ukacd]: Responsa </upper?>
@@ -358553,7 +358554,8 @@
 
 80 [upper]: Solutrian </upper?>
 
-80: solvability <n>: solvabilities
+70 [extra] 80: solvability <n>
+80: - <n>: solvabilities
 
 40: solvable <aj>
 
@@ -363338,7 +363340,7 @@
 
 70 [moby] 85 [ukacd]: split shift <n>
 
-70 [5desk] 80: splitter <n>: splitters
+60 [extra] 70 [5desk] 80: splitter <n>: splitters
 70 [5desk]: - <n>: splitter's
 
 70 [3of6] [moby]: split ticket <n>
@@ -373881,7 +373883,7 @@
 
 35: subtraction <n>: subtractions
 
-70 [moby] 80: subtractive <aj>
+70 [extra] [moby] 80: subtractive <aj>
 
 85 [ukacd]: subtractor <n>: subtractors
 
@@ -377723,8 +377725,8 @@
 
 80 [moby]: surv. <abbr>
 
-70 [+] 80: _: surveil <v>: surveilled, surveilling, surveils
-70 [+] 80: _V: surveille <v>: -, -, surveilles # fixme: lemma_rank originally "!"
+70 [extra] 80: _: surveil <v>: surveilled, surveilling, surveils
+70 [extra] 80: _V: surveille <v>: -, -, surveilles # fixme: lemma_rank originally "!"
 
 ## surveil (surveille):
 ## ODE lists surveille as a variant, m-w doesn't only acknowledges
@@ -396134,7 +396136,7 @@
 
 60 [brif] 70 [3of6] 80: trad <n>
 
-70 [5desk] 80: tradable
+60 [extra] 70 [5desk] 80: tradable <aj>
 
 35: trade <n_v>: traded, trading, trades, trade's
 
@@ -396736,7 +396738,7 @@
 
 35: transaction <n>: transactions, transaction's
 
-60 [extra] 70 [5desk] 80: transactional
+60 [extra] 70 [5desk] 80: transactional <aj>
 
 80: transactionally
 
@@ -401915,7 +401917,7 @@
 
 70 [5desk] 80: tunability <n>: tunabilities
 
-70 [5desk] [moby] 80: tunable
+60 [extra] 70 [5desk] [moby] 80: tunable <aj>
 
 80: tunableness <n>: tunablenesses
 
@@ -420873,7 +420875,7 @@
 
 35 [ukfreq] 70 [3of6] [moby] 80: verified <aj>
 
-70 [5desk] 80: verifier <n>: verifiers
+70 [5desk] [extra] 80: verifier <n>: verifiers
 70 [5desk]: - <n>: verifier's
 
 35: verify <v>: verified, verifying, verifies
