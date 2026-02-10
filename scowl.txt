@@ -240418,8 +240418,7 @@
 
 50: Mitzi <n/person>: Mitzi's
 
-60 [extra] 70 [5desk] [moby] 80: mitzvah <n>
-70 [5desk] [moby] 80: - <n>: mitzvahs-
+60 [extra] 70 [5desk] [moby] 80: mitzvah <n>: (mitzvot | .: mitzvahs | @: mitzvoth)
 
 70 [5desk] 80: mitzvoth
 

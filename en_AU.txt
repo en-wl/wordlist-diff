@@ -68972,6 +68972,8 @@ mitten
 mittens
 mitts
 mitzvah
+mitzvahs
+mitzvot
 mix
 mixable
 mixed

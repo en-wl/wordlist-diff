@@ -947,6 +947,8 @@ New words, ok, added:
   midseason
   misperception
   misperceptions
+  mitzvahs
+  mitzvot
   mucosa
   multiethnic
   multimillion
@@ -1035,7 +1037,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 248
+total: 250
 
 New words, ok, all-upper lemma:
   ATMs
