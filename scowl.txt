@@ -191200,7 +191200,11 @@
 
 70 [moby] 80: instable
 
-50 [+] [name]: Instagram <n/name?>: Instagram's
+50 [+] [name] 60 [extra]: Instagram <n/name?>: Instagram's
+
+60 [extra]: Instagram <v>: Instagrammed, Instagramming, Instagrams
+
+60 [extra]: Instagrammer <n>: Instagrammers, Instagrammer's
 
 35: A B: install <v>: installed, installing, installs
 35: Bv: instal <v>: installed, installing, instals
@@ -223455,6 +223459,9 @@
 
 70 [moby] 80: macrography <n>: macrographies
 
+60 [extra]: _: macro-influencer <n>: macro-influencers, macro-influencer's
+60 [extra]: _v: macroinfluencer <n>: macroinfluencers, macroinfluencer's
+
 70 [5desk] 80: macroinstruction <n>: macroinstructions
 
 80: macrolepidoptera
@@ -231864,6 +231871,9 @@
 
 80: megahit <n>: megahits
 
+60 [extra]: _: mega-influencer <n>: mega-influencers, mega-influencer's
+60 [extra]: _v: megainfluencer <n>: megainfluencers, megainfluencer's
+
 60 [+] 85 [ukacd]: megajoule <n>: megajoules
 
 80: megakaryocyte <n>: megakaryocytes
@@ -235925,6 +235935,9 @@
 80: microimage <n>: microimages
 
 80: microinch <n>: microinches
+
+60 [extra]: _: micro-influencer <n>: micro-influencers, micro-influencer's
+60 [extra]: _v: microinfluencer <n>: microinfluencers, microinfluencer's
 
 80: microinject <m>: microinjected, microinjecting, microinjects
 
@@ -249555,6 +249568,9 @@
 70 [moby] 80: Bv: - <n>: nanogrammes
 80: A B C: nanogram <n>
 80: Bv: nanogramme <n>
+
+60 [extra]: _: nano-influencer <n>: nano-influencers, nano-influencer's
+60 [extra]: _v: nanoinfluencer <n>: nanoinfluencers, nanoinfluencer's
 
 60 [+] 70 [3of6] [5desk] 80: A Cv: nanometer <n>: nanometers
 60 [+] 70 [3of6] [5desk] 80: B C: nanometre <n>: nanometres
@@ -293813,6 +293829,8 @@
 85 [ukacd]: Podargus <n/upper>
 
 50 [+] 70 [3of6]: podcast <n_v>: podcast, podcasting, podcasts
+
+60 [extra]: podcaster <n>: podcasters, podcaster's
 
 70 [moby] 85 [ukacd]: poddy
 
@@ -383390,7 +383408,8 @@
 50: tastelessness <n>
 80: - <n>: tastelessnesses~
 
-80: tastemaker <n>: tastemakers
+60 [extra] 80: tastemaker <n>: tastemakers
+60 [extra]: - <n>: tastemaker's
 
 40: taster <n>: tasters, taster's
 
@@ -391442,6 +391461,12 @@
 80 [upper]: Tiki <n/upper?>: Tikis
 
 70 [3of6] 80: tikka <n>: tikkas
+
+60 [extra]: TikTok <n>: TikTok's
+
+60 [extra]: TikTok <v>: TikToked, TikToking, TikToks
+
+60 [extra]: TikToker <n>: TikTokers, TikToker's
 
 60 [brif] 70 [3of6] [moby] 80: til <m>
 70 [moby] 80: - <m>: -, -, tils-
@@ -438506,7 +438531,11 @@
 
 85 [ukacd]: youthy
 
-50 [name]: YouTube <n/name?>: YouTube's
+50 [name] 60 [extra]: YouTube <n/name?>: YouTube's
+
+60 [extra]: YouTube <v>: YouTubed, YouTubing, YouTubes
+
+60 [extra]: YouTuber <n>: YouTubers, YouTuber's
 
 40: you've <s>
 

@@ -788,7 +788,23 @@ total: 27
 
 New words, ok, added:
   Aotearoa
+  Instagrammed
+  Instagrammer
+  Instagrammers
+  Instagramming
+  Instagrams
   LOL
+  TikTok
+  TikToked
+  TikToker
+  TikTokers
+  TikToking
+  TikToks
+  YouTubed
+  YouTuber
+  YouTubers
+  YouTubes
+  YouTubing
   aboveground
   affective
   ahold
@@ -920,6 +936,8 @@ New words, ok, added:
   oppositional
   ourself
   personhood
+  podcaster
+  podcasters
   polenta
   polentas
   policymaking
@@ -959,6 +977,8 @@ New words, ok, added:
   subtests
   subtype
   subtypes
+  tastemaker
+  tastemakers
   telecom
   telecoms
   themself
@@ -984,7 +1004,7 @@ New words, ok, added:
   whomso
   whoseso
   y'know
-total: 197
+total: 217
 
 New words, ok, all-upper lemma:
   ATMs
