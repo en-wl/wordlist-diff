@@ -395910,7 +395910,7 @@
 
 80: trabeation <n>: trabeations
 
-70 [extra] 80: trabecula <n>: (trabeculae | V: trabeculas-)
+70 [extra] 80: trabecula <n>: (trabeculae | V: trabeculas)
 
 60 [extra] 80: trabecular <aj>
 
