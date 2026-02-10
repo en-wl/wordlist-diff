@@ -898,6 +898,11 @@ New words, ok, added:
   giftedness
   grandkid
   grandkids
+  homeschool
+  homeschooled
+  homeschooler
+  homeschoolers
+  homeschools
   influencer
   influencers
   interagency
@@ -936,6 +941,7 @@ New words, ok, added:
   microblogged
   microblogging
   microblogs
+  microplastic
   midafternoon
   midmorning
   midseason
@@ -945,6 +951,7 @@ New words, ok, added:
   multiethnic
   multimillion
   multimillions
+  multitasked
   muni
   munis
   neoliberal
@@ -1028,7 +1035,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 241
+total: 248
 
 New words, ok, all-upper lemma:
   ATMs

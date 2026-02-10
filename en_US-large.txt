@@ -87044,6 +87044,7 @@ homes
 homeschool
 homeschooled
 homeschooler
+homeschooler's
 homeschoolers
 homeschooling
 homeschools
@@ -104848,6 +104849,7 @@ microphotographs
 microphysics
 microphyte
 microphytes
+microplastic
 microplastics
 microprint
 microprints

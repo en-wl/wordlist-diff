@@ -56778,7 +56778,13 @@ homeroom
 homerooms
 homers
 homes
+homeschool
+homeschooled
+homeschooler
+homeschooler's
+homeschoolers
 homeschooling
+homeschools
 homesick
 homesickness
 homespun
@@ -67633,6 +67639,7 @@ microorganisms
 microphone
 microphone's
 microphones
+microplastic
 microplastics
 microprocessor
 microprocessor's
@@ -69759,6 +69766,7 @@ multiracial
 multistage
 multistory
 multitask
+multitasked
 multitasking
 multitasks
 multitude

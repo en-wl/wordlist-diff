@@ -175371,9 +175371,19 @@
 
 80 [moby]: Homerville <n/place>
 
-70 [3of6] [5desk] 80: homeschool <m>: homeschooled, homeschooling, homeschools
+60 [extra] 70 [3of6] [5desk] 80: _: homeschool <n>: homeschools
+60 [extra] 70 [3of6] [5desk] 80: _V: home school <n>: home schools
 
-70 [5desk] 80: homeschooler <n>: homeschoolers
+60 [extra] 70 [3of6] [5desk] 80: _: homeschool <v>: homeschooled, homeschooling, homeschools
+60 [extra] 70 [3of6] [5desk] 80: _v: home-school <v>: home-schooled, home-schooling, home-schools
+60 [extra] 70 [3of6] [5desk] 80: _V: home school <v>: home schooled, home schooling, home schools
+
+60 [extra] 70 [5desk] 80: _: homeschooler <n>: homeschoolers
+60 [extra] 70 [5desk] 80: _v: home-schooler <n>: home-schoolers
+60 [extra] 70 [5desk] 80: _V: home schooler <n>: home schoolers
+60 [extra]: _: - <n>: homeschooler's
+60 [extra]: _v: - <n>: home-schooler's
+60 [extra]: _V: - <n>: home schooler's
 
 60: homeschooling <n>
 80: - <n>: homeschoolings~
@@ -236192,6 +236202,10 @@
 
 80: microplankton <n>: microplanktons
 
+60 [+]: microplastic <n>: microplastics
+
+60 [+]: microplastic <aj>
+
 50 [+]: microplastics
 
 50 [+]: microplastics'
@@ -246910,8 +246924,8 @@
 
 80: multitalented
 
-50 hacker 70 [3of6] [5desk] 80: multitask <m>: -, -, multitasks
-70 [3of6] [5desk] 80: - <m>: multitasked, multitasking, -
+50 hacker 60 [extra] 70 [3of6] [5desk] 80: multitask <v>: -, -, multitasks
+60 [extra] 70 [3of6] [5desk] 80: - <v>: multitasked, multitasking, -
 
 35 [ukfreq] 60: multitasking <n>
 80: - <n>: multitaskings~
