@@ -1515,6 +1515,7 @@ Archilochus's
 Archimedean
 Archimedes
 Archimedes's
+Archosauria
 Arctic
 Arctic's
 Arctogaea
@@ -35209,6 +35210,8 @@ archly
 archness
 archon
 archons
+archosaur
+archosaurs
 archpriest
 archpriest's
 archpriests
@@ -41826,6 +41829,10 @@ blueprinting
 blueprints
 bluer
 blues
+blueshift
+blueshifted
+blueshifting
+blueshifts
 bluesier
 bluesiest
 bluesman
@@ -69759,6 +69766,7 @@ endotherm
 endothermal
 endothermic
 endotherms
+endothermy
 endotoxin
 endotoxins
 endotracheal
@@ -105129,6 +105137,8 @@ microfilms
 microfinance
 microfloppies
 microfloppy
+microfossil
+microfossils
 microgamete
 microgametes
 microgram
@@ -110832,6 +110842,8 @@ nonattendance
 nonautomatic
 nonautomotive
 nonavailability
+nonavian
+nonavians
 nonbasic
 nonbeliever
 nonbeliever's
@@ -125987,6 +125999,8 @@ proteinaceous
 proteinase
 proteinases
 proteins
+proteobacteria
+proteobacterium
 proteolyses
 proteolysis
 proteose
@@ -130342,6 +130356,8 @@ redshank
 redshank's
 redshanks
 redshift
+redshifted
+redshifting
 redshifts
 redskin
 redskins

@@ -28329,6 +28329,10 @@ blueprinting
 blueprints
 bluer
 blues
+blueshift
+blueshifted
+blueshifting
+blueshifts
 bluesier
 bluesiest
 bluest
@@ -38449,6 +38453,8 @@ crocks
 crocodile
 crocodile's
 crocodiles
+crocodilian
+crocodilians
 crocus
 crocuses
 croft
@@ -55486,6 +55492,8 @@ hatches
 hatchet
 hatchets
 hatching
+hatchling
+hatchlings
 hatchway
 hatchways
 hate
@@ -83346,6 +83354,10 @@ redresses
 redressing
 redrew
 reds
+redshift
+redshifted
+redshifting
+redshifts
 redskin
 redskins
 reduce

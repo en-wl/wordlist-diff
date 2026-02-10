@@ -19698,7 +19698,9 @@
 
 85 [ukacd]: archontic
 
-80: archosaur <n>: archosaurs
+70 [extra] 80: archosaur <n>: archosaurs
+
+70 [extra]: Archosauria <n>
 
 80: archosaurian <n>
 
@@ -40698,6 +40700,8 @@
 
 85 [ukacd]: !blooded <suf>
 
+80 [extra]: bloodedness <n>
+
 70 [moby]: blood feud <n>
 
 70 [moby] 80: bloodfin <n>: bloodfins
@@ -41285,7 +41289,9 @@
 
 70 [moby]: blue shark <n>: blue shark's
 
-80: blueshift <n>: blueshifts
+60 [extra] 80: blueshift <n>: blueshifts
+
+60 [extra]: blueshift <v>: blueshifted, blueshifts, blueshifting
 
 80: blueshifted
 
@@ -87507,7 +87513,7 @@
 
 85 [ukacd]: Crocodilia <n/upper>
 
-70 [5desk] [moby] 80: crocodilian <n>: crocodilians
+60 [extra] 70 [5desk] [moby] 80: crocodilian <n>: crocodilians
 70 [5desk] [moby]: - <n>: crocodilian's
 
 85 [ukacd]: crocodilite
@@ -121532,7 +121538,8 @@
 
 60: endothermic <aj>
 
-80: endothermy <n>: endothermies
+70 [extra] 80: endothermy <n>
+80: - <n>: endothermies
 
 80: endotoxic
 
@@ -167062,7 +167069,7 @@
 50: hatching <n>
 80: - <n>: hatchings~
 
-70 [5desk] 80: hatchling <n>: hatchlings
+60 [extra] 70 [5desk] 80: hatchling <n>: hatchlings
 70 [5desk]: - <n>: hatchling's
 
 70 [moby] 80: hatchment <n>: hatchments
@@ -236017,7 +236024,7 @@
 
 80: microform <n>: microforms
 
-80: microfossil <n>: microfossils
+70 [extra] 80: microfossil <n>: microfossils
 
 80: microfungus <n>: (microfungi | microfunguses) #! unmarked variants: microfungi, microfunguses
 
@@ -246065,7 +246072,7 @@
 80: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [moby] 80: mudstone <n>: mudstones
+70 [extra] [moby] 80: mudstone <n>: mudstones
 
 70 [moby] 85 [ukacd]: mud turtle <n>: mud turtles
 70 [moby]: - <n>: mud turtle's
@@ -256056,6 +256063,10 @@
 
 60: nonavailability <n>
 80: - <n>: nonavailabilities~
+
+70 [extra]: nonavian <n>: nonavians
+
+70 [extra]: nonavian <aj>
 
 80: nonbacterial
 
@@ -275448,6 +275459,8 @@
 80: palynologist <n>: palynologists
 
 80: palynology <n>: palynologies
+
+80 [extra]: palynomorph <n>: palynomorphs
 
 50: Pam <n/person>: Pam's
 
@@ -305728,6 +305741,8 @@
 
 80: protensively
 
+70 [extra]: proteobacterium <n>: proteobacteria
+
 80: proteoclastic
 
 80: proteoglycan <n>: proteoglycans
@@ -306027,6 +306042,8 @@
 70 [5desk] 80: prototypically
 
 50 [ukfreq]: prototyping
+
+80 [extra]: protovertebra <n>: protovertebrae
 
 85 [stale]: protoxid <n>: protoxids
 
@@ -307475,7 +307492,7 @@
 
 80: pteropodan <n>: pteropodans
 
-70 [5desk] [moby] 80: pterosaur <n>: pterosaurs
+70 [5desk] [extra] [moby] 80: pterosaur <n>: pterosaurs
 70 [5desk] [moby]: - <n>: pterosaur's
 
 85 [ukacd]: Pterosauria <n/upper>
@@ -318280,11 +318297,13 @@
 
 50 [name]: Redshift <n/name?>: Redshift's
 
-70 [5desk] [moby] 80: _: redshift <n>
-70 [5desk] [moby] 80: _v: red shift <n>
-70 [5desk] 80: _: - <n>: redshifts
-70 [5desk] 80: _v: - <n>
+60 [extra] 70 [5desk] [moby] 80: _: redshift <n>
+60 [extra] 70 [5desk] [moby] 80: _v: red shift <n>
+60 [extra] 70 [5desk] 80: _: - <n>: redshifts
+60 [extra] 70 [5desk] 80: _v: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
+
+60 [extra]: redshift <v>: redshifted, redshifts, redshifting
 
 80: _: redshifted
 80: _V: red-shifted
@@ -389865,6 +389884,8 @@
 70 [5desk] 80: _: tholepin <n>: tholepins
 70 [5desk] 80: _?: thole-pin <n>
 ## Compound variant levels are a best guess based on freq and other related info.
+
+80 [extra]: tholin <n>: tholins
 
 85 [ukacd]: tholobate <n>: tholobates
 
