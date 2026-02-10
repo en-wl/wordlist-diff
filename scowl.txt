@@ -15019,7 +15019,8 @@
 
 70 [moby] 80: antevert <m>: anteverted, anteverting, anteverts
 
-85 [ukacd]: Anthea </upper?>
+60 GB [extra] 85 [ukacd]: Anthea <n/person>
+60 GB [extra]: - <n/person>: Anthea's
 
 70 [moby] 80: anthelion <n>: (anthelia | anthelions) #! unmarked variants: anthelia, anthelions
 
