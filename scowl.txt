@@ -21468,7 +21468,7 @@
 
 35: artisan <n>: artisans, artisan's
 
-70 [5desk] 80: artisanal
+60 [extra] 70 [5desk] 80: artisanal <aj>
 
 70 [5desk] 80: artisanship <n>: artisanships
 
@@ -60818,7 +60818,7 @@
 
 80 [moby]: centri <pre>
 
-70 [moby] 80: centric <aj>
+60 [extra] 70 [moby] 80: centric <aj>
 
 85 [ukacd]: !centric <suf>
 
@@ -98029,6 +98029,8 @@
 
 85 [ukacd]: demonstratory
 
+60 [extra]: demonym <n>: demonyms
+
 80 [moby]: Demopolis <n/place>
 
 50: A Z: demoralization <n>: demoralization's
@@ -114002,7 +114004,7 @@
 35: duplication <n>
 65: - <n>: duplications-
 
-80: duplicative
+60 [extra] 80: duplicative <aj>
 
 50: duplicator <n>: duplicators
 
@@ -155639,8 +155641,8 @@
 
 70 [moby]: glyoxaline <n>
 
-50 [ukfreq] 70 [5desk] [moby] 80: glyph <n>
-70 [5desk] [moby] 80: - <n>: glyphs
+50 [ukfreq] 60 [extra] 70 [5desk] [moby] 80: glyph <n>
+60 [extra] 70 [5desk] [moby] 80: - <n>: glyphs
 
 70 [5desk] 80: glyphic
 
@@ -322043,7 +322045,7 @@
 
 35: report <n_v>: reported, reporting, reports, report's
 
-70 [5desk] 80: reportable <aj>
+60 [extra] 70 [5desk] 80: reportable <aj>
 
 50: reportage <n>
 80: - <n>: reportages~
@@ -397006,7 +397008,7 @@
 
 80: transformationally
 
-60 [coca] 80: transformative <aj>
+60 [coca] [extra] 80: transformative <aj>
 
 35 [ukfreq] 70 [3of6] 80: transformed <aj>
 

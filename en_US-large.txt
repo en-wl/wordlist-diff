@@ -61392,6 +61392,8 @@ demonstratives
 demonstrator
 demonstrator's
 demonstrators
+demonym
+demonyms
 demoralization
 demoralization's
 demoralize
@@ -67205,6 +67207,7 @@ duplicates
 duplicating
 duplication
 duplications
+duplicative
 duplicator
 duplicators
 duplicature

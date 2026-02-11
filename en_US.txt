@@ -24706,6 +24706,7 @@ artillerymen's
 artiness
 artisan
 artisan's
+artisanal
 artisans
 artist
 artist's
@@ -32706,6 +32707,7 @@ centralizes
 centralizing
 centrally
 centrals
+centric
 centrifugal
 centrifugally
 centrifuge
@@ -41142,6 +41144,8 @@ demonstratives
 demonstrator
 demonstrator's
 demonstrators
+demonym
+demonyms
 demoralization
 demoralization's
 demoralize
@@ -44914,6 +44918,7 @@ duplicated
 duplicates
 duplicating
 duplication
+duplicative
 duplicator
 duplicators
 duplicitous
@@ -53628,6 +53633,7 @@ glycerol
 glycogen
 glycol
 glyph
+glyphs
 gm
 gnarl
 gnarled
@@ -85036,6 +85042,7 @@ repopulates
 repopulating
 report
 report's
+reportable
 reportage
 reported
 reportedly

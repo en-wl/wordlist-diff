@@ -816,6 +816,7 @@ New words, ok, added:
   ahold
   apnea
   apneas
+  artisanal
   auditable
   backcountry
   biblically
@@ -837,6 +838,7 @@ New words, ok, added:
   caregiving
   casa
   casas
+  centric
   cleantech
   cochair
   cochairs
@@ -886,6 +888,8 @@ New words, ok, added:
   decomposers
   defenseman
   defensemen
+  demonym
+  demonyms
   deserialization
   deserializations
   deserialize
@@ -906,6 +910,7 @@ New words, ok, added:
   drivetrains
   duffel
   duffels
+  duplicative
   dyad
   dyads
   esthetician
@@ -930,6 +935,7 @@ New words, ok, added:
   gaslit
   generalizability
   giftedness
+  glyphs
   grandkid
   grandkids
   hatchling
@@ -1041,6 +1047,7 @@ New words, ok, added:
   reinitializing
   reinstallation
   reinstallations
+  reportable
   responder
   responders
   rewritable
@@ -1104,7 +1111,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 314
+total: 321
 
 New words, ok, all-upper lemma:
   ATMs
