@@ -792,7 +792,9 @@ total: 27
 New words, ok, added:
   ADHD
   Aotearoa
+  AstraZeneca
   AuDHD
+  BioNTech
   Coinbase
   DeFi
   ETH
@@ -805,7 +807,9 @@ New words, ok, added:
   Instagrammers
   Instagramming
   Instagrams
+  Janssen
   LOL
+  Moderna
   NFT
   NFTs
   TikTok
@@ -1138,7 +1142,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 348
+total: 352
 
 New words, ok, all-upper lemma:
   ATMs

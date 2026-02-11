@@ -1838,6 +1838,8 @@ Astor
 Astor's
 Astoria
 Astoria's
+AstraZeneca
+AstraZeneca's
 Astrakhan
 Astrakhan's
 Astrakhans
@@ -3219,6 +3221,8 @@ Bingen
 Bingham
 Bini
 Binis
+BioNTech
+BioNTech's
 Biogen
 Biogen's
 Bioko
@@ -4573,6 +4577,8 @@ Camry's
 Camus
 Camus's
 Can
+CanSino
+CanSino's
 Cana
 Canaan
 Canaan's
@@ -13135,6 +13141,8 @@ Jansenism
 Jansenisms
 Jansenist
 Jansenist's
+Janssen
+Janssen's
 Januaries
 January
 January's
@@ -17953,6 +17961,8 @@ Mobutu
 Mobutu's
 Mocambique
 Modena
+Moderna
+Moderna's
 Modernism
 Modernisms
 Modesto
@@ -19378,6 +19388,8 @@ Nova's
 Novara
 Novartis
 Novartis's
+Novavax
+Novavax's
 November
 November's
 Novembers
@@ -24297,6 +24309,10 @@ Sinologist
 Sinologist's
 Sinologists
 Sinology
+Sinopharm
+Sinopharm's
+Sinovac
+Sinovac's
 Sion
 Sions
 Siouan

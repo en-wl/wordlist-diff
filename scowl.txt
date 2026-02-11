@@ -23132,6 +23132,8 @@
 
 35: astray <av>
 
+60 [extra]: AstraZeneca <n/name>: AstraZeneca's
+
 85 [ukacd]: Astrex <n/upper?>: Astrexes
 
 70 [moby] 85 [stale] [ukacd]: astrict <m>: astricted, astricting, astricts
@@ -38078,6 +38080,8 @@
 85 [stale]: bionomy <n>: bionomies
 
 85 [stale] [ukacd]: biont <n>: bionts
+
+60 [extra]: BioNTech <n/name>: BioNTech's
 
 85 [stale] [ukacd]: biontic
 
@@ -55045,6 +55049,8 @@
 80 [moby]: Canovanas <n/place>
 
 80: cansful
+
+70 [extra]: CanSino <n/name>: CanSino's
 
 70 [moby] 85 [stale]: canso <n>: cansos
 
@@ -75088,6 +75094,8 @@
 50 [name] 70 [moby] 85 [ukacd]: Comintern <n/name?>
 50 [name] 70 [moby]: - <n/name?>: Comintern's
 
+80 [extra]: Comirnaty <n/name>: Comirnaty's
+
 85 [ukacd]: comitadji <n>: comitadjis
 
 85 [ukacd]: comital
@@ -85191,6 +85199,8 @@
 50: covey <n>: coveys, covey's
 
 50 [+]: COVID </abbr?>
+
+80 [extra]: Covifenz <n/name>: Covifenz's
 
 70 [moby] 80: covin <n>: covins
 
@@ -198329,6 +198339,8 @@
 
 80: jansky <n>: janskys
 
+60 [extra]: Janssen <n/name>: Janssen's
+
 85 [stale] [ukacd]: janty <n>
 85 [ukacd]: - <n>: janties
 
@@ -198812,6 +198824,8 @@
 70 [moby]: J.C.D. <abbr>
 
 80 [moby]: J.C.L. <abbr>
+
+80 [extra]: Jcovden <n/name>: Jcovden's
 
 60: JCS </abbr?>
 
@@ -231668,6 +231682,8 @@
 
 70 [5desk] [moby] 80: medicable
 
+80 [extra]: Medicago <n/name>: Medicago's
+
 40: Medicaid <n/upper>: Medicaid's
 65: - <n/upper>: Medicaids-
 
@@ -241090,6 +241106,8 @@
 65: - <aj>: moderner-, modernest-
 
 80 [upper]: Modern <aj/upper>
+
+60 [extra]: Moderna <n/name>: Moderna's
 
 70 [moby] 85 [ukacd]: modern dance <n>
 
@@ -260350,6 +260368,8 @@
 
 80 [moby]: Novato <n/place>
 
+70 [extra]: Novavax <n/name>: Novavax's
+
 50 [name] 70 [moby]: Novaya Zemlya <n/upper>: Novaya Zemlya's
 
 35: novel <n>: novels, novel's
@@ -261468,6 +261488,8 @@
 
 70 [moby] 85 [stale] [ukacd]: nutwood <n>
 70 [moby] 85 [stale]: - <n>: nutwoods
+
+80 [extra]: Nuvaxovid <n/name>: Nuvaxovid's
 
 70 [moby] 85 [ukacd]: nux vomica <n>
 
@@ -285760,7 +285782,7 @@
 
 80: pfft
 
-50 [name]: Pfizer <n/name?>: Pfizer's
+50 [name] 60 [extra]: Pfizer <n/name>: Pfizer's
 
 80 [moby]: Pflugerville <n/place>
 
@@ -310442,6 +310464,8 @@
 85 [ukacd]: qawwal <n>: qawwals
 
 85 [ukacd]: qawwali
+
+80 [extra]: QazVac <n/name>: QazVac's
 
 60: QB </abbr?>
 
@@ -352351,6 +352375,8 @@
 
 85 [ukacd]: Sinope </upper?>
 
+70 [extra]: Sinopharm <n/name>: Sinopharm's
+
 80 [upper] 85 [ukacd]: Sinophile <n/upper?>
 80 [upper]: - <n/upper?>: Sinophiles
 
@@ -352373,6 +352399,8 @@
 85 [ukacd]: sinopite <n>: sinopites
 
 70 [moby]: Sino-Tibetan <n/upper>
+
+70 [extra]: Sinovac <n/name>: Sinovac's
 
 80: sinsemilla <n>: sinsemillas
 
@@ -362635,6 +362663,8 @@
 80: spiker <n>: spikers
 
 85 [ukacd]: spikery
+
+80 [extra]: Spikevax <n/name>: Spikevax's
 
 80: spikey <a>: spikier†, spikiest†
 
@@ -418628,6 +418658,8 @@
 
 80 [moby]: -Valmy <n/place>
 
+80 [extra]: Valneva <n/name>: Valneva's
+
 50 [name] 70 [moby] 80 [upper] 85 [ukacd]: Valois <n/upper>
 50 [name] 70 [moby]: - <n/upper>: Valois's
 
@@ -419767,6 +419799,8 @@
 85 [stale]: vawntie
 
 50 hacker: VAX <n/abbr?>: VAXes
+
+80 [extra]: Vaxzevria <n/name>: Vaxzevria's
 
 50: Vazquez <n/person>: Vazquez's
 

@@ -1315,6 +1315,8 @@ Astor
 Astor's
 Astoria
 Astoria's
+AstraZeneca
+AstraZeneca's
 Astrakhan
 Astrakhan's
 AstroTurf
@@ -2310,6 +2312,8 @@ Billy
 Billy's
 Bimini
 Bimini's
+BioNTech
+BioNTech's
 Biogen
 Biogen's
 Bioko
@@ -9435,6 +9439,8 @@ Jansen
 Jansen's
 Jansenist
 Jansenist's
+Janssen
+Janssen's
 Januaries
 January
 January's
@@ -12995,6 +13001,8 @@ Mobile
 Mobile's
 Mobutu
 Mobutu's
+Moderna
+Moderna's
 Modesto
 Modesto's
 Modigliani
