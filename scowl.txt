@@ -87548,6 +87548,8 @@
 
 80 [moby]: Croghan <n/place>
 
+60 [extra]: Crohn's <n>
+
 70 [3of6] 85 [ukacd]: Crohn's disease <n/upper>
 
 40: croissant <n>: croissants
