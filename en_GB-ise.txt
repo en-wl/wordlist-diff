@@ -45342,6 +45342,7 @@ electrocardiograms
 electrocardiograph
 electrocardiographs
 electrocardiography
+electrochemical
 electrocute
 electrocuted
 electrocutes
@@ -80710,6 +80711,7 @@ pseudy
 pshaw
 pshaws
 psi
+psilocybin
 psis
 psittacosis
 psoriasis
@@ -85866,6 +85868,10 @@ rheumatically
 rheumatics
 rheumatism
 rheumatoid
+rheumatologist
+rheumatologist's
+rheumatologists
+rheumatology
 rheumy
 rhinestone
 rhinestones

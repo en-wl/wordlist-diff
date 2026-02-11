@@ -941,6 +941,7 @@ New words, ok, added:
   dyad
   dyads
   dysregulation
+  electrochemical
   empanada
   empanadas
   esthetician
@@ -1071,6 +1072,7 @@ New words, ok, added:
   preprogramming
   preprograms
   preservice
+  psilocybin
   quadrillionth
   quadrillionths
   ramen
@@ -1091,6 +1093,9 @@ New words, ok, added:
   responder
   responders
   rewritable
+  rheumatologist
+  rheumatologists
+  rheumatology
   rockfish
   sanitization
   sanitizations
@@ -1168,7 +1173,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 378
+total: 383
 
 New words, ok, all-upper lemma:
   ATMs

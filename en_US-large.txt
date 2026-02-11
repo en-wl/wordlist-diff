@@ -59100,6 +59100,10 @@ cytolyses
 cytolysin
 cytolysins
 cytolysis
+cytometer
+cytometers
+cytometries
+cytometry
 cyton
 cytons
 cytoplasm
@@ -133442,6 +133446,9 @@ rheumatically
 rheumatics
 rheumatism
 rheumatoid
+rheumatologist
+rheumatologist's
+rheumatologists
 rheumatology
 rheumy
 rhinal

@@ -91697,11 +91697,12 @@
 
 80: cytomembrane <n>: cytomembranes
 
-85 [ukacd]: cytometer <n>: cytometers
+70 [extra] 85 [ukacd]: cytometer <n>: cytometers
 
 85 [ukacd]: cytometric
 
-85 [ukacd]: cytometry
+70 [extra] 85 [ukacd]: cytometry <n>
+70 [extra]: - <n>: cytometries
 
 70 [moby] 85 [stale] [ukacd]: cyton <n>: cytons
 
@@ -118254,7 +118255,7 @@
 
 85 [ukacd]: electrochemic
 
-70 [5desk] 80: electrochemical <aj>
+60 [extra] 70 [5desk] 80: electrochemical <aj>
 
 70 [5desk] 80: electrochemically
 
@@ -194868,7 +194869,7 @@
 
 85 [ukacd]: in vitro fertilization
 
-70 [moby] 85 [ukacd]: in vivo <aj_av>
+70 [extra] [moby] 85 [ukacd]: in vivo <aj_av>
 
 70 [moby] 80: invocate <m>: invocated, invocating, invocates
 
@@ -307069,7 +307070,8 @@
 
 80: psilocin <n>: psilocins
 
-70 [moby] 80: psilocybin <n>: psilocybins
+60 [extra] 70 [moby] 80: psilocybin <n>
+70 [moby] 80: - <n>: psilocybins
 
 70 [moby] 80: psilomelane <n>: psilomelanes
 
@@ -325643,10 +325645,11 @@
 
 85 [ukacd]: rheumatological
 
-80: rheumatologist <n>: rheumatologists
+60 [extra] 80: rheumatologist <n>: rheumatologists
+60 [extra]: - <n>: rheumatologist's
 
-70 [3of6] 80: rheumatology <n>
-80: - <n>: rheumatologies
+60 [extra] 70 [3of6] 80: rheumatology <n>
+80: - <n>: rheumatologies~
 
 85 [ukacd]: rheumed
 
