@@ -836,7 +836,10 @@ New words, ok, added:
   apneas
   artisanal
   auditable
+  automations
   backcountry
+  backtrace
+  backtraces
   biblically
   biofuel
   biofuels
@@ -904,6 +907,12 @@ New words, ok, added:
   cyber
   decomposer
   decomposers
+  deduplicate
+  deduplicated
+  deduplicates
+  deduplicating
+  deduplication
+  deduplications
   defenseman
   defensemen
   demonym
@@ -1083,6 +1092,7 @@ New words, ok, added:
   rockfish
   sanitization
   sanitizations
+  scalable
   schooler
   schoolers
   screener
@@ -1151,9 +1161,11 @@ New words, ok, added:
   where'd
   whomso
   whoseso
+  wordlist
+  wordlists
   workspaces
   y'know
-total: 363
+total: 375
 
 New words, ok, all-upper lemma:
   ATMs

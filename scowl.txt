@@ -25640,7 +25640,7 @@
 50: automatic transmission <n>: automatic transmissions
 
 35: automation <n>
-80: - <n>: automations~
+60 [extra] 80: - <n>: automations
 
 60: automatism <n>
 80: - <n>: automatisms~
@@ -27874,6 +27874,10 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 50: back-to-back <aj>
+
+60 [extra]: backtrace <n>: backtraces
+
+70 [extra]: backtrace <v>: backtraced, backtracing, backtraces
 
 35: backtrack <v>: backtracked, backtracking, backtracks
 
@@ -95870,6 +95874,15 @@
 35 [ukfreq] 50: deductive <aj>
 
 60: deductively <a>
+
+70 [extra]: dedupe <n_v>: deduped, deduping, dedupes
+70 [extra]: _-: de-dupe <n_v>: de-duped, de-duping, de-dupes
+
+60 [extra]: deduplicate <v>: deduplicated, deduplicating, deduplicates
+60 [extra]: _V: de-duplicate <v>: de-duplicated, de-duplicating, de-duplicates
+
+60 [extra]: deduplication <n>: deduplications
+60 [extra]: _V: de-duplication <n>: de-duplications
 
 50: Dee <n/person>: Dee's
 
@@ -337446,7 +337459,7 @@
 
 60 [extra] 85 [ukacd]: scalability <n>
 
-70 [5desk] [moby] 80: scalable <aj>
+60 [extra] 70 [5desk] [moby] 80: scalable <aj>
 
 80: scalably
 
@@ -435442,6 +435455,9 @@
 60: wordlessly <av>
 
 80: wordlessness <n>: wordlessnesses
+
+60 [extra]: _: wordlist <n>: wordlists
+60 [extra]: _?: word list <n>: word lists
 
 80: wordmonger <n>: wordmongers
 
