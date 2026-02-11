@@ -790,7 +790,9 @@ Missing words, variant:
 total: 27
 
 New words, ok, added:
+  ADHD
   Aotearoa
+  AuDHD
   Coinbase
   DeFi
   ETH
@@ -820,6 +822,8 @@ New words, ok, added:
   aboveground
   affective
   ahold
+  allistic
+  allistics
   apnea
   apneas
   artisanal
@@ -919,6 +923,7 @@ New words, ok, added:
   duplicative
   dyad
   dyads
+  dysregulation
   esthetician
   estheticians
   ethicist
@@ -1013,6 +1018,11 @@ New words, ok, added:
   muni
   munis
   neoliberal
+  neurodivergent
+  neurodiverse
+  neurodiversity
+  neurotypical
+  neurotypicals
   noir
   noirs
   nonbinary
@@ -1081,6 +1091,10 @@ New words, ok, added:
   staycations
   steelhead
   steelheads
+  stim
+  stimmed
+  stimming
+  stims
   subscale
   subscales
   subtest
@@ -1124,7 +1138,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 334
+total: 348
 
 New words, ok, all-upper lemma:
   ATMs

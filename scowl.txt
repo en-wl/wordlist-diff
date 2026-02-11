@@ -3869,7 +3869,7 @@
 
 85 [ukacd]: adharma
 
-70 [3of6]: ADHD <n/upper>
+60 [extra] 70 [3of6]: ADHD <abbr>
 
 35: adhere <v>: adhered, adhering, adheres
 
@@ -9479,7 +9479,13 @@
 
 85 [ukacd]: allis <n>: allises
 
+70 [extra]: allism <n>
+
 50: Allison <n/person>: Allison's
+
+60 [+]: allistic <n>: allistics, allistic's
+
+60 [+]: allistic <aj>
 
 60: alliterate <v>: alliterated, alliterating, alliterates
 
@@ -24598,6 +24604,8 @@
 50 [name] 60: Auden <n/upper>: Auden's
 
 80 [upper]: Audenesque <aj/upper>
+
+60 [+]: AuDHD <abbr>
 
 50 [name]: Audi <n/name?>: Audi's
 
@@ -114737,6 +114745,8 @@
 
 70 [moby] 80: dysarthria <n>: dysarthrias
 
+70 [extra]: dyscalculia <n>
+
 85 [ukacd]: dyschroa
 
 85 [ukacd]: dyschroia
@@ -114885,10 +114895,12 @@
 
 85 [stale]: dyspnoic
 
-85 [ukacd]: dyspraxia
+70 [extra] 85 [ukacd]: dyspraxia <n>
 
 60: dysprosium <n>
 80: - <n>: dysprosiums~
+
+60 [extra]: dysregulation <n>
 
 80: dysrhythmia <n>: dysrhythmias
 
@@ -181722,9 +181734,10 @@
 
 80: hypopyon <n>: hypopyons
 
-80: hyposensitive
+70 [extra] 80: hyposensitive <aj>
 
-80: hyposensitivity <n>: hyposensitivities
+70 [extra] 80: hyposensitivity <n>
+80: - <n>: hyposensitivities
 
 80: A Z: hyposensitization <n>: hyposensitizations
 80: B: hyposensitisation <n>
@@ -252982,6 +252995,16 @@
 
 80: neurodegenerative
 
+70 [extra]: neurodevelopment <n>
+
+70 [extra]: neurodevelopmental <aj>
+
+60 [+]: neurodivergent <aj>
+
+60 [+]: neurodiverse <aj>
+
+60 [+]: neurodiversity <n>
+
 80: neuroendocrine <aj>
 
 80: neuroendocrinological
@@ -253216,6 +253239,10 @@
 80: neurotropic <aj>
 
 80: neurotropism <n>: neurotropisms
+
+60 [+]: neurotypical <n>: neurotypicals, neurotypical's
+
+60 [+]: neurotypical <aj>
 
 70 [extra] [moby] 85 [ukacd]: neurovascular
 
@@ -368638,11 +368665,15 @@
 
 80 [moby]: -Stilwell <n/place>
 
+60 [+]: stim <n_v>: stimmed, stimming, stims, stim's
+
 80: stime <n>: stimes
 
 85 [ukacd]: !stime <v>: stimed, stiming, stimes
 
 85 [ukacd]: stimie <m>: stimied†, stimying†, stimies†
+
+60 [+]: stimming <n>
 
 85 [ukacd]: stimpmeter <n>: stimpmeters
 

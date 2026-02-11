@@ -19,6 +19,7 @@ ACTH
 AD
 ADC
 ADD
+ADHD
 ADM
 ADP
 AF
@@ -1396,6 +1397,7 @@ Attucks's
 Atwood
 Atwood's
 Au
+AuDHD
 Aubrey
 Aubrey's
 Auburn
@@ -22806,6 +22808,9 @@ allies
 alligator
 alligator's
 alligators
+allistic
+allistic's
+allistics
 alliterate
 alliterated
 alliterates
@@ -45062,6 +45067,7 @@ dysphagia
 dysphoria
 dysphoric
 dysprosium
+dysregulation
 dystonia
 dystopi
 dystopia
@@ -71140,6 +71146,9 @@ neurasthenics
 neuritic
 neuritics
 neuritis
+neurodivergent
+neurodiverse
+neurodiversity
 neurological
 neurologically
 neurologist
@@ -71165,6 +71174,9 @@ neuroticism
 neurotics
 neurotransmitter
 neurotransmitters
+neurotypical
+neurotypical's
+neurotypicals
 neut
 neuter
 neutered
@@ -94996,6 +95008,11 @@ stilt's
 stilted
 stiltedly
 stilts
+stim
+stim's
+stimmed
+stimming
+stims
 stimulant
 stimulants
 stimulate

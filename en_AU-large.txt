@@ -1958,6 +1958,7 @@ Attucks's
 Atwood
 Atwood's
 Au
+AuDHD
 Aube
 Aubrey
 Aubrey's
@@ -32059,6 +32060,10 @@ allies
 alligator
 alligator's
 alligators
+allism
+allistic
+allistic's
+allistics
 alliterate
 alliterated
 alliterates
@@ -67464,6 +67469,7 @@ dynode
 dynodes
 dysarthria
 dysarthrias
+dyscalculia
 dyscrasia
 dyscrasias
 dysenteric
@@ -67512,7 +67518,9 @@ dyspneas
 dyspnoea
 dyspnoea's
 dyspnoeas
+dyspraxia
 dysprosium
+dysregulation
 dysteleologies
 dysteleology
 dysthymia
@@ -89166,6 +89174,8 @@ hypoploid
 hypoploids
 hypos
 hyposensitise
+hyposensitive
+hyposensitivity
 hypostases
 hypostasis
 hypostasis's
@@ -110099,6 +110109,11 @@ neuro
 neuroblast
 neuroblasts
 neurocoele
+neurodevelopment
+neurodevelopmental
+neurodivergent
+neurodiverse
+neurodiversity
 neurogenic
 neuroglia
 neuroglias
@@ -110150,6 +110165,9 @@ neurotomies
 neurotomy
 neurotransmitter
 neurotransmitters
+neurotypical
+neurotypical's
+neurotypicals
 neurovascular
 neut
 neuter
@@ -146908,6 +146926,11 @@ stiltedly
 stiltedness
 stiltednesses
 stilts
+stim
+stim's
+stimmed
+stimming
+stims
 stimulant
 stimulants
 stimulate
