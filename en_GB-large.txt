@@ -156955,6 +156955,9 @@ toiling
 toils
 toilsome
 toilworn
+tokamak
+tokamak's
+tokamaks
 tokay
 tokays
 toke
@@ -157346,6 +157349,10 @@ torn
 tornado
 tornado's
 tornadoes
+toroid
+toroid's
+toroidal
+toroids
 torose
 torpedo
 torpedo's

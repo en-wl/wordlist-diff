@@ -1033,6 +1033,8 @@ New words, ok, added:
   neurodiversity
   neurotypical
   neurotypicals
+  nitride
+  nitrides
   noir
   noirs
   nonbinary
@@ -1120,6 +1122,8 @@ New words, ok, added:
   there'll
   thruster
   thrusters
+  tokamak
+  tokamaks
   tokenization
   tokenize
   tokenized
@@ -1149,7 +1153,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 359
+total: 363
 
 New words, ok, all-upper lemma:
   ATMs

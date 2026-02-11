@@ -255084,7 +255084,7 @@
 
 85 [stale]: nitrid <m>: -, -, nitrids
 
-70 [5desk] [moby] 80: nitride <n>: nitrides
+60 [extra] 70 [5desk] [moby] 80: nitride <n>: nitrides
 
 80: -nitride <v>: nitrided, nitriding, nitrides
 
@@ -393593,7 +393593,10 @@
 
 85 [ukacd]: to kalon
 
-80: tokamak <n>: tokamaks
+60 [extra] 80: _: tokamak <n>: tokamaks
+60 [extra] 80: _V: tokomak <n>: tokomaks
+60 [extra]: _: - <n>: tokamak's
+60 [extra]: _V: - <n>: tokomak's
 
 50 [name] 70 [5desk] [moby] 80 [upper] 85 [ukacd]: Tokay <n/upper>
 50 [name] 70 [5desk] [moby]: - <n/upper>: Tokay's
@@ -393638,8 +393641,6 @@
 80: tokology <n>: tokologies
 
 70 [moby] 85 [ukacd]: tokoloshe
-
-80: tokomak <n>: tokomaks
 
 80: tokonoma <n>: tokonomas
 
@@ -394914,9 +394915,10 @@
 
 85 [stale]: toro <n>: toros
 
-80: toroid <n>: toroids
+70 [extra] 80: toroid <n>: toroids
+70 [extra]: - <n>: toroid's
 
-80: toroidal <aj>
+70 [extra] 80: toroidal <aj>
 
 80: toroidally
 

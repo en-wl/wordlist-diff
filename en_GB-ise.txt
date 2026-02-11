@@ -71145,6 +71145,8 @@ nitration
 nitre
 nitre's
 nitric
+nitride
+nitrides
 nitrification
 nitrite
 nitrites
@@ -99507,6 +99509,9 @@ toilette
 toiling
 toils
 toilsome
+tokamak
+tokamak's
+tokamaks
 toke
 toked
 token
