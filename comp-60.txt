@@ -796,6 +796,10 @@ New words, ok, added:
   AstraZeneca
   AuDHD
   BioNTech
+  CLI
+  CLIs
+  CMOS
+  CMOSes
   Coinbase
   DeFi
   ETH
@@ -815,6 +819,8 @@ New words, ok, added:
   Moderna
   NFT
   NFTs
+  TUI
+  TUIs
   TikTok
   TikToked
   TikToker
@@ -1003,6 +1009,7 @@ New words, ok, added:
   lowballed
   lowballing
   lowballs
+  macOS
   mansplain
   mansplained
   mansplainer
@@ -1173,7 +1180,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 383
+total: 390
 
 New words, ok, all-upper lemma:
   ATMs

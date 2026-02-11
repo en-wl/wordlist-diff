@@ -70145,6 +70145,8 @@
 
 80 [moby]: Clewiston <n/place>
 
+60 [extra]: CLI <n/abbr>: CLIs, CLI's
+
 85 [ukacd]: clianthus <n>: clianthuses
 
 50 [name]: Cliburn <n/name?>: Cliburn's
@@ -71401,6 +71403,8 @@
 70 [moby]: cml. <abbr>
 
 60 [coca]: c'mon <s> (informal)
+
+60 [extra]: CMOS <n/abbr>: CMOSes, CMOS's
 
 70 [3of6]: CND </abbr?>
 
@@ -223542,6 +223546,8 @@
 80: macon <n>: macons
 
 85 [ukacd]: maconochie
+
+60 [extra]: macOS <n/name>: macOS's
 
 80 [upper]: Macoun <n/upper>: Macouns-
 
@@ -401879,6 +401885,8 @@
 70 [5desk] 80: tugrik <n>: tugriks
 
 60: tugs-of-war
+
+60 [extra]: TUI <n/abbr>: TUIs, TUI's
 
 70 [moby] 80: tui <n>: tuis
 

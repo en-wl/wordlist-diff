@@ -4324,6 +4324,12 @@ CIA's
 CID
 CID's
 CJD
+CLI
+CLI's
+CLIs
+CMOS
+CMOS's
+CMOSes
 CND
 CNN
 CNN's
@@ -25456,6 +25462,9 @@ TNT's
 TOEFL
 TQM
 TUC
+TUI
+TUI's
+TUIs
 TV
 TV's
 TVA
@@ -101664,6 +101673,8 @@ ma'am
 ma's
 mac
 mac's
+macOS
+macOS's
 macabre
 macaco
 macacos
