@@ -61748,6 +61748,8 @@
 
 70 [moby]: chain lightning <n>
 
+70 [extra]: Chainlink <n/name>: Chainlink's
+
 70 [3of6]: chain-link fence <n>: chain-link fences
 
 70 [moby] 85 [ukacd]: chain locker
@@ -73235,6 +73237,8 @@
 80: coinable
 
 35: coinage <n>: coinages
+
+60 [+]: Coinbase <n/name>: Coinbase's
 
 70 [moby] 85 [ukacd]: coin box <n>: coin boxes
 
@@ -92969,6 +92973,9 @@
 
 85 [ukacd]: Da Ponte </upper?>
 
+70 [+]: _: dApp <n>: dApps, dApp's
+70 [+]: _V: dapp <n>: dapps, dapp's
+
 35: dapper <aj>: dapperer, dapperest
 
 85 [ukacd]: !dapper <n>: dappers
@@ -96237,6 +96244,8 @@
 
 85 [ukacd]: A Z: defeudalize <m>: defeudalized, defeudalizing, defeudalizes
 85 [ukacd]: B: defeudalise <m>: defeudalised, defeudalising, defeudalises
+
+60 [+]: DeFi <abbr>
 
 85 [stale]: defi <n>: defis
 
@@ -122522,6 +122531,8 @@
 
 70 [moby]: Ens. <abbr>
 
+70 [extra]: ENS <abbr>
+
 70 [moby] 80: ensample <n>: ensamples
 
 85 [ukacd]: ensanguinated
@@ -126533,6 +126544,8 @@
 
 80 [upper]: Etesian <n/upper?>: Etesians
 
+60 [+]: ETH <abbr>
+
 80: eth <n>: eths
 
 80 [moby]: eth <suf>
@@ -126600,6 +126613,8 @@
 70 [5desk] 80: etherealness <n>: etherealnesses
 
 85 [ukacd]: ethereous
+
+60 [+]: Ethereum <n/name>: Ethereum's
 
 85 [ukacd]: etherial
 
@@ -166079,6 +166094,8 @@
 80: _=: hard-fisted <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
+80 [extra]: hardfork <n>: hardforks, hardfork's
+
 70 [3of6] 85 [ukacd]: hard-fought <aj>
 
 80: hardgoods
@@ -195150,6 +195167,8 @@
 50: ipecac <n>: ipecacs
 
 80: ipecacuanha <n>: ipecacuanhas
+
+70 [extra]: IPFS <abbr>
 
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Iphigenia <n/upper>
 50 [name] 70 [5desk] [moby]: - <n/upper>: Iphigenia's
@@ -224859,6 +224878,8 @@
 
 50: mainmast <n>: mainmasts
 
+70 [extra]: mainnet <n>: mainnets
+
 85 [ukacd]: A: mainor <n>: mainors
 85 [ukacd]: B: mainour <n>: mainours
 
@@ -234652,6 +234673,8 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 80: metamale <n>: metamales
+
+70 [extra]: MetaMask <n>: MetaMask's
 
 80: metamathematical
 
@@ -253809,6 +253832,8 @@
 
 40: NFL <n/name?>: NFL's
 
+60 [+]: NFT <n/abbr>: NFTs, NFT's
+
 70 [moby]: N.G. <abbr>
 
 85 [ukacd]: ngaio <n>: ngaios
@@ -263682,6 +263707,9 @@
 
 70 [3of6] 85 [ukacd]: off-centre
 
+70 [extra]: _: off-chain <aj>
+70 [extra]: _v: offchain <aj>
+
 70 [3of6] [moby]: off chance
 
 40: off-color <aj>
@@ -265461,6 +265489,9 @@
 
 70 [3of6] 85 [ukacd]: once upon a time
 
+70 [extra]: _: on-chain <aj>
+70 [extra]: _v: onchain <aj>
+
 80 [moby]: Onchiota <n/place>
 
 80: onchocerciasis <n>: onchocerciases
@@ -266416,6 +266447,8 @@
 70 [3of6] 85 [ukacd]: open prison <n>: open prisons
 
 70 [3of6] 85 [ukacd]: open sandwich <n>: open sandwiches
+
+70 [extra]: OpenSea <n/name>: OpenSea's
 
 40: open season
 
@@ -365281,6 +365314,8 @@
 70 [moby]: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
+60 [+]: stablecoin <n>: stablecoins, stablecoin's
+
 70 [moby] 85 [ukacd]: stable fly
 
 70 [3of6] 85 [ukacd]: stable lad <n>: stable lads
@@ -387435,6 +387470,8 @@
 
 70 [3of6] 85 [ukacd]: test match <n>: test matches
 
+70 [extra]: testnet <n>: testnets
+
 70 [moby] 80: teston <n>: testons
 
 80: testoon <n>: testoons
@@ -393498,6 +393535,12 @@
 80: - <n>: tokenisms~
 
 80: tokenistic
+
+60 [extra]: A Z: tokenization <n>
+60 [extra]: B: tokenisation <n>
+
+60 [extra]: A Z: tokenize <v>: tokenizes, tokenized, tokenizing
+60 [extra]: B: tokenise <v>: tokenises, tokenised, tokenising
 
 70 [moby]: token payment <n>
 
@@ -411052,6 +411095,8 @@
 80: unisonous
 
 80: unissued
+
+70 [extra]: Uniswap <n/name>: Uniswap's
 
 35: unit <n>: units, unit's
 
@@ -428818,6 +428863,8 @@
 
 70 [3of6]: Web 2.0 </upper?>
 
+60 [+]: Web3 <n>
+
 50: Webb <n/person>: Webb's
 
 50 [name] 70 [moby] 85 [ukacd]: Webb <n/upper>
@@ -440972,6 +441019,7 @@
 #:   x: non word
 #:
 #: Part of Speech Classes:
+#:   abbr
 #:   abbr?
 #:   name
 #:   name?

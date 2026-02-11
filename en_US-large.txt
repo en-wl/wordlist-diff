@@ -5174,6 +5174,8 @@ Chagall's
 Chagos
 Chain
 Chain's
+Chainlink
+Chainlink's
 Chaitanya
 Chaitanya's
 Chaitin
@@ -5920,6 +5922,8 @@ Cohen
 Cohen's
 Coimbatore
 Coimbatore's
+Coinbase
+Coinbase's
 Cointreau
 Cointreau's
 Cointreaus
@@ -7015,6 +7019,7 @@ Dayan
 Dayan's
 Dayton
 Dayton's
+DeFi
 DeGeneres
 DeGeneres's
 DeKalb
@@ -7947,6 +7952,7 @@ EMT's
 EMTs
 EMU
 ENE
+ENS
 ENT
 EOE
 EP
@@ -7971,6 +7977,7 @@ ET
 ETA
 ETA's
 ETD
+ETH
 EU
 EU's
 EULA
@@ -8679,6 +8686,8 @@ Ethelbert
 Ethelbert's
 Ethelred
 Ethelred's
+Ethereum
+Ethereum's
 Ethernet
 Ethernet's
 Ethernets
@@ -12508,6 +12517,7 @@ IOU
 IOUs
 IP
 IPA
+IPFS
 IPO
 IPOs
 IQ
@@ -17750,6 +17760,8 @@ Messina's
 Messrs
 Met
 Meta
+MetaMask
+MetaMask's
 Metacom
 Metairie
 Metallica
@@ -18782,6 +18794,9 @@ NF
 NFC
 NFL
 NFL's
+NFT
+NFT's
+NFTs
 NGO
 NGOs
 NH
@@ -20002,6 +20017,8 @@ Opel
 Opel's
 OpenOffice
 OpenOffice's
+OpenSea
+OpenSea's
 Ophelia
 Ophelia's
 Ophir
@@ -27083,6 +27100,8 @@ Uniontown
 Uniontown's
 Uniroyal
 Uniroyal's
+Uniswap
+Uniswap's
 Unitarian
 Unitarian's
 Unitarianism
@@ -59083,6 +59102,9 @@ d'Estaing's
 d'oh
 d'oh's
 d's
+dApp
+dApp's
+dApps
 dB
 dab
 dabbed
@@ -101776,6 +101798,8 @@ mainlining
 mainly
 mainmast
 mainmasts
+mainnet
+mainnets
 mains
 mainsail
 mainsails
@@ -112448,6 +112472,7 @@ off
 offal
 offbeat
 offbeats
+offchain
 offcut
 offcuts
 offed
@@ -112835,6 +112860,7 @@ onanistic
 onanists
 onboard
 once
+onchain
 oncogene
 oncogenes
 oncogeneses
@@ -145374,6 +145400,9 @@ stable's
 stableboy
 stableboy's
 stableboys
+stablecoin
+stablecoin's
+stablecoins
 stabled
 stableman
 stableman's
@@ -152391,6 +152420,8 @@ testiness
 testing
 testings
 testis
+testnet
+testnets
 teston
 testons
 testosterone
@@ -154073,6 +154104,11 @@ toke
 toked
 token
 tokenism
+tokenization
+tokenize
+tokenized
+tokenizes
+tokenizing
 tokens
 tokes
 toking

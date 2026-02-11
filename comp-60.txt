@@ -791,8 +791,12 @@ total: 27
 
 New words, ok, added:
   Aotearoa
+  Coinbase
+  DeFi
+  ETH
   Egyptologist
   Egyptologists
+  Ethereum
   HVAC
   Instagrammed
   Instagrammer
@@ -800,6 +804,8 @@ New words, ok, added:
   Instagramming
   Instagrams
   LOL
+  NFT
+  NFTs
   TikTok
   TikToked
   TikToker
@@ -1067,6 +1073,8 @@ New words, ok, added:
   sociocultural
   splitter
   splitters
+  stablecoin
+  stablecoins
   starship
   starships
   staycation
@@ -1087,6 +1095,11 @@ New words, ok, added:
   there'll
   thruster
   thrusters
+  tokenization
+  tokenize
+  tokenized
+  tokenizes
+  tokenizing
   tradable
   trailhead
   trailheads
@@ -1111,7 +1124,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 321
+total: 334
 
 New words, ok, all-upper lemma:
   ATMs

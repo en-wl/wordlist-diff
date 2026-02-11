@@ -4191,6 +4191,8 @@ Cohen
 Cohen's
 Coimbatore
 Coimbatore's
+Coinbase
+Coinbase's
 Cointreau
 Cointreau's
 Coke
@@ -4972,6 +4974,7 @@ Dayan
 Dayan's
 Dayton
 Dayton's
+DeFi
 DeGeneres
 DeGeneres's
 Deadhead
@@ -5672,6 +5675,7 @@ ET
 ETA
 ETA's
 ETD
+ETH
 EU
 EU's
 EULA
@@ -6191,6 +6195,8 @@ Ethel
 Ethel's
 Ethelred
 Ethelred's
+Ethereum
+Ethereum's
 Ethernet
 Ethernet's
 Ethiopia
@@ -13359,6 +13365,9 @@ NF
 NFC
 NFL
 NFL's
+NFT
+NFT's
+NFTs
 NH
 NHL
 NHL's
@@ -93896,6 +93905,9 @@ stabilizes
 stabilizing
 stable
 stable's
+stablecoin
+stablecoin's
+stablecoins
 stabled
 stableman
 stableman's
@@ -99459,6 +99471,11 @@ toke
 toked
 token
 tokenism
+tokenization
+tokenize
+tokenized
+tokenizes
+tokenizing
 tokens
 tokes
 toking
