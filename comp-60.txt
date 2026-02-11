@@ -976,6 +976,8 @@ New words, ok, added:
   homeschoolers
   homeschools
   hydropower
+  ideation
+  ideations
   impactful
   influencer
   influencers
@@ -1145,6 +1147,7 @@ New words, ok, added:
   transformative
   tunable
   underserved
+  unintuitive
   univariate
   unmoving
   unsynchronized
@@ -1165,7 +1168,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 375
+total: 378
 
 New words, ok, all-upper lemma:
   ATMs

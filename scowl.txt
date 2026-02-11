@@ -180805,8 +180805,8 @@
 
 80: hyperbolist <n>: hyperbolists
 
-70 [moby] 80: A Z: hyperbolize <v>: hyperbolized, hyperbolizing, hyperbolizes
-70 [moby] 80: B: hyperbolise <v>: hyperbolised, hyperbolising, hyperbolises
+70 [extra] [moby] 80: A Z: hyperbolize <v>: hyperbolized, hyperbolizing, hyperbolizes
+70 [extra] [moby] 80: B: hyperbolise <v>: hyperbolised, hyperbolising, hyperbolises
 
 70 [moby] 80: hyperboloid <n>: hyperboloids
 
@@ -182798,7 +182798,7 @@
 
 70 [5desk] 80: ideated
 
-70 [5desk] [moby] 80: ideation <n>: ideations
+60 [extra] 70 [5desk] [moby] 80: ideation <n>: ideations
 
 70 [5desk] [moby] 80: ideational <aj>
 
@@ -411029,6 +411029,8 @@
 85 [ukacd]: unintoxicating
 
 85 [ukacd]: unintroduced
+
+60 [extra]: unintuitive <aj>
 
 85 [ukacd]: uninuclear
 
