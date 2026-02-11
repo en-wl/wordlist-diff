@@ -45758,6 +45758,8 @@ emotionless
 emotions
 emotive
 emotively
+empanada
+empanadas
 empanel
 empanelled
 empanelling
@@ -82051,6 +82053,7 @@ rambunctiousness
 ramekin
 ramekin's
 ramekins
+ramen
 ramie
 ramification
 ramifications

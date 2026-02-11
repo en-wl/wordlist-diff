@@ -932,6 +932,8 @@ New words, ok, added:
   dyad
   dyads
   dysregulation
+  empanada
+  empanadas
   esthetician
   estheticians
   ethicist
@@ -1058,6 +1060,7 @@ New words, ok, added:
   preservice
   quadrillionth
   quadrillionths
+  ramen
   rearview
   reauthorization
   reauthorizations
@@ -1146,7 +1149,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 356
+total: 359
 
 New words, ok, all-upper lemma:
   ATMs

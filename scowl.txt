@@ -120289,7 +120289,7 @@
 
 85 [stale]: empaler <n>: empalers
 
-70 [5desk] 80: empanada <n>: empanadas
+60 [extra] 70 [5desk] 80: empanada <n>: empanadas
 
 85 [ukacd]: empanoply <m>: empanoplied, empanoplying, empanoplies
 
@@ -314124,7 +314124,8 @@
 60: _: ramekin <n>: ramekins, ramekin's
 60: _V: ramequin <n>: ramequins, ramequin's
 
-70 [5desk] 80: ramen <n>: ramens
+60 [extra] 70 [5desk] 80: ramen <n>
+70 [5desk] 80: - <n>: ramens
 
 70 [moby] 80: ramentum <n>: ramenta
 

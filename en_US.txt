@@ -46125,6 +46125,8 @@ emotionless
 emotions
 emotive
 emotively
+empanada
+empanadas
 empathetic
 empathically
 empathize
@@ -82409,6 +82411,7 @@ rambunctiousness
 ramekin
 ramekin's
 ramekins
+ramen
 ramie
 ramification
 ramifications
