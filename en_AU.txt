@@ -70,6 +70,7 @@ ATP's
 ATV
 ATV's
 ATVs
+AUD
 AV
 AVI
 AWACS
@@ -5730,6 +5731,7 @@ EU
 EU's
 EULA
 EULAs
+EUR
 Eakins
 Eakins's
 Earhart
@@ -6994,6 +6996,7 @@ GAO's
 GATT
 GATT's
 GB
+GBP
 GCC
 GCC's
 GDP
@@ -19274,6 +19277,7 @@ USAF
 USAF's
 USB
 USCG
+USD
 USDA
 USDA's
 USIA

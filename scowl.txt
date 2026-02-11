@@ -24587,6 +24587,8 @@
 
 80: aucuba <n>: aucubas
 
+60 [extra]: AUD <abbr>
+
 80 [moby]: aud. <abbr>
 
 35: audacious <aj>
@@ -52279,7 +52281,7 @@
 35 [ukfreq] 50: cad <n>
 50: - <n>: cads, cad's
 
-60: CAD <n/upper>
+60: CAD <abbr>
 
 70 [moby] 80: A: cadaster <n>: cadasters
 70 [moby] 80: B: cadastre <n>: cadastres
@@ -64522,6 +64524,8 @@
 
 70 [5desk] [moby] 80: chez <pp>
 
+70 [extra]: CHF <abbr>
+
 60: _: chg. <abbr>
 60: _~: chg <abbr>
 
@@ -71420,6 +71424,8 @@
 
 70 [5desk] [moby] 85 [ukacd]: Cnut <n/upper>
 70 [5desk] [moby]: - <n/upper>: Cnut's
+
+70 [extra]: CNY <abbr>
 
 35: CO <n/upper>: CO's
 
@@ -108175,6 +108181,8 @@
 
 80 [moby]: dk. <abbr>
 
+70 [extra]: DKK <abbr>
+
 70 [moby]: dkl <n>
 
 80 [moby]: Dlo <n/place>
@@ -127447,6 +127455,8 @@
 80 [moby]: Eupora <n/place>
 
 60: Eur. <abbr>
+
+60 [extra]: EUR <abbr>
 
 85 [ukacd]: Eurafrican <n/upper>
 
@@ -150880,6 +150890,8 @@
 80 [moby]: G.B.E. <abbr>
 
 70 [3of6]: GBH </abbr?>
+
+60 [extra]: GBP <abbr>
 
 70 [moby]: GCA <n/upper>
 
@@ -200904,6 +200916,8 @@
 70 [3of6]: - <n/upper>: JPEGs
 
 60: Jpn. <abbr>
+
+70 [extra]: JPY <abbr>
 
 40: _: Jr. <abbr>
 40: _~: Jr <abbr>
@@ -255651,6 +255665,8 @@
 
 35: noisy <aj>: noisier, noisiest
 
+70 [extra]: NOK <abbr>
+
 80 [moby]: Nokesville <n/place>
 
 50 [name]: Nokia <n/name?>: Nokia's
@@ -261688,6 +261704,8 @@
 60: NZ </abbr?>
 
 60: N.Z. <abbr>
+
+70 [extra]: NZD <abbr>
 
 35: O <n/upper>
 
@@ -342780,6 +342798,8 @@
 
 50 [name]: Sejong <n/name?>: Sejong's
 
+70 [extra]: SEK <abbr>
+
 80 [moby]: Sekiu <n/place>
 
 85 [ukacd]: sekos <n>: sekoses
@@ -417601,6 +417621,8 @@
 70 [3of6]: -USB <n/upper>: USBs
 
 60: USCG </abbr?>
+
+60 [extra]: USD <abbr>
 
 50: USDA <n/upper>: USDA's
 

@@ -791,6 +791,7 @@ total: 27
 
 New words, ok, added:
   ADHD
+  AUD
   Aotearoa
   AstraZeneca
   AuDHD
@@ -798,9 +799,11 @@ New words, ok, added:
   Coinbase
   DeFi
   ETH
+  EUR
   Egyptologist
   Egyptologists
   Ethereum
+  GBP
   HVAC
   Instagrammed
   Instagrammer
@@ -818,6 +821,7 @@ New words, ok, added:
   TikTokers
   TikToking
   TikToks
+  USD
   YouTubed
   YouTuber
   YouTubers
@@ -1142,7 +1146,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 352
+total: 356
 
 New words, ok, all-upper lemma:
   ATMs
