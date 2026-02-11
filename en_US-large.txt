@@ -31006,6 +31006,9 @@ aesthete's
 aesthetes
 aesthetic
 aesthetically
+aesthetician
+aesthetician's
+aestheticians
 aestheticism
 aesthetics
 aether
@@ -52603,6 +52606,7 @@ colorist's
 colorists
 colorization
 colorization's
+colorizations
 colorize
 colorized
 colorizes
@@ -62138,6 +62142,12 @@ desensitizer's
 desensitizers
 desensitizes
 desensitizing
+deserialization
+deserializations
+deserialize
+deserialized
+deserializes
+deserializing
 desert
 desert's
 deserted
@@ -83951,7 +83961,6 @@ haecceity
 haed
 haeing
 haematoxylon
-haemorrhagic
 haemostat
 haemostats
 haeres
@@ -116432,6 +116441,8 @@ paramedics
 parament
 paraments
 parameter
+parameterization
+parameterizations
 parameterize
 parameterized
 parameters
@@ -128326,6 +128337,8 @@ raster
 rasterization
 rasterize
 rasterized
+rasterizes
+rasterizing
 rasters
 rat
 rat's
@@ -130800,6 +130813,8 @@ reinfusion
 reining
 reinitialize
 reinitialized
+reinitializes
+reinitializing
 reinoculate
 reinoculated
 reinoculates
@@ -135834,6 +135849,8 @@ sanitarium
 sanitariums
 sanitary
 sanitation
+sanitization
+sanitizations
 sanitize
 sanitized
 sanitizer
@@ -160182,6 +160199,7 @@ unsworn
 unsymmetrical
 unsympathetic
 unsympathetically
+unsynchronized
 unsystematic
 unsystematical
 unsystematically
@@ -166312,7 +166330,6 @@ wristwatches
 writ
 writable
 write
-writeable
 writer
 writer's
 writers

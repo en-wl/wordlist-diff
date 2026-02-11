@@ -35015,6 +35015,7 @@ colourist's
 colourists
 colourization
 colourization's
+colourizations
 colourize
 colourized
 colourizes
@@ -41251,6 +41252,12 @@ desensitize
 desensitized
 desensitizes
 desensitizing
+deserialization
+deserializations
+deserialize
+deserialized
+deserializes
+deserializing
 desert
 desert's
 deserted
@@ -46915,6 +46922,9 @@ esteeming
 esteems
 ester
 esters
+esthetician
+esthetician's
+estheticians
 estimable
 estimate
 estimated
@@ -83979,6 +83989,8 @@ reinforcing
 reining
 reinitialize
 reinitialized
+reinitializes
+reinitializing
 reinoculate
 reinoculated
 reinoculates
@@ -85747,6 +85759,7 @@ reworks
 rewound
 rewove
 rewoven
+rewritable
 rewrite
 rewrites
 rewriting
@@ -87400,6 +87413,8 @@ sanitarium
 sanitariums
 sanitary
 sanitation
+sanitization
+sanitizations
 sanitize
 sanitized
 sanitizer
@@ -103351,6 +103366,7 @@ unswerving
 unsymmetrical
 unsympathetic
 unsympathetically
+unsynchronized
 unsystematic
 untactful
 untainted

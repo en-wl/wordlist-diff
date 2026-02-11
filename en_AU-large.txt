@@ -52606,6 +52606,7 @@ colouring's
 colourings
 colourisation
 colourisation's
+colourisations
 colourise
 colourised
 colourises
@@ -62160,6 +62161,12 @@ desensitiser's
 desensitisers
 desensitises
 desensitising
+deserialisation
+deserialisations
+deserialise
+deserialised
+deserialises
+deserialising
 desert
 desert's
 deserted
@@ -85996,7 +86003,6 @@ hemorrhage
 hemorrhage's
 hemorrhaged
 hemorrhages
-hemorrhagic
 hemorrhaging
 hemorrhoid
 hemorrhoidal
@@ -116852,6 +116858,8 @@ paramedics
 parament
 paraments
 parameter
+parameterisation
+parameterisations
 parameterise
 parameterised
 parameters
@@ -128758,8 +128766,11 @@ raspings
 rasps
 raspy
 raster
-rasterization
-rasterize
+rasterisation
+rasterise
+rasterised
+rasterises
+rasterising
 rasterized
 rasters
 rat
@@ -131235,6 +131246,8 @@ reinfusion
 reining
 reinitialise
 reinitialised
+reinitialises
+reinitialising
 reinoculate
 reinoculated
 reinoculates
@@ -136286,6 +136299,8 @@ sanitarium
 sanitariums
 sanitary
 sanitation
+sanitisation
+sanitisations
 sanitise
 sanitised
 sanitiser
@@ -160702,6 +160717,7 @@ unsworn
 unsymmetrical
 unsympathetic
 unsympathetically
+unsynchronised
 unsystematic
 unsystematical
 unsystematically
@@ -166849,7 +166865,6 @@ wristwatches
 writ
 writable
 write
-writeable
 writer
 writer's
 writers

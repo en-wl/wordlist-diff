@@ -1,6 +1,7 @@
 New words, unclassified:
+  colorizations
   po'boy
-total: 1
+total: 2
 
 New words, upper:
   Kyiv
@@ -885,6 +886,12 @@ New words, ok, added:
   decomposers
   defenseman
   defensemen
+  deserialization
+  deserializations
+  deserialize
+  deserialized
+  deserializes
+  deserializing
   dox
   doxed
   doxes
@@ -901,6 +908,8 @@ New words, ok, added:
   duffels
   dyad
   dyads
+  esthetician
+  estheticians
   ethicist
   ethicists
   externalities
@@ -1028,11 +1037,16 @@ New words, ok, added:
   redshifts
   refractor
   refractors
+  reinitializes
+  reinitializing
   reinstallation
   reinstallations
   responder
   responders
+  rewritable
   rockfish
+  sanitization
+  sanitizations
   schooler
   schoolers
   screener
@@ -1074,6 +1088,7 @@ New words, ok, added:
   underserved
   univariate
   unmoving
+  unsynchronized
   videoconference
   videoconferences
   vlog
@@ -1089,7 +1104,7 @@ New words, ok, added:
   whoseso
   workspaces
   y'know
-total: 300
+total: 314
 
 New words, ok, all-upper lemma:
   ATMs

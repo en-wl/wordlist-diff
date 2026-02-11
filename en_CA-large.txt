@@ -52481,6 +52481,7 @@ colourist's
 colourists
 colourization
 colourization's
+colourizations
 colourize
 colourized
 colourizes
@@ -62036,6 +62037,12 @@ desensitizer's
 desensitizers
 desensitizes
 desensitizing
+deserialization
+deserializations
+deserialize
+deserialized
+deserializes
+deserializing
 desert
 desert's
 deserted
@@ -83988,7 +83995,6 @@ haemocytes
 haemoid
 haemolysin
 haemolysin's
-haemorrhagic
 haemorrhoidectomy
 haemorrhoidectomy's
 haemostases
@@ -116643,6 +116649,8 @@ paramedics
 parament
 paraments
 parameter
+parameterization
+parameterizations
 parameterize
 parameterized
 parameters
@@ -128553,6 +128561,8 @@ raster
 rasterization
 rasterize
 rasterized
+rasterizes
+rasterizing
 rasters
 rat
 rat's
@@ -131033,6 +131043,8 @@ reinfusion
 reining
 reinitialize
 reinitialized
+reinitializes
+reinitializing
 reinoculate
 reinoculated
 reinoculates
@@ -136082,6 +136094,8 @@ sanitarium
 sanitariums
 sanitary
 sanitation
+sanitization
+sanitizations
 sanitize
 sanitized
 sanitizer
@@ -160543,6 +160557,7 @@ unsworn
 unsymmetrical
 unsympathetic
 unsympathetically
+unsynchronized
 unsystematic
 unsystematical
 unsystematically
@@ -166693,7 +166708,6 @@ wristwatches
 writ
 writable
 write
-writeable
 writer
 writer's
 writers

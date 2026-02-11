@@ -21814,6 +21814,9 @@ aesthete's
 aesthetes
 aesthetic
 aesthetically
+aesthetician
+aesthetician's
+aestheticians
 aestheticism
 aesthetics
 aetiologies
@@ -35013,6 +35016,7 @@ colouring
 colouring's
 colourisation
 colourisation's
+colourisations
 colourise
 colourised
 colourises
@@ -41249,6 +41253,12 @@ desensitise
 desensitised
 desensitises
 desensitising
+deserialisation
+deserialisations
+deserialise
+deserialised
+deserialises
+deserialising
 desert
 desert's
 deserted
@@ -54843,6 +54853,7 @@ haemorrhage
 haemorrhage's
 haemorrhaged
 haemorrhages
+haemorrhagic
 haemorrhaging
 haemorrhoid
 haemorrhoids
@@ -56074,7 +56085,6 @@ hemmed
 hemmer
 hemmers
 hemming
-hemorrhagic
 hemostat
 hemostats
 hemp
@@ -83988,6 +83998,8 @@ reinforcing
 reining
 reinitialise
 reinitialised
+reinitialises
+reinitialising
 reinoculate
 reinoculated
 reinoculates
@@ -85758,6 +85770,7 @@ reworks
 rewound
 rewove
 rewoven
+rewritable
 rewrite
 rewrites
 rewriting
@@ -87413,6 +87426,8 @@ sanitarium
 sanitariums
 sanitary
 sanitation
+sanitisation
+sanitisations
 sanitise
 sanitised
 sanitiser
@@ -103367,6 +103382,7 @@ unswerving
 unsymmetrical
 unsympathetic
 unsympathetically
+unsynchronised
 unsystematic
 untactful
 untainted

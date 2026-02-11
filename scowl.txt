@@ -74433,9 +74433,9 @@
 60: A: colorization <n>: colorization's
 60: B: colourisation <n>: colourisation's
 60: Z: colourization <n>: colourization's
-80: A: - <n>: colorizations~
-80: B: - <n>: colourisations~
-80: Z: - <n>: colourizations~
+60 [extra] 80: A: - <n>: colorizations
+60 [extra] 80: B: - <n>: colourisations
+60 [extra] 80: Z: - <n>: colourizations
 
 60: A: colorize <v>: colorized, colorizing, colorizes
 60: B: colourise <v>: colourised, colourising, colourises
@@ -99717,6 +99717,12 @@
 
 60 [brif] 70 [3of6] 80: A Z: desensitizing <aj>
 60 [brif] 70 [3of6] 80: B: desensitising <aj>
+
+60 [extra]: A Z: deserialization <n>: deserializations
+60 [extra]: B: deserialisation <n>: deserialisations
+
+60 [extra]: A Z: deserialize <v>: deserialized, deserializing, deserializes
+60 [extra]: B: deserialise <v>: deserialised, deserialising, deserialises
 
 85 [ukacd]: deserpidine
 
@@ -126223,10 +126229,10 @@
 80: A: esthetical <aj>
 80: B: aesthetical <aj>
 
-70 [5desk] 80: A Cv: esthetician <n>: estheticians
-70 [5desk] 80: B C: aesthetician <n>: aestheticians
-70 [5desk]: A Cv: - <n>: esthetician's
-70 [5desk]: B C: - <n>: aesthetician's
+60 [extra] 70 [5desk] 80: A C: esthetician <n>: estheticians
+60 [extra] 70 [5desk] 80: Av B C?: aesthetician <n>: aestheticians
+60 [extra] 70 [5desk]: A C: - <n>: esthetician's
+60 [extra] 70 [5desk]: Av B C?: - <n>: aesthetician's
 
 70 [5desk] 80: estheticism <n>: estheticisms
 
@@ -163647,8 +163653,6 @@
 
 85 [ukacd]: haemony <n>: haemonies
 
-70 [3of6] 85 [ukacd]: haemorrhagic <aj>
-
 70 [moby] 85 [ukacd]: haemostat <n>: haemostats
 
 80: haen
@@ -170234,7 +170238,8 @@
 35: A C Dv: hemorrhage <n_v>: hemorrhaged, hemorrhaging, hemorrhages, hemorrhage's
 35: B D: haemorrhage <n_v>: haemorrhaged, haemorrhaging, haemorrhages, haemorrhage's
 
-60: hemorrhagic <aj>
+60: A C: hemorrhagic <aj>
+60: B: haemorrhagic <aj>
 
 70 [3of6] [5desk] 80: A C Dv: hemorrhaging
 70 [3of6] [5desk] 80: B D: haemorrhaging
@@ -277170,8 +277175,8 @@
 
 35 [ukfreq] 40: parameter <n>: parameters
 
-80: A Z: parameterization <n>: parameterizations
-80: B: parameterisation <n>: parameterisations
+70 [extra] 80: A Z: parameterization <n>: parameterizations
+70 [extra] 80: B: parameterisation <n>: parameterisations
 
 60 [extra] 80: A Z: parameterize <m>: parameterized, -, -
 60 [extra] 80: B: parameterise <m>: parameterised, -, -
@@ -314838,9 +314843,13 @@
 35 [ukfreq] 70 [5desk] [moby] 80: raster <n>
 70 [5desk] [moby] 80: - <n>: rasters
 
-70 [cs]: rasterization
+70 [cs] [extra]: A Z: rasterization <n>
+70 [cs] [extra]: B: rasterisation <n>
 
-70 [cs]: rasterize <v>
+70 [cs] [extra]: A Z: rasterize <v>
+70 [cs] [extra]: B: rasterise <v>
+70 [extra]: A Z: - <v>: rasterized, rasterizing, rasterizes
+70 [extra]: B: - <v>: rasterised, rasterising, rasterises
 
 70 [cs]: rasterized
 
@@ -320120,8 +320129,10 @@
 
 70 [moby] 85 [ukacd]: rein in <v>
 
-50 [ukfreq]: A Z: reinitialize <m>: reinitialized, -, -
-50 [ukfreq]: B: reinitialise <m>: reinitialised, -, -
+50 [ukfreq] 60 [extra]: A Z: reinitialize <v>: reinitialized, -, -
+50 [ukfreq] 60 [extra]: B: reinitialise <v>: reinitialised, -, -
+60 [extra]: A Z: - <v>: -, reinitializing, reinitializes
+60 [extra]: B: - <v>: -, reinitialising, reinitialises
 
 80: reinitiate <m>: reinitiated, reinitiating, reinitiates
 
@@ -325165,7 +325176,8 @@
 
 70 [5desk] 80: rewrap <m>: (rewrapped | rewrapt), rewrapping, rewraps #! unmarked variants: rewrapped, rewrapt
 
-70 [3of6]: rewritable
+60 [extra] 70 [3of6]: _: rewritable <aj>
+60 [extra] 70 [3of6]: _V: rewriteable <aj>
 
 35: rewrite <n_v>: rewrote, rewritten, rewriting, rewrites
 
@@ -335319,8 +335331,8 @@
 
 70 [3of6]: sanitation worker <n>: sanitation workers
 
-80: A Z: sanitization <n>: sanitizations
-80: B: sanitisation <n>: sanitisations
+60 [extra] 80: A Z: sanitization <n>: sanitizations
+60 [extra] 80: B: sanitisation <n>: sanitisations
 
 40: A Z: sanitize <v>: sanitized, sanitizing, sanitizes
 40: B: sanitise <v>: sanitised, sanitising, sanitises
@@ -415030,8 +415042,8 @@
 
 80: unsymptomatic
 
-80: A Z: unsynchronized <aj>
-80: B: unsynchronised <aj>
+60 [extra] 80: A Z: unsynchronized <aj>
+60 [extra] 80: B: unsynchronised <aj>
 
 60: unsystematic <aj>
 
@@ -436222,13 +436234,12 @@
 
 35: writ <n>: writs
 
-35 [ukfreq] 70 [5desk] 80: writable
+35 [ukfreq] 60 [extra] 70 [5desk] 80: _: writable <aj>
+35 [ukfreq] 60 [extra] 70 [5desk] 80: _V: writeable <aj>
 
 85 [ukacd]: writative
 
 35: write <v>: wrote, (written | ~: writ), writing, writes
-
-70 [5desk]: writeable
 
 40: write-in <n>: write-ins, write-in's
 
