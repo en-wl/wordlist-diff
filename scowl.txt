@@ -186144,9 +186144,11 @@
 
 80: inartistically
 
-35 [ukfreq] 85 [ukacd]: inasmuch
+35 [ukfreq] 50: inasmuch <wp>
 
-35: inasmuch as
+70 [extra]: inasmuch <s> (nonstandard)
+
+35: inasmuch as <c>
 
 70 [3of6]: in a trice
 
@@ -191215,10 +191217,12 @@
 
 80: insociably
 
-35 [ukfreq] 60: insofar <av>
+35 [ukfreq] 50: insofar <wp>
 
-40: _: insofar as
-40: _v: in so far as
+70 [extra]: insofar <s> (nonstandard)
+
+40: _: insofar as <c>
+40: _v: in so far as <c>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby] 80: insolate <v>: insolated, insolating, insolates
