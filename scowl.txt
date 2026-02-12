@@ -55462,7 +55462,7 @@
 
 50 [name]: Capistrano <n/name?>: Capistrano's
 
-70 [moby] 80: capita
+60 [coca] 70 [moby] 80: capita <we>
 
 35: capital <n>: capitals, capital's
 
@@ -64438,7 +64438,7 @@
 
 80 [moby]: Cheyney <n/place>
 
-70 [5desk] [moby] 80: chez <pp>
+60 [coca] 70 [5desk] [moby] 80: chez <pp>
 
 70 [extra]: CHF <abbr>
 
@@ -137332,10 +137332,10 @@
 
 70 [moby]: fire beetle <n>: fire beetle's
 
-70 [moby] 80: _: firebird <n>: firebirds
-70 [moby] 80: _V: fire-bird <n>: fire-birds
-70 [moby]: _: - <n>: firebird's
-70 [moby]: _V: - <n>
+60 [coca] 70 [moby] 80: _: firebird <n>: firebirds
+60 [coca] 70 [moby] 80: _V: fire-bird <n>: fire-birds
+60 [coca] 70 [moby]: _: - <n>: firebird's
+60 [coca] 70 [moby]: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 70 [moby]: fire blight <n>
@@ -158481,6 +158481,8 @@
 70 [moby] 85 [ukacd]: grand duke <n>: grand dukes
 70 [moby]: - <n>: grand duke's
 
+70 [coca]: grande <wp>
+
 85 [ukacd]: grande <a>: grander†, grandest†
 
 50: grande dame <n>: grande dame's
@@ -163265,6 +163267,8 @@
 80: habdalah <n>: habdalahs
 
 80 [upper]: Habdalah <n/upper?>: Habdalahs
+
+60 [coca]: habeas <wp>
 
 50: _: habeas corpus <n>
 50: _V: habeas-corpus <n>
@@ -241000,7 +241004,7 @@
 
 70 [moby]: modulus of rigidity <n>
 
-85 [stale] [ukacd]: modus <n>: modi
+60 [coca] 85 [stale] [ukacd]: modus <n>: (modi | V: moduses)
 
 50: modus operandi <n>
 
@@ -366080,7 +366084,7 @@
 
 85 [ukacd]: starshine
 
-60 [coca] 80: starship <n>: starships # 1.893
+60 [coca] 80: starship <n>: starships
 60 [coca]: - <n>: starship's
 
 70 [3of6] 85 [ukacd]: star sign <n>: star signs

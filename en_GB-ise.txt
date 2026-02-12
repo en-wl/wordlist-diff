@@ -31373,6 +31373,7 @@ capeskin
 capillaries
 capillarity
 capillary
+capita
 capital
 capital's
 capitalisation
@@ -33104,6 +33105,7 @@ chewiness
 chewing
 chews
 chewy
+chez
 chg
 chge
 chi
@@ -49528,6 +49530,9 @@ firearms
 fireball
 fireball's
 fireballs
+firebird
+firebird's
+firebirds
 firebomb
 firebombed
 firebombing
@@ -54886,6 +54891,7 @@ gyving
 h
 h'm
 ha
+habeas
 haberdasher
 haberdasher's
 haberdasheries
@@ -68901,6 +68907,7 @@ modest
 modestly
 modesty
 modesty's
+modi
 modicum
 modicums
 modifiable
@@ -68932,6 +68939,7 @@ module's
 modules
 modulo
 modulus
+modus
 moggie
 mogul
 mogul's

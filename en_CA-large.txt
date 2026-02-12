@@ -82390,6 +82390,7 @@ granddads
 granddaughter
 granddaughter's
 granddaughters
+grande
 grandee
 grandee's
 grandees
@@ -83993,6 +83994,7 @@ haar
 haars
 habanera
 habaneras
+habeas
 haberdasher
 haberdasher's
 haberdasheries
@@ -106830,6 +106832,7 @@ modestest
 modestly
 modesty
 modesty's
+modi
 modicum
 modicums
 modifiable
@@ -106871,6 +106874,7 @@ modules
 moduli
 modulo
 modulus
+modus
 mofette
 mofettes
 mog

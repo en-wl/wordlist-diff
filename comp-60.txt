@@ -887,10 +887,12 @@ New words, ok, added:
   bugfix
   bugfixes
   c'mon
+  capita
   caregiving
   casa
   casas
   centric
+  chez
   cleantech
   cochair
   cochairs
@@ -999,6 +1001,8 @@ New words, ok, added:
   femme
   femmes
   financials
+  firebird
+  firebirds
   foodborne
   frontline
   gameplay
@@ -1012,6 +1016,7 @@ New words, ok, added:
   grandkids
   grayscale
   grayscales
+  habeas
   hatchling
   hatchlings
   homeschool
@@ -1080,6 +1085,8 @@ New words, ok, added:
   misperceptions
   mitzvahs
   mitzvot
+  modi
+  modus
   mucosa
   multiethnic
   multimillion
@@ -1238,7 +1245,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 441
+total: 448
 
 New words, ok, all-upper lemma:
   ATMs
