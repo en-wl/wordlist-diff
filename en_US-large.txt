@@ -37080,6 +37080,11 @@ autochthonous
 autochthons
 autoclave
 autoclaves
+autocorrect
+autocorrect's
+autocorrected
+autocorrecting
+autocorrects
 autocorrelation
 autocorrelations
 autocracies
@@ -72728,6 +72733,7 @@ expectantly
 expectation
 expectations
 expected
+expectedly
 expecting
 expectorant
 expectorants
@@ -82678,6 +82684,8 @@ graylings
 grayness
 grayness's
 grays
+grayscale
+grayscales
 graze
 grazed
 grazer

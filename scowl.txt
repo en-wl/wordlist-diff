@@ -25424,6 +25424,8 @@
 
 85 [ukacd]: autocoprophagy
 
+60 [extra]: autocorrect <n_v>: autocorrected, autocorrecting, autocorrects, autocorrect's
+
 70 [moby] 80: autocorrelation <n>: autocorrelations
 
 35: autocracy <n>: autocracies, autocracy's
@@ -129714,7 +129716,7 @@
 
 35 [ukfreq] 70 [3of6] 80: expected <aj>
 
-80: expectedly
+60 [extra] 80: expectedly <av>
 
 80: expectedness <n>: expectednesses
 
@@ -159351,6 +159353,12 @@
 85 [stale]: grayout <n>: grayouts
 
 80: graysby <n>: graysbies
+
+60 [extra]: A: grayscale <n>: grayscales
+60 [extra]: B: greyscale <n>: greyscales
+
+60 [extra]: A: grayscale <aj>
+60 [extra]: B: greyscale <aj>
 
 70 [moby] 85 [ukacd]: Gray's Inn </upper?>
 

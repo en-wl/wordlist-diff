@@ -850,6 +850,10 @@ New words, ok, added:
   apneas
   artisanal
   auditable
+  autocorrect
+  autocorrected
+  autocorrecting
+  autocorrects
   automations
   backcountry
   backtrace
@@ -962,6 +966,7 @@ New words, ok, added:
   estheticians
   ethicist
   ethicists
+  expectedly
   externalities
   externality
   fandoms
@@ -983,6 +988,8 @@ New words, ok, added:
   glyphs
   grandkid
   grandkids
+  grayscale
+  grayscales
   hatchling
   hatchlings
   homeschool
@@ -1188,7 +1195,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 391
+total: 398
 
 New words, ok, all-upper lemma:
   ATMs

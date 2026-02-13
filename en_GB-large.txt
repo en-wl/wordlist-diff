@@ -37111,6 +37111,11 @@ autochthonous
 autochthons
 autoclave
 autoclaves
+autocorrect
+autocorrect's
+autocorrected
+autocorrecting
+autocorrects
 autocorrelation
 autocorrelations
 autocracies
@@ -73555,6 +73560,7 @@ expectantly
 expectation
 expectations
 expected
+expectedly
 expecting
 expectorant
 expectorants
@@ -83914,6 +83920,8 @@ greylags
 greyness
 greyness's
 greys
+greyscale
+greyscales
 greywacke
 gribble
 gribbles

@@ -25167,6 +25167,11 @@ autobiographies
 autobiography
 autoclave
 autoclaves
+autocorrect
+autocorrect's
+autocorrected
+autocorrecting
+autocorrects
 autocracies
 autocracy
 autocracy's
@@ -47730,6 +47735,7 @@ expectantly
 expectation
 expectations
 expected
+expectedly
 expecting
 expectorant
 expectorants
@@ -54143,6 +54149,8 @@ greyish
 greyness
 greyness's
 greys
+greyscale
+greyscales
 gribble
 gribbles
 grid
