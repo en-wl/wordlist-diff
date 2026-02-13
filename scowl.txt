@@ -21974,14 +21974,16 @@
 
 85 [ukacd]: ashiver
 
-70 [5desk] 80 [upper] 85 [ukacd]: Ashkenazi <n/upper?>
-70 [5desk]: - <n/upper?>: Ashkenazi's
-70 [5desk] 80 [upper]: - <n/upper?>: Ashkenazis-
+60 [extra] 70 [5desk] 80 [upper] 85 [ukacd]: Ashkenazi <n>
+60 [extra] 70 [5desk]: - <n>: Ashkenazi's
+60 [extra] 70 [5desk] 80 [upper]: - <n>: (Ashkenazim | V: Ashkenazis)
+60 [extra]: - <n>: -, -, (Ashkenazim's† | V: Ashkenazis')
 
-70 [5desk] 80 [upper]: Ashkenazic </upper?>
+60 [extra] 70 [5desk] 80 [upper]: _: Ashkenazi <aj>
+60 [extra] 70 [5desk] 80 [upper]: _V: Ashkenazic <aj>
 
 50 [name] 70 [5desk] 80 [upper] 85 [ukacd]: Ashkenazim <n/upper>
-50 [name] 70 [5desk]: - <n/upper>: Ashkenazim's
+50 [name] 70 [5desk]: - <n/upper>: Ashkenazim's†
 
 85 [ukacd]: Ashkenazy </upper?>
 
@@ -57795,6 +57797,8 @@
 80: caryatidic
 
 70 [5desk]: Caryl </upper?>
+
+70 [extra]: Caryn <n/person>: Caryn's
 
 80 [moby]: caryo <pre>
 

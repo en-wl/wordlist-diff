@@ -1754,10 +1754,8 @@ Ashikaga
 Ashikaga's
 Ashkenazi
 Ashkenazi's
-Ashkenazic
 Ashkenazim
 Ashkenazim's
-Ashkenazis
 Ashkhabad
 Ashkhabad's
 Ashlee
@@ -4917,6 +4915,8 @@ Carver's
 Cary
 Cary's
 Caryl
+Caryn
+Caryn's
 Casablanca
 Casablanca's
 Casals

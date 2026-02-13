@@ -800,6 +800,7 @@ New words, ok, added:
   ADHD
   AUD
   Aotearoa
+  Ashkenazi
   AstraZeneca
   AuDHD
   BioNTech
@@ -1187,7 +1188,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 390
+total: 391
 
 New words, ok, all-upper lemma:
   ATMs
