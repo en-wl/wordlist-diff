@@ -4,9 +4,16 @@ New words, unclassified:
 total: 2
 
 New words, upper:
+  Black
+  Christy
+  Cortez
+  Diaz
   Kyiv
   Mastercard
-total: 2
+  Rebecca
+  Scotty
+  Welch
+total: 9
 
 New words, upper plural:
   Amerasians

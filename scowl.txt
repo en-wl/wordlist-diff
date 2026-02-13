@@ -39087,10 +39087,10 @@
 
 35: black <aj>: blacker, blackest
 
+50: Black <n/surname>: Black's
+
 65: - <n/upper>: Blacks-
 70: Black <n/upper>: Black's
-
-70: Black <n/surname>: Black's
 
 60: blackamoor <n>: blackamoors
 
@@ -66749,9 +66749,9 @@
 
 70 [moby] 85 [ukacd]: Christ's-thorn <n/upper?>
 
-70 [5desk] 80: christy <n>: christies-†
+50: Christy <n/person>: Christy's
 
-70: Christy <n/person>: Christy's
+70 [5desk] 80: christy <n>: christies-†
 
 70 [5desk] [moby] 80 [upper] 85 [ukacd]: Christy <n/upper?>: Christies-†
 70 [5desk] [moby]: - <n/upper?>: Christy's
@@ -82980,7 +82980,7 @@
 35 [ukfreq] 50: cortex <n>
 50: - <n>: (cortices | ~: cortexes)
 
-70: Cortez <n/surname>: Cortez's
+50: Cortez <n/surname>: Cortez's
 
 70: Cortez <n/upper>: Cortez's
 
@@ -101973,7 +101973,7 @@
 
 85 [ukacd]: diaxon <n>: diaxons
 
-70: Diaz <n/surname>: Diaz's
+50: Diaz <n/surname>: Diaz's
 
 80 [moby]: -Diaz <n/place>
 
@@ -316023,7 +316023,7 @@
 
 70 [moby] 80: rebec <n>: rebecs
 
-70: Rebecca <n/person>: Rebecca's
+50: Rebecca <n/person>: Rebecca's
 
 70: Rebecca <n/upper>: Rebecca's
 
@@ -339339,7 +339339,7 @@
 
 80 [moby]: Scottville <n/place>
 
-70: Scotty <n/person>: Scotty's
+50: Scotty <n/person>: Scotty's
 
 70 [5desk] [name] 80 [upper] 85 [ukacd]: Scotty <n/upper>
 70 [5desk] 80 [upper] 85 [ukacd]: - <n/upper>: Scotties-†
@@ -429231,9 +429231,9 @@
 
 40: Welsh <aj/demonym>
 
-70 [5desk] [moby] [name] 80 [upper]: Welch </upper>
+50: Welch <n/surname>: Welch's
 
-70: Welch <n/surname>: Welch's
+70 [5desk] [moby] [name] 80 [upper]: Welch </upper>
 
 60: Welsh corgi <n/upper>: Welsh corgi's
 

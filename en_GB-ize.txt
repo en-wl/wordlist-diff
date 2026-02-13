@@ -2342,6 +2342,8 @@ Bjerknes's
 Bjork
 Bjork's
 Bk
+Black
+Black's
 BlackBerry
 BlackBerry's
 Blackbeard
@@ -4004,6 +4006,8 @@ Christoper
 Christoper's
 Christopher
 Christopher's
+Christy
+Christy's
 Chromebook
 Chromebook's
 Chromebooks
@@ -4484,6 +4488,8 @@ Corsica's
 Corsican
 Cortes
 Cortes's
+Cortez
+Cortez's
 Cortland
 Cortland's
 Corvallis
@@ -5238,6 +5244,8 @@ Dias
 Dias's
 Diaspora
 Diaspora's
+Diaz
+Diaz's
 Dick
 Dick's
 Dickens
@@ -15783,6 +15791,8 @@ Reasoner
 Reasoner's
 Reba
 Reba's
+Rebecca
+Rebecca's
 Rebekah
 Rebekah's
 Recife
@@ -16944,6 +16954,8 @@ Scottish
 Scottish's
 Scottsdale
 Scottsdale's
+Scotty
+Scotty's
 Scouts
 Scrabble
 Scrabble's
@@ -19881,6 +19893,8 @@ Weissmuller
 Weissmuller's
 Weizmann
 Weizmann's
+Welch
+Welch's
 Weldon
 Weldon's
 Welland
