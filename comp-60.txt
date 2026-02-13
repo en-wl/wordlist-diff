@@ -935,6 +935,10 @@ New words, ok, added:
   defensemen
   demonym
   demonyms
+  deplatform
+  deplatformed
+  deplatforming
+  deplatforms
   deserialization
   deserializations
   deserialize
@@ -1112,6 +1116,9 @@ New words, ok, added:
   reinstallation
   reinstallations
   reportable
+  repurpose
+  repurposes
+  repurposing
   responder
   responders
   rewritable
@@ -1195,7 +1202,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 398
+total: 405
 
 New words, ok, all-upper lemma:
   ATMs

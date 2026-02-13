@@ -61735,6 +61735,10 @@ deplane
 deplaned
 deplanes
 deplaning
+deplatform
+deplatformed
+deplatforming
+deplatforms
 deplete
 depleted
 depletes

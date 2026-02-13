@@ -41055,6 +41055,10 @@ deplane
 deplaned
 deplanes
 deplaning
+deplatform
+deplatformed
+deplatforming
+deplatforms
 deplete
 depleted
 depletes
@@ -84941,7 +84945,10 @@ repurchase
 repurchased
 repurchases
 repurchasing
+repurpose
 repurposed
+repurposes
+repurposing
 reputability
 reputable
 reputably

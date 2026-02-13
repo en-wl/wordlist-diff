@@ -96108,8 +96108,6 @@
 
 35: defer <v>: deferred, deferring, defers
 
-85 [ukacd]: deferable
-
 35: deference <n>
 80: - <n>: deferences~
 
@@ -96126,6 +96124,9 @@
 50: deferment <n>: deferments
 
 70 [5desk] 80: deferrable <n>: deferrables
+
+70 [extra] 85 [ukacd]: _: deferrable <aj>
+70 [extra] 85 [ukacd]: _-: deferable <aj>
 
 60: deferral <n>: deferrals
 
@@ -98811,6 +98812,8 @@
 50: depilatory <aj>
 
 50: deplane <v>: deplaned, deplaning, deplanes
+
+60 [extra]: deplatform <v>: deplatformed, deplatforming, deplatforms
 
 80: depletable <aj>
 
@@ -322160,8 +322163,7 @@
 
 80: repurify <m>: repurified, repurifying, repurifies
 
-60 [extra] 70 [3of6]: - <m>: repurposed, -, -
-70 [3of6]: repurpose <m>: -, repurposing, repurposes
+60 [extra] 70 [3of6]: repurpose <v>: repurposed, repurposing, repurposes
 
 85 [stale]: repursue <m>: repursued, repursuing, repursues
 
