@@ -49247,6 +49247,12 @@
 
 60: bug-eyed
 
+60 [extra]: _: bugfix <n>: bugfixes
+60 [extra]: _V: bug-fix <n>: bug-fixes
+
+60 [extra]: _: bugfix <aj>
+60 [extra]: _V: bug-fix <aj>
+
 70 [3of6] 80: bugged <aj>
 
 35 [ukfreq] 60: bugger <n> (vulgar-3): buggers
@@ -72371,6 +72377,9 @@
 70 [5desk]: - <n>: coddler's
 
 35: code <n_v>: coded, coding, codes, code's
+
+60 [extra]: _: codebase <n>: codebases, codebase's
+60 [extra]: _v: code base <n>: code bases, code base's
 
 80: codebook <n>: codebooks
 
@@ -141181,6 +141190,8 @@
 50: _: folk song <n>: folk songs
 50: _v: folksong <n>: folksongs
 
+70 [extra]: folksonomy <n>: folksonomies
+
 80 [moby]: Folkston <n/place>
 
 35: folksy <aj>: folksier, folksiest
@@ -151823,6 +151834,8 @@
 80 [moby]: geod. <abbr>
 
 80: geodal
+
+70 [extra]: geodata <n>
 
 50: geode <n>: geodes
 
@@ -233351,6 +233364,8 @@
 
 35: merge <v>: merged, merging, merges
 
+70 [extra]: mergeable <aj>
+
 35 [ukfreq] 70 [3of6] 80: merged <aj>
 
 80: mergee <n>: mergees
@@ -238911,6 +238926,9 @@
 
 60 [extra] 70 [5desk] 80: - <m>: misclassified, -, -
 70 [5desk] 80: misclassify <m>: -, misclassifying, misclassifies
+
+60 [extra]: _: misclick <n_v>: misclicked, misclicking, misclicks
+60 [extra]: _V: mis-click <n_v>: mis-clicked, mis-clicking, mis-clicks
 
 80: miscode <m>: miscoded, miscoding, miscodes
 
@@ -258061,6 +258079,9 @@
 60: nonrefillable <a>
 
 70 [5desk] 80: nonreflecting <aj>
+
+70 [extra]: non-refoulement <n>
+70 [extra]: _V: nonrefoulement <n>
 
 40: _: nonrefundable <a>
 40: _v: non-refundable <a>
@@ -277708,6 +277729,8 @@
 70 [5desk] [moby] 80: - <n>: parklands-
 
 85 [ukacd]: parkleaves
+
+60 [extra]: parklet <n>: parklets, parklet's
 
 80: parklike
 
@@ -318850,6 +318873,8 @@
 80: refortification <n>: refortifications
 
 60: refortify <v>: refortified, refortifying, refortifies
+
+70 [extra]: refoulement <n>: refoulements
 
 70 [5desk] 80: refound <m>: refounded, refounding, refounds
 
@@ -371398,7 +371423,8 @@
 
 80: stunty
 
-70 [5desk] [moby] 80: stupa <n>: stupas
+60 [extra] 70 [5desk] [moby] 80: stupa <n>: stupas
+60 [extra]: - <n>: stupa's
 
 70 [moby] 80: stupe <n>: stupes
 70 [moby]: - <n>: stupe's
@@ -380203,7 +380229,8 @@
 
 50: syrupy <aj>
 
-50 hacker 80: sysadmin <n>: sysadmins
+50 hacker 60 [extra] 80: sysadmin <n>: sysadmins
+60 [extra]: - <n>: sysadmin's
 
 50 hacker 80: sysop <n>: sysops
 
@@ -398052,12 +398079,11 @@
 85 [ukacd]: triadist <n>: triadists
 
 50: triage <n>
-80: - <n>: triages~
+60 [extra] 80: - <n>: triages
 
 50: triage <a>
 
-60 [extra] 80: - <v>: triaged, -, -
-80: -triage <v>: -, triaging, triages
+60 [extra] 80: triage <v>: triaged, triaging, triages
 
 85 [ukacd]: triakisoctahedron
 
@@ -409863,7 +409889,7 @@
 
 60: unhesitatingly <av>
 
-80: unhewn <aj>
+70 [extra] 80: unhewn <aj>
 
 85 [ukacd]: unhidden
 
@@ -424431,6 +424457,8 @@
 85 [stale] [ukacd]: vox <n>: voces
 
 70 [moby] 85 [ukacd]: vox angelica <n>
+
+60 [extra]: voxel <n>: voxels, voxel's
 
 70 [moby] 85 [ukacd]: vox humana <n>
 

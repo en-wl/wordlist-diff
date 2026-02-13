@@ -30084,6 +30084,8 @@ bugaboos
 bugbear
 bugbear's
 bugbears
+bugfix
+bugfixes
 bugged
 bugger
 bugger's
@@ -34635,6 +34637,9 @@ coddles
 coddling
 code
 code's
+codebase
+codebase's
+codebases
 coded
 codeine
 codependency
@@ -68386,6 +68391,10 @@ mischievousness
 miscibility
 miscible
 misclassified
+misclick
+misclicked
+misclicking
+misclicks
 miscommunication
 miscommunications
 misconceive
@@ -75052,6 +75061,9 @@ parked
 parking
 parkland
 parkland's
+parklet
+parklet's
+parklets
 parkour
 parks
 parkway
@@ -95499,6 +95511,9 @@ stuntman
 stuntmen
 stunts
 stuntwoman
+stupa
+stupa's
+stupas
 stupefaction
 stupefied
 stupefies
@@ -97207,6 +97222,7 @@ syrup's
 syrups
 syrupy
 sysadmin
+sysadmin's
 sysadmins
 sysop
 sysops
@@ -100730,6 +100746,8 @@ triad's
 triads
 triage
 triaged
+triages
+triaging
 trial
 trial's
 trialled
@@ -105234,6 +105252,9 @@ vowel
 vowels
 vowing
 vows
+voxel
+voxel's
+voxels
 voyage
 voyage's
 voyaged

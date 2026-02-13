@@ -44417,6 +44417,8 @@ bugbear's
 bugbears
 bugeye
 bugeyes
+bugfix
+bugfixes
 bugged
 bugger
 bugger's
@@ -51988,6 +51990,9 @@ coddles
 coddling
 code
 code's
+codebase
+codebase's
+codebases
 codeclination
 codeclinations
 coded
@@ -76984,6 +76989,8 @@ folksingers
 folksinging
 folksong
 folksongs
+folksonomies
+folksonomy
 folksy
 folktale
 folktales
@@ -80511,6 +80518,7 @@ geochronologies
 geochronologist
 geochronologists
 geochronology
+geodata
 geode
 geodes
 geodesic
@@ -104561,6 +104569,7 @@ merganser
 merganser's
 mergansers
 merge
+mergeable
 merged
 merger
 merger's
@@ -106235,6 +106244,10 @@ misclassified
 misclassifies
 misclassify
 misclassifying
+misclick
+misclicked
+misclicking
+misclicks
 miscommunication
 miscommunications
 misconceive
@@ -117221,6 +117234,9 @@ parkins
 parkland
 parkland's
 parklands
+parklet
+parklet's
+parklets
 parkour
 parks
 parkway
@@ -130898,6 +130914,8 @@ refortifies
 refortify
 refortifying
 refought
+refoulement
+refoulements
 refound
 refounded
 refounding
@@ -148096,6 +148114,7 @@ stunts
 stuntwoman
 stuntwomen
 stupa
+stupa's
 stupas
 stupe
 stupe's
@@ -151009,6 +151028,7 @@ syrup's
 syrups
 syrupy
 sysadmin
+sysadmin's
 sysadmins
 sysop
 sysops
@@ -156414,6 +156434,8 @@ triadic
 triads
 triage
 triaged
+triages
+triaging
 trial
 trial's
 trialled
@@ -159663,6 +159685,7 @@ unheralded
 unheroic
 unhesitating
 unhesitatingly
+unhewn
 unhindered
 unhinge
 unhinged
@@ -163780,6 +163803,9 @@ vower's
 vowers
 vowing
 vows
+voxel
+voxel's
+voxels
 voyage
 voyage's
 voyaged

@@ -873,6 +873,8 @@ New words, ok, added:
   blueshifts
   bromance
   bromances
+  bugfix
+  bugfixes
   c'mon
   caregiving
   casa
@@ -881,6 +883,8 @@ New words, ok, added:
   cleantech
   cochair
   cochairs
+  codebase
+  codebases
   codirector
   codirectors
   coevolution
@@ -1054,6 +1058,10 @@ New words, ok, added:
   midafternoon
   midmorning
   midseason
+  misclick
+  misclicked
+  misclicking
+  misclicks
   misperception
   misperceptions
   mitzvahs
@@ -1081,6 +1089,8 @@ New words, ok, added:
   ourself
   pansexual
   pansexuals
+  parklet
+  parklets
   personalization
   personalizations
   personhood
@@ -1154,6 +1164,8 @@ New words, ok, added:
   stimmed
   stimming
   stims
+  stupa
+  stupas
   subscale
   subscales
   subtest
@@ -1179,6 +1191,8 @@ New words, ok, added:
   trailhead
   trailheads
   transformative
+  triages
+  triaging
   tunable
   underserved
   unintuitive
@@ -1193,6 +1207,8 @@ New words, ok, added:
   vloggers
   vlogging
   vlogs
+  voxel
+  voxels
   weeklong
   wheatgrass
   where'd
@@ -1202,7 +1218,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 405
+total: 421
 
 New words, ok, all-upper lemma:
   ATMs
