@@ -1371,6 +1371,7 @@ New words, ok, in 2of12id:
   meagerer
   meagerest
   millennials
+  naivete
   nonexempts
   nonfoods
   nonoccurrence
@@ -1403,7 +1404,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 88
+total: 89
 
 New words, ok, other:
   Curaçao
@@ -1626,6 +1627,7 @@ Missing words, ok, variant:
   humus
   kindergärtner
   kindergärtners
+  naiveté
   nonoccurence
   phoneyed
   phoneying
@@ -1639,5 +1641,5 @@ Missing words, ok, variant:
   unpeople
   zloties
   Ångström
-total: 35
+total: 36
 

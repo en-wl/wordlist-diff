@@ -249162,21 +249162,29 @@
 
 70 [moby] 85 [ukacd]: naissant
 
-35: naive <aj>: naiver, naivest
+35: _: naive <aj>: naiver, naivest
+35: _v: naïve <aj>: naïver, naïvest
 
-80: -naive <n>: naives
+80: _: -naive <n>: naives
+80: _v: -naïve <n>: naïves
 
-35: naively <av>
+35: _: naively <av>
+35: _v: naïvely <av>
 
-70 [5desk] 80: naiveness <n>: naivenesses
+70 [5desk] 80: _: naiveness <n>: naivenesses
+70 [5desk] 80: _v: naïveness <n>: naïvenesses
 
-35: naiveté <n> # accented
-35: _~: naivete <n> # need-accent
-80: - <n>: naivetés~
-80: _~: - <n>: naivetes~
+35: _: naivete <n>
+35: _v: naïveté <n>
+35: _V: naiveté <n>
+80: _: - <n>: naivetes~
+80: _v: - <n>: naïvetés~
+80: _V: - <n>: naivetés~
 
-35 [ukfreq] 60: naivety <n>
-80: - <n>: naiveties~
+35 [ukfreq] 60: _: naivety <n>
+35 [ukfreq] 60: _v: naïvety <n>
+80: _: - <n>: naiveties~
+80: _v: - <n>: naïveties~
 
 85 [ukacd]: naivist
 
@@ -289572,8 +289580,8 @@
 
 80: pinaster <n>: pinasters
 
-60: piñata <n>: piñatas # accented
-60: _~: pinata <n>: pinatas # need-accent
+60: _: piñata <n>: piñatas
+60: _v: pinata <n>: pinatas
 
 50 [name]: Pinatubo <n/name?>: Pinatubo's
 

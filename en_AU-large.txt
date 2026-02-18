@@ -109291,7 +109291,6 @@ naiver
 naivest
 naivete
 naivety
-naiveté
 naked
 nakeder
 nakedest
@@ -109678,6 +109677,14 @@ nays
 naysayer
 naysayer's
 naysayers
+naïve
+naïvely
+naïveness
+naïvenesses
+naïver
+naïvest
+naïvety
+naïveté
 ne
 ne'er
 neanderthal
