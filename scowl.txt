@@ -254006,19 +254006,19 @@
 
 85 [ukacd]: -nigger <v> (offensive-1): niggered, niggering, niggers
 
-85 [ukacd]: niggerdom
+85 [ukacd]: niggerdom (offensive-1)
 
-70 [moby] 85 [ukacd]: _: niggerhead
-70 [moby] 85 [ukacd]: _?: nigger-head
+70 [moby] 85 [ukacd]: _: niggerhead (offensive-1)
+70 [moby] 85 [ukacd]: _?: nigger-head (offensive-1)
 ## Compound variant levels are a best guess based on freq and other related info.
 
-85 [ukacd]: niggerish
+85 [ukacd]: niggerish (offensive-1)
 
-85 [ukacd]: niggerism <n>: niggerisms
+85 [ukacd]: niggerism <n> (offensive-1): niggerisms
 
-85 [ukacd]: niggerling <n>: niggerlings
+85 [ukacd]: niggerling <n> (offensive-1): niggerlings
 
-85 [ukacd]: niggery
+85 [ukacd]: niggery (offensive-1)
 
 50: niggle <n_v>: niggled, niggling, niggles
 
