@@ -6411,6 +6411,8 @@
 
 35: aghast <aj>
 
+60 [+]: AGI <n/abbr>: AGI's
+
 85 [ukacd]: agila <n>: agilas
 
 35: agile <aj>
@@ -15148,6 +15150,8 @@
 80: - <n>: (anthraces~ | ~: anthraxes~)
 
 80 [moby]: anthrop. <abbr>
+
+60 [extra]: Anthropic <n/name>: Anthropic's
 
 80: anthropic <aj>
 
@@ -63179,6 +63183,8 @@
 
 80 [moby]: Chatfield <n/place>
 
+60 [+]: ChatGPT <n/name>: ChatGPT's
+
 70 [moby] 85 [ukacd]: Chatham </upper?>
 
 60 [brif] 70 [3of6] 85 [ukacd]: _: chatline <n>: chatlines
@@ -92282,6 +92288,8 @@
 
 70 [5desk] 80 [upper]: Dallasite <n/upper?>: Dallasites
 
+70 [extra]: DALL-E <n/name>: DALL-E's
+
 80: - <n>: dalles
 85 [ukacd]: dalle <n>
 
@@ -95844,6 +95852,8 @@
 70 [moby] 85 [ukacd]: deep-laid <aj>
 
 35: deeply <av>
+
+60 [extra]: DeepMind <n/name>: DeepMind's
 
 85 [ukacd]: deepmost
 
@@ -119483,8 +119493,9 @@
 
 70 [3of6] [5desk] 80: embedded <aj>
 
-70 [3of6] 80: embedding <n>
-80: - <n>: embeddings
+70 [3of6] [extra] 80: embedding <n>
+70 [extra]: - <n>: embedding's
+70 [extra] 80: - <n>: embeddings
 
 70 [5desk] 80: A B: embedment <n>: embedments
 70 [5desk] 80: AV: imbedment <n>: imbedments
@@ -151158,6 +151169,8 @@
 
 85 [ukacd]: gena <n>: genas
 
+70 [extra]: GenAI <n/abbr>: GenAI's
+
 85 [ukacd]: genal
 
 70 [moby] 85 [ukacd]: genappe
@@ -157927,6 +157940,8 @@
 70 [3of6]: GPRS </abbr?>
 
 50 [+] 70 [3of6]: GPS <n/upper?>
+
+60 [+]: GPT <n/abbr>: GPTs, GPT's
 
 50 [extra]: GPU <abbr>
 
@@ -217974,7 +217989,11 @@
 
 70 [moby]: Llew Llaw Gyffes <n/upper?>: Llew Llaw Gyffes's
 
+60 [+]: LLM <n/abbr>: LLMs, LLM's
+
 70 [moby]: LL.M. <abbr>
+
+70 [extra]: LLMOps <abbr>
 
 50: Lloyd <n/person>: Lloyd's
 
@@ -219784,6 +219803,8 @@
 85 [ukacd]: lor <n>: lors
 
 50: Lora <n/person>: Lora's
+
+70 [extra]: LoRA <n/abbr>: LoRA's
 
 80 [moby]: Lorado <n/place>
 
@@ -236519,6 +236540,8 @@
 
 70 [moby] 80: midiron <n>: midirons
 
+70 [extra]: Midjourney <n/name>: Midjourney's
+
 80 [moby]: Midkiff <n/place>
 
 50: midland <n>: midlands
@@ -239967,6 +239990,8 @@
 
 60: mistral <n>: mistrals
 
+70 [extra]: Mistral <n/name>: Mistral's
+
 80: mistranscribe <m>: mistranscribed, mistranscribing, mistranscribes
 
 80: mistranscription <n>: mistranscriptions
@@ -240410,6 +240435,8 @@
 60: Mlle </upper?>
 
 60: Mlle. <abbr>
+
+70 [extra]: MLOps <abbr>
 
 40: -mm <abbr>
 
@@ -246483,7 +246510,7 @@
 
 40: multimillionaire <n>: multimillionaires
 
-80: multimodal
+60 [extra] 80: multimodal <aj>
 
 80: multimode
 
@@ -254929,6 +254956,8 @@
 
 70 [moby]: NL </abbr?>
 
+60 [extra]: NLP <n/abbr>: NLP's
+
 60: NLRB <n/upper>: NLRB's
 
 50: NM <n/upper>
@@ -261167,6 +261196,8 @@
 
 50 [name]: NVIDIA <n/name?>: NVIDIA's
 
+60 [extra]: Nvidia <n/name>: Nvidia's
+
 70 [3of6]: NVQ <n/upper?>: NVQs
 
 35: NW <n/upper>
@@ -266030,6 +266061,8 @@
 80: openability <n>: openabilities
 
 80: openable
+
+60 [extra]: OpenAI <n/name>: OpenAI's
 
 40: open-air <aj>
 
@@ -310001,7 +310034,7 @@
 
 85 [ukacd]: Pythonomorpha </upper?>
 
-50 [name]: PyTorch <n/name?>: PyTorch's
+50 [name] 70 [extra]: PyTorch <n/name>: PyTorch's
 
 70 [moby] 80: pyuria <n>: pyurias
 
@@ -313118,6 +313151,8 @@
 80: raftsman <n>: raftsmen
 
 35: rag <n_v>: ragged, ragging, rags
+
+70 [extra]: RAG <n/abbr>: RAGs, RAG's
 
 50: raga <n>: ragas
 
@@ -327485,6 +327520,8 @@
 85 [ukacd]: riza <n>: rizas
 
 50 [name] 70 [moby]: Rizal <n/name?>: Rizal's
+
+70 [extra]: RLHF <n/abbr>: RLHF's
 
 50: _: rm. <abbr>
 50: _~: rm <abbr>
@@ -385999,7 +386036,7 @@
 35 [ukfreq] 70 [5desk] [moby] 80: - <n>: tensors
 50 [ukfreq] 70 [5desk] [moby] 80: tensor <n>
 
-50 [name]: TensorFlow <n/name?>: TensorFlow's
+50 [name] 70 [extra]: TensorFlow <n/name>: TensorFlow's
 
 80: tensorial
 
@@ -393074,6 +393111,9 @@
 
 60 [extra]: A Z: tokenize <v>: tokenizes, tokenized, tokenizing
 60 [extra]: B: tokenise <v>: tokenises, tokenised, tokenising
+
+70 [extra]: A Z: tokenizer <n>: tokenizers, tokenizer's
+70 [extra]: B: tokeniser <n>: tokenisers, tokeniser's
 
 70 [moby]: token payment <n>
 

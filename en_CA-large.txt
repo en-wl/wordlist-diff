@@ -38,6 +38,8 @@ AFC's
 AFDC
 AFN
 AFT
+AGI
+AGI's
 AGM
 AGMs
 AI
@@ -1280,6 +1282,8 @@ Antares
 Antares's
 Anthony
 Anthony's
+Anthropic
+Anthropic's
 Anthropocene
 Antibes
 Antichrist
@@ -5299,6 +5303,8 @@ Chassidim
 Chassidim's
 Chassidism
 Chassidisms
+ChatGPT
+ChatGPT's
 Chateaubriand
 Chateaubriand's
 Chateaubriands
@@ -7042,6 +7048,8 @@ Dee
 Dee's
 Deena
 Deena's
+DeepMind
+DeepMind's
 Deere
 Deere's
 Defoe
@@ -9715,6 +9723,9 @@ GPO
 GPO's
 GPRS
 GPS
+GPT
+GPT's
+GPTs
 GPU
 GPs
 GQ
@@ -10034,6 +10045,8 @@ Gemini
 Gemini's
 Geminis
 Gen
+GenAI
+GenAI's
 Gena
 Gena's
 Genaro
@@ -14730,6 +14743,10 @@ LL
 LLB
 LLBs
 LLD
+LLM
+LLM's
+LLMOps
+LLMs
 LNG
 LOGO
 LOL
@@ -15631,6 +15648,8 @@ Llewelyn
 Lloyd
 Lloyd's
 Ln
+LoRA
+LoRA's
 Loafer
 Loafers
 Lobachevsky
@@ -16113,6 +16132,7 @@ MIRVing
 MIRVs
 MIT
 MIT's
+MLOps
 MM
 MMR
 MN
@@ -17725,6 +17745,8 @@ Midi
 Midian
 Midianite
 Midianites
+Midjourney
+Midjourney's
 Midland
 Midland's
 Midlands
@@ -17919,6 +17941,8 @@ Mistassini
 Mistassini's
 Mister
 Misters
+Mistral
+Mistral's
 Mistress
 Mistresses
 Misty
@@ -18623,6 +18647,8 @@ NIMBY's
 NIMBYs
 NJ
 NL
+NLP
+NLP's
 NLRB
 NLRB's
 NM
@@ -19457,6 +19483,8 @@ Nut
 Nut's
 NutraSweet
 NutraSweet's
+Nvidia
+Nvidia's
 NyQuil
 NyQuil's
 Nyasa
@@ -19822,6 +19850,8 @@ Opal
 Opal's
 Opel
 Opel's
+OpenAI
+OpenAI's
 OpenOffice
 OpenOffice's
 OpenSea
@@ -21779,6 +21809,9 @@ R's
 RA
 RAF
 RAF's
+RAG
+RAG's
+RAGs
 RAM
 RAMs
 RBI
@@ -21805,6 +21838,8 @@ RI
 RIF
 RIP
 RISC
+RLHF
+RLHF's
 RN
 RN's
 RNA
@@ -68921,6 +68956,8 @@ embays
 embed
 embedded
 embedding
+embedding's
+embeddings
 embedment
 embedments
 embeds
@@ -108363,6 +108400,7 @@ multimillion
 multimillionaire
 multimillionaires
 multimillions
+multimodal
 multinational
 multinationals
 multinuclear
@@ -154569,6 +154607,9 @@ tokenism
 tokenization
 tokenize
 tokenized
+tokenizer
+tokenizer's
+tokenizers
 tokenizes
 tokenizing
 tokens

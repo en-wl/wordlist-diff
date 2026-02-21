@@ -30,6 +30,8 @@ AFC's
 AFDC
 AFN
 AFT
+AGI
+AGI's
 AI
 AI's
 AIDS
@@ -939,6 +941,8 @@ Anthea
 Anthea's
 Anthony
 Anthony's
+Anthropic
+Anthropic's
 Anthropocene
 Antichrist
 Antichrist's
@@ -3801,6 +3805,8 @@ Chase
 Chase's
 Chasity
 Chasity's
+ChatGPT
+ChatGPT's
 Chateaubriand
 Chateaubriand's
 Chattahoochee
@@ -5054,6 +5060,8 @@ Dee
 Dee's
 Deena
 Deena's
+DeepMind
+DeepMind's
 Deere
 Deere's
 Defoe
@@ -6990,6 +6998,9 @@ GPA's
 GPO
 GPO's
 GPS
+GPT
+GPT's
+GPTs
 GPU
 GPs
 GSA
@@ -10537,6 +10548,9 @@ LL
 LLB
 LLBs
 LLD
+LLM
+LLM's
+LLMs
 LNG
 LOGO
 LOL
@@ -13407,6 +13421,8 @@ NIH's
 NIMBY
 NIMBY's
 NJ
+NLP
+NLP's
 NLRB
 NLRB's
 NM
@@ -13990,6 +14006,8 @@ Nureyev
 Nureyev's
 NutraSweet
 NutraSweet's
+Nvidia
+Nvidia's
 NyQuil
 NyQuil's
 Nyasa
@@ -14266,6 +14284,8 @@ Opal
 Opal's
 Opel
 Opel's
+OpenAI
+OpenAI's
 OpenOffice
 OpenOffice's
 Ophelia
@@ -69879,6 +69899,7 @@ multimillion
 multimillionaire
 multimillionaires
 multimillions
+multimodal
 multinational
 multinationals
 multipart

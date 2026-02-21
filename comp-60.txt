@@ -798,7 +798,9 @@ total: 27
 
 New words, ok, added:
   ADHD
+  AGI
   AUD
+  Anthropic
   Aotearoa
   Ashkenazi
   AstraZeneca
@@ -808,14 +810,18 @@ New words, ok, added:
   CLIs
   CMOS
   CMOSes
+  ChatGPT
   Coinbase
   DeFi
+  DeepMind
   ETH
   EUR
   Egyptologist
   Egyptologists
   Ethereum
   GBP
+  GPT
+  GPTs
   HVAC
   Instagrammed
   Instagrammer
@@ -823,10 +829,15 @@ New words, ok, added:
   Instagramming
   Instagrams
   Janssen
+  LLM
+  LLMs
   LOL
   Moderna
   NFT
   NFTs
+  NLP
+  Nvidia
+  OpenAI
   TUI
   TUIs
   TikTok
@@ -1070,6 +1081,7 @@ New words, ok, added:
   multiethnic
   multimillion
   multimillions
+  multimodal
   multitasked
   muni
   munis
@@ -1218,7 +1230,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 421
+total: 433
 
 New words, ok, all-upper lemma:
   ATMs
