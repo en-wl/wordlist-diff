@@ -4293,6 +4293,8 @@ CAD
 CAI
 CAM
 CAP
+CAPTCHA
+CAPTCHAs
 CARE
 CAT
 CATV
@@ -33565,6 +33567,7 @@ animato
 animator
 animator's
 animators
+animatronic
 animatronics
 anime
 anime's
@@ -38272,6 +38275,8 @@ bandleaders
 bandmaster
 bandmaster's
 bandmasters
+bandmate
+bandmates
 bandog
 bandogs
 bandoleer
@@ -40963,6 +40968,7 @@ biotechnology
 biotechnology's
 biotechs
 bioterrorism
+bioterrorist
 biotic
 biotin
 biotite
@@ -40972,6 +40978,8 @@ biotopes
 biotype
 biotype's
 biotypes
+bioweapon
+bioweapons
 bipack
 bipacks
 biparietal
@@ -42163,6 +42171,8 @@ bobbing
 bobbins
 bobble
 bobbled
+bobblehead
+bobbleheads
 bobbles
 bobbling
 bobby
@@ -46710,6 +46720,8 @@ captaining
 captains
 captainship
 captainships
+captcha
+captchas
 caption
 captioned
 captioning
@@ -47114,6 +47126,7 @@ carnified
 carnifies
 carnify
 carnifying
+carnitas
 carnival
 carnival's
 carnivals
@@ -48625,6 +48638,8 @@ chainsawing
 chainsaws
 chair
 chair's
+chairback
+chairbacks
 chairborne
 chaired
 chairing
@@ -51376,6 +51391,8 @@ cliffhanging
 cliffier
 cliffiest
 cliffs
+cliffside
+cliffsides
 clifftop
 clifftops
 cliffy
@@ -58082,6 +58099,7 @@ crosswinds
 crosswise
 crossword
 crosswords
+crostini
 crotch
 crotches
 crotchet
@@ -58978,6 +58996,7 @@ customise
 customised
 customises
 customising
+customizable
 customs
 custos
 custumal
@@ -59096,6 +59115,8 @@ cyanotypes
 cyathus
 cyathuses
 cyber
+cyberattack
+cyberattacks
 cyberbullies
 cyberbully
 cybercafe
@@ -59114,6 +59135,7 @@ cybernetics
 cyberpunk
 cyberpunk's
 cyberpunks
+cybersecurity
 cybersex
 cyberspace
 cyberspace's
@@ -59121,6 +59143,7 @@ cyberspaces
 cybersquatter
 cybersquatters
 cybersquatting
+cyberterrorism
 cyborg
 cyborg's
 cyborgs
@@ -59744,6 +59767,7 @@ darmstadtium
 darmstadtium's
 darmstadtiums
 darn
+darndest
 darned
 darneder
 darnedest
@@ -59920,6 +59944,8 @@ daytime
 daytime's
 daytrader
 daytraders
+daytripper
+daytrippers
 daze
 dazed
 dazedly
@@ -64738,6 +64764,7 @@ dishware
 dishwasher
 dishwasher's
 dishwashers
+dishwashing
 dishwater
 dishy
 disillusion
@@ -66849,6 +66876,7 @@ dreadful
 dreadfully
 dreadfulness
 dreading
+dreadlocked
 dreadlocks
 dreadnaught
 dreadnaughts
@@ -67408,6 +67436,7 @@ duly
 duma
 dumas
 dumb
+dumbass
 dumbbell
 dumbbell's
 dumbbells
@@ -74568,6 +74597,7 @@ fearing
 fearless
 fearlessly
 fearlessness
+fearmongering
 fearnought
 fears
 fearsome
@@ -75245,6 +75275,7 @@ fibroins
 fibroma
 fibromas
 fibromata
+fibromyalgia
 fibrosis
 fibrotic
 fibrous
@@ -75793,6 +75824,7 @@ fireman
 fireman's
 firemen
 firemen's
+firepit
 fireplace
 fireplace's
 fireplaces
@@ -78016,6 +78048,7 @@ fortunetellers
 fortunetelling
 forty
 fortyish
+fortysomething
 forum
 forum's
 forums
@@ -78258,6 +78291,7 @@ framboises
 frame
 frame's
 framed
+frameless
 framer
 framer's
 framers
@@ -80420,6 +80454,8 @@ gear's
 gearbox
 gearboxes
 geared
+gearhead
+gearheads
 gearing
 gears
 gearshift
@@ -85011,6 +85047,7 @@ handspring
 handsprings
 handstand
 handstands
+handwashing
 handwork
 handwoven
 handwringing
@@ -87272,6 +87309,8 @@ hithermost
 hitherto
 hitherward
 hitherwards
+hitmaker
+hitmakers
 hitman
 hitmen
 hits
@@ -87442,6 +87481,7 @@ hoicking
 hoicks
 hoiden
 hoidens
+hoisin
 hoist
 hoisted
 hoister
@@ -87537,6 +87577,8 @@ holoblastic
 holocaust
 holocausts
 holocrine
+holodeck
+holodecks
 holoenzyme
 holoenzymes
 hologram
@@ -91342,6 +91384,7 @@ inclusions
 inclusive
 inclusively
 inclusiveness
+inclusivity
 incoercible
 incogitable
 incogitant
@@ -95211,6 +95254,8 @@ jack
 jack's
 jackal
 jackal's
+jackalope
+jackalopes
 jackals
 jackanapes
 jackanapes's
@@ -95699,6 +95744,8 @@ jigsawing
 jigsaws
 jihad
 jihad's
+jihadi
+jihadis
 jihadist
 jihadists
 jihads
@@ -95968,6 +96015,7 @@ jour
 journal
 journal's
 journalese
+journaling
 journalise
 journalised
 journalises
@@ -96255,6 +96303,7 @@ jurels
 juridic
 juridical
 juridically
+juried
 juries
 jurisconsult
 jurisconsults
@@ -96822,6 +96871,8 @@ keyboardists
 keyboards
 keycard
 keycards
+keychain
+keychains
 keyed
 keyhole
 keyholes
@@ -97639,6 +97690,7 @@ krullers
 krummhorn
 krummhorns
 krypton
+kryptonite
 króna
 krónur
 kt
@@ -99973,6 +100025,8 @@ lightninged
 lightnings
 lightproof
 lights
+lightsaber
+lightsabers
 lightship
 lightships
 lightsome
@@ -101430,6 +101484,7 @@ lovesick
 lovesickness
 lovesicknesses
 lovesome
+lovestruck
 lovey
 loving
 lovingly
@@ -105766,6 +105821,7 @@ middlemen
 middlemen's
 middlemost
 middles
+middleware
 middleweight
 middleweight's
 middleweights
@@ -107156,6 +107212,8 @@ mixologist
 mixologist's
 mixologists
 mixology
+mixtape
+mixtapes
 mixture
 mixture's
 mixtures
@@ -107403,6 +107461,8 @@ moisturiser's
 moisturisers
 moisturises
 moisturising
+mojito
+mojitos
 mojo
 mojos
 moke
@@ -107660,6 +107720,7 @@ monkeying
 monkeynut
 monkeypot
 monkeypots
+monkeypox
 monkeys
 monkeyshine
 monkeyshines
@@ -108407,6 +108468,8 @@ motormouth
 motormouth's
 motormouths
 motors
+motorsport
+motorsports
 motortruck
 motortrucks
 motorway
@@ -108840,6 +108903,7 @@ mullocks
 mulls
 multi
 multiangular
+multibillion
 multicellular
 multicellularities
 multicellularity
@@ -108949,6 +109013,8 @@ multistory
 multitalented
 multitask
 multitasked
+multitasker
+multitaskers
 multitasking
 multitasks
 multitude
@@ -109169,6 +109235,7 @@ musette
 musettes
 museum
 museum's
+museumgoers
 museums
 mush
 mushed
@@ -109715,6 +109782,8 @@ nanometre's
 nanometres
 nanosecond
 nanoseconds
+nanotech
+nanotech's
 nanotechnologies
 nanotechnology
 nanotechnology's
@@ -111491,6 +111560,7 @@ nondevelopment
 nondevelopments
 nondigestible
 nondiplomatic
+nondisabled
 nondisciplinary
 nondisclosure
 nondiscriminating
@@ -111792,6 +111862,7 @@ nonrecognition
 nonrecoverable
 nonrecurrent
 nonrecurring
+nonrecyclable
 nonredeemable
 nonrefillable
 nonreflecting
@@ -112004,6 +112075,7 @@ normatively
 normativeness
 normativenesses
 norms
+norovirus
 north
 northbound
 northeast
@@ -113733,6 +113805,8 @@ onerously
 onerousness
 ones
 oneself
+onesie
+onesies
 onetime
 ongoing
 onion
@@ -114719,6 +114793,7 @@ otalgia
 otalgias
 other
 other's
+othering
 otherness
 othernesses
 others
@@ -117067,6 +117142,7 @@ panjandra
 panjandrum
 panjandrum's
 panjandrums
+panko
 panlogism
 panne
 panned
@@ -120051,6 +120127,7 @@ pharisaical
 pharisee
 pharisee's
 pharisees
+pharma
 pharmaceutic
 pharmaceutical
 pharmaceuticals
@@ -120092,6 +120169,8 @@ phase
 phased
 phaseout
 phaseouts
+phaser
+phasers
 phases
 phasic
 phasing
@@ -122935,6 +123014,7 @@ polyadelphous
 polyamide
 polyamides
 polyamories
+polyamorous
 polyamory
 polyandrist
 polyandrist's
@@ -124710,6 +124790,7 @@ preliminarily
 preliminary
 prelims
 preliterate
+preloaded
 prelude
 preludes
 preludial
@@ -127720,6 +127801,7 @@ puts
 putsch
 putsches
 putt
+puttanesca
 putted
 puttee
 puttees
@@ -128672,6 +128754,7 @@ racialist
 racialist's
 racialistic
 racialists
+racialized
 racially
 racier
 raciest
@@ -132789,6 +132872,8 @@ replica's
 replicabilities
 replicability
 replicable
+replicant
+replicants
 replicas
 replicate
 replicated
@@ -135546,6 +135631,7 @@ roti
 rotifer
 rotifer's
 rotifers
+rotini
 rotis
 rotisserie
 rotisseries
@@ -143179,6 +143265,7 @@ slyness
 slype
 slypes
 smack
+smackdown
 smacked
 smacker
 smackers
@@ -147428,6 +147515,7 @@ stetting
 stevedore
 stevedore's
 stevedores
+stevia
 stew
 steward
 steward's
@@ -149544,6 +149632,7 @@ suckling
 suckling's
 sucklings
 sucks
+sucralose
 sucrase
 sucrases
 sucre
@@ -152150,6 +152239,7 @@ tankers
 tankful
 tankfuls
 tanking
+tankini
 tanks
 tannage
 tannages
@@ -152901,6 +152991,8 @@ telemetries
 telemetry
 telencephalon
 telencephalons
+telenovela
+telenovelas
 teleological
 teleologies
 teleology
@@ -152991,6 +153083,7 @@ televisions
 televisor
 televisors
 televisual
+telework
 teleworker
 teleworkers
 teleworking
@@ -156053,6 +156146,8 @@ toyboy
 toyboys
 toyed
 toying
+toymaker
+toymakers
 toys
 tr
 trabeated
@@ -158407,6 +158502,7 @@ twenties
 twentieth
 twentieths
 twenty
+twentysomething
 twerk
 twerked
 twerking
@@ -159635,6 +159731,7 @@ underhandedly
 underhandedness
 underhung
 underinflated
+underinsured
 underlain
 underlay
 underlayer
@@ -159703,6 +159800,7 @@ underplots
 underpopulated
 underpowered
 underprepared
+underpriced
 underprivileged
 underproduce
 underproduced
@@ -160124,6 +160222,7 @@ unfittest
 unfitting
 unfittingly
 unfix
+unfixable
 unfixed
 unfixes
 unfixing
@@ -161474,6 +161573,7 @@ unsung
 unsupervised
 unsupportable
 unsupported
+unsupportive
 unsuppressed
 unsure
 unsurely
@@ -165457,6 +165557,7 @@ weaponise
 weaponised
 weaponises
 weaponising
+weaponization
 weaponless
 weaponry
 weapons
@@ -166875,6 +166976,7 @@ wirehaired
 wirehairs
 wireless
 wirelesses
+wirelessly
 wireman
 wireman's
 wiremen
@@ -167264,6 +167366,7 @@ woodruffs
 woods
 woodshed
 woodsheds
+woodshop
 woodsia
 woodsias
 woodsier
@@ -167403,6 +167506,8 @@ workflows
 workforce
 workforce's
 workforces
+workgroup
+workgroups
 workhorse
 workhorse's
 workhorses
@@ -167918,6 +168023,7 @@ yachtswoman
 yachtswoman's
 yachtswomen
 yachtswomen's
+yada
 yah
 yahoo
 yahoo's

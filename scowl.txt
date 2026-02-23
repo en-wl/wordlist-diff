@@ -14096,6 +14096,8 @@
 
 50: animator <n>: animators, animator's
 
+60 [coca-llm]: animatronic <aj>
+
 80: animatronic <n>: animatronics
 
 80: animatronically
@@ -19726,6 +19728,8 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60 [coca-llm] 70 [3of6] [5desk] 80: archrival <n>: archrivals
+
+60 [coca-llm]: archrival <aj>
 
 80 [moby]: archt. <abbr>
 
@@ -27710,6 +27714,8 @@
 
 80: backlist <v>: backlisted, backlisting, backlists
 
+60 [coca-llm]: backlit <aj>
+
 80: _: backload <m>: backloaded, backloading, backloads
 80: _=: back-load <m>: back-loaded, back-loading, back-loads
 ## Compound variant levels are a best guess based on freq and other related info.
@@ -29506,6 +29512,8 @@
 80: bandless
 
 60: bandmaster <n>: bandmasters, bandmaster's
+
+60 [coca-llm]: bandmate <n>: bandmates
 
 85 [ukacd]: bandobast <n>: bandobasts
 
@@ -37862,6 +37870,8 @@
 
 70 [5desk] 80: bioengineer <m>: bioengineered, bioengineering, bioengineers
 
+60 [coca-llm]: bioengineered <aj>
+
 70 [3of6] [5desk] 80: bioengineering <n>
 70 [5desk] 80: - <n>: bioengineerings
 
@@ -38228,6 +38238,8 @@
 
 60 [coca] 70 [3of6]: bioterrorism <n>
 
+60 [coca-llm]: bioterrorist <n>
+
 80: biotherapy <n>: biotherapies
 
 60 [coca-llm] 70 [5desk] [moby] 80: biotic <aj>
@@ -38262,6 +38274,8 @@
 80: biotypic <aj>
 
 85 [stale]: biovular <aj>
+
+60 [coca-llm]: bioweapon <n>: bioweapons
 
 70 [moby] 80: bipack <n>: bipacks
 
@@ -41765,6 +41779,8 @@
 50: bobble <n_v>: bobbled, bobbling, bobbles
 
 70 [3of6] 85 [ukacd]: bobble hat <n>: bobble hats
+
+60 [coca-llm]: bobblehead <n>: bobbleheads
 
 85 [ukacd]: bobbly
 
@@ -55865,6 +55881,9 @@
 
 80: captan <n>: captans
 
+60 [coca-llm]: _: captcha <n>: captchas
+60 [coca-llm]: _v: CAPTCHA <n>: CAPTCHAs
+
 35: caption <n_v>: captioned, captioning, captions
 
 80: captionless
@@ -57088,6 +57107,8 @@
 70 [moby] 80: carnify <v>: carnified, carnifying, carnifies
 
 80 [upper]: Carniolan <n/upper?>: Carniolans
+
+60 [coca-llm]: carnitas <n>
 
 80: carnitine <n>: carnitines
 
@@ -61781,6 +61802,8 @@
 85 [ukacd]: chainwork <n>: chainworks
 
 35: chair <n_v>: chaired, chairing, chairs, chair's
+
+60 [coca-llm]: chairback <n>: chairbacks
 
 80: _: chairbed <n>: chairbeds
 80: _=: chair-bed <n>
@@ -70164,6 +70187,8 @@
 60 [brif] 80: cliffhanging
 
 50: Clifford <n/person>: Clifford's
+
+60 [coca-llm]: cliffside <n>: cliffsides
 
 70 [moby]: cliff swallow <n>: cliff swallow's
 
@@ -88021,6 +88046,8 @@
 
 85 [ukacd]: crosswort <n>: crossworts
 
+60 [coca-llm]: crostini <n>: crostini
+
 80 [moby]: Croswell <n/place>
 
 85 [ukacd]: crotal <n>: crotals
@@ -90529,6 +90556,8 @@
 60: _-: custom-house <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
+60 [coca-llm]: customizable <aj>
+
 35 [ukfreq] 60: A Z: customization <n>
 35 [ukfreq] 60: B: customisation <n>
 60: A Z: - <n>: customization's
@@ -90930,6 +90959,8 @@
 
 60 [coca]: cyber <aj>
 
+60 [coca-llm]: cyberattack <n>: cyberattacks
+
 50 [+] 80 [3of6]: cyberbully <n>: cyberbullies
 
 60 [brif] 70 [3of6]: cybercafé <n>: cybercafés # accented
@@ -90963,6 +90994,8 @@
 
 50: cyberpunk <n>: cyberpunks, cyberpunk's
 
+60 [coca-llm]: cybersecurity <n>
+
 50 [+] 70 [3of6] 80: cybersex <n>
 80 [] [+]: - <n>: cybersexes~
 
@@ -90975,6 +91008,8 @@
 70 [3of6] 85 [ukacd]: cybersquatter <n>: cybersquatters
 
 80 [3of6]: cyberstalking
+
+60 [coca-llm]: cyberterrorism <n>
 
 60: cyborg <n>: cyborgs, cyborg's
 
@@ -93182,6 +93217,8 @@
 
 80: darnation <n>: darnations
 
+60 [coca-llm]: darndest <aj>
+
 80: darndest <n>: darndests
 
 40: darned <aj>: darneder, darnedest
@@ -93860,6 +93897,8 @@
 
 70 [3of6] 85 [ukacd]: day trip <n>: day trips
 
+60 [coca-llm]: daytripper <n>: daytrippers
+
 60: _: day-tripper <n>
 60: _v: day tripper <n>
 65: _: - <n>: day-trippers-
@@ -94237,6 +94276,8 @@
 
 60 [coca-llm] 80: dealmaking <n>
 80: - <n>: dealmakings
+
+60 [coca-llm]: dealmaking <aj>
 
 85 [ukacd]: deambulatory <n>: deambulatories
 
@@ -105846,6 +105887,8 @@
 
 35: dishwasher <n>: dishwashers, dishwasher's
 
+60 [coca-llm]: dishwashing <aj>
+
 70 [3of6]: dishwashing liquid <n>
 
 60: _: dishwater <n>
@@ -111767,6 +111810,8 @@
 
 80: dreadlock <n>
 
+60 [coca-llm]: dreadlocked <aj>
+
 40: dreadlocks <n>
 
 85 [ukacd]: dreadly
@@ -113514,6 +113559,8 @@
 70 [moby] 85 [ukacd]: Dumbarton </upper?>
 
 70 [moby] 85 [ukacd]: Dumbarton Oaks </upper?>
+
+60 [coca-llm]: dumbass <n>
 
 35: dumbbell <n>: dumbbells, dumbbell's
 
@@ -134104,6 +134151,8 @@
 40: fearlessness <n>
 80: - <n>: fearlessnesses~
 
+60 [coca-llm]: fearmongering <n>
+
 70 [moby] 85 [ukacd]: fearnought
 
 35 [ukfreq] 50: fearsome <aj>
@@ -136023,6 +136072,8 @@
 
 80: fibromatous
 
+60 [coca-llm]: fibromyalgia <n>
+
 80: fibronectin <n>: fibronectins
 
 80: fibroplasia <n>: fibroplasias
@@ -137564,6 +137615,8 @@
 85 [stale] [ukacd]: firepan <n>: firepans
 
 85 [stale]: firepink <n>: firepinks
+
+60 [coca-llm]: firepit <n>
 
 35: fireplace <n>: fireplaces, fireplace's
 
@@ -143367,6 +143420,8 @@
 
 60: forty-niner <n>: forty-niner's
 
+60 [coca-llm]: fortysomething <aj>
+
 60: forty winks <n>
 
 35: forum <n>: (forums | V: fora), forum's, (forums' | V: fora's)
@@ -144218,6 +144273,8 @@
 80: frameable
 
 35 [ukfreq] 70 [3of6] 80: framed <aj>
+
+60 [coca-llm]: frameless <aj>
 
 70 [3of6] 85 [ukacd]: frame of mind <n>
 
@@ -150899,6 +150956,8 @@
 85 [ukacd]: geare
 
 35 [ukfreq] 70 [3of6] 80: geared <aj>
+
+60 [coca-llm]: gearhead <n>: gearheads
 
 35 [ukfreq] 60: gearing <n>
 80: - <n>: gearings~
@@ -165463,6 +165522,8 @@
 
 70 [moby]: hand truck <n>
 
+60 [coca-llm]: handwashing <n>
+
 80: handwheel <n>: handwheels
 
 50: handwork <n>
@@ -174011,6 +174072,8 @@
 
 60: hit list <n>: hit lists
 
+60 [coca-llm]: hitmaker <n>: hitmakers
+
 40: _: hit man <n>: hit man's
 40: _v: hitman <n>
 70 [3of6] 80: _: - <n>
@@ -174599,6 +174662,8 @@
 
 80: hoise <m>: hoised, hoising, hoises
 
+60 [coca-llm]: hoisin <wp>
+
 80 [moby]: Hoisington <n/place>
 
 35: hoist <n_v>: hoisted, hoisting, hoists
@@ -174980,6 +175045,8 @@
 70 [moby] 80: holocrine
 
 85 [ukacd]: holocrystalline
+
+60 [coca-llm]: holodeck <n>: holodecks
 
 85 [ukacd]: holodiscus
 
@@ -181140,6 +181207,8 @@
 
 80: hypersomnolence <n>: hypersomnolences
 
+60 [coca-llm]: hypersonic <aj>
+
 70 [5desk] [moby] 80: hypersonic <n>
 85 [ukacd]: - <n>: hypersonics!
 
@@ -186588,6 +186657,8 @@
 
 60: inclusiveness <n>
 80: - <n>: inclusivenesses~
+
+60 [coca-llm]: inclusivity <n>
 
 85 [ukacd]: incoagulable
 
@@ -197490,6 +197561,8 @@
 
 85 [ukacd]: !jackal <v>: jackalled, jackalling, jackals
 
+60 [coca-llm]: jackalope <n>: jackalopes
+
 70 [5desk] [moby] 80: jackanapes <n>: jackanapeses
 70 [5desk] [moby]: - <n>: jackanapes's
 
@@ -199649,6 +199722,10 @@
 50: _: jihad <n>: jihads, jihad's
 50: _V: jehad <n>: jehads, jehad's
 
+60 [coca-llm]: jihadi <n>: jihadis
+
+60 [coca-llm]: jihadi <aj>
+
 50 [+] 80 [3of6]: jihadist <n>: jihadists
 
 85 [ukacd]: jilgie <n>: jilgies
@@ -200658,6 +200735,8 @@
 50: journalese <n>
 80: - <n>: journaleses~
 
+60 [coca-llm]: journaling <n>
+
 35: journalism <n>: journalism's
 80: - <n>: journalisms~
 
@@ -201621,6 +201700,8 @@
 70 [moby] 85 [ukacd]: juridical days
 
 60: juridically <a>
+
+60 [coca-llm]: juried <aj>
 
 70 [moby] 80: jurisconsult <n>: jurisconsults
 
@@ -204123,6 +204204,8 @@
 70 [5desk] 80: keycard <n>: keycards
 
 70 [3of6]: key card <n>: key cards
+
+60 [coca-llm]: keychain <n>: keychains
 
 35 [ukfreq] 70 [3of6] 80: keyed <aj>
 
@@ -207311,6 +207394,8 @@
 
 50: krypton <n>
 80: - <n>: kryptons~
+
+60 [coca-llm]: kryptonite <n>
 
 50: Krystal <n/person>: Krystal's
 
@@ -215725,6 +215810,8 @@
 
 35 [ukfreq] 70 [3of6] [5desk] [moby] 80: lights
 
+60 [coca-llm]: lightsaber <n>: lightsabers
+
 60: lightship <n>: lightships
 
 60: light show <n>: light shows
@@ -220671,6 +220758,8 @@
 70 [moby] 80: lovesome <aj>
 
 40: love story <n>
+
+60 [coca-llm]: lovestruck <aj>
 
 60: love triangle <n>: love triangles
 
@@ -235248,6 +235337,8 @@
 
 80: metrorrhagic
 
+60 [coca-llm]: metrosexual <aj>
+
 70 [3of6]: metrosexual <n>: metrosexuals
 
 85 [ukacd]: metrostyle <n>: metrostyles
@@ -236613,6 +236704,8 @@
 60 US [town]: Middletown <n/place>: Middletown's
 
 80 [moby]: Middleville <n/place>
+
+60 [coca-llm]: middleware <n>
 
 70 [moby] 85 [ukacd]: middle watch <n>
 
@@ -240499,6 +240592,8 @@
 
 85 [ukacd]: mixt <abbr>
 
+60 [coca-llm]: mixtape <n>: mixtapes
+
 50 [name] 70 [5desk] [moby] 80 [upper]: Mixtec <n/upper>
 50 [name] 70 [5desk] [moby]: - <n/upper>: Mixtec's
 70 [5desk] [moby] 80 [upper]: - <n/upper>: Mixtecs-
@@ -241363,6 +241458,8 @@
 80 [moby]: -Mojave <n/place>
 
 60: Mojave Desert <n/upper>
+
+60 [coca-llm]: mojito <n>: mojitos
 
 60 [coca-llm] 70 [3of6] [5desk] 80: mojo <n> # fixme: mojoes: check if variant
 70 [3of6] [5desk] 80: - <n>: (mojos | -: mojoes)
@@ -242268,6 +242365,8 @@
 70 [moby] 80: _: monkeypot <n>: monkeypots
 70 [moby] 80: _?: monkey-pot <n>
 ## Compound variant levels are a best guess based on freq and other related info.
+
+60 [coca-llm]: monkeypox <n>
 
 70 [moby] 85 [ukacd]: monkey puzzle <n>: monkey puzzles
 
@@ -244938,6 +245037,8 @@
 
 50: motor scooter <n>: motor scooters
 
+60 [coca-llm]: motorsport <n>: motorsports
+
 70 [5desk] 80: motortruck <n>: motortrucks
 
 35: motor vehicle <n>: motor vehicles
@@ -245401,6 +245502,8 @@
 
 60 [coca-llm] 80: moviemaking <n>
 80: - <n>: moviemakings
+
+60 [coca-llm]: moviemaking <aj>
 
 80: movieola <n>: movieolas
 
@@ -246353,6 +246456,8 @@
 
 80: multibarreled
 
+60 [coca-llm]: multibillion <aj>
+
 80: multibillion <n>: multibillions
 
 80: multibillionaire <n>: multibillionaires
@@ -246933,6 +247038,8 @@
 
 50 hacker 60 [extra] 70 [3of6] [5desk] 80: multitask <v>: -, -, multitasks
 60 [extra] 70 [3of6] [5desk] 80: - <v>: multitasked, multitasking, -
+
+60 [coca-llm]: multitasker <n>: multitaskers
 
 35 [ukfreq] 60: multitasking <n>
 80: - <n>: multitaskings~
@@ -247681,6 +247788,8 @@
 60: musette bag
 
 35: museum <n>: museums, museum's
+
+60 [coca-llm]: museumgoers <n>
 
 70 [3of6] [moby]: museum piece <n>: museum pieces
 
@@ -249641,6 +249750,8 @@
 80: nanoplankton <n>: nanoplanktons
 
 50: nanosecond <n>: nanoseconds
+
+60 [coca-llm]: nanotech <n>: nanotech's
 
 80: nanotechnologist <n>: nanotechnologists
 
@@ -256729,6 +256840,8 @@
 
 80: nondirective
 
+60 [coca-llm]: nondisabled <aj>
+
 80: nondisabled <n>: nondisableds
 
 60: nondisciplinary <a>
@@ -258259,6 +258372,8 @@
 
 60: nonrecurring <a>
 
+60 [coca-llm]: nonrecyclable <aj>
+
 80: nonrecyclable <n>: nonrecyclables
 
 60: nonredeemable <a>
@@ -259288,6 +259403,8 @@
 85 [ukacd]: Norn <n/upper?>: Norns-
 
 85 [ukacd]: Norna </upper?>
+
+60 [coca-llm]: norovirus <n>
 
 80 [moby]: Norphlet <n/place>
 
@@ -265588,6 +265705,8 @@
 
 60: one-sidedness
 
+60 [coca-llm]: onesie <n>: onesies
+
 70 [3of6]: one-size-fits-all
 
 70 [3of6]: one-star
@@ -269282,6 +269401,8 @@
 80: otherguess
 
 70 [3of6]: other half
+
+60 [coca-llm]: othering <n>
 
 60 [brif] 70 [3of6] [moby] 80: otherness <n>
 70 [moby] 80: - <n>: othernesses-
@@ -275919,6 +276040,8 @@
 
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Pankhurst <n/name?>
 50 [name] 70 [5desk] [moby]: - <n/name?>: Pankhurst's
+
+60 [coca-llm]: panko <n>
 
 80: panleucopenia <n>: panleucopenias
 
@@ -285891,6 +286014,8 @@
 
 80 [upper]: Phariseeism <n/upper?>: Phariseeisms
 
+60 [coca-llm]: pharma <n>
+
 60: pharmaceutic <n>: pharmaceutics
 
 60: pharmaceutic <aj>
@@ -286013,6 +286138,8 @@
 60: phaseout <n>: phaseouts
 
 85 [ukacd]: phase out <v>
+
+60 [coca-llm]: phaser <n>: phasers
 
 80 [moby]: phasia <suf>
 
@@ -294996,6 +295123,8 @@
 
 80: polyamine <n>: polyamines
 
+60 [coca-llm]: polyamorous <aj>
+
 50 [+] 80 [3of6]: polyamory <n>
 50 [+]: - <n>: polyamories
 
@@ -299464,6 +299593,8 @@
 
 70 [5desk] 80: preapprove <m>: preapproved, preapproving, preapproves
 
+60 [coca-llm]: preapproved <aj>
+
 80: prearm <m>: prearmed, prearming, prearms
 
 50: prearrange <v>: prearranged, prearranging, prearranges
@@ -299998,6 +300129,8 @@
 
 35 [ukfreq] 80: - <m>: predefined, -, -
 80: predefine <m>: -, predefining, predefines
+
+60 [coca-llm]: predefined <aj>
 
 85 [ukacd]: predefinition <n>: predefinitions
 
@@ -300736,6 +300869,8 @@
 
 80: -preliterate <n>: preliterates
 
+60 [coca-llm]: preloaded <aj>
+
 80: prelogical
 
 35: prelude <n>: preludes
@@ -301151,6 +301286,8 @@
 
 70 [5desk] 80: preplan <m>: preplanned, preplanning, preplans
 
+60 [coca-llm]: preplanned <aj>
+
 80: preplant
 
 80: preplanting
@@ -301270,6 +301407,8 @@
 60 [extra] 70 [5desk] 80: Av Bv Cv Dv: pre-program <v>: (pre-programmed | V: pre-programed), (pre-programming | V: pre-programing), pre-programs
 60 [extra] 70 [5desk] 80: BV {1}: pre-programme <v>: (pre-programmed | V: pre-programed), (pre-programming | V: pre-programing), pre-programmes
 60 [extra] 70 [5desk] 80: BV {2}: preprogramme <v>: (preprogrammed | V: preprogramed), (preprogramming | V: preprograming), preprogrammes
+
+60 [coca-llm]: preprogrammed <aj>
 
 40: prep school <n>: prep schools, prep school's
 
@@ -302348,6 +302487,8 @@
 80: prewarn <m>: prewarned, prewarning, prewarns
 
 70 [5desk] 80: prewash <m>: prewashed, prewashing, prewashes
+
+60 [coca-llm]: prewashed <aj>
 
 80: preweaning
 
@@ -305960,7 +306101,7 @@
 
 70 [5desk] 80: prototypically
 
-50 [ukfreq] 60 [coca-llm]: prototyping <n>
+50 [ukfreq]: prototyping
 
 80 [extra]: protovertebra <n>: protovertebrae
 
@@ -309419,6 +309560,8 @@
 
 35: putt <n_v>: putted, putting†, putts
 
+60 [coca-llm]: puttanesca <n>
+
 60: puttee <n>: puttees
 
 35: putter <n_v>: puttered, puttering, putters, putter's
@@ -312669,6 +312812,8 @@
 
 70 [5desk]: A Z: racialize <n>
 70 [5desk]: B: racialise <n>
+
+60 [coca-llm]: racialized <aj>
 
 35: racially <av>
 
@@ -319192,6 +319337,8 @@
 
 35 [ukfreq] 40: refreshments <n>
 
+60 [coca-llm]: refried <aj>
+
 60: refried beans <n>
 
 50: refrigerant <n>: refrigerants
@@ -321909,6 +322056,8 @@
 70 [5desk] 80: replicability <n>: replicabilities
 
 70 [5desk] 80: replicable
+
+60 [coca-llm]: replicant <n>: replicants
 
 80: replicase <n>: replicases
 
@@ -325077,6 +325226,8 @@
 80: rewiden <m>: rewidened, rewidening, rewidens
 
 60 [extra]: rewild <v>: rewilded, rewilding, rewilds
+
+60 [coca-llm]: rewilding <n>
 
 80: rewin <m>: rewon, rewinning, rewins
 
@@ -330006,6 +330157,8 @@
 80: rotiferous
 
 80: rotiform
+
+60 [coca-llm]: rotini <n>
 
 35: rotisserie <n>: rotisseries
 
@@ -355210,6 +355363,8 @@
 
 40: smack-dab
 
+60 [coca-llm]: smackdown <n>
+
 50: smacker <n>: smackers
 
 70 [3of6] [moby] 80: smacking <n>
@@ -368001,6 +368156,8 @@
 
 80 [moby]: Stevensville <n/place>
 
+60 [coca-llm]: stevia <n>
+
 50: Stevie <n/person>: Stevie's
 
 80 [moby]: Stevinson <n/place>
@@ -374165,6 +374322,8 @@
 
 85 [ukacd]: sucralfate <n>
 
+60 [coca-llm]: sucralose <n>
+
 70 [moby] 80: sucrase <n>: sucrases
 
 50 [name] 60: Sucre <n/upper>: Sucre's
@@ -376074,6 +376233,8 @@
 80: superharden <m>: superhardened, superhardening, superhardens
 
 70 [5desk] [moby] 80: superheat <m>: superheated, superheating, superheats
+
+60 [coca-llm]: superheated <aj>
 
 80: superheater <n>: superheaters
 
@@ -382500,6 +382661,8 @@
 70 [3of6] 80: tanking <n>
 85 [ukacd]: - <n>: tankings!
 
+60 [coca-llm]: tankini <n>: tankini
+
 80: tankless
 
 80: tanklike
@@ -385097,6 +385260,8 @@
 
 70 [moby] 80: telencephalon <n>: telencephalons
 
+60 [coca-llm]: telenovela <n>: telenovelas
+
 80: teleologic
 
 60 [brif] 80: teleological <aj>
@@ -385369,6 +385534,8 @@
 70 [3of6] 80: televisual
 
 85 [ukacd]: televisually
+
+60 [coca-llm]: telework <n>
 
 60 [brif] 70 [3of6] 85 [ukacd]: teleworker <n>: teleworkers
 
@@ -389651,6 +389818,8 @@
 70 [moby] 85 [ukacd]: thirty-second note <n>
 
 60 [coca-llm] 85 [ukacd]: thirtysomething <n>: thirtysomethings
+
+60 [coca-llm]: thirtysomething <aj>
 
 70 [moby]: thirty-three <aj>
 
@@ -395710,6 +395879,8 @@
 
 80: toylike
 
+60 [coca-llm]: toymaker <n>: toymakers
+
 85 [ukacd]: toyman <n>: toymen
 
 50 [name] 70 [5desk] 85 [ukacd]: Toynbee <n/name?>
@@ -400419,6 +400590,8 @@
 
 35: troublemaker <n>: troublemakers, troublemaker's
 
+60 [coca-llm]: troublemaking <aj>
+
 70 [5desk] 80: troublemaking <n>: troublemakings
 
 70 [5desk] 80: troubler <n>: troublers
@@ -402946,6 +403119,8 @@
 40: twenty-one <n>
 
 40: twenty-one <aj>
+
+60 [coca-llm]: twentysomething <aj>
 
 50: twenty-twenty <n>
 
@@ -407614,6 +407789,8 @@
 
 70 [3of6] 80: undercook <m>: undercooked, undercooking, undercooks
 
+60 [coca-llm]: undercooked <aj>
+
 70 [moby] 80: undercool <m>: undercooled, undercooling, undercools
 
 60 [coca-llm] 80: undercount <v>: undercounted, undercounting, undercounts
@@ -407794,6 +407971,8 @@
 
 80: underinsure <m>: underinsured, underinsuring, underinsures
 
+60 [coca-llm]: underinsured <aj>
+
 80: underinvestment <n>: underinvestments
 
 80: underived <aj>
@@ -407951,6 +408130,8 @@
 70 [3of6]: under pressure
 
 80: underprice <v>: underpriced, underpricing, underprices
+
+60 [coca-llm]: underpriced <aj>
 
 35: _: underprivileged <aj>
 35: _-: under-privileged <aj>
@@ -409411,6 +409592,8 @@
 70 [5desk] 80: unfittingly
 
 60: unfix <v>: unfixed, unfixing, unfixes
+
+60 [coca-llm]: unfixable <aj>
 
 80: unfixed <aj>
 
@@ -411820,6 +412003,8 @@
 80: unmonitored
 
 70 [5desk] [moby] 80: unmoor <m>: unmoored, unmooring, unmoors
+
+60 [coca-llm]: unmoored <aj>
 
 50: unmoral <a>
 
@@ -414759,6 +414944,8 @@
 35 [ukfreq] 50: unsupported <aj>
 
 85 [ukacd]: unsupportedly
+
+60 [coca-llm]: unsupportive <aj>
 
 85 [ukacd]: unsupposable
 
@@ -428366,6 +428553,8 @@
 
 70 [moby] 80: weaponeer <n>: weaponeers
 
+60 [coca-llm]: weaponization <n>
+
 60 [extra] 70 [3of6]: A Z: weaponize <v>: weaponized, weaponizing, weaponizes
 60 [extra] 70 [3of6]: B: weaponise <v>: weaponised, weaponising, weaponises
 
@@ -433070,6 +433259,8 @@
 60 [coca-llm] 80: winemaking <n>
 80: - <n>: winemakings
 
+60 [coca-llm]: winemaking <aj>
+
 70 [5desk] [moby] 80: _: winepress <n>: winepresses
 70 [5desk] [moby] 80: _V: wine-press <n>: wine-presses
 ## Compound variant levels are a best guess based on freq and other related info.
@@ -433485,6 +433676,8 @@
 50: wireless <aj>
 
 80: -wireless <v>: wirelessed, wirelessing, wirelesses
+
+60 [coca-llm]: wirelessly <av>
 
 70 [moby] 85 [ukacd]: wireless telegraphy <n>
 
@@ -434738,6 +434931,8 @@
 
 80 [moby]: Woodshole <n/place>
 
+60 [coca-llm]: woodshop <n>
+
 70 [moby] 80: woodsia <n>: woodsias
 
 60: woodsiness <n>
@@ -435203,6 +435398,8 @@
 85 [ukacd]: workful
 
 70 [moby] 85 [ukacd]: work function
+
+60 [coca-llm]: workgroup <n>: workgroups
 
 50: workhorse <n>: workhorses, workhorse's
 
@@ -437106,6 +437303,8 @@
 70 [moby] 85 [ukacd]: yackety-yak
 
 80 [moby]: Yacolt <n/place>
+
+60 [coca-llm]: yada <wp>
 
 70 [3of6]: yada yada yada
 
