@@ -823,6 +823,8 @@ New words, ok, added:
   GPT
   GPTs
   HVAC
+  Hasidic
+  IMAX
   Instagrammed
   Instagrammer
   Instagrammers
@@ -838,6 +840,7 @@ New words, ok, added:
   NLP
   Nvidia
   OpenAI
+  Roma
   TUI
   TUIs
   TikTok
@@ -853,53 +856,225 @@ New words, ok, added:
   YouTubes
   YouTubing
   aboveground
+  absorber
+  absorbers
+  accelerometer
+  accelerometers
+  acidification
+  adobo
+  adoptee
+  adoptees
   affective
+  ahistorical
   ahold
+  aikido
+  alarmism
   allistic
   allistics
+  alopecia
+  anabolic
+  anthropogenic
+  antidiscrimination
+  antifeminist
+  antifungal
+  antigravity
+  antilock
+  antismoking
+  antiterrorism
   apnea
   apneas
+  arborist
+  arborists
+  arcana
+  archrival
+  archrivals
+  armoire
+  armoires
+  arrestee
+  arrestees
   artisanal
+  aspirational
+  attaboy
+  attaboys
   auditable
+  auteur
+  auteurs
   autocorrect
   autocorrected
   autocorrecting
   autocorrects
+  autofocus
   automations
+  baba
+  bachelorette
+  bachelorettes
+  backbeat
   backcountry
+  backcourt
+  backcourts
+  backflow
+  backlight
+  backlights
+  backsplash
+  backsplashes
+  backswing
   backtrace
   backtraces
+  badass
+  badasses
+  bagger
+  baggers
+  basketful
+  basketfuls
+  basmati
+  beachcombing
+  beachside
+  beadwork
+  beastie
+  beasties
+  bechamel
+  bedcover
+  bedcovers
+  beignet
+  beignets
+  believability
+  belowground
+  benchmarked
+  benchmarking
+  benchwarmer
+  benchwarmers
+  bento
+  bergamot
   biblically
+  bicoastal
+  bicultural
+  binational
+  bindi
+  bindis
+  biodiesel
   biofuel
   biofuels
+  biohazard
+  biohazards
+  biome
+  biomechanical
+  biomes
+  biometric
+  biometrics
   biosolid
   biosolids
   biota
   biotas
   bioterrorism
+  biotic
   blacksmithing
+  blocky
+  blogosphere
+  bloodlust
+  blowfish
+  bluefin
+  bluefins
   blueshift
   blueshifted
   blueshifting
   blueshifts
+  bluesman
+  bluesmen
+  bobber
+  bobbers
+  braless
+  branchings
+  breadstick
+  breadsticks
+  breathability
+  brined
+  brines
+  brining
+  brio
   bromance
   bromances
+  bronzer
+  bronzers
+  bruschetta
+  brushfire
+  brushfires
+  brushy
+  bubonic
   bugfix
   bugfixes
+  bulgur
   c'mon
+  calzone
+  calzones
+  camo
+  camos
+  candleholder
+  candleholders
+  cantina
+  cantinas
   capita
+  carabiner
+  carabiners
   caregiving
+  caretaking
+  carpaccio
+  carpaccios
+  cartoonish
   casa
   casas
+  catfight
+  catfights
+  celiac
+  centerline
+  centerlines
   centric
+  cephalopod
+  cephalopods
+  ceviche
+  chador
+  chadors
+  chakra
+  chakras
+  challah
+  challahs
+  changeup
+  changeups
+  chanterelle
+  chanterelles
+  charcuterie
+  checkable
+  cheerlead
+  cheerleading
+  cheerleads
+  cheerled
+  chewable
   chez
+  chia
+  chipotle
+  chipotles
+  chivalric
+  chocolatier
+  chocolatiers
+  chorizo
+  chorizos
+  cineplex
+  cineplexes
+  cityscape
+  cityscapes
+  clamshell
+  clamshells
   cleantech
+  closers
   cochair
   cochairs
+  cocker
+  cockers
   codebase
   codebases
   codirector
   codirectors
+  coeditor
+  coeditors
   coevolution
   coevolutions
   coevolve
@@ -916,40 +1091,116 @@ New words, ok, added:
   cohosted
   cohosting
   cohosts
+  coleader
+  coleaders
   coli
   coliform
   collegial
+  colorectal
   commenter
   commenters
+  commonsensical
+  compostable
+  composter
+  composters
+  coneflower
+  coneflowers
   connectedness
+  conservatorship
+  constitutionalist
+  constitutionalists
   constructivism
   constructivist
   constructivists
+  cooktop
+  cooktops
+  cooldown
+  copayment
+  copayments
+  coproducer
+  coproducers
+  corkboard
   cornerback
   cornerbacks
   cosplayer
   cosplayers
+  countercultural
+  counterintuitive
+  counterintuitively
+  counterproposal
+  counterproposals
   counterterrorism
   countertop
   countertops
+  coupler
+  couplers
+  courtside
   covariate
   covariates
   coworking
+  cozied
+  cozying
+  crafter
+  crafters
+  crapshoot
   creatine
+  crewmate
+  crewmates
+  criminalization
   crocodilian
   crocodilians
+  crosshair
+  crosshairs
   crosstalk
+  crypto
+  cubbies
+  cubby
+  cultish
+  cultlike
+  curation
+  curveball
+  curveballs
   cyber
+  cybercrime
+  daikon
+  danceable
+  darkish
+  daylilies
+  daylily
+  daypack
+  daypacks
+  dealmaker
+  dealmakers
+  dealmaking
+  debunker
+  debunkers
   decomposer
   decomposers
+  decrypt
+  decrypted
+  decrypting
+  decrypts
   deduplicate
   deduplicated
   deduplicates
   deduplicating
   deduplication
   deduplications
+  deemphasize
+  deemphasized
+  deemphasizes
+  deemphasizing
+  defendable
   defenseman
   defensemen
+  definitional
+  deglaze
+  delegitimize
+  delegitimized
+  delegitimizes
+  delegitimizing
+  demonization
+  demonizations
   demonym
   demonyms
   deplatform
@@ -962,9 +1213,33 @@ New words, ok, added:
   deserialized
   deserializes
   deserializing
+  dialer
+  dialers
+  diffuser
+  diffusers
+  discoverable
+  disempower
+  disempowered
+  disempowering
+  disempowers
+  disruptor
+  disruptors
+  dizzyingly
+  dominator
+  dominators
+  doneness
+  doofus
+  doofuses
   doomer
   doomers
   doomscrolling
+  doornail
+  doorsill
+  doorsills
+  doozies
+  doozy
+  doula
+  doulas
   dox
   doxed
   doxes
@@ -975,92 +1250,332 @@ New words, ok, added:
   doxxes
   doxxing
   doxxings
+  dozer
+  dozers
+  drawdown
+  drawdowns
+  dreamscape
+  dreamscapes
+  dreidel
+  dreidels
+  drivable
   drivetrain
   drivetrains
+  drugmaker
+  drugmakers
+  drumhead
+  drumheads
+  ductwork
   duffel
   duffels
+  duffle
+  duffles
+  dumbed
+  dumbing
+  dumbs
   duplicative
+  durian
+  durians
+  dustup
+  dustups
   dyad
   dyads
   dysregulation
+  earthlike
+  echinacea
+  electability
   electrochemical
+  ellipticals
   empanada
   empanadas
+  empathetically
+  empathic
+  employability
+  endnote
+  endnotes
+  enrollee
+  enrollees
+  entranceway
+  entranceways
+  epistemologies
   esthetician
   estheticians
   ethicist
   ethicists
+  evangelization
+  evenhandedness
   expectedly
+  explainer
+  explainers
   externalities
   externality
+  extraversion
+  eyepatch
+  eyewear
+  faceplate
+  faceplates
+  fadeout
+  fakery
   fandoms
   fanfic
   fanfics
+  fantasyland
+  farmworker
+  farmworkers
+  fava
+  favas
+  favela
+  favelas
   feedstock
   feedstocks
+  feistiness
+  feminization
   femme
   femmes
+  fenugreek
+  fetishize
+  fetishized
+  fetishizes
+  fetishizing
+  filmgoer
+  filmgoers
+  filmmaking
+  filmographies
+  filmography
   financials
   firebird
   firebirds
+  flatline
+  flatlined
+  flatlines
+  flatlining
+  flaxseed
+  flaxseeds
+  florals
+  focaccia
+  folate
+  foldable
   foodborne
+  frictionless
+  frittata
+  frittatas
   frontline
+  funder
+  funders
   gameplay
+  ganache
+  ganaches
+  gangbanger
+  gangbangers
   gaslighted
   gaslighting
   gaslit
+  gastroenterologist
+  gastroenterologists
+  gawker
+  gawkers
+  gelato
+  genderless
   generalizability
+  generalizable
+  genotype
+  genotypes
+  gesso
+  ghostlike
   giftedness
+  glute
+  glutes
   glyphs
+  golem
+  golems
+  gooseneck
+  grampa
   grandkid
   grandkids
+  gravesite
+  gravesites
   grayscale
   grayscales
+  grifter
+  grifters
+  groupthink
+  gunplay
+  habanero
+  habaneros
   habeas
+  hairstyling
+  halfpipe
+  halfpipes
+  handbasket
+  handgrip
+  handgrips
+  handoff
+  handoffs
+  handprint
+  handprints
   hatchling
   hatchlings
+  heartbreaker
+  heartbreakers
+  hearted
+  henhouse
+  henhouses
+  herbalism
+  highflier
+  highfliers
+  hollandaise
+  homebound
+  homebuilder
+  homebuilders
+  homebuilding
+  homeownership
   homeschool
   homeschooled
   homeschooler
   homeschoolers
   homeschools
+  homophobe
+  homophobes
+  hosta
+  hostas
+  hourlong
+  houseguest
+  houseguests
+  hugger
+  huggers
+  humanlike
   hydropower
   ideation
   ideations
+  immunocompromised
   impactful
+  improv
+  improvs
+  incentivize
+  incentivized
+  incentivizes
+  incentivizing
+  incongruent
+  industrials
   influencer
   influencers
+  inkjet
   interagency
+  interconnectedness
   intercut
   intercuts
   intercutting
   intergenerational
   intergroup
+  interpretable
+  interreligious
+  intimidator
+  intimidators
+  ironworker
+  ironworkers
+  jackfruit
+  jammer
+  jammers
+  jammies
+  jicama
+  jillion
+  jillions
+  jitter
+  jittered
+  jittering
+  jobseeker
+  jobseekers
+  jokester
+  jokesters
+  juju
+  jujus
+  kava
+  kayaker
+  kayakers
+  kendo
+  kimchi
+  kinesiology
+  kinesthetic
+  klezmer
+  lakeshore
+  lakeshores
   landers
+  landform
+  landforms
   largemouth
   largemouths
+  latke
+  latkes
   leaguer
   leaguers
+  leaker
+  leakers
+  lederhosen
+  lethality
+  liana
+  lianas
+  libertarianism
+  licensure
   liftgate
   liftgates
+  liminal
   livestream
   livestreamed
   livestreaming
   livestreams
+  lockbox
+  lockboxes
+  lockdown
+  lockdowns
   lowball
   lowballed
   lowballing
   lowballs
+  lowrider
+  lowriders
+  lucent
+  lycanthrope
+  lycanthropes
   macOS
+  machos
+  mailroom
+  mailrooms
+  maladaptive
+  malnourishment
+  mana
+  manicotti
   mansplain
   mansplained
   mansplainer
   mansplainers
   mansplaining
   mansplains
+  masa
+  masala
+  masas
+  mascarpone
   matchup
   matchups
+  materialities
+  materiality
+  meadowland
+  meadowlands
+  medevac
+  meerkat
+  meerkats
+  megacities
+  megacity
+  megastore
+  megastores
   melatonin
+  meltwater
+  meltwaters
+  mentee
+  mentees
+  merengue
+  merengues
+  metalhead
+  metalheads
   metalloid
   metalloids
   metaverse
@@ -1071,88 +1586,278 @@ New words, ok, added:
   microblogged
   microblogging
   microblogs
+  microbrew
+  microbrews
+  microclimate
+  microclimates
   microcontroller
   microcontrollers
+  microgram
+  micrograms
   microplastic
   midafternoon
+  midlevel
+  midline
   midmorning
+  midrange
   midseason
+  minidress
+  minidresses
+  mischaracterize
+  mischaracterized
+  mischaracterizes
+  mischaracterizing
+  misclassification
+  misclassifications
   misclick
   misclicked
   misclicking
   misclicks
+  misidentification
+  misidentifications
+  miso
+  misos
   misperception
   misperceptions
   mitzvahs
   mitzvot
   modi
   modus
+  mojo
+  moldable
+  monoculture
+  monocultures
+  monthlong
+  moolah
+  moonrise
+  moviemaker
+  moviemakers
+  moviemaking
   mucosa
+  mudhole
+  mudholes
+  multiculturalist
+  multiculturalists
   multiethnic
+  multifunctional
+  multigenerational
+  multilateralism
   multimillion
   multimillions
   multimodal
+  multitalented
   multitasked
   muni
   munis
+  nativism
+  nativist
+  nativists
+  neckwear
+  needlelike
   neoliberal
+  neoliberalism
+  netizen
+  netizens
   neurodivergent
   neurodiverse
   neurodiversity
+  neuroscientist
+  neuroscientists
   neurotypical
   neurotypicals
+  newish
   nitride
   nitrides
+  nitrous
   noir
   noirs
   nonbinary
+  noncitizen
+  noncitizens
+  noncommissioned
+  noncompliant
+  nonconfrontational
+  nonconsensual
+  nonfinancial
+  nonindigenous
+  nonmedical
   nonsignificant
   oppositional
+  orca
+  orcas
   ourself
+  outdoorsman
+  outdoorsmen
+  overanalyze
+  overanalyzed
+  overanalyzes
+  overanalyzing
+  overconsumption
+  overeducated
+  overfish
+  overfished
+  overfishes
+  overfishing
+  overpayment
+  overpayments
+  overprotection
+  overreliance
+  overrepresented
+  overstimulation
+  oxymoronic
+  pancetta
+  pangolin
+  pangolins
+  panini
   pansexual
   pansexuals
   parklet
   parklets
+  partygoer
+  partygoers
+  pashmina
+  pashminas
+  pathbreaking
+  paver
+  pavers
+  penne
+  perp
+  perps
   personalization
   personalizations
   personhood
+  photorealistic
+  phyllo
+  pixelated
+  playa
+  playas
+  playmaker
+  playmakers
+  playwriting
+  pleaser
+  pleasers
+  plotline
+  plotlines
+  poblano
+  poblanos
   podcaster
   podcasters
   polenta
   polentas
   policymaking
+  ponytailed
+  portobello
+  portobellos
+  positivities
+  positivity
+  postgame
+  postproduction
   postsecondary
   posttest
+  pounder
+  pounders
+  pouty
+  powertrain
+  praxis
   predation
   predations
+  preindustrial
+  premade
   preprogram
   preprogrammed
   preprogramming
   preprograms
   preservice
+  pressroom
+  printmaker
+  printmakers
+  profiler
+  profilers
+  prosecutorial
+  pseudoscientific
   psilocybin
+  pumpkinseed
+  pumpkinseeds
   quadrillionth
   quadrillionths
+  quant
+  quants
+  qubit
+  qubits
+  railcar
+  railcars
   ramen
+  rangeland
+  rangelands
   rearview
   reauthorization
   reauthorizations
+  rebar
+  rebars
+  rebounder
+  rebounders
+  recalibrate
+  recalibrated
+  recalibrates
+  recalibrating
+  reconfigures
+  reconfiguring
+  reconnection
+  reconnections
+  recordable
+  recycler
+  recyclers
+  redfish
   redshift
   redshifted
   redshifting
   redshifts
+  redshirt
+  reenergize
+  reengineer
+  reengineered
+  reengineering
+  reengineers
+  reflux
+  reformats
   refractor
   refractors
+  reframe
+  reframed
+  reframes
+  reframing
+  regionals
+  rehydrate
+  rehydrated
+  rehydrates
+  rehydrating
+  reimagine
+  reimagined
+  reimagines
+  reimagining
   reinitializes
   reinitializing
   reinstallation
   reinstallations
+  remodeler
+  remodelers
+  repo
   reportable
+  repos
   repurpose
   repurposes
   repurposing
+  reputational
+  rerelease
+  rereleases
   responder
   responders
+  retinol
+  retinols
+  retitle
+  retitled
+  retitles
+  retitling
   rewild
   rewilded
   rewilding
@@ -1161,51 +1866,162 @@ New words, ok, added:
   rheumatologist
   rheumatologists
   rheumatology
+  ricin
+  riddler
+  riddlers
+  ridgeline
+  ridgelines
+  roadless
   rockfish
+  rollout
+  rollouts
+  roomie
+  roti
+  rotis
   sanitization
   sanitizations
+  sarin
+  sashimi
+  sawteeth
+  sawtooth
+  sayonara
   scalable
   schooler
   schoolers
   screener
   screeners
+  sealable
+  seatback
+  seatbacks
+  seitan
+  selfhood
+  semiformal
+  sensationalistic
+  sensei
+  serendipitously
+  sexualize
+  sexualized
+  sexualizes
+  sexualizing
+  shaper
+  shapers
   shifter
   shifters
+  shoebox
+  shoeboxes
+  shoeless
+  shorthaired
+  showerhead
+  showerheads
   signifier
   signifiers
+  simp
+  simps
+  skybox
+  skyboxes
+  slimeball
+  slimeballs
   smallmouth
   smallmouths
+  snowmelt
+  snowpack
+  snowpacks
+  soaker
+  soakers
+  soba
   sociocultural
+  sociopathic
+  sommelier
+  sommeliers
   splitter
   splitters
   stablecoin
   stablecoins
   starship
   starships
+  statin
+  statins
   staycation
   staycations
   steelhead
   steelheads
+  stepfamilies
+  stepfamily
+  stepwise
+  stereotypically
   stim
   stimmed
   stimming
   stims
+  stimulator
+  stimulators
+  storyline
+  storylines
+  stovetop
+  stovetops
+  strategize
+  strategized
+  strategizes
+  strategizing
+  streambed
+  streambeds
+  strider
+  striders
+  stroganoff
   stupa
   stupas
+  subclasses
+  subfield
+  subfields
+  subgenre
+  subgenres
+  suboptimal
+  subregion
+  subregions
   subscale
   subscales
   subtest
   subtests
   subtype
   subtypes
+  sunlike
+  sunroom
+  sunrooms
+  superbug
+  superbugs
+  superfood
+  superfoods
+  supermajorities
+  supermajority
+  superrich
+  sutra
+  sutras
+  swingman
+  swingmen
+  switcheroo
+  switcheroos
+  tahini
+  tamari
+  taqueria
+  taquerias
+  tartlet
+  tartlets
   tastemaker
   tastemakers
+  teahouse
+  teahouses
+  telco
+  telcos
   telecom
   telecoms
+  tempeh
+  territorially
   themself
   there'll
+  thornless
   thruster
   thrusters
+  tikka
   tokamak
   tokamaks
   tokenization
@@ -1213,21 +2029,88 @@ New words, ok, added:
   tokenized
   tokenizes
   tokenizing
+  tomatillo
+  tomatillos
+  touchback
+  touchbacks
+  touchpad
+  touchpads
   tradable
   trailhead
   trailheads
   transformative
+  transgressive
+  trattoria
+  trattorias
   triages
   triaging
+  tricolored
+  trilingual
   tunable
+  tweeze
+  tweezed
+  tweezes
+  tweezing
+  unaffordable
+  unapologetically
   unapplied
+  unburned
+  uncertified
+  unchurched
+  uncompetitive
+  uncreative
+  uncredited
+  undead
+  undeliverable
+  underdressed
+  underperform
+  underperformed
+  underperforming
+  underperforms
+  underpowered
+  underprepared
+  underreport
+  underreported
+  underreporting
+  underreports
+  underrepresentation
   underserved
+  undiagnosed
+  unelected
+  unexamined
+  unexplainable
+  unexploded
+  unfussy
+  unglamorous
   unintuitive
   univariate
   unmoving
+  unranked
+  unselfconscious
+  unshaved
+  unsurprised
   unsynchronized
+  untaxed
+  untethered
+  unthreatening
+  untucked
+  updo
+  updos
+  uplink
+  uplinks
+  uptime
+  urbanite
+  urbanites
+  vampirism
+  velociraptor
+  velociraptors
+  verifiably
+  victimhood
   videoconference
   videoconferences
+  videographer
+  videographers
+  villainess
   vlog
   vlogged
   vlogger
@@ -1236,16 +2119,35 @@ New words, ok, added:
   vlogs
   voxel
   voxels
+  vroom
+  walkable
+  warrantless
+  waterless
+  waveforms
+  waypoint
+  waypoints
   weeklong
   wheatgrass
   where'd
   whomso
   whoseso
+  wildland
+  wildlands
+  windings
+  winemaking
+  winless
+  witchy
   wordlist
   wordlists
   workspaces
   y'know
-total: 448
+  yakuza
+  yellowfin
+  ziggurat
+  ziggurats
+  ziti
+  zombielike
+total: 1350
 
 New words, ok, all-upper lemma:
   ATMs
@@ -1302,6 +2204,8 @@ total: 50
 
 New words, ok, closed form of compound word:
   airgun
+  antiestablishment
+  baldheaded
   barcode
   barcodes
   boomtown
@@ -1312,6 +2216,7 @@ New words, ok, closed form of compound word:
   chowchow
   clearheadedness
   cornpone
+  cowritten
   crewneck
   crewnecks
   dodgeball
@@ -1339,7 +2244,7 @@ New words, ok, closed form of compound word:
   waterskiing
   wetsuit
   wetsuits
-total: 38
+total: 41
 
 New words, ok, in 2of12id:
   attaches
@@ -1362,12 +2267,14 @@ New words, ok, in 2of12id:
   collateralized
   collateralizes
   collateralizing
+  crawfish
   donut
   downscaled
   downscales
   downscaling
   fete
   fetes
+  gangly
   gelcaps
   geysered
   geysering
@@ -1393,7 +2300,10 @@ New words, ok, in 2of12id:
   julienning
   kindergartner
   kindergartners
+  largesse
   lipreaders
+  loch
+  lochs
   lovechildren
   meagerer
   meagerest
@@ -1412,6 +2322,7 @@ New words, ok, in 2of12id:
   outplacing
   overspilled
   pantyliners
+  plexiglass
   pronominals
   protostats
   recastings
@@ -1421,9 +2332,14 @@ New words, ok, in 2of12id:
   shinguards
   silkscreened
   silkscreening
+  snigger
+  sniggered
+  sniggering
+  sniggers
   spinoff
   spinoffs
   teenaged
+  teensy
   thumpings
   virtuosos
   weirded
@@ -1431,7 +2347,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 89
+total: 100
 
 New words, ok, other:
   Curaçao
