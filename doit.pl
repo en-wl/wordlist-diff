@@ -150,6 +150,10 @@ foreach my $c (@commits) {
                 sys "cp ../scowl.txt ../comp-60.txt .";
                 sys "git update-index --add scowl.txt comp-60.txt";
             }
+            if (-e '../Copyright') {
+                sys "cp ../Copyright .";
+                sys "git update-index --add Copyright";
+            }
         };
         $err = $@;
         chdir $dir or die;

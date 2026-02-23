@@ -45,3 +45,5 @@ finding commits easier.
 
 This entire repository may be redone from time to time so the commits
 ids are not stable.
+
+The actual code that generates these commits lives under the `code` branch.
