@@ -960,6 +960,9 @@ New words, ok, added:
   deserialized
   deserializes
   deserializing
+  doomer
+  doomers
+  doomscrolling
   dox
   doxed
   doxes
@@ -1143,6 +1146,10 @@ New words, ok, added:
   repurposing
   responder
   responders
+  rewild
+  rewilded
+  rewilding
+  rewilds
   rewritable
   rheumatologist
   rheumatologists
@@ -1206,6 +1213,7 @@ New words, ok, added:
   triages
   triaging
   tunable
+  unapplied
   underserved
   unintuitive
   univariate
@@ -1230,7 +1238,7 @@ New words, ok, added:
   wordlists
   workspaces
   y'know
-total: 433
+total: 441
 
 New words, ok, all-upper lemma:
   ATMs

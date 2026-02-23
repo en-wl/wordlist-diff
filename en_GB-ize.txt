@@ -43706,10 +43706,14 @@ doolally
 doom
 doomed
 doomed's
+doomer
+doomer's
+doomers
 dooming
 dooms
 doomsayer
 doomsayers
+doomscrolling
 doomsday
 doomster
 doomsters
@@ -85891,6 +85895,10 @@ reweigh
 reweighed
 reweighing
 reweighs
+rewild
+rewilded
+rewilding
+rewilds
 rewind
 rewindable
 rewinding
@@ -101914,6 +101922,7 @@ unapparent
 unappealing
 unappealingly
 unappetizing
+unapplied
 unappreciated
 unappreciative
 unapproachable

@@ -109625,6 +109625,10 @@
 
 35 [ukfreq] 40: doomed <aj>
 
+60 [+]: doomer <n>: doomers, doomer's
+
+70 [+]: doomerism <n>
+
 80: doomful
 
 80: doomfully
@@ -109634,6 +109638,8 @@
 60: doomsayer <n>: doomsayers
 
 80: doomsaying <n>: doomsayings
+
+60 [+]: doomscrolling <n>
 
 40: doomsday <n>
 80: - <n>: doomsdays~
@@ -324888,6 +324894,8 @@
 
 80: rewiden <m>: rewidened, rewidening, rewidens
 
+60 [extra]: rewild <v>: rewilded, rewilding, rewilds
+
 80: rewin <m>: rewon, rewinning, rewins
 
 35 [ukfreq] 40: rewind <n_v>: -, -, -
@@ -405109,7 +405117,7 @@
 
 85 [ukacd]: unapplicable
 
-85 [ukacd]: unapplied
+60 [extra] 85 [ukacd]: unapplied <aj>
 
 85 [ukacd]: unappointed
 
