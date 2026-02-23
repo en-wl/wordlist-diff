@@ -4059,7 +4059,8 @@
 
 35: adjust <v>: adjusted, adjusting, adjusts
 
-80: adjustability <n>: adjustabilities
+60 [coca-llm] 80: adjustability <n>
+80: - <n>: adjustabilities
 
 35: adjustable <aj>
 
@@ -15392,7 +15393,7 @@
 
 80: antiatom <n>: antiatoms
 
-80: antiauthoritarian <aj>
+60 [coca-llm] 80: antiauthoritarian <aj>
 
 80: antiauthoritarianism <n>: antiauthoritarianisms
 
@@ -16096,9 +16097,9 @@
 
 85 [ukacd]: antimetathesis
 
-60: antimicrobial <aj>
+60 [coca-llm] 80: -antimicrobial <n>: antimicrobials
 
-80: -antimicrobial <n>: antimicrobials
+60: antimicrobial <aj>
 
 70 [5desk] 80: antimilitarism <n>: antimilitarisms
 
@@ -18935,7 +18936,8 @@
 
 80: arabic
 
-80: arabica <n>: arabicas
+60 [coca-llm] 80: arabica <n>
+80: - <n>: arabicas
 
 80: arabicization <n>: arabicizations
 
@@ -21637,7 +21639,7 @@
 
 70 [3of6] 85 [ukacd]: as a matter of fact <av>
 
-80: asana <n>: asanas
+60 [coca-llm] 80: asana <n>: asanas
 
 80 [upper]: Asante <n/upper?>: Asantes
 
@@ -27627,7 +27629,9 @@
 
 80: backfit <m>: backfitted, backfitting, backfits
 
-80: backflip <n_v>: backflipped, backflipping, backflips
+60 [coca-llm] 80: backflip <n>: backflips
+
+80: backflip <v>: backflipped, backflipping, backflips
 
 60 [coca-llm] 70 [moby] 80: backflow <n>
 70 [moby] 80: - <n>: backflows
@@ -27828,7 +27832,7 @@
 
 60 [coca-llm] 80: backsplash <n>: backsplashes
 
-80: backstab <m>: backstabbed, backstabbing, backstabs
+60 [coca-llm] 80: backstab <v>: backstabbed, backstabbing, backstabs
 
 60: backstabber <n>: backstabbers
 
@@ -28999,7 +29003,7 @@
 
 80 [moby]: Ballentine <n/place>
 
-80: baller <n>: ballers
+60 [coca-llm] 80: baller <n>: ballers
 
 35: ballerina <n>: ballerinas, ballerina's
 
@@ -30932,7 +30936,7 @@
 
 80 [moby]: Bartelso <n/place>
 
-80: bartend <m>: bartended, bartending, bartends
+60 [coca-llm] 80: bartend <v>: bartended, bartending, bartends
 
 35: bartender <n>: bartenders, bartender's
 
@@ -32289,7 +32293,7 @@
 60 [brif] 70 [3of6] 80: beachfront <n>
 80: - <n>: beachfronts-
 
-80: beachgoer <n>: beachgoers
+60 [coca-llm] 80: beachgoer <n>: beachgoers
 
 70 [moby]: beach grass <n>
 
@@ -32310,7 +32314,8 @@
 
 80 [moby]: Beachwood <n/place>
 
-80: beachy <a>: beachier, beachiest
+60 [coca-llm] 80: beachy <aj>
+80: - <aj>: beachier, beachiest
 
 35: beacon <n>: beacons, beacon's
 
@@ -33887,7 +33892,7 @@
 
 85 [ukacd]: bejesuit <m>: bejesuited, bejesuiting, bejesuits
 
-80: bejesus
+60 [coca-llm] 80: bejesus <n>
 
 60: bejewel <v>: (A: bejeweled | B: bejewelled), (A: bejeweling | B: bejewelling), bejewels
 
@@ -37984,7 +37989,7 @@
 
 70 [moby] 80: bioluminescence <n>: bioluminescences
 
-80: bioluminescent <aj>
+60 [coca-llm] 80: bioluminescent <aj>
 
 70 [moby] 80: biolysis <n>: biolyses
 
@@ -38403,7 +38408,7 @@
 
 35 [ukfreq] 60 [brif] 70 [3of6] [moby] 80: birdcage <n>: birdcages
 
-80: birdcall <n>: birdcalls
+60 [coca-llm] 80: birdcall <n>: birdcalls
 
 70 [moby]: bird cherry <n>
 
@@ -39587,7 +39592,7 @@
 
 80: bladelet <n>: bladelets
 
-80: bladelike <aj>
+60 [coca-llm] 80: bladelike <aj>
 
 80 [moby]: Bladen <n/place>
 
@@ -40023,7 +40028,8 @@
 
 85 [ukacd]: blawort <n>: blaworts
 
-80: blaxploitation <n>: blaxploitations
+60 [coca-llm] 80: blaxploitation <n>
+80: - <n>: blaxploitations
 
 85 [ukacd]: blay <n>: blays
 
@@ -40039,7 +40045,7 @@
 
 35 [ukfreq] 70 [3of6] [5desk] 80: blazing <aj>
 
-80: blazingly
+60 [coca-llm] 80: blazingly <av>
 
 70 [moby] 85 [ukacd]: blazing star <n>: blazing stars
 
@@ -40980,7 +40986,8 @@
 
 35: blow <n_v>: (blew | -: blowed), (blown | -: blowed), blowing, blows, blow's
 
-80: blowback <n>: blowbacks
+60 [coca-llm] 80: blowback <n>
+80: - <n>: blowbacks
 
 85 [stale] [ukacd]: blowball <n>: blowballs
 
@@ -42270,7 +42277,7 @@
 80: _=: boil off <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: boing <n>: boings
+60 [coca-llm] 80: boing <n>: boings
 
 85 [ukacd]: !boing <v>: boinged, boinging, boings
 
@@ -43598,7 +43605,7 @@
 
 50: borderland <n>: borderlands
 
-85 [ukacd]: borderless
+60 [coca-llm] 85 [ukacd]: borderless <aj>
 
 35: _: borderline <n>: borderlines
 35: _v: border line <n>
@@ -44286,7 +44293,8 @@
 
 80: boulderer <n>: boulderers
 
-80: bouldering <n>: boulderings
+60 [coca-llm] 80: bouldering <n>
+80: - <n>: boulderings
 
 80: bouldery <aj>
 
@@ -45446,7 +45454,7 @@
 
 70 [moby] 85 [ukacd]: brain fever <n>
 
-80: brainiac <n>: brainiacs
+60 [coca-llm] 80: brainiac <n>: brainiacs
 
 80: brainily
 
@@ -51507,7 +51515,7 @@
 40: _V: buzz word <n>: buzz words
 ## Compound variant levels are a best guess based on freq and other related info.
 
-85 [ukacd]: buzzy
+60 [coca-llm] 85 [ukacd]: buzzy <aj>
 
 80 [moby]: B.V. <abbr>
 
@@ -51556,7 +51564,8 @@
 70 [moby] 85 [ukacd]: by-blow <n>: by-blows
 70 [moby]: - <n>: by-blow's
 
-85 [ukacd]: bycatch <n>: bycatches
+60 [coca-llm] 85 [ukacd]: bycatch <n>
+85 [ukacd]: - <n>: bycatches
 
 85 [ukacd]: bycoket <n>: bycokets
 
@@ -54182,7 +54191,7 @@
 
 50: Campos <n/surname>: Campos's
 
-80: campout <n>: campouts
+60 [coca-llm] 80: campout <n>: campouts
 
 40: campsite <n>: campsites
 
@@ -54792,7 +54801,7 @@
 
 70 [moby]: cannel coal <n>
 
-85 [ukacd]: cannellini
+60 [coca-llm] 85 [ukacd]: cannellini <n>
 
 85 [ukacd]: cannellini beans
 
@@ -56184,7 +56193,8 @@
 
 80 [moby]: Carbonado <n/place>
 
-80: carbonara <n>: carbonaras
+60 [coca-llm] 80: carbonara <n>
+80: - <n>: carbonaras
 
 70 [moby] 85 [ukacd]: Carbonari </upper?>
 
@@ -57716,7 +57726,7 @@
 
 35: cartoonist <n>: cartoonists, cartoonist's
 
-80: cartoonlike
+60 [coca-llm] 80: cartoonlike <aj>
 
 70 [5desk] 80: cartoony
 
@@ -58812,7 +58822,7 @@
 
 60: catch-22
 
-80: catchable
+60 [coca-llm] 80: catchable <aj>
 
 50: _: catchall <n>: catchalls
 50: _?: catch-all <n>: catch-alls
@@ -61696,7 +61706,8 @@
 
 70 [3of6] 80: chagrined <aj>
 
-85 [ukacd]: chai <n>: chais
+60 [coca-llm] 85 [ukacd]: chai <n>
+85 [ukacd]: - <n>: chais
 
 35: chain <n_v>: chained, chaining, chains, chain's
 
@@ -63737,7 +63748,7 @@
 60: _V: cheese-paring <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80 [3of6]: cheesesteak <n>: cheesesteaks
+60 [coca-llm] 80 [3of6]: cheesesteak <n>: cheesesteaks
 
 85 [ukacd]: cheesetaster <n>: cheesetasters
 
@@ -65109,7 +65120,7 @@
 
 70 [3of6] [5desk] 80: chimes
 
-80: chimichanga <n>: chimichangas
+60 [coca-llm] 80: chimichanga <n>: chimichangas
 
 85 [stale]: chimla <n>: chimlas
 
@@ -65415,7 +65426,7 @@
 ## is the standard in Australia and New Zealand and preferred in
 ## the UK.
 
-80: chipset <n>: chipsets
+60 [coca-llm] 80: chipset <n>: chipsets
 
 70 [3of6] 85 [ukacd]: chip shop <n>: chip shops
 
@@ -66001,7 +66012,7 @@
 
 70 [moby] 85 [ukacd]: choke-full <aj>
 
-80: chokehold <n>: chokeholds
+60 [coca-llm] 80: chokehold <n>: chokeholds
 
 80: chokepoint <n>: chokepoints
 
@@ -67444,7 +67455,7 @@
 
 80 [upper]: Churrigueresque </upper?>
 
-80: churro <n>: churros
+60 [coca-llm] 80: churro <n>: churros
 
 85 [ukacd]: churrus
 
@@ -68633,7 +68644,7 @@
 
 60 US [town]: Citrus Springs <n/place>: Citrus Springs's
 
-80: citrusy
+60 [coca-llm] 80: citrusy <aj>
 
 70 [moby] 80: cittern <n>: citterns
 
@@ -71165,7 +71176,7 @@
 
 85 [ukacd]: cluelessly
 
-85 [ukacd]: cluelessness
+60 [coca-llm] 85 [ukacd]: cluelessness <n>
 
 80: clumber <n>: clumbers
 
@@ -72423,7 +72434,7 @@
 
 85 [stale]: codebtor <n>: codebtors
 
-80: codec <n>: codecs
+60 [coca-llm] 80: codec <n>: codecs
 
 70 [moby] 80: codeclination <n>: codeclinations
 
@@ -73298,7 +73309,7 @@
 
 80: cojoin <m>: cojoined, cojoining, cojoins
 
-80: cojones
+60 [coca-llm] 80: cojones <n>
 
 80 [moby]: Cokato <n/place>
 
@@ -81245,7 +81256,9 @@
 
 85 [ukacd]: coparcenery <n>: coparceneries
 
-80: coparent <m>: coparented, coparenting, coparents
+60 [coca-llm] 80: coparent <n>: coparents
+
+80: coparent <v>: coparented, coparenting, coparents
 
 70 [5desk] [moby] 80: copartner <n>: copartners
 70 [5desk] [moby]: - <n>: copartner's
@@ -88556,7 +88569,7 @@
 60: crustiness <n>
 80: - <n>: crustinesses~
 
-80: crustless
+60 [coca-llm] 80: crustless <aj>
 
 80: crustose <aj>
 
@@ -94063,7 +94076,9 @@
 
 50: dead letter <n>: dead letters
 
-80: deadlift <m>: deadlifted, deadlifting, deadlifts
+60 [coca-llm] 80: deadlift <n>: deadlifts
+
+80: deadlift <v>: deadlifted, deadlifting, deadlifts
 
 85 [ukacd]: dead-lift <n>: dead-lifts
 
@@ -96033,7 +96048,7 @@
 70 [3of6] 80: defaming <n>
 85 [ukacd]: - <n>: defamings!
 
-80: defang <v>: defanged, defanging, defangs
+60 [coca-llm] 80: defang <v>: defanged, defanging, defangs
 
 80: defat <v>: defatted, defatting, defats
 
@@ -96531,7 +96546,7 @@
 
 80: defunctness <n>: defunctnesses
 
-80: defund <m>: defunded, defunding, defunds
+60 [coca-llm] 80: defund <v>: defunded, defunding, defunds
 
 40: defuse <v>: defused, defusing, defuses
 
@@ -99813,7 +99828,7 @@
 
 70 [moby] 80: designedly <av>
 
-80: designee <n>: designees
+60 [coca-llm] 80: designee <n>: designees
 
 35: designer <n>: designers, designer's
 
@@ -104344,7 +104359,7 @@
 
 85 [ukacd]: !dirt <aj>
 
-80: dirtbag <n>: dirtbags
+60 [coca-llm] 80: dirtbag <n>: dirtbags
 
 50 hacker: dirtball <n>: dirtballs
 
@@ -106005,7 +106020,7 @@
 
 80: disinvitation <n>: disinvitations
 
-80: disinvite <m>: disinvited, disinviting, disinvites
+60 [coca-llm] 80: disinvite <v>: disinvited, disinviting, disinvites
 
 85 [ukacd]: disinvolve <v>: disinvolved, disinvolving, disinvolves
 
@@ -108921,7 +108936,8 @@
 50: do-it-yourselfer <n>
 65: - <n>: do-it-yourselfers-
 
-80: dojo <n>: dojos
+60 [coca-llm] 80: dojo <n>
+80: - <n>: dojos
 
 70 [moby] 85 [stale]: dol <n>: dols
 
@@ -111532,7 +111548,7 @@
 50 [name] 70 [moby] 85 [ukacd]: Drambuie <n/name?>
 50 [name] 70 [moby]: - <n/name?>: Drambuie's
 
-80: dramedy <n>: dramedies
+60 [coca-llm] 80: dramedy <n>: dramedies
 
 85 [ukacd]: drammach <n>: drammachs
 
@@ -112194,7 +112210,7 @@
 
 70 [moby]: driver ant <n>: driver ant's
 
-80: driverless
+60 [coca-llm] 80: driverless <aj>
 
 70 [3of6]: driver's licence <n>: driver's licences
 
@@ -115369,7 +115385,7 @@
 70 [moby] 80: _V: ear-witness <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: earworm <n>: earworms
+60 [coca-llm] 80: earworm <n>: earworms
 
 85 [ukacd]: eas <m>: eased†, easing†, eases†
 
@@ -137133,7 +137149,7 @@
 
 50: fingering <n>: fingerings
 
-85 [ukacd]: fingerless <aj>
+60 [coca-llm] 85 [ukacd]: fingerless <aj>
 
 85 [ukacd]: fingerlickin'
 
@@ -137967,7 +137983,7 @@
 
 80: fishless
 
-80: fishlike
+60 [coca-llm] 80: fishlike <aj>
 
 80: fishline <n>: fishlines
 
@@ -140166,7 +140182,7 @@
 
 85 [ukacd]: flourishy
 
-80: flourless
+60 [coca-llm] 80: flourless <aj>
 
 70 [moby] 85 [ukacd]: flour mill <n>
 
@@ -147727,7 +147743,8 @@
 80: - <v>: fusilladed, fusillading, -
 85 [ukacd]: -fusillade <v>: -, -, fusillades
 
-80: fusilli <n>: fusillis
+60 [coca-llm] 80: fusilli <n>
+80: - <n>: fusillis
 
 35: fusion <n>: fusion's
 70 [3of6] 80: - <n>: fusions~
@@ -150401,7 +150418,7 @@
 60: _-: gate-keeper <n>: gate-keepers
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: gatekeeping
+60 [coca-llm] 80: gatekeeping <aj>
 
 85 [ukacd]: gateleg
 
@@ -155927,8 +155944,10 @@
 50: _-: goal-tender <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: _: goaltending <n>: goaltendings
-80: _V: goal-tending <n>
+60 [coca-llm] 80: _: goaltending <n>
+60 [coca-llm] 80: _V: goal-tending <n>
+80: _: - <n>: goaltendings
+80: _V: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 80: goalward
@@ -158523,7 +158542,7 @@
 60: _V: grand-aunt <n>: grand-aunts
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: grandbaby <n>: grandbabies
+60 [coca-llm] 80: grandbaby <n>: grandbabies
 
 60: Grand Banks </upper?>
 
@@ -164398,7 +164417,7 @@
 
 70 [3of6] [moby] 85 [ukacd]: half-light <n>
 
-85 [ukacd]: halfling <n>: halflings
+60 [coca-llm] 85 [ukacd]: halfling <n>: halflings
 
 35: half-mast <n>
 
@@ -166345,7 +166364,8 @@
 
 85 [ukacd]: harish
 
-80: harissa <n>: harissas
+60 [coca-llm] 80: harissa <n>
+80: - <n>: harissas
 
 35: hark <v>: harked, harking, harks
 
@@ -167966,7 +167986,7 @@
 
 60: headship <n>: headships
 
-80: headshot <n>: headshots
+60 [coca-llm] 80: headshot <n>: headshots
 
 70 [5desk]: headshrink
 
@@ -167978,7 +167998,8 @@
 
 70 [moby] 85 [ukacd]: heads or tails
 
-80: headspace <n>: headspaces
+60 [coca-llm] 80: headspace <n>
+80: - <n>: headspaces
 
 70 [moby] 80: headspring <n>: headsprings
 
@@ -168031,7 +168052,7 @@
 35: headway <n>
 80: - <n>: headways~
 
-80: headwear
+60 [coca-llm] 80: headwear <n>
 
 40: _: headwind <n>: headwinds
 40: _v: head wind <n>
@@ -177636,7 +177657,7 @@
 
 70 [moby] 85 [ukacd]: hound's-tongue <n>
 
-85 [ukacd]: houndstooth
+60 [coca-llm] 85 [ukacd]: houndstooth <n>
 
 80: houndy
 
@@ -178439,7 +178460,7 @@
 
 80 [moby]: Huger <n/place>
 
-80: huggable
+60 [coca-llm] 80: huggable <aj>
 
 60 [coca-llm] 70 [5desk] 80: hugger <n>: huggers
 70 [5desk]: - <n>: hugger's
@@ -182222,7 +182243,7 @@
 
 70 [moby]: ice machine <n>
 
-80: icemaker <n>: icemakers
+60 [coca-llm] 80: icemaker <n>: icemakers
 
 60: iceman <n>: icemen, iceman's, icemen's
 
@@ -188929,7 +188950,7 @@
 
 80: infantilization <n>: infantilizations
 
-80: infantilize <m>: infantilized, infantilizing, infantilizes
+60 [coca-llm] 80: infantilize <v>: infantilized, infantilizing, infantilizes
 
 70 [moby] 80: infantine
 
@@ -190358,7 +190379,7 @@
 
 35 [ukfreq] 40: innovative <aj>
 
-80: innovatively
+60 [coca-llm] 80: innovatively <av>
 
 80: innovativeness <n>: innovativenesses
 
@@ -191003,7 +191024,7 @@
 
 50: insightful <aj>
 
-80: insightfully
+60 [coca-llm] 80: insightfully <av>
 
 70 [5desk] 80: insightfulness <n>: insightfulnesses
 
@@ -201177,9 +201198,9 @@
 
 80: jujuist <n>: jujuists
 
-70 [5desk] 80: juke <n>: jukes
+60 [coca-llm] 80: -juke <v>: juked, juking, jukes
 
-80: -juke <v>: juked, juking, jukes
+70 [5desk] 80: juke <n>: jukes
 
 40: _: jukebox <n>: jukeboxes
 40: _v: juke box <n>
@@ -203980,7 +204001,8 @@
 
 85 [ukacd]: keta <n>: ketas
 
-80: ketamine <n>: ketamines
+60 [coca-llm] 80: ketamine <n>
+80: - <n>: ketamines
 
 50: ketch <n>: ketches
 
@@ -204118,7 +204140,7 @@
 
 80 [moby]: Keylargo <n/place>
 
-80: keyless <aj>
+60 [coca-llm] 80: keyless <aj>
 
 85 [ukacd]: keyline <n>: keylines
 
@@ -206509,7 +206531,8 @@
 
 35: knuckle <n_v>: knuckled, knuckling, knuckles
 
-80: knuckleball <n>: knuckleballs
+60 [coca-llm] 80: knuckleball <n>
+80: - <n>: knuckleballs
 
 80: knuckleballer <n>: knuckleballers
 
@@ -211993,7 +212016,7 @@
 
 35: leader <n>: leaders, leader's
 
-80: leaderboard <n>: leaderboards
+60 [coca-llm] 80: leaderboard <n>: leaderboards
 
 85 [ukacd]: leaderene <n>: leaderenes
 
@@ -212188,7 +212211,7 @@
 
 80: leakless
 
-80: leakproof <aj>
+60 [coca-llm] 80: leakproof <aj>
 
 35 [ukfreq] 40: leaky <aj>
 40: - <aj>: leakier, leakiest
@@ -215190,7 +215213,8 @@
 
 80: -lid <v>: lidded, lidding, lids
 
-80: lidar <n>: lidars
+60 [coca-llm] 80: lidar <n>
+80: - <n>: lidars
 
 50: lidded <aj>
 
@@ -222298,9 +222322,10 @@
 
 70 [5desk] 80: luxation <n>: luxations
 
-70 [5desk] [moby] 80: luxe <aj>
+60 [coca-llm] 85 [ukacd]: !luxe <n>
+85 [ukacd]: - <n>: luxes†
 
-85 [ukacd]: !luxe <n>: luxes†
+70 [5desk] [moby] 80: luxe <aj>
 
 50: Luxembourg <n/place>: Luxembourg's
 
@@ -228998,7 +229023,7 @@
 
 70 [3of6] 85 [ukacd]: massage parlour <n>: massage parlours
 
-80: massager <n>: massagers
+60 [coca-llm] 80: massager <n>: massagers
 
 85 [ukacd]: massagist <n>: massagists
 
@@ -231880,7 +231905,7 @@
 
 50: megahertz <n>: (megahertz | ~: megahertzes)
 
-80: megahit <n>: megahits
+60 [coca-llm] 80: megahit <n>: megahits
 
 60 [extra]: _: mega-influencer <n>: mega-influencers, mega-influencer's
 60 [extra]: _v: megainfluencer <n>: megainfluencers, megainfluencer's
@@ -234446,7 +234471,7 @@
 
 35: metallic <aj>
 
-80: -metallic <n>: metallics
+60 [coca-llm] 80: -metallic <n>: metallics
 
 50 [name]: Metallica <n/name?>: Metallica's
 
@@ -238065,7 +238090,7 @@
 
 80 [moby]: Mineville <n/place>
 
-80: mineworker <n>: mineworkers
+60 [coca-llm] 80: mineworker <n>: mineworkers
 
 80 [moby]: Minford <n/place>
 
@@ -239014,8 +239039,8 @@
 
 80: mischannel <m>: (mischanneled | mischannelled), (mischanneling | mischannelling), mischannels #! unmarked variants: mischanneled, mischannelled, mischanneling, mischannelling
 
-80: A Z: mischaracterization <n>: mischaracterizations
-80: B: mischaracterisation <n>: mischaracterisations
+60 [coca-llm] 80: A Z: mischaracterization <n>: mischaracterizations
+60 [coca-llm] 80: B: mischaracterisation <n>: mischaracterisations
 
 60 [coca-llm] 70 [5desk] 80: A Z: mischaracterize <v>: mischaracterized, mischaracterizing, mischaracterizes
 #! missing spellings: B D
@@ -239237,7 +239262,8 @@
 
 70 [5desk] 80: miseducate <m>: miseducated, miseducating, miseducates
 
-80: miseducation <n>: miseducations
+60 [coca-llm] 80: miseducation <n>
+80: - <n>: miseducations
 
 60: mise-en-scène <n> # accented
 60: _~: mise-en-scene <n> # need-accent
@@ -240117,7 +240143,7 @@
 50 [ukfreq] 70 [5desk] [moby] 80: - <v>: mistranslated, -, -
 70 [5desk] [moby] 80: mistranslate <v>: -, mistranslating, mistranslates
 
-80: mistranslation <n>: mistranslations
+60 [coca-llm] 80: mistranslation <n>: mistranslations
 
 85 [ukacd]: mistreading
 
@@ -241113,7 +241139,7 @@
 
 70 [moby]: modulus of rigidity <n>
 
-60 [coca] 85 [stale] [ukacd]: modus <n>: (modi | V: moduses)
+60 [coca-llm] [coca] 85 [stale] [ukacd]: modus <n>: (modi | V: moduses)
 
 50: modus operandi <n>
 
@@ -245364,7 +245390,8 @@
 
 60: moviegoer <n>: moviegoers, moviegoer's
 
-80: moviegoing <n>: moviegoings
+60 [coca-llm] 80: moviegoing <n>
+80: - <n>: moviegoings
 
 70 [moby]: movie house <n>
 
@@ -245877,7 +245904,7 @@
 60: _v: mud flat <n>: mud flats
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: mudflow <n>: mudflows
+60 [coca-llm] 80: mudflow <n>: mudflows
 
 85 [ukacd]: mudge <m>: mudged, mudging, mudges
 
@@ -246808,7 +246835,7 @@
 
 80: multiprogramming <n>: multiprogrammings
 
-80: multipronged
+60 [coca-llm] 80: multipronged <aj>
 
 50: multipurpose <aj>
 
@@ -249801,7 +249828,7 @@
 
 50 [name] 70 [5desk]: Napster <n/name?>: Napster's
 
-80: naptime <n>: naptimes
+60 [coca-llm] 80: naptime <n>: naptimes
 
 80 [moby]: Naranjito <n/place>
 
@@ -249847,7 +249874,7 @@
 
 80: narcist <n>: narcists
 
-80: narco <n>: narcos
+60 [coca-llm] 80: narco <n>: narcos
 
 80 [moby]: narco <pre>
 
@@ -251955,7 +251982,8 @@
 
 50 [+] 70 [3of6] 80: neocon <a>
 
-80: neoconservatism <n>: neoconservatisms
+60 [coca-llm] 80: neoconservatism <n>
+80: - <n>: neoconservatisms
 
 50 [+] 60: neoconservative <n>: neoconservatives, neoconservative's
 
@@ -252733,7 +252761,7 @@
 
 35: network <a>
 
-80: networker <n>: networkers
+60 [coca-llm] 80: networker <n>: networkers
 
 35 [ukfreq] 50: networking <n>
 50: - <n>: networking's
@@ -253550,7 +253578,7 @@
 
 80 [upper]: Newspeak <n/upper?>: Newspeaks
 
-80: newsperson <n>: (newspeople | newspersons) #! unmarked variants: newspeople, newspersons
+60 [coca-llm] 80: newsperson <n>: (newspeople | newspersons) #! unmarked variants: newspeople, newspersons
 
 35: newsprint <n>
 80: - <n>: newsprints~
@@ -253581,7 +253609,7 @@
 
 60: newsweekly <n>: newsweeklies
 
-80: newswire <n>: newswires
+60 [coca-llm] 80: newswire <n>: newswires
 
 60: newswoman <n>: newswomen, newswoman's, newswomen's
 
@@ -255861,7 +255889,7 @@
 
 70 [moby] 85 [ukacd]: nonanoic acid
 
-80: nonanswer <n>: nonanswers
+60 [coca-llm] 80: nonanswer <n>: nonanswers
 
 80: nonantagonistic
 
@@ -257716,7 +257744,7 @@
 
 80: nonmoney
 
-80: nonmonogamous
+60 [coca-llm] 80: nonmonogamous <aj>
 
 70 [5desk] [moby] 80: _: nonmoral
 70 [5desk] [moby] 80: _?: non-moral
@@ -259134,7 +259162,7 @@
 
 70 [moby] 85 [ukacd]: Norge <n/place>
 
-80: nori <n>: noris
+60 [coca-llm] 80: nori <n>: noris
 
 70 [moby] 80: noria <n>: norias
 
@@ -260866,7 +260894,7 @@
 
 70 [3of6] [moby] 80: numbing <aj>
 
-80: numbingly
+60 [coca-llm] 80: numbingly <av>
 
 70 [moby] 80: numbles
 
@@ -263825,7 +263853,7 @@
 
 50: offside <aj_av>
 
-85 [ukacd]: !offside <n>
+60 [coca-llm] 85 [ukacd]: !offside <n>
 
 85 [ukacd]: offsider
 
@@ -265992,7 +266020,8 @@
 
 70 [5desk] [moby] 80: oology <n>: oologies
 
-80: oolong <n>: oolongs
+60 [coca-llm] 80: oolong <n>
+80: - <n>: oolongs
 
 80 [moby]: Ooltewah <n/place>
 
@@ -269711,7 +269740,8 @@
 
 35: outcome <n>: outcomes
 
-80: outcompete <m>: outcompeted, outcompeting, outcompetes
+60 [coca-llm] 80: outcompete <v>
+80: - <v>: outcompeted, outcompeting, outcompetes
 
 85 [stale]: outcook <m>: outcooked, outcooking, outcooks
 
@@ -271202,7 +271232,8 @@
 
 80: overcommercialize <m>: overcommercialized, overcommercializing, overcommercializes
 
-80: overcommit <m>: overcommitted, overcommitting, overcommits
+60 [coca-llm] 80: overcommit <v>
+80: - <v>: overcommitted, overcommitting, overcommits
 
 80: overcommitment <n>: overcommitments
 
@@ -271270,7 +271301,7 @@
 70 [5desk] 80: _V: over-cool <m>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: overcorrect <m>: overcorrected, overcorrecting, overcorrects
+60 [coca-llm] 80: overcorrect <v>: overcorrected, overcorrecting, overcorrects
 
 80: overcorrection <n>: overcorrections
 
@@ -271810,7 +271841,7 @@
 
 70 [5desk]: overhurried
 
-80: overhype <m>: overhyped, overhyping, overhypes
+60 [coca-llm] 80: overhype <v>: overhyped, overhyping, overhypes
 
 70 [5desk] 80: overidealistic
 
@@ -272276,7 +272307,8 @@
 
 70 [5desk]: overprominent
 
-80: overpromise <m>: overpromised, overpromising, overpromises
+60 [coca-llm] 80: overpromise <v>
+80: - <v>: overpromised, overpromising, overpromises
 
 80: overpromote <m>: overpromoted, overpromoting, overpromotes
 
@@ -280563,7 +280595,7 @@
 
 80: pearlescence <n>: pearlescences
 
-80: pearlescent <aj>
+60 [coca-llm] 80: pearlescent <aj>
 
 70 [moby]: pearl gray <aj>
 
@@ -281654,7 +281686,8 @@
 
 85 [ukacd]: pelotherapy
 
-85 [ukacd]: peloton <n>: pelota
+60 [coca-llm] 85 [ukacd]: peloton <n>
+85 [ukacd]: - <n>: pelota
 
 80 [moby]: Pelsor <n/place>
 
@@ -288565,7 +288598,7 @@
 70 [moby] 85 [ukacd]: piccaninny <n>: piccaninnies
 70 [moby]: - <n>: piccaninny's
 
-80: piccata
+60 [coca-llm] 80: piccata <n>
 
 35: piccolo <n>: piccolos
 
@@ -289081,7 +289114,7 @@
 
 85 [ukacd]: Piero della Francesca </upper?>
 
-80: pierogi <n>: pierogies
+60 [coca-llm] 80: pierogi <n>: pierogies
 
 80 [moby]: Pierpont <n/place>
 
@@ -290386,8 +290419,8 @@
 
 35: pipeline <n>: pipelines, pipeline's
 
-70 [cs] 80: - <v>: -, pipelining, -
-80: -pipeline <v>: pipelined, -, pipelines
+60 [coca-llm] 80: -pipeline <v>: pipelined, -, pipelines
+60 [coca-llm] 70 [cs] 80: - <v>: -, pipelining, -
 
 85 [ukacd]: pip emma
 
@@ -291588,7 +291621,7 @@
 
 70 [moby]: planet wheel <n>
 
-80: planetwide
+60 [coca-llm] 80: planetwide <aj>
 
 80: planform <n>: planforms
 
@@ -296761,7 +296794,7 @@
 
 80: porta <n>: portas
 
-80: portabella <n>: portabellas
+60 [coca-llm] 80: portabella <n>: portabellas
 
 80: portabello <n>: portabellos
 
@@ -299442,7 +299475,7 @@
 
 70 [5desk]: preassemble <v>
 
-80: preassembled
+60 [coca-llm] 80: preassembled <aj>
 
 70 [5desk] 80: preassign <m>: preassigned, preassigning, preassigns
 
@@ -299491,7 +299524,7 @@
 
 80: prebiological
 
-80: prebiotic
+60 [coca-llm] 80: prebiotic <aj>
 
 80: prebirth <n>: prebirths
 
@@ -304121,7 +304154,7 @@
 
 60: programmatic <a>
 
-80: programmatically
+60 [coca-llm] 80: programmatically <av>
 
 60: programmed instruction
 
@@ -305919,7 +305952,7 @@
 
 35: prototype <n>: prototypes, prototype's
 
-80: -prototype <v>: prototyped, prototyping, prototypes
+60 [coca-llm] 80: -prototype <v>: prototyped, prototyping, prototypes
 
 70 [5desk] 80: prototypic <aj>
 
@@ -309110,7 +309143,8 @@
 
 35: push <n_v>: pushed, pushing, pushes, push's
 
-80: pushback <n>: pushbacks
+60 [coca-llm] 80: pushback <n>
+80: - <n>: pushbacks
 
 70 [moby] 80: _: pushball <n>: pushballs
 70 [moby] 80: _?: push-ball <n>
@@ -309482,7 +309516,7 @@
 
 85 [ukacd]: !puzzling <n>: puzzlings
 
-80: puzzlingly
+60 [coca-llm] 80: puzzlingly <av>
 
 85 [ukacd]: puzzolana
 
@@ -311008,8 +311042,8 @@
 
 40: quarterfinal <a>
 
-80: _: quarterfinalist <n>: quarterfinalists
-80: _V: quarter-finalist <n>: quarter-finalists
+60 [coca-llm] 80: _: quarterfinalist <n>: quarterfinalists
+60 [coca-llm] 80: _V: quarter-finalist <n>: quarter-finalists
 ## Compound variant levels are a best guess based on freq and other related info.
 
 50: quarter horse <n>: quarter horses, quarter horse's
@@ -316215,7 +316249,7 @@
 
 80: rebait <m>: rebaited, rebaiting, rebaits
 
-80: rebalance <m>: rebalanced, rebalancing, rebalances
+60 [coca-llm] 80: rebalance <v>: rebalanced, rebalancing, rebalances
 
 70 [5desk] 80: rebaptism <n>: rebaptisms
 
@@ -317308,7 +317342,7 @@
 
 35 [ukfreq] 40: recreational <aj>
 
-80: recreationally
+60 [coca-llm] 80: recreationally <av>
 
 60: recreational vehicle <n>: recreational vehicles
 
@@ -321490,7 +321524,8 @@
 
 70 [5desk] 80: reoccurrence <n>: reoccurrences
 
-85 [ukacd]: reoffend <m>: reoffended, reoffending, reoffends
+60 [coca-llm] 85 [ukacd]: reoffend <v>
+85 [ukacd]: - <v>: reoffended, reoffending, reoffends
 
 80: reoffer <m>: reoffered, reoffering, reoffers
 
@@ -322832,7 +322867,7 @@
 
 80: reshoe <m>: reshod, reshoeing, reshoes† # fixme: reshoes: check for variants
 
-80: reshoot <v>: reshot, reshooting, reshoots
+60 [coca-llm] 80: reshoot <v>: reshot, reshooting, reshoots
 
 70 [5desk] 80: reshow <m>: reshowed, (reshowed | reshown), reshowing, reshows #! unmarked variants: reshowed, reshown
 
@@ -326001,7 +326036,7 @@
 
 85 [ukacd]: Ribes <n/upper?>
 
-80: ribeye <n>: ribeyes
+60 [coca-llm] 80: ribeye <n>: ribeyes
 
 80: _: ribgrass <n>: ribgrasses
 80: _=: rib-grass <n>
@@ -326742,7 +326777,7 @@
 
 50: right-winger <n>: right-wingers, right-winger's
 
-80: righty <n>: righties
+60 [coca-llm] 80: righty <n>: righties
 
 35: rigid <aj>
 65: - <aj>: rigider-, rigidest-
@@ -328263,7 +328298,7 @@
 80: _=: rock-shaft <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: rockslide <n>: rockslides
+60 [coca-llm] 80: rockslide <n>: rockslides
 
 70 [3of6]: rock-solid
 
@@ -343172,7 +343207,7 @@
 
 85 [ukacd]: sella
 
-80: sellable <aj>
+60 [coca-llm] 80: sellable <aj>
 
 85 [ukacd]: Sellafield </upper?>
 
@@ -346140,8 +346175,10 @@
 35 [ukfreq] 40: sexuality <n>
 65: - <n>: sexualities-
 
-80: A Z: sexualization <n>: sexualizations
-80: B: sexualisation <n>: sexualisations
+60 [coca-llm] 80: A Z: sexualization <n>
+60 [coca-llm] 80: B: sexualisation <n>
+80: A Z: - <n>: sexualizations
+80: B: - <n>: sexualisations
 
 60 [coca-llm] 80: A Z: sexualize <v>: sexualized, sexualizing, sexualizes
 60 [coca-llm] 80: B: sexualise <v>: sexualised, sexualising, sexualises
@@ -348427,8 +348464,8 @@
 
 85 [ukacd]: !shirt <v>: shirted, -, -
 
-80: _: shirtdress <n>: shirtdresses
-80: _=: shirt dress <n>: shirt dresses
+60 [coca-llm] 80: _: shirtdress <n>: shirtdresses
+60 [coca-llm] 80: _=: shirt dress <n>: shirt dresses
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60: _: shirtfront <n>: shirtfronts
@@ -351206,7 +351243,7 @@
 
 40: silver anniversary
 
-80: silverback <n>: silverbacks
+60 [coca-llm] 80: silverback <n>: silverbacks
 
 70 [moby]: silver bell <n>
 
@@ -354994,7 +355031,7 @@
 70 [moby]: _?: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: slugfest <n>: slugfests
+60 [coca-llm] 80: slugfest <n>: slugfests
 
 85 [ukacd]: sluggabed <n>: sluggabeds
 
@@ -365145,7 +365182,7 @@
 
 35: stack <n_v>: stacked, stacking, stacks, stack's
 
-80: stackable
+60 [coca-llm] 80: stackable <aj>
 
 35 [ukfreq] 70 [3of6] [moby] 80: stacked <aj>
 
@@ -373886,7 +373923,7 @@
 
 80: -subway <v>: subwayed, subwaying, subways
 
-85 [ukacd]: subwoofer <n>: subwoofers
+60 [coca-llm] 85 [ukacd]: subwoofer <n>: subwoofers
 
 80: subworld <n>: subworlds
 
@@ -375743,7 +375780,7 @@
 
 70 [+] 85 [ukacd]: supercalifragilisticexpialidocious
 
-80: supercar <n>: supercars
+60 [coca-llm] 80: supercar <n>: supercars
 
 60: supercargo <n>: (supercargoes | ~: supercargos), supercargo's
 
@@ -375932,7 +375969,7 @@
 70 [moby] 80: superfamily <n>: superfamilies
 70 [moby]: - <n>: superfamily's
 
-80: superfan <n>: superfans
+60 [coca-llm] 80: superfan <n>: superfans
 
 80: superfarm <n>: superfarms
 
@@ -376027,7 +376064,8 @@
 
 80: supergravity <n>: supergravities
 
-80: supergroup <n>: supergroups
+60 [coca-llm] 80: supergroup <n>
+80: - <n>: supergroups
 
 80: supergrowth <n>: supergrowths
 
@@ -381708,7 +381746,7 @@
 
 35: talented <aj>
 
-80: talentless <aj>
+60 [coca-llm] 80: talentless <aj>
 
 60: talent scout <n>: talent scouts, talent scout's
 
@@ -383994,7 +384032,7 @@
 
 85 [ukacd]: tchick <m>: tchicked, tchicking, tchicks
 
-80: tchotchke <n>: tchotchkes
+60 [coca-llm] 80: tchotchke <n>: tchotchkes
 
 85 [ukacd]: tchoukball
 
@@ -385034,7 +385072,8 @@
 
 85 [ukacd]: telematic <n>: telematics
 
-80: telemedicine <n>: telemedicines
+60 [coca-llm] 80: telemedicine <n>
+80: - <n>: telemedicines
 
 85 [ukacd]: Telemessage <n/upper?>: Telemessages
 
@@ -386786,7 +386825,7 @@
 50: _V: terra-firma <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: terraform <m>: terraformed, terraforming, terraforms
+60 [coca-llm] 80: terraform <v>: terraformed, terraforming, terraforms
 
 35: terrain <n>: terrains, terrain's
 
@@ -389611,7 +389650,7 @@
 
 70 [moby] 85 [ukacd]: thirty-second note <n>
 
-85 [ukacd]: thirtysomething <n>: thirtysomethings
+60 [coca-llm] 85 [ukacd]: thirtysomething <n>: thirtysomethings
 
 70 [moby]: thirty-three <aj>
 
@@ -389804,8 +389843,8 @@
 
 80 [moby]: Thornburg <n/place>
 
-80: _: thornbush <n>: thornbushes
-80: _V: thorn-bush <n>
+60 [coca-llm] 80: _: thornbush <n>: thornbushes
+60 [coca-llm] 80: _V: thorn-bush <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 80 [moby]: Thorndale <n/place>
@@ -391192,7 +391231,7 @@
 
 40: tiebreaker <n>: tiebreakers
 
-80: tiebreaking
+60 [coca-llm] 80: tiebreaking <aj>
 
 60: _: tie clasp <n>
 60: _V: tieclasp <n>
@@ -393014,7 +393053,8 @@
 
 35: toddler <n>: toddlers, toddler's
 
-80: toddlerhood <n>: toddlerhoods
+60 [coca-llm] 80: toddlerhood <n>
+80: - <n>: toddlerhoods
 
 80 [moby]: Toddville <n/place>
 
@@ -394920,7 +394960,7 @@
 
 85 [ukacd]: tossy
 
-80: tostada <n>: tostadas
+60 [coca-llm] 80: tostada <n>: tostadas
 
 80: tostado <n>: tostados
 
@@ -395169,8 +395209,10 @@
 
 70 [moby]: touch system <n>
 
-80: _: touchtone <n>: touchtones
-80: _=: touch-tone <n>
+60 [coca-llm] 80: _: touchtone <n>
+60 [coca-llm] 80: _=: touch-tone <n>
+80: _: - <n>: touchtones
+80: _=: - <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60: touch-type <v>: touch-typed, touch-typing, touch-types
@@ -395473,7 +395515,7 @@
 
 40: town hall <n>: town halls
 
-85 [stale]: townhome <n>: townhomes
+60 [coca-llm] 85 [stale]: townhome <n>: townhomes
 
 40: _: townhouse <n>: townhouses
 40: _v: town house <n>: town houses
@@ -399561,7 +399603,8 @@
 
 85 [ukacd]: trippler <n>: tripplers
 
-80: trippy <a>: trippier, trippiest
+60 [coca-llm] 80: trippy <aj>
+80: - <aj>: trippier, trippiest
 
 85 [ukacd]: tripsis <n>: tripses
 
@@ -402848,7 +402891,7 @@
 
 60 [coca-llm] 70 [5desk] [moby] 80: tweeze <v>: tweezed, tweezing, tweezes
 
-80: tweezer <n>
+60 [coca-llm] 80: tweezer <n>
 
 35: tweezers <n>
 
@@ -403912,7 +403955,8 @@
 
 85 [stale]: udometry <n>: udometries
 
-80: udon <n>: udons
+60 [coca-llm] 80: udon <n>
+80: - <n>: udons
 
 85 [ukacd]: uds
 
@@ -405180,7 +405224,7 @@
 
 85 [ukacd]: unamusable
 
-80: unamused
+60 [coca-llm] 80: unamused <aj>
 
 80: unamusing
 
@@ -406322,7 +406366,7 @@
 
 80: unchauvinistic
 
-85 [ukacd]: uncheck
+60 [coca-llm] 85 [ukacd]: uncheck <v>
 
 80: uncheckable <aj>
 
@@ -407572,7 +407616,7 @@
 
 70 [moby] 80: undercool <m>: undercooled, undercooling, undercools
 
-80: undercount <m>: undercounted, undercounting, undercounts
+60 [coca-llm] 80: undercount <v>: undercounted, undercounting, undercounts
 
 85 [ukacd]: undercountenance
 
@@ -407684,7 +407728,7 @@
 
 50 [ukfreq] 60 [brif] 70 [3of6] 80: underfunded
 
-80: underfunding <n>
+60 [coca-llm] 80: underfunding <n>
 85 [ukacd]: - <n>: underfundings!
 
 60: underfur <n>: underfur's
@@ -407878,7 +407922,7 @@
 
 80: underperformance <n>: underperformances
 
-80: underperformer <n>: underperformers
+60 [coca-llm] 80: underperformer <n>: underperformers
 
 60: underpin <v>: underpinned, underpinning, underpins
 
@@ -407937,7 +407981,7 @@
 
 80: underpublicized
 
-80: underqualified
+60 [coca-llm] 80: underqualified <aj>
 
 70 [moby] 80: underquote <v>: underquoted, underquoting, underquotes
 
@@ -408178,10 +408222,12 @@
 80: A Z: underutilization <n>: underutilizations
 80: B: underutilisation <n>: underutilisations
 
-60 [brif] 70 [3of6] 80: A Z: - <m>: underutilized, -, -
-60 [brif] 70 [3of6] 80: B: - <m>: underutilised, -, -
-80: A Z: underutilize <m>: -, underutilizing, underutilizes
-80: B: underutilise <m>: -, underutilising, underutilises
+60 [coca-llm] 80: A Z: underutilize <v>
+60 [coca-llm] 80: B: underutilise <v>
+60 [brif] 70 [3of6] 80: A Z: - <v>: underutilized, -, -
+60 [brif] 70 [3of6] 80: B: - <v>: underutilised, -, -
+80: A Z: - <v>: -, underutilizing, underutilizes
+80: B: - <v>: -, underutilising, underutilises
 
 60: undervaluation <n>
 80: - <n>: undervaluations~
@@ -411474,7 +411520,7 @@
 
 70 [5desk] 80: unmanageably <av>
 
-80: unmanaged
+60 [coca-llm] 80: unmanaged <aj>
 
 85 [stale]: unmanful <aj>
 
@@ -413138,7 +413184,7 @@
 
 85 [ukacd]: unrefreshing
 
-80: unrefrigerated
+60 [coca-llm] 80: unrefrigerated <aj>
 
 85 [ukacd]: unrefuted
 
@@ -413676,7 +413722,7 @@
 
 85 [ukacd]: unsaluted
 
-80: unsalvageable
+60 [coca-llm] 80: unsalvageable <aj>
 
 80: unsanctified <aj>
 
@@ -414017,7 +414063,7 @@
 
 70 [5desk] 80: unsexual
 
-80: unsexy <aj>
+60 [coca-llm] 80: unsexy <aj>
 
 60: unshackle <v>: unshackled, unshackling, unshackles
 
@@ -414628,8 +414674,8 @@
 50 [+] 70 [3of6]: unsubscribe <v>: -, unsubscribing, unsubscribes
 50 [+] 70 [3of6] 85 [ukacd]: - <v>: unsubscribed, -, -
 
-80: A Z: unsubsidized
-80: B: unsubsidised
+60 [coca-llm] 80: A Z: unsubsidized <aj>
+60 [coca-llm] 80: B: unsubsidised <aj>
 
 50: unsubstantial <aj>
 
@@ -415208,7 +415254,7 @@
 
 85 [ukacd]: untreasure <m>: untreasured, untreasuring, untreasures
 
-85 [ukacd]: untreatable
+60 [coca-llm] 85 [ukacd]: untreatable <aj>
 
 50: untreated <aj>
 
@@ -415382,7 +415428,7 @@
 
 70 [5desk] 80: unuttered <aj>
 
-80: unvaccinated <aj>
+60 [coca-llm] 80: unvaccinated <aj>
 
 80: unvacillating
 
@@ -416062,7 +416108,7 @@
 
 80: upgradability <n>: upgradabilities
 
-80: upgradable
+60 [coca-llm] 80: upgradable <aj>
 
 85 [ukacd]: upgradation <n>: upgradations
 
@@ -421999,7 +422045,8 @@
 
 60 [coca-llm] 80: videographer <n>: videographers
 
-80: videography <n>: videographies
+60 [coca-llm] 80: videography <n>
+80: - <n>: videographies
 
 60: video jockey
 
@@ -422427,7 +422474,8 @@
 
 70 [moby] 80: vinculum <n>: (vincula | vinculums) #! unmarked variants: vincula, vinculums
 
-80: vindaloo <n>: vindaloos
+60 [coca-llm] 80: vindaloo <n>
+80: - <n>: vindaloos
 
 85 [ukacd]: vindemial
 
@@ -425552,9 +425600,10 @@
 
 50 [name] 70 [5desk]: Wake <n/name?>: Wake's
 
-80: wakeboard <n>: wakeboards
+60 [coca-llm] 80: wakeboard <n>: wakeboards
 
-80: wakeboarding <n>: wakeboardings
+60 [coca-llm] 80: wakeboarding <n>
+80: - <n>: wakeboardings
 
 80 [moby]: Wakeeney <n/place>
 
@@ -431615,7 +431664,8 @@
 70 [moby] 85 [ukacd]: whooper swan <n>: whooper swans
 70 [moby]: - <n>: whooper swan's
 
-80: whoopie <n>: whoopies
+60 [coca-llm] 80: whoopie <n>
+80: - <n>: whoopies
 
 70 [3of6] 80: whooping <n>
 85 [ukacd]: - <n>: whoopings!
@@ -433112,7 +433162,7 @@
 
 70 [moby]: wing loading <n>
 
-80: wingman <n>: wingmen
+60 [coca-llm] 80: wingman <n>: wingmen
 
 70 [3of6] 85 [ukacd]: wing mirror <n>: wing mirrors
 
@@ -433565,7 +433615,8 @@
 
 50: wiseacre <n>: wiseacres, wiseacre's
 
-80: wiseass <n>: wiseasses
+60 [coca-llm] 80: wiseass <n>
+80: - <n>: wiseasses
 
 35: wisecrack <n_v>: wisecracked, wisecracking, wisecracks
 
@@ -435094,9 +435145,10 @@
 
 40: workaholic <n>: workaholics, workaholic's
 
-80: workaholism <n>: workaholisms
+60 [coca-llm] 80: workaholism <n>
+80: - <n>: workaholisms
 
-50 hacker 80: workaround <n>: workarounds
+50 hacker 60 [coca-llm] 80: workaround <n>: workarounds
 
 70 [moby] 80: _: workbag <n>: workbags
 70 [moby] 80: _V: work-bag <n>: work-bags
@@ -435426,7 +435478,7 @@
 
 80: wormish
 
-80: wormlike <aj>
+60 [coca-llm] 80: wormlike <aj>
 
 70 [moby]: worm lizard <n>: worm lizard's
 
@@ -439698,7 +439750,7 @@
 50 [name]: - <n/trademark>: Ziploc's
 80 [upper]: - <n/trademark>: Ziplocs-
 
-85 [ukacd]: ziplock
+60 [coca-llm] 85 [ukacd]: ziplock <n>
 
 35: _: zipper <n>: zippers, zipper's
 35: _V: Zipper <n>: Zippers, Zipper's # fixme: pos_class originally "upper?"

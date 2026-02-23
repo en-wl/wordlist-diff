@@ -861,6 +861,7 @@ New words, ok, added:
   accelerometer
   accelerometers
   acidification
+  adjustability
   adobo
   adoptee
   adoptees
@@ -874,15 +875,18 @@ New words, ok, added:
   alopecia
   anabolic
   anthropogenic
+  antiauthoritarian
   antidiscrimination
   antifeminist
   antifungal
   antigravity
   antilock
+  antimicrobials
   antismoking
   antiterrorism
   apnea
   apneas
+  arabica
   arborist
   arborists
   arcana
@@ -893,6 +897,8 @@ New words, ok, added:
   arrestee
   arrestees
   artisanal
+  asana
+  asanas
   aspirational
   attaboy
   attaboys
@@ -912,11 +918,16 @@ New words, ok, added:
   backcountry
   backcourt
   backcourts
+  backflip
+  backflips
   backflow
   backlight
   backlights
   backsplash
   backsplashes
+  backstab
+  backstabbed
+  backstabs
   backswing
   backtrace
   backtraces
@@ -924,11 +935,20 @@ New words, ok, added:
   badasses
   bagger
   baggers
+  baller
+  ballers
+  bartend
+  bartended
+  bartending
+  bartends
   basketful
   basketfuls
   basmati
   beachcombing
+  beachgoer
+  beachgoers
   beachside
+  beachy
   beadwork
   beastie
   beasties
@@ -937,6 +957,7 @@ New words, ok, added:
   bedcovers
   beignet
   beignets
+  bejesus
   believability
   belowground
   benchmarked
@@ -956,6 +977,7 @@ New words, ok, added:
   biofuels
   biohazard
   biohazards
+  bioluminescent
   biome
   biomechanical
   biomes
@@ -967,10 +989,16 @@ New words, ok, added:
   biotas
   bioterrorism
   biotic
+  birdcall
+  birdcalls
   blacksmithing
+  bladelike
+  blaxploitation
+  blazingly
   blocky
   blogosphere
   bloodlust
+  blowback
   blowfish
   bluefin
   bluefins
@@ -982,6 +1010,12 @@ New words, ok, added:
   bluesmen
   bobber
   bobbers
+  boing
+  boings
+  borderless
+  bouldering
+  brainiac
+  brainiacs
   braless
   branchings
   breadstick
@@ -1003,25 +1037,33 @@ New words, ok, added:
   bugfix
   bugfixes
   bulgur
+  buzzy
+  bycatch
   c'mon
   calzone
   calzones
   camo
   camos
+  campout
+  campouts
   candleholder
   candleholders
+  cannellini
   cantina
   cantinas
   capita
   carabiner
   carabiners
+  carbonara
   caregiving
   caretaking
   carpaccio
   carpaccios
   cartoonish
+  cartoonlike
   casa
   casas
+  catchable
   catfight
   catfights
   celiac
@@ -1033,6 +1075,7 @@ New words, ok, added:
   ceviche
   chador
   chadors
+  chai
   chakra
   chakras
   challah
@@ -1047,30 +1090,44 @@ New words, ok, added:
   cheerleading
   cheerleads
   cheerled
+  cheesesteak
+  cheesesteaks
   chewable
   chez
   chia
+  chimichanga
+  chimichangas
   chipotle
   chipotles
+  chipset
+  chipsets
   chivalric
   chocolatier
   chocolatiers
+  chokehold
+  chokeholds
   chorizo
   chorizos
+  churro
+  churros
   cineplex
   cineplexes
+  citrusy
   cityscape
   cityscapes
   clamshell
   clamshells
   cleantech
   closers
+  cluelessness
   cochair
   cochairs
   cocker
   cockers
   codebase
   codebases
+  codec
+  codecs
   codirector
   codirectors
   coeditor
@@ -1091,6 +1148,7 @@ New words, ok, added:
   cohosted
   cohosting
   cohosts
+  cojones
   coleader
   coleaders
   coli
@@ -1115,6 +1173,8 @@ New words, ok, added:
   cooktop
   cooktops
   cooldown
+  coparent
+  coparents
   copayment
   copayments
   coproducer
@@ -1152,6 +1212,7 @@ New words, ok, added:
   crosshair
   crosshairs
   crosstalk
+  crustless
   crypto
   cubbies
   cubby
@@ -1169,6 +1230,8 @@ New words, ok, added:
   daylily
   daypack
   daypacks
+  deadlift
+  deadlifts
   dealmaker
   dealmakers
   dealmaking
@@ -1190,10 +1253,18 @@ New words, ok, added:
   deemphasized
   deemphasizes
   deemphasizing
+  defang
+  defanged
+  defanging
+  defangs
   defendable
   defenseman
   defensemen
   definitional
+  defund
+  defunded
+  defunding
+  defunds
   deglaze
   delegitimize
   delegitimized
@@ -1213,18 +1284,27 @@ New words, ok, added:
   deserialized
   deserializes
   deserializing
+  designee
+  designees
   dialer
   dialers
   diffuser
   diffusers
+  dirtbag
+  dirtbags
   discoverable
   disempower
   disempowered
   disempowering
   disempowers
+  disinvite
+  disinvited
+  disinvites
+  disinviting
   disruptor
   disruptors
   dizzyingly
+  dojo
   dominator
   dominators
   doneness
@@ -1252,6 +1332,8 @@ New words, ok, added:
   doxxings
   dozer
   dozers
+  dramedies
+  dramedy
   drawdown
   drawdowns
   dreamscape
@@ -1259,6 +1341,7 @@ New words, ok, added:
   dreidel
   dreidels
   drivable
+  driverless
   drivetrain
   drivetrains
   drugmaker
@@ -1282,6 +1365,8 @@ New words, ok, added:
   dyads
   dysregulation
   earthlike
+  earworm
+  earworms
   echinacea
   electability
   electrochemical
@@ -1343,8 +1428,10 @@ New words, ok, added:
   filmographies
   filmography
   financials
+  fingerless
   firebird
   firebirds
+  fishlike
   flatline
   flatlined
   flatlines
@@ -1352,6 +1439,7 @@ New words, ok, added:
   flaxseed
   flaxseeds
   florals
+  flourless
   focaccia
   folate
   foldable
@@ -1362,6 +1450,7 @@ New words, ok, added:
   frontline
   funder
   funders
+  fusilli
   gameplay
   ganache
   ganaches
@@ -1372,6 +1461,7 @@ New words, ok, added:
   gaslit
   gastroenterologist
   gastroenterologists
+  gatekeeping
   gawker
   gawkers
   gelato
@@ -1386,10 +1476,13 @@ New words, ok, added:
   glute
   glutes
   glyphs
+  goaltending
   golem
   golems
   gooseneck
   grampa
+  grandbabies
+  grandbaby
   grandkid
   grandkids
   gravesite
@@ -1404,6 +1497,8 @@ New words, ok, added:
   habaneros
   habeas
   hairstyling
+  halfling
+  halflings
   halfpipe
   halfpipes
   handbasket
@@ -1413,8 +1508,13 @@ New words, ok, added:
   handoffs
   handprint
   handprints
+  harissa
   hatchling
   hatchlings
+  headshot
+  headshots
+  headspace
+  headwear
   heartbreaker
   heartbreakers
   hearted
@@ -1438,13 +1538,17 @@ New words, ok, added:
   homophobes
   hosta
   hostas
+  houndstooth
   hourlong
   houseguest
   houseguests
+  huggable
   hugger
   huggers
   humanlike
   hydropower
+  icemaker
+  icemakers
   ideation
   ideations
   immunocompromised
@@ -1457,9 +1561,15 @@ New words, ok, added:
   incentivizing
   incongruent
   industrials
+  infantilize
+  infantilized
+  infantilizes
+  infantilizing
   influencer
   influencers
   inkjet
+  innovatively
+  insightfully
   interagency
   interconnectedness
   intercut
@@ -1489,14 +1599,21 @@ New words, ok, added:
   jokesters
   juju
   jujus
+  juke
+  juked
+  jukes
+  juking
   kava
   kayaker
   kayakers
   kendo
+  ketamine
+  keyless
   kimchi
   kinesiology
   kinesthetic
   klezmer
+  knuckleball
   lakeshore
   lakeshores
   landers
@@ -1506,16 +1623,20 @@ New words, ok, added:
   largemouths
   latke
   latkes
+  leaderboard
+  leaderboards
   leaguer
   leaguers
   leaker
   leakers
+  leakproof
   lederhosen
   lethality
   liana
   lianas
   libertarianism
   licensure
+  lidar
   liftgate
   liftgates
   liminal
@@ -1534,6 +1655,7 @@ New words, ok, added:
   lowrider
   lowriders
   lucent
+  luxe
   lycanthrope
   lycanthropes
   macOS
@@ -1554,6 +1676,8 @@ New words, ok, added:
   masala
   masas
   mascarpone
+  massager
+  massagers
   matchup
   matchups
   materialities
@@ -1565,6 +1689,8 @@ New words, ok, added:
   meerkats
   megacities
   megacity
+  megahit
+  megahits
   megastore
   megastores
   melatonin
@@ -1576,6 +1702,7 @@ New words, ok, added:
   merengues
   metalhead
   metalheads
+  metallics
   metalloid
   metalloids
   metaverse
@@ -1601,8 +1728,12 @@ New words, ok, added:
   midmorning
   midrange
   midseason
+  mineworker
+  mineworkers
   minidress
   minidresses
+  mischaracterization
+  mischaracterizations
   mischaracterize
   mischaracterized
   mischaracterizes
@@ -1613,12 +1744,15 @@ New words, ok, added:
   misclicked
   misclicking
   misclicks
+  miseducation
   misidentification
   misidentifications
   miso
   misos
   misperception
   misperceptions
+  mistranslation
+  mistranslations
   mitzvahs
   mitzvot
   modi
@@ -1630,10 +1764,13 @@ New words, ok, added:
   monthlong
   moolah
   moonrise
+  moviegoing
   moviemaker
   moviemakers
   moviemaking
   mucosa
+  mudflow
+  mudflows
   mudhole
   mudholes
   multiculturalist
@@ -1645,19 +1782,27 @@ New words, ok, added:
   multimillion
   multimillions
   multimodal
+  multipronged
   multitalented
   multitasked
   muni
   munis
+  naptime
+  naptimes
+  narco
+  narcos
   nativism
   nativist
   nativists
   neckwear
   needlelike
+  neoconservatism
   neoliberal
   neoliberalism
   netizen
   netizens
+  networker
+  networkers
   neurodivergent
   neurodiverse
   neurodiversity
@@ -1666,11 +1811,18 @@ New words, ok, added:
   neurotypical
   neurotypicals
   newish
+  newspeople
+  newsperson
+  newspersons
+  newswire
+  newswires
   nitride
   nitrides
   nitrous
   noir
   noirs
+  nonanswer
+  nonanswers
   nonbinary
   noncitizen
   noncitizens
@@ -1681,25 +1833,41 @@ New words, ok, added:
   nonfinancial
   nonindigenous
   nonmedical
+  nonmonogamous
   nonsignificant
+  nori
+  noris
+  numbingly
+  oolong
   oppositional
   orca
   orcas
   ourself
+  outcompete
   outdoorsman
   outdoorsmen
   overanalyze
   overanalyzed
   overanalyzes
   overanalyzing
+  overcommit
   overconsumption
+  overcorrect
+  overcorrected
+  overcorrecting
+  overcorrects
   overeducated
   overfish
   overfished
   overfishes
   overfishing
+  overhype
+  overhyped
+  overhypes
+  overhyping
   overpayment
   overpayments
+  overpromise
   overprotection
   overreliance
   overrepresented
@@ -1720,6 +1888,8 @@ New words, ok, added:
   pathbreaking
   paver
   pavers
+  pearlescent
+  peloton
   penne
   perp
   perps
@@ -1728,7 +1898,13 @@ New words, ok, added:
   personhood
   photorealistic
   phyllo
+  piccata
+  pierogi
+  pierogies
+  pipelined
+  pipelining
   pixelated
+  planetwide
   playa
   playas
   playmaker
@@ -1746,6 +1922,8 @@ New words, ok, added:
   polentas
   policymaking
   ponytailed
+  portabella
+  portabellas
   portobello
   portobellos
   positivities
@@ -1759,6 +1937,8 @@ New words, ok, added:
   pouty
   powertrain
   praxis
+  preassembled
+  prebiotic
   predation
   predations
   preindustrial
@@ -1773,15 +1953,21 @@ New words, ok, added:
   printmakers
   profiler
   profilers
+  programmatically
   prosecutorial
+  prototyped
   pseudoscientific
   psilocybin
   pumpkinseed
   pumpkinseeds
+  pushback
+  puzzlingly
   quadrillionth
   quadrillionths
   quant
   quants
+  quarterfinalist
+  quarterfinalists
   qubit
   qubits
   railcar
@@ -1792,6 +1978,10 @@ New words, ok, added:
   rearview
   reauthorization
   reauthorizations
+  rebalance
+  rebalanced
+  rebalances
+  rebalancing
   rebar
   rebars
   rebounder
@@ -1805,6 +1995,7 @@ New words, ok, added:
   reconnection
   reconnections
   recordable
+  recreationally
   recycler
   recyclers
   redfish
@@ -1841,6 +2032,7 @@ New words, ok, added:
   reinstallations
   remodeler
   remodelers
+  reoffend
   repo
   reportable
   repos
@@ -1850,6 +2042,10 @@ New words, ok, added:
   reputational
   rerelease
   rereleases
+  reshoot
+  reshooting
+  reshoots
+  reshot
   responder
   responders
   retinol
@@ -1866,13 +2062,19 @@ New words, ok, added:
   rheumatologist
   rheumatologists
   rheumatology
+  ribeye
+  ribeyes
   ricin
   riddler
   riddlers
   ridgeline
   ridgelines
+  righties
+  righty
   roadless
   rockfish
+  rockslide
+  rockslides
   rollout
   rollouts
   roomie
@@ -1895,10 +2097,12 @@ New words, ok, added:
   seatbacks
   seitan
   selfhood
+  sellable
   semiformal
   sensationalistic
   sensei
   serendipitously
+  sexualization
   sexualize
   sexualized
   sexualizes
@@ -1907,6 +2111,8 @@ New words, ok, added:
   shapers
   shifter
   shifters
+  shirtdress
+  shirtdresses
   shoebox
   shoeboxes
   shoeless
@@ -1915,12 +2121,16 @@ New words, ok, added:
   showerheads
   signifier
   signifiers
+  silverback
+  silverbacks
   simp
   simps
   skybox
   skyboxes
   slimeball
   slimeballs
+  slugfest
+  slugfests
   smallmouth
   smallmouths
   snowmelt
@@ -1937,6 +2147,7 @@ New words, ok, added:
   splitters
   stablecoin
   stablecoins
+  stackable
   starship
   starships
   statin
@@ -1984,13 +2195,20 @@ New words, ok, added:
   subtests
   subtype
   subtypes
+  subwoofer
+  subwoofers
   sunlike
   sunroom
   sunrooms
   superbug
   superbugs
+  supercar
+  supercars
+  superfan
+  superfans
   superfood
   superfoods
+  supergroup
   supermajorities
   supermajority
   superrich
@@ -2001,6 +2219,7 @@ New words, ok, added:
   switcheroo
   switcheroos
   tahini
+  talentless
   tamari
   taqueria
   taquerias
@@ -2008,20 +2227,33 @@ New words, ok, added:
   tartlets
   tastemaker
   tastemakers
+  tchotchke
+  tchotchkes
   teahouse
   teahouses
   telco
   telcos
   telecom
   telecoms
+  telemedicine
   tempeh
+  terraform
+  terraformed
+  terraforming
+  terraforms
   territorially
   themself
   there'll
+  thirtysomething
+  thirtysomethings
+  thornbush
+  thornbushes
   thornless
   thruster
   thrusters
+  tiebreaking
   tikka
+  toddlerhood
   tokamak
   tokamaks
   tokenization
@@ -2031,10 +2263,15 @@ New words, ok, added:
   tokenizing
   tomatillo
   tomatillos
+  tostada
+  tostadas
   touchback
   touchbacks
   touchpad
   touchpads
+  touchtone
+  townhome
+  townhomes
   tradable
   trailhead
   trailheads
@@ -2046,35 +2283,49 @@ New words, ok, added:
   triaging
   tricolored
   trilingual
+  trippy
   tunable
   tweeze
   tweezed
+  tweezer
   tweezes
   tweezing
+  udon
   unaffordable
+  unamused
   unapologetically
   unapplied
   unburned
   uncertified
+  uncheck
   unchurched
   uncompetitive
   uncreative
   uncredited
   undead
   undeliverable
+  undercount
+  undercounted
+  undercounting
+  undercounts
   underdressed
+  underfunding
   underperform
   underperformed
+  underperformer
+  underperformers
   underperforming
   underperforms
   underpowered
   underprepared
+  underqualified
   underreport
   underreported
   underreporting
   underreports
   underrepresentation
   underserved
+  underutilize
   undiagnosed
   unelected
   unexamined
@@ -2084,18 +2335,26 @@ New words, ok, added:
   unglamorous
   unintuitive
   univariate
+  unmanaged
   unmoving
   unranked
+  unrefrigerated
+  unsalvageable
   unselfconscious
+  unsexy
   unshaved
+  unsubsidized
   unsurprised
   unsynchronized
   untaxed
   untethered
   unthreatening
+  untreatable
   untucked
+  unvaccinated
   updo
   updos
+  upgradable
   uplink
   uplinks
   uptime
@@ -2110,7 +2369,9 @@ New words, ok, added:
   videoconferences
   videographer
   videographers
+  videography
   villainess
+  vindaloo
   vlog
   vlogged
   vlogger
@@ -2120,6 +2381,9 @@ New words, ok, added:
   voxel
   voxels
   vroom
+  wakeboard
+  wakeboarding
+  wakeboards
   walkable
   warrantless
   waterless
@@ -2130,24 +2394,31 @@ New words, ok, added:
   wheatgrass
   where'd
   whomso
+  whoopie
   whoseso
   wildland
   wildlands
   windings
   winemaking
+  wingman
+  wingmen
   winless
+  wiseass
   witchy
   wordlist
   wordlists
+  workaholism
   workspaces
+  wormlike
   y'know
   yakuza
   yellowfin
   ziggurat
   ziggurats
+  ziplock
   ziti
   zombielike
-total: 1350
+total: 1621
 
 New words, ok, all-upper lemma:
   ATMs
