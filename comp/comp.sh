@@ -18,6 +18,9 @@ if grep -q 'size' postgresql/schema.sql
 then
     rm -f scowl-new.db
     ./scowl --db scowl-new.db import < data/basic
+    if [ -e data/coca_llm ]; then
+        ./scowl --db scowl-new.db merge < data/coca_llm
+    fi
     ./scowl --db scowl-new.db merge < data/coca
     ./scowl --db scowl-new.db merge < data/signature
     ./scowl --db scowl-new.db merge < data/extra
