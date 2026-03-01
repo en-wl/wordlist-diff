@@ -53,12 +53,23 @@ $commits[0]{parentsId} = [];
 
 $commits[0]->{w_change} = 1;
 my $GIT="git log scowl-7.0^..$SCOWL_BRANCH --pretty='format:%H' ";
-my $FILTER = "-- . ':!site/' ':!.misc/' ':!**/README*' ':!README*'";
+my $FILTER = "-- . ':(exclude)site/' ':(exclude).misc/' ':(exclude)misc/' ':(exclude)docs/' ':(exclude)speller/aspell/doc/' ':(exclude,glob)**/README*' ':(exclude,glob)**/Copyright*' ':(exclude).gitignore'";
 open HIST, "($GIT $FILTER && echo && $GIT --first-parent --merges $FILTER && echo) | ";
 while (<HIST>) {
     chomp;
     die unless defined $commits{$_};
     $commits{$_}->{w_change} = 1;
+}
+
+# Second pass: detect doc-only commits (have changes, but none that match FILTER)
+open HIST, "($GIT -- . && echo && $GIT --first-parent --merges -- . && echo) | ";
+while (<HIST>) {
+    chomp;
+    next unless defined $commits{$_};
+    $commits{$_}->{any_change} = 1;
+}
+foreach my $c (@commits) {
+    $c->{doc_only} = 1 if $c->{any_change} && !$c->{w_change};
 }
 
 #
@@ -118,6 +129,7 @@ foreach my $c (@commits) {
         $parents .= "-p $pid ";
     }
     my $err;
+    my $skipped_parts;
     if ($c->{cached}) {
         print STDERR "Using cached copy: $@\n";
         sys "git read-tree --prefix=wordlists $c->{cached} && git checkout-index -a";
@@ -125,34 +137,77 @@ foreach my $c (@commits) {
     } elsif ($c->{w_change} && !$SKIP{$c->{id}}) {
         my $dir = getcwd;
         eval {
-            my $spellerPath;
             if (-d 'scowl/final') {
                 sys "make -C scowl l/levels-list 2> /dev/null";
                 sys "make && mkdir scowl/speller/hunspell && make -C scowl/speller hunspell";
                 sys "ln -s scowl/speller speller";
+                mkdir "wordlists" or die;
+                chdir "wordlists" or die;
+                if (-e '../speller/hunspell/wordlist-en_US.zip') {
+                    sys 'for f in ../speller/hunspell/wordlist-en_*.zip; do unzip -a -n $f; done';
+                } else {
+                    sys 'for f in ../speller/*.tocheck; do cp $f `basename $f .tocheck`.txt; done';
+                }
+                sys "git update-index --add en_*.txt";
+                if (-e '../scowl.txt') {
+                    sys "cp ../scowl.txt ../comp-60.txt .";
+                    sys "git update-index --add scowl.txt comp-60.txt";
+                }
             } elsif (-d 'libscowl') {
                 sys "make scowl.txt";
-                sys "make -C speller hunspell";
-                sys "ln -s ../comp";
-                sys "comp/comp.sh";
+                # Check if scowl.txt changed from parent
+                my $diff_pid = $commits{$c->{parentsId}[0]}{newId};
+                my $scowl_changed = 1;
+                if (defined $diff_pid) {
+                    sys "git show $diff_pid:scowl.txt > prev_scowl.txt";
+                    $scowl_changed = system("diff -q scowl.txt prev_scowl.txt > /dev/null 2>&1");
+                }
+                my $speller_built = 1;
+                my $comp_built = 1;
+                if ($scowl_changed) {
+                    sys "make -C speller hunspell";
+                    sys "ln -s ../comp";
+                    sys "comp/comp.sh";
+                } else {
+                    # scowl.txt unchanged — check if speller/ source changed
+                    my $speller_changed = system("git diff --quiet $c->{parentsId}[0] $c->{id} -- speller/");
+                    if ($speller_changed) {
+                        sys "make -C speller hunspell";
+                        $skipped_parts = "comp";
+                    } else {
+                        $speller_built = 0;
+                        $skipped_parts = "speller, comp";
+                    }
+                    $comp_built = 0;
+                }
+                mkdir "wordlists" or die;
+                chdir "wordlists" or die;
+                if ($speller_built) {
+                    if (-e '../speller/hunspell/wordlist-en_US.zip') {
+                        sys 'for f in ../speller/hunspell/wordlist-en_*.zip; do unzip -a -n $f; done';
+                    } else {
+                        sys 'for f in ../speller/*.tocheck; do cp $f `basename $f .tocheck`.txt; done';
+                    }
+                } else {
+                    # Extract en_*.txt files from parent diff commit
+                    # --full-tree needed because we're in a subdirectory
+                    my @parent_files = split /\n/, `git ls-tree --full-tree --name-only $diff_pid`;
+                    foreach my $f (@parent_files) {
+                        if ($f =~ /^en_.*\.txt$/) {
+                            sys "git show $diff_pid:$f > $f";
+                        }
+                    }
+                }
+                sys "git update-index --add en_*.txt";
+                sys "cp ../scowl.txt .";
+                if ($comp_built) {
+                    sys "cp ../comp-60.txt .";
+                } else {
+                    sys "git show $diff_pid:comp-60.txt > comp-60.txt";
+                }
+                sys "git update-index --add scowl.txt comp-60.txt";
             } else {
                 die
-            }
-            mkdir "wordlists" or die;
-            chdir "wordlists" or die;
-            if (-e '../speller/hunspell/wordlist-en_US.zip') {
-                sys 'for f in ../speller/hunspell/wordlist-en_*.zip; do unzip -a -n $f; done';
-            } else {
-                sys 'for f in ../speller/*.tocheck; do cp $f `basename $f .tocheck`.txt; done';
-            }
-            sys "git update-index --add en_*.txt";
-            if (-e '../scowl.txt') {
-                sys "cp ../scowl.txt ../comp-60.txt .";
-                sys "git update-index --add scowl.txt comp-60.txt";
-            }
-            if (-e '../Copyright') {
-                sys "cp ../Copyright .";
-                sys "git update-index --add Copyright";
             }
         };
         $err = $@;
@@ -170,6 +225,10 @@ foreach my $c (@commits) {
     }
     sys "cp ../README.md wordlists/";
     sys "git add wordlists/README.md";
+    if (-e 'Copyright') {
+        sys "cp Copyright wordlists/";
+        sys "git add wordlists/Copyright";
+    }
     open F, ">msg.txt";
     my $tree = `git write-tree --prefix=wordlists/`;
     $tree =~ s/\s+$//;
@@ -184,7 +243,9 @@ foreach my $c (@commits) {
     print F $msg;
     if    ($SKIP{$c->{id}})                   {print F "\nBUILD SKIPPED."}
     elsif ($err)                              {print F "\nBUILD FAILED."}
+    elsif ($c->{doc_only})                    {print F "\nDOC ONLY CHANGES."}
     elsif (defined $ptree && $tree eq $ptree) {print F "\nNO CHANGE."}
+    if ($skipped_parts) {print F "\nSkipped rebuild of: $skipped_parts."}
     print F "\n= $c->{id}\n";
     open F, "cat msg.txt | git commit-tree $tree $parents |";
     my $newId = <F>;
