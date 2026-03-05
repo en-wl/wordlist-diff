@@ -85717,7 +85717,6 @@ haled
 haleness
 halenesses
 haler
-halers
 hales
 halest
 half
@@ -125875,9 +125874,7 @@ practicalnesses
 practicals
 practice
 practice's
-practiced
 practices
-practicing
 practicum
 practicums
 practise
@@ -138985,7 +138982,6 @@ sanest
 sang
 sangfroid
 sangria
-sangs
 sanguinaria
 sanguinarias
 sanguinarily
@@ -143126,7 +143122,6 @@ shoeblack's
 shoeblacks
 shoebox
 shoeboxes
-shoed
 shoehorn
 shoehorned
 shoehorning

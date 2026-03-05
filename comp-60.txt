@@ -121,6 +121,7 @@ Missing words, unclassified:
   driers
   dybbuks
   edemas
+  electrodynamics
   elevenses
   emfs
   enamelings
@@ -129,6 +130,7 @@ Missing words, unclassified:
   evillest
   fayer
   flooder
+  furthest
   givings
   grindings
   grovelled
@@ -242,7 +244,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 150
+total: 152
 
 Missing words, closed form of compound word marked as variant:
   airbase

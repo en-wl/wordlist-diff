@@ -84714,7 +84714,6 @@ haled
 haleness
 halenesses
 haler
-halers
 hales
 halest
 half
@@ -99824,7 +99823,6 @@ lice
 lice's
 licence
 licence's
-licenced
 licencee
 licencees
 licences
@@ -124123,9 +124121,7 @@ practicalnesses
 practicals
 practice
 practice's
-practiced
 practices
-practicing
 practicum
 practicums
 practise
@@ -137013,7 +137009,6 @@ sanger's
 sangers
 sangfroid
 sangria
-sangs
 sanguinaria
 sanguinarias
 sanguinarily
@@ -141048,7 +141043,6 @@ shoeblack's
 shoeblacks
 shoebox
 shoeboxes
-shoed
 shoehorn
 shoehorned
 shoehorning

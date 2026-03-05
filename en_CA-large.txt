@@ -84588,7 +84588,6 @@ haled
 haleness
 halenesses
 haler
-halers
 hales
 halest
 half
@@ -99636,7 +99635,6 @@ lice
 lice's
 licence
 licence's
-licenced
 licencee
 licencees
 licences
@@ -136808,7 +136806,6 @@ sanest
 sang
 sangfroid
 sangria
-sangs
 sanguinaria
 sanguinarias
 sanguinarily
@@ -140866,7 +140863,6 @@ shoeblack's
 shoeblacks
 shoebox
 shoeboxes
-shoed
 shoehorn
 shoehorned
 shoehorning
