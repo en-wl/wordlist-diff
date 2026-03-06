@@ -25969,7 +25969,7 @@
 
 85 [stale]: awaiter <n>: awaiters
 
-35: awake <v>: (awoke | ~: awaked), (awoken | ~: awaked | ~: awoke), awaking, awakes
+35: awake <v>: (awoke | V: awaked), (awoken | -: awoke), awaking, awakes
 
 35: awake <aj>
 
@@ -27294,7 +27294,9 @@
 35 [ukfreq] 50 [+] 60: backslash <n>
 50 [+] 60: - <n>: backslashes, backslash's
 
-50: backslide <v>: backslid, (backslid | ~: backslidden), backsliding, backslides
+50: backslidden <aj>
+
+50: backslide <v>: backslid, (backslid | v: backslidden), backsliding, backslides
 
 50: backslider <n>: backsliders, backslider's
 
@@ -31854,7 +31856,9 @@
 
 35: bear <n>: (bear | bears*), bear's
 
-35: bear <v>: bore, (borne | ~: born), bearing, bears
+35: bear <v>: bore, borne, bearing, bears
+
+35: bear <v> {birth}: bore, born, bearing, bears
 
 80: bearability <n>: bearabilities
 
@@ -31994,7 +31998,7 @@
 
 70 [3of6] 85 [ukacd]: beasts of burden
 
-35: beat <n_v>: beat, (beaten | ~: beat), beating, beats, beat's
+35: beat <n_v>: beat, (beaten | v: beat), beating, beats, beat's
 
 35: beat <aj>
 
@@ -32943,7 +32947,7 @@
 
 85 [ukacd]: begem <m>: begemmed, begemming, begems
 
-50: beget <v>: (begot | @: begat), (begotten | ~: begot), begetting, begets
+50: beget <v>: (begot | @: begat), (begotten | -: begot), begetting, begets
 
 60 [brif] 70 [3of6] [5desk] 80: begetter <n>: begetters
 60 [brif] 70 [3of6] [5desk]: - <n>: begetter's
@@ -35114,13 +35118,13 @@
 
 85 [ukacd]: bestreak <m>: bestreaked, bestreaking, bestreaks
 
-60: bestrew <v>: bestrewed, (bestrewed | ~: bestrewn), bestrewing, bestrews
+60: bestrew <v>: bestrewed, (bestrewn | v: bestrewed), bestrewing, bestrews
 
 70 [5desk]: !bestrid <m>
 
 85 [ukacd]: bestridable
 
-50: bestride <v>: (bestrode | ~: bestrid), (bestridden | ~: bestrid), bestriding, bestrides
+50: bestride <v>: (bestrode | @: bestrid), (bestridden | @: bestrid), bestriding, bestrides
 
 85 [stale]: bestrow <m>: bestrowed, bestrowing, bestrows
 
@@ -63351,7 +63355,7 @@
 
 80 [moby]: Chicota <n/place>
 
-35: chide <v>: (chided | ~: chid), (chided | ~: chid | ~: chidden), chiding, chides
+35: chide <v>: (chided | V: chid), (chided | V: chid | @: chidden), chiding, chides
 
 70 [5desk] 80: chider <n>: chiders
 
@@ -68914,7 +68918,7 @@
 
 35: clip <n>: clips
 
-35: clip <v> {cut}: clipped, (clipped | ~: clipt), clipping, clips
+35: clip <v> {cut}: clipped, (clipped | @: clipt), clipping, clips
 
 35: clip <v> {fasten}: clipped, clipping, clips
 
@@ -104294,7 +104298,7 @@
 
 70 [5desk] 80: disproval <n>: disprovals
 
-35: disprove <v>: disproved, (disproved | ~: disproven), disproving, disproves
+35: disprove <v>: disproved, (disproved | .: disproven), disproving, disproves
 
 85 [ukacd]: dispunge <m>: dispunged, dispunging, dispunges
 
@@ -109604,7 +109608,7 @@
 
 70 [moby] 80: drillstock <n>: drillstocks
 
-35: drink <n_v>: drank, (drunk | ~: drank), drinking, drinks, drink's
+35: drink <n_v>: drank, (drunk | -: drank), drinking, drinks, drink's
 
 70 [5desk] 80: drinkability <n>: drinkabilities
 
@@ -138805,7 +138809,7 @@
 
 80 [moby]: Forbestown <n/place>
 
-35: forbid <v>: (forbade | ~: forbad | ~: forbid), (forbidden | ~: forbid), forbidding, forbids
+35: forbid <v>: (forbade | V: forbid | @: forbad), (forbidden | V: forbid), forbidding, forbids
 
 85 [stale]: forbidal <n>: forbidals
 
@@ -152321,7 +152325,7 @@
 
 80: gnatty <a>: gnattier, gnattiest
 
-35: gnaw <v>: gnawed, (gnawed | ~: gnawn), gnawing, gnaws
+35: gnaw <v>: gnawed, (gnawed | @: gnawn), gnawing, gnaws
 
 80: gnawable
 
@@ -155740,7 +155744,7 @@
 
 60: gravamen <n>: (gravamens | ~: gravamina)
 
-35: grave <n_v>: graved, (graven | ~: graved), graving, graves, grave's
+35: grave <n_v>: graved, (graved | @: graven), graving, graves, grave's
 
 35: grave <aj>: graver, gravest
 
@@ -155774,7 +155778,7 @@
 
 35: gravely <av>
 
-70 [5desk] [moby]: graven <aj>
+60 [extra] 70 [5desk] [moby]: graven <aj>
 
 60: graveness <n>
 80: - <n>: gravenesses~
@@ -168181,7 +168185,7 @@
 
 70 [moby]: Hevesy <n/upper?>: Hevesy's
 
-35: hew <v>: hewed, (hewed | ~: hewn), hewing, hews
+35: hew <v>: hewed, (hewn | ?: hewed), hewing, hews
 
 80: hewable
 
@@ -168581,7 +168585,7 @@
 
 85 [ukacd]: hidder <n>: hidders
 
-35: hide <n_v>: hid, (hidden | ~: hid), hiding, hides, hide's
+35: hide <n_v>: hid, (hidden | -: hid), hiding, hides, hide's
 
 35: hide <v> {thrash}: hided, hiding, hides
 
@@ -189452,7 +189456,7 @@
 
 60 [brif] 70 [3of6] 80: interwar
 
-35: interweave <v>: (interwove | ~: interweaved), (interwoven | ~: interweaved), interweaving, interweaves
+35: interweave <v>: (interwove | -: interweaved), (interwoven | -: interweaved), interweaving, interweaves
 
 85 [ukacd]: -interweave <n>: interweaves
 
@@ -195348,7 +195352,7 @@
 
 85 [ukacd]: jigot <n>: jigots
 
-35: jigsaw <n_v>: jigsawed, (jigsawed | ~: jigsawn), jigsawing, jigsaws
+35: jigsaw <n_v>: jigsawed, (jigsawed | -: jigsawn), jigsawing, jigsaws
 
 35: jigsaw puzzle <n>: jigsaw puzzles
 
@@ -203934,7 +203938,6 @@
 
 80 [moby]: Laddonia <n/place>
 
-35: - <v>: -, (laden | ~: laded), -, -
 60: lade <v>: laded, lading, lades
 
 50 [ukfreq] 70 [3of6] [5desk] [moby]: laden <aj>
@@ -205230,7 +205233,7 @@
 
 80: landsleit
 
-35: landslide <n_v>: landslid, (landslid | ~: landslidden), landsliding, landslides
+35: landslide <n_v>: landslid, (landslid | -: landslidden), landsliding, landslides
 
 60 [brif] 70 [3of6] 80: landslip <n>: landslips
 
@@ -227510,7 +227513,7 @@
 
 80 [moby]: Melstone <n/place>
 
-35: melt <n_v>: melted, (melted | ~: molten), melting, melts
+35: melt <n_v>: melted, melting, melts
 
 80: meltability <n>: meltabilities
 
@@ -234700,7 +234703,6 @@
 
 80: misset <m>: misset, missetting, missets
 
-35: - <v>: -, (misshaped | ~: misshapen), -, -
 60: misshape <v>: misshaped, misshaping, misshapes
 
 35: misshapen <aj>
@@ -240117,7 +240119,7 @@
 
 80: moviola <n>: moviolas
 
-35: mow <n_v>: mowed, (mowed | ~: mown), mowing, mows
+35: mow <n_v>: mowed, (mowed | v: mown), mowing, mows
 
 85 [ukacd]: mowa <n>: mowas
 
@@ -240135,7 +240137,7 @@
 
 80: mowing <n>: mowings
 
-70 [5desk] [moby]: mown <aj>
+60 [extra] 70 [5desk] [moby]: mown <aj>
 
 85 [ukacd]: mowra <n>: mowras
 
@@ -266281,6 +266283,8 @@
 
 80: overlade <m>: overladed, (overladed | overladen†), overlading, overlades #! unmarked variants: overladed, overladen
 
+60 [extra]: overladen <aj>
+
 35: overland <aj>
 
 85 [stale] [ukacd]: !overland <n>
@@ -266342,7 +266346,7 @@
 
 70 [moby] 85 [stale] [ukacd]: overlive <m>: overlived, overliving, overlives
 
-35: overload <n_v>: overloaded, (overloaded | ~: overladen), overloading, overloads
+35: overload <n_v>: overloaded, (overloaded | V: overladen), overloading, overloads
 
 70 [5desk]: overloaded <aj>
 
@@ -295455,7 +295459,7 @@
 
 80: preshow <m>: preshowed, (preshowed | preshown), preshowing, preshows #! unmarked variants: preshowed, preshown
 
-50: - <v>: (preshrank | ~: preshrunk), (preshrunk | ~: preshrunken), -, -
+50: - <v>: (preshrank | .: preshrunk), (preshrunk | -: preshrunken), -, -
 60: preshrink <v>: -, preshrinking, preshrinks
 
 85 [ukacd]: pre-shrink <n>: pre-shrinks
@@ -316406,7 +316410,7 @@
 
 40: resources
 
-60: resow <v>: resowed, (resown | ~: resowed), resowing, resows
+60: resow <v>: resowed, (resown | V: resowed), resowing, resows
 
 50 [extra]: resp <abbr>
 
@@ -318207,7 +318211,7 @@
 
 80: rewear <m>: rewore, reworn, rewearing, rewears
 
-60: reweave <v>: (rewove | ~: reweaved), (rewoven | ~: reweaved | ~: rewove), reweaving, reweaves
+60: reweave <v>: (rewove | V: reweaved), (rewoven | V: reweaved), reweaving, reweaves
 
 60: rewed <v>: rewedded, rewedding, reweds
 
@@ -320416,7 +320420,7 @@
 50: _-: rip-saw <n>: rip-saws
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: -ripsaw <v>: ripsawed, (ripsawed | ~: ripsawn), ripsawing, ripsaws
+80: -ripsaw <v>: ripsawed, (ripsawed | -: ripsawn), ripsawing, ripsaws
 
 80: ripsnorter <n>: ripsnorters
 
@@ -329761,7 +329765,7 @@
 
 35: savvy <a>: savvier, savviest
 
-35: saw <n_v>: sawed, (sawed | ~: sawn), sawing, saws, saw's
+35: saw <n_v>: sawed, (A BV C: sawed | AV B Cv: sawn), sawing, saws, saw's
 
 85 [ukacd]: sawah <n>: sawahs
 
@@ -329785,6 +329789,9 @@
 85 [ukacd]: !sawdust <v>: sawdusted, sawdusting, sawdusts
 
 80: sawdusty
+
+35: A: sawed <aj>
+35: B: sawn <aj>
 
 60: sawed-off <aj>
 
@@ -338601,7 +338608,7 @@
 
 80: sevruga <n>: sevrugas
 
-35: sew <v>: sewed, (sewn | ~: sewed), sewing, sews
+35: sew <v>: sewed, (sewn | v: sewed), sewing, sews
 
 80: sewability <n>: sewabilities
 
@@ -339915,7 +339922,7 @@
 
 85 [stale] [ukacd]: shealing <n>: shealings
 
-35: shear <n_v>: sheared, (sheared | ~: shorn), shearing, shears
+35: shear <n_v>: sheared, (sheared | shorn*), shearing, shears
 
 70 [moby]: sheared <aj>
 
@@ -341324,7 +341331,7 @@
 
 35: shoe <n>: (shoes | ~: shoon), shoe's, (shoes' | ~: shoon's)
 
-35: shoe <v>: (shod | ~: shoed), (shod | ~: shodden | ~: shoed), shoeing, shoes
+35: shoe <v>: (shod | V: shoed), (shod | V: shoed | @: shodden), shoeing, shoes
 
 70 [moby] 80: _: shoebill <n>: shoebills
 70 [moby] 80: _V: shoe-bill <n>
@@ -341962,7 +341969,7 @@
 70 [5desk] 80: shover <n>: shovers
 70 [5desk]: - <n>: shover's
 
-35: show <n_v>: showed, (shown | ~: showed), showing, shows, show's
+35: show <n_v>: showed, (shown | V: showed), showing, shows, show's
 
 70 [5desk]: Showa </upper?>
 
@@ -342219,7 +342226,7 @@
 50 [name]: - <n/upper>: Shriner's
 80 [upper]: - <n/upper>: Shriners-
 
-35: shrink <n_v>: (shrank | ~: shrunk), (shrunk | ~: shrunken), shrinking, shrinks, shrink's
+35: shrink <n_v>: shrank, shrunk, shrinking, shrinks, shrink's
 
 50: shrinkable <aj>
 
@@ -342240,7 +342247,7 @@
 
 60: shrink-wrapped
 
-50: shrive <v>: (shrived | ~: shrove), (shriven | ~: shrived), shriving, shrives
+50: shrive <v>: (shrived | V: shrove), (shriven | v: shrived), shriving, shrives
 
 35: shrivel <v>: (A: shriveled | B: shrivelled), (A: shriveling | B: shrivelling), shrivels
 
@@ -344555,7 +344562,7 @@
 
 80 [upper]: Sinitic <aj/upper?>
 
-35: sink <n_v>: (sank | ~: sunk), (sunk | ~: sunken), sinking, sinks, sink's
+35: sink <n_v>: sank, sunk, sinking, sinks, sink's
 
 50: sinkable <aj>
 
@@ -347985,7 +347992,7 @@
 
 85 [ukacd]: smit <n>: smits!
 
-35: - <v>: -, (smitten | ~: smit | ~: smote), -, -
+35: - <v>: -, (smitten | V: smote | @: smit), -, -
 50: smite <v>: smote, smiting, smites
 
 70 [5desk] 80: smiter <n>: smiters
@@ -352512,7 +352519,7 @@
 
 80: sovranty <n>: sovranties
 
-35: sow <n_v>: sowed, (sown | ~: sowed), sowing, sows, sow's
+35: sow <n_v>: sowed, (sowed* | sown), sowing, sows, sow's
 
 80: sowable
 
@@ -362739,7 +362746,9 @@
 
 70 [moby] 80: strigose
 
-35: strike <n_v>: struck, (struck | ~: stricken), striking, strikes, strike's
+35: strike <n_v>: struck, striking, strikes, strike's
+
+35: strike <v> {delete}: struck, stricken, striking, strikes
 
 60 [brif] 70 [moby] 80: _: strikebound <aj>
 60 [brif] 70 [moby] 80: _V: strike-bound <aj>
@@ -362940,7 +362949,7 @@
 60: stripy <aj>
 80: - <aj>: stripier!†, stripiest!†
 
-35: strive <v>: (strove | ~: strived), (striven | ~: strived), striving, strives
+35: strive <v>: (A Bv C.: strived | A. B C: strove), (A Bv C.: strived | A. B C: striven), striving, strives
 
 80: striver <n>: strivers
 
@@ -381560,7 +381569,7 @@
 
 80: thrawnly
 
-35: thread <n_v>: threaded, threading, threads, thread's
+35: thread <n_v>: threaded†, threading, threads, thread's
 
 35: threadbare <aj>
 
@@ -381778,7 +381787,7 @@
 70 [moby] 80: thrips <n>
 85 [ukacd]: - <n>: thripses!
 
-35: thrive <v>: (thrived | ~: throve), (thrived | ~: thriven), thriving, thrives
+35: thrive <v>: (thrived | V: throve), (thrived | V: thriven), thriving, thrives
 
 85 [ukacd]: thriveless
 
@@ -389080,7 +389089,9 @@
 60: treacly <aj>
 65: - <aj>: treaclier-, treacliest-
 
-35: tread <n_v>: (trod | ~: treaded), (trodden | ~: trod), treading, treads
+35: tread <n_v>: trod, trodden, treading, treads
+
+35: tread <v> {tread water}: threaded†, treading, treads
 
 70 [5desk] 80: treader <n>: treaders
 
@@ -421569,7 +421580,7 @@
 
 70 [3of6] 85 [ukacd]: whip-round <n>: whip-rounds
 
-60: whipsaw <n_v>: whipsawed, (whipsawed | ~: whipsawn), whipsawing, whipsaws
+60: whipsaw <n_v>: whipsawed, (whipsawed | -: whipsawn), whipsawing, whipsaws
 
 70 [moby]: whip scorpion <n>: whip scorpion's
 
@@ -426674,7 +426685,7 @@
 
 85 [ukacd]: writative
 
-35: write <v>: wrote, (written | ~: writ), writing, writes
+35: write <v>: wrote, (written | @: writ), writing, writes
 
 40: write-in <n>: write-ins, write-in's
 

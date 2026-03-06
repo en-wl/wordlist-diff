@@ -3,6 +3,15 @@ New words, unclassified:
   po'boy
 total: 2
 
+New words, in 2of12id, but marked as a variant:
+  backslidden
+  disproven
+  hewn
+  mown
+  shorn
+  strived
+total: 6
+
 New words, upper:
   Black
   Christy
@@ -841,7 +850,6 @@ total: 489
 
 Missing words, variant:
   bauds
-  bestrewn
   blinis
   chateaus
   clitorides
@@ -859,7 +867,6 @@ Missing words, variant:
   mananas
   nonpluses
   oles
-  overladen
   penumbras
   precises
   shier
@@ -867,7 +874,7 @@ Missing words, variant:
   sicced
   siccing
   zeroes
-total: 27
+total: 25
 
 New words, ok, added:
   ADHD
