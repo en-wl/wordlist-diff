@@ -161,7 +161,6 @@ Aconcagua
 Aconcagua's
 Acosta
 Acosta's
-Acropolis
 Acrux
 Acrux's
 Actaeon
@@ -218,7 +217,6 @@ Adkins's
 Adler
 Adler's
 Adm
-Admiralty
 Adolf
 Adolf's
 Adolfo
@@ -676,7 +674,6 @@ Amati
 Amati's
 Amazon
 Amazon's
-Amazonian
 Amazons
 Amber
 Amber's
@@ -856,7 +853,6 @@ Angkor
 Angkor's
 Angle
 Angle's
-Angles
 Anglia
 Anglia's
 Anglican
@@ -959,7 +955,6 @@ Antioch
 Antioch's
 Antipas
 Antipas's
-Antipodes
 Antofagasta
 Antofagasta's
 Antoine
@@ -1299,7 +1294,6 @@ Assam
 Assam's
 Assamese
 Assamese's
-Assembly
 Assisi
 Assisi's
 Assyria
@@ -1369,7 +1363,6 @@ Atlas
 Atlas's
 Atman
 Atman's
-Atonement
 Atreus
 Atreus's
 Atria
@@ -2348,8 +2341,6 @@ Bjork's
 Bk
 Black
 Black's
-BlackBerry
-BlackBerry's
 Blackbeard
 Blackbeard's
 Blackburn
@@ -2479,7 +2470,6 @@ Bologna
 Bologna's
 Bolshevik
 Bolshevik's
-Bolsheviki
 Bolsheviks
 Bolshevism
 Bolshevism's
@@ -2830,7 +2820,6 @@ Bronson
 Bronson's
 Bronte
 Bronte's
-Brontosaurus
 Bronx
 Bronx's
 Brooke
@@ -3661,8 +3650,6 @@ Cenozoic
 Cenozoic's
 Centaurus
 Centaurus's
-Centigrade
-Central
 Cepheid
 Cepheid's
 Cepheus
@@ -4017,7 +4004,6 @@ Christy's
 Chromebook
 Chromebook's
 Chromebooks
-Chronicles
 Chrysler
 Chrysler's
 Chrysostom
@@ -4203,7 +4189,6 @@ Cockney
 Cockney's
 Cocteau
 Cocteau's
-Cod
 Cody
 Cody's
 Coffey
@@ -4290,13 +4275,10 @@ Combs's
 Comdr
 Comintern
 Comintern's
-Commandment
 Commons
 Commons's
-Commonwealth
 Communion
 Communion's
-Communism
 Communist
 Communist's
 Communists
@@ -4352,7 +4334,6 @@ Congregationalist
 Congregationalist's
 Congress
 Congress's
-Congressional
 Congreve
 Congreve's
 Conley
@@ -4587,7 +4568,6 @@ Crecy
 Crecy's
 Cree
 Cree's
-Creed
 Creek
 Creek's
 Creighton
@@ -4860,8 +4840,6 @@ Dalton
 Dalton's
 Damascus
 Damascus's
-Dame
-Dame's
 Damian
 Damian's
 Damien
@@ -4967,7 +4945,6 @@ Darwinism's
 Darwinist
 Daryl
 Daryl's
-Datamation
 Daugherty
 Daugherty's
 Daumier
@@ -5072,7 +5049,6 @@ Deimos
 Deimos's
 Deirdre
 Deirdre's
-Deity
 Dejesus
 Dejesus's
 Del
@@ -5363,7 +5339,6 @@ Doberman
 Doberman's
 Dobro
 Dobro's
-Doctor
 Doctorow
 Doctorow's
 Dodge
@@ -5735,8 +5710,6 @@ Earp's
 East
 Easter
 Easter's
-Eastern
-Easterner
 Easters
 Eastman
 Eastman's
@@ -5762,7 +5735,6 @@ Ecclesiastes
 Ecclesiastes's
 Eco
 Eco's
-Ecstasy
 Ecuador
 Ecuador's
 Ecuadoran
@@ -6197,7 +6169,6 @@ Essex
 Essex's
 Essie
 Essie's
-Establishment
 Esteban
 Esteban's
 Estela
@@ -6297,7 +6268,6 @@ Eva
 Eva's
 Evan
 Evan's
-Evangelical
 Evangelina
 Evangelina's
 Evangeline
@@ -6340,7 +6310,6 @@ Excedrin's
 Excellencies
 Excellency
 Excellency's
-Exchequer
 Exercycle
 Exercycle's
 Exocet
@@ -6464,7 +6433,6 @@ Fassbinder
 Fassbinder's
 Fatah
 Fatah's
-Fates
 Father
 Father's
 Fatima
@@ -6735,7 +6703,6 @@ Fourier
 Fourier's
 Fourneyron
 Fourneyron's
-Fourth
 Fowler
 Fowler's
 Fox
@@ -6943,7 +6910,6 @@ Funafuti
 Funafuti's
 Fundy
 Fundy's
-Furies
 Furman
 Furman's
 Furtwangler
@@ -7056,7 +7022,6 @@ Galatia
 Galatia's
 Galatians
 Galatians's
-Galaxy
 Galbraith
 Galbraith's
 Gale
@@ -7591,7 +7556,6 @@ Gould
 Gould's
 Gounod
 Gounod's
-Governor
 Goya
 Goya's
 Gr
@@ -7617,7 +7581,6 @@ Graham
 Graham's
 Grahame
 Grahame's
-Grail
 Grammies
 Grammy
 Grammy's
@@ -7891,7 +7854,6 @@ HTTP
 HUD
 HUD's
 HVAC
-Ha
 Haas
 Haas's
 Habakkuk
@@ -8340,7 +8302,6 @@ Herbert
 Herbert's
 Herculaneum
 Herculaneum's
-Herculean
 Hercules
 Hercules's
 Herder
@@ -8586,7 +8547,6 @@ Holder
 Holder's
 Holiday
 Holiday's
-Holiness
 Holland
 Holland's
 Hollander
@@ -8640,7 +8600,6 @@ Honiara
 Honiara's
 Honolulu
 Honolulu's
-Honorable
 Honshu
 Honshu's
 Hood
@@ -9004,7 +8963,6 @@ Inca
 Inca's
 Inchon
 Inchon's
-Incorporated
 Ind
 Independence
 Independence's
@@ -9081,7 +9039,6 @@ Internationale
 Internationale's
 Internet
 Internet's
-Internets
 Interpol
 Interpol's
 Inuit
@@ -10565,7 +10522,6 @@ LSAT
 LSD
 LVN
 La
-Lab
 Laban
 Laban's
 Labrador
@@ -10848,7 +10804,6 @@ Leeuwenhoek
 Leeuwenhoek's
 Leeward
 Leeward's
-Left
 Legendre
 Legendre's
 Leger
@@ -11094,7 +11049,6 @@ Lima
 Lima's
 Limbaugh
 Limbaugh's
-Limbo
 Limburger
 Limburger's
 Limoges
@@ -11548,7 +11502,6 @@ MI
 MI's
 MIA
 MIDI
-MIPS
 MIRV
 MIT
 MIT's
@@ -11637,7 +11590,6 @@ Madagascan
 Madagascan's
 Madagascar
 Madagascar's
-Madam
 Madden
 Madden's
 Maddox
@@ -11699,7 +11651,6 @@ Magritte
 Magritte's
 Magsaysay
 Magsaysay's
-Magus
 Magyar
 Magyar's
 Magyars
@@ -12111,7 +12062,6 @@ Marseillaise
 Marseillaise's
 Marseilles
 Marseilles's
-Marses
 Marsh
 Marsh's
 Marsha
@@ -12305,7 +12255,6 @@ Maynard
 Maynard's
 Mayo
 Mayo's
-Maypole
 Mayra
 Mayra's
 Mays
@@ -12641,7 +12590,6 @@ Messiaen's
 Messiah
 Messiah's
 Messianic
-Messieurs
 Messrs
 Metallica
 Metallica's
@@ -12740,7 +12688,6 @@ Mideast's
 Mideastern
 Midland
 Midland's
-Midlands
 Midway
 Midway's
 Midwest
@@ -12900,7 +12847,6 @@ Missy's
 Mistassini
 Mistassini's
 Mister
-Mistress
 Misty
 Misty's
 Mitch
@@ -13213,7 +13159,6 @@ Mott
 Mott's
 Moulton
 Moulton's
-Mount
 Mountbatten
 Mountbatten's
 Mountie
@@ -13607,8 +13552,6 @@ Nd
 Ndjamena
 Ndjamena's
 Ne
-NeWS
-NeWSes
 Neal
 Neal's
 Neanderthal
@@ -14247,7 +14190,6 @@ Omayyad
 Omayyad's
 Omdurman
 Omdurman's
-Omnipotent
 Omsk
 Omsk's
 Onassis
@@ -14470,7 +14412,6 @@ PGP
 PHP
 PHP's
 PIN
-PJ's
 PLO
 PLO's
 PM
@@ -14943,7 +14884,6 @@ Phanerozoic
 Phanerozoic's
 Pharaoh
 Pharaoh's
-Pharisaic
 Pharisaical
 Pharisee
 Pharisee's
@@ -15056,7 +14996,6 @@ Pinochet
 Pinochet's
 Pinter
 Pinter's
-Pinyin
 Pippin
 Pippin's
 Piraeus
@@ -15366,7 +15305,6 @@ Priscilla
 Priscilla's
 Prius
 Prius's
-Private
 Procrustean
 Procrustes
 Procrustes's
@@ -15375,7 +15313,6 @@ Procter's
 Procyon
 Procyon's
 Prof
-Prohibition
 Prokofiev
 Prokofiev's
 Promethean
@@ -15892,10 +15829,8 @@ Representative
 Representatives
 Republican
 Republican's
-Republicanism
 Republicans
 Requiem
-Resistance
 Restoration
 Resurrection
 Reuben
@@ -16014,7 +15949,6 @@ Rigel
 Rigel's
 Riggs
 Riggs's
-Right
 Rigoberto
 Rigoberto's
 Rigoletto
@@ -17096,7 +17030,6 @@ Senegalese
 Senegalese's
 Senghor
 Senghor's
-Senior
 Sennacherib
 Sennacherib's
 Sennett
@@ -17408,7 +17341,6 @@ Siemens
 Siemens's
 Sierpinski
 Sierpinski's
-Sierras
 Sigismund
 Sigismund's
 Sigmund
@@ -17828,7 +17760,6 @@ Starr
 Starr's
 Staten
 Staten's
-States
 Staubach
 Staubach's
 Ste
@@ -18436,14 +18367,12 @@ Tegucigalpa
 Tegucigalpa's
 Tehran
 Tehran's
-TelePrompTer
 TelePrompter
 TelePrompter's
 Telemachus
 Telemachus's
 Telemann
 Telemann's
-Teletype
 Tell
 Tell's
 Teller
@@ -19877,7 +19806,6 @@ Wayne
 Wayne's
 Weaver
 Weaver's
-Web
 Webb
 Webb's
 Weber

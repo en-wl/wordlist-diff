@@ -349,6 +349,8 @@ total: 8
 
 Missing words, upper:
   ABMs
+  Acropolis
+  Admiralty
   Adrenalins
   Adventists
   Advents
@@ -358,12 +360,15 @@ Missing words, upper:
   Alexanders
   Algonquians
   Algonquins
+  Amazonian
   Americanizations
   Amerinds
+  Angles
   Anglicanisms
   Angoras
   Annunciations
   Antichrists
+  Antipodes
   Apaches
   Apollos
   Appaloosas
@@ -377,11 +382,13 @@ Missing words, upper:
   Arizonians
   Armageddons
   Asiatics
+  Assembly
   Assyrians
   Athabaskans
   Athenians
   Atlantes
   Atlases
+  Atonement
   Ats
   Augustinians
   Austins
@@ -398,7 +405,9 @@ Missing words, upper:
   Berbers
   Berliners
   Berlins
+  BlackBerry
   Bohemians
+  Bolsheviki
   Bostons
   Bourbons
   Brahmanisms
@@ -408,6 +417,7 @@ Missing words, upper:
   Briticisms
   Brittanies
   Broadways
+  Brontosaurus
   Buddhisms
   Burgundies
   Byzantines
@@ -428,6 +438,8 @@ Missing words, upper:
   Catholicisms
   Cayugas
   Celtics
+  Centigrade
+  Central
   Cherokees
   Cheyennes
   Chickasaws
@@ -441,17 +453,24 @@ Missing words, upper:
   Christmastides
   Christmastimes
   Christs
+  Chronicles
   Ci
+  Cod
   Comanches
+  Commandment
+  Commonwealth
   Communions
+  Communism
   Concords
   Confederates
   Confucianisms
   Congregationalists
   Congresses
+  Congressional
   Cornishes
   Corteses
   Coventries
+  Creed
   Creeks
   Crees
   Cretans
@@ -460,17 +479,24 @@ Missing words, upper:
   Czechoslovakians
   Dacrons
   Dakotas
+  Dame
   Danaë
   Darwinisms
+  Datamation
   Davids
+  Deity
   Delawares
   Delilahs
   Diasporas
   Dixielands
+  Doctor
   Dons
   Dramamines
   Durhams
+  Eastern
+  Easterner
   Easts
+  Ecstasy
   Ecuadorans
   Edens
   Einsteins
@@ -479,18 +505,25 @@ Missing words, upper:
   Epiphanies
   Eroses
   Esquires
+  Establishment
   Eucharists
   Eurodollars
+  Evangelical
+  Exchequer
   Fabians
+  Fates
   Fathers
   Federals
   Formicas
+  Fourth
   Foxes
   Franciscans
   Freemasonries
   Frisians
+  Furies
   Gaels
   Galahads
+  Galaxy
   Galileans
   Gallicisms
   Gauls
@@ -504,8 +537,11 @@ Missing words, upper:
   Gothics
   Goths
   Goudas
+  Governor
+  Grail
   Gruyeres
   Guernseys
+  Ha
   Haidas
   Hamburgs
   Harpies
@@ -513,13 +549,16 @@ Missing words, upper:
   Hawaiians
   Hebraisms
   Hellenisms
+  Herculean
   Herefords
   Hinduisms
   Hindustanis
   Hitlers
   Hittites
+  Holiness
   Hollanders
   Hollands
+  Honorable
   Hopis
   Hosts
   Hottentots
@@ -530,6 +569,8 @@ Missing words, upper:
   Idahos
   Iliads
   Incas
+  Incorporated
+  Internets
   Inuits
   Ionians
   Ionics
@@ -552,13 +593,16 @@ Missing words, upper:
   Kleenexes
   Klondikes
   Kwanzaas
+  Lab
   Lamaisms
   Lapps
   Latiner
+  Left
   Leicesters
   Lents
   Lhasas
   Lilliputians
+  Limbo
   Lincolns
   Loafers
   Londoners
@@ -567,8 +611,11 @@ Missing words, upper:
   Lucites
   Lutheranisms
   Lydians
+  MIPS
   Madagascans
+  Madam
   Madeiras
+  Magus
   Mahicans
   Malayans
   Malays
@@ -579,9 +626,11 @@ Missing words, upper:
   Manilas
   Maoisms
   Marseillaises
+  Marses
   Marxisms
   Mayans
   Mayas
+  Maypole
   Meccas
   Medicaids
   Medicares
@@ -589,11 +638,14 @@ Missing words, upper:
   Mennonites
   Mercuries
   Messiahs
+  Messieurs
   Methodisms
   Miamis
   Michaelmases
   Micmacs
+  Midlands
   Minoans
+  Mistress
   Mohammedanisms
   Mohammedans
   Mohaves
@@ -603,6 +655,7 @@ Missing words, upper:
   Monsignors
   Morgans
   Mormonisms
+  Mount
   Muensters
   Muhammadanisms
   Muhammadans
@@ -612,6 +665,8 @@ Missing words, upper:
   Navajoes
   Navajos
   Nazisms
+  NeWS
+  NeWSes
   Negroids
   Newfoundlands
   Nobelists
@@ -628,6 +683,7 @@ Missing words, upper:
   Ojibwas
   Olympias
   Omahas
+  Omnipotent
   Oneidas
   Onondagas
   Orlons
@@ -646,12 +702,18 @@ Missing words, upper:
   Pekings
   Pentecostals
   Pharaohs
+  Pharisaic
   Phoenicians
   Photostats
+  Photostatted
+  Photostatting
+  Pinyin
   Plexiglases
   Pliocenes
   Polynesians
   Presbyterianisms
+  Private
+  Prohibition
   Protestantisms
   Provencals
   Providences
@@ -669,8 +731,11 @@ Missing words, upper:
   Reformations
   Reginae
   Renaissances
+  Republicanism
   Requiems
+  Resistance
   Rieslings
+  Right
   Rivieras
   Romanesques
   Romes
@@ -688,6 +753,7 @@ Missing words, upper:
   Semitics
   Senates
   Senecas
+  Senior
   Septuagints
   Shawnees
   Shintoisms
@@ -696,6 +762,7 @@ Missing words, upper:
   Shoshones
   Siberians
   Sicilians
+  Sierras
   Silurians
   Sirs
   Somalians
@@ -703,6 +770,7 @@ Missing words, upper:
   Souths
   Southwests
   Spartans
+  States
   Stiltons
   Stoicisms
   Stoics
@@ -722,6 +790,8 @@ Missing words, upper:
   Taoisms
   Tatars
   Teflons
+  TelePrompTer
+  Teletype
   Teutons
   Tibetans
   Titans
@@ -750,6 +820,7 @@ Missing words, upper:
   Visigoths
   Vulgates
   Waterloos
+  Web
   Websters
   Wellingtons
   Wests
@@ -766,7 +837,7 @@ Missing words, upper:
   Zions
   Zoroastrianisms
   Zoroastrians
-total: 418
+total: 489
 
 Missing words, variant:
   bauds
@@ -2842,8 +2913,6 @@ Missing words, ok, uncommon derived aj/av:
 total: 31
 
 Missing words, ok, uncommon form:
-  Photostatted
-  Photostatting
   accessioned
   accessioning
   aliened
@@ -2933,7 +3002,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 91
+total: 89
 
 Missing words, ok, variant:
   Curacao

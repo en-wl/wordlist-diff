@@ -56,8 +56,6 @@ AM
 AMA
 AMD
 AMD's
-AMP
-AMP's
 ANSI
 ANSIs
 ANZUS
@@ -168,10 +166,6 @@ Abnakis
 Abner
 Abner's
 Abo
-Abolitionist
-Abolitionists
-Aboriginal
-Aboriginals
 Aborigine
 Aborigine's
 Aborigines
@@ -237,7 +231,6 @@ Acre
 Acre's
 Acrilan
 Acrilans
-Acropolis
 Acrux
 Acrux's
 Actaeon
@@ -308,11 +301,6 @@ Adler
 Adler's
 Adlerian
 Adm
-Administration
-Administrations
-Admiral
-Admiralties
-Admiralty
 Adolf
 Adolf's
 Adolfo
@@ -433,10 +421,6 @@ Agassiz
 Agassiz's
 Agatha
 Agatha's
-Age
-Agee
-Agee's
-Ages
 Aggeus
 Aggeus's
 Aggie
@@ -489,7 +473,6 @@ Aida
 Aida's
 Aidoneus
 Aidoneus's
-Aids
 Aiken
 Aiken's
 Aileen
@@ -499,8 +482,6 @@ Aimee's
 Ainu
 Ainu's
 Ainus
-Airbus
-Airbuses
 Airdrie
 Airedale
 Airedale's
@@ -608,8 +589,6 @@ Albuquerque
 Albuquerque's
 Alcaeus
 Alcaeus's
-Alcaic
-Alcaics
 Alcatraz
 Alcatraz's
 Alcestis
@@ -687,8 +666,6 @@ Alexandria's
 Alexandrian
 Alexandrian's
 Alexandrians
-Alexandrine
-Alexandrines
 Alexei
 Alexei's
 Alexis
@@ -792,7 +769,6 @@ Allhallowtide
 Allhallowtides
 Allie
 Allie's
-Allied
 Allier
 Allies
 Allies's
@@ -828,11 +804,8 @@ Alonzo's
 Aloysius
 Alpert
 Alpert's
-Alpha
-Alpha's
 Alphard
 Alphard's
-Alphas
 Alphecca
 Alphecca's
 Alpheratz
@@ -931,7 +904,6 @@ Amazon
 Amazon's
 Amazonas
 Amazonia
-Amazonian
 Amazons
 Amber
 Amber's
@@ -1155,7 +1127,6 @@ Angelou
 Angelou's
 Angelus
 Angeluses
-Angers
 Angevin
 Angevin's
 Angevins
@@ -1165,7 +1136,6 @@ Angkor
 Angkor's
 Angle
 Angle's
-Angles
 Anglesey
 Anglia
 Anglia's
@@ -1207,8 +1177,6 @@ Anglophobes
 Anglophobia
 Anglophobias
 Anglophobic
-Anglophone
-Anglophones
 Anglos
 Angola
 Angola's
@@ -1218,7 +1186,6 @@ Angolans
 Angora
 Angora's
 Angoras
-Angostura
 Anguilla
 Anguilla's
 Angus
@@ -1323,10 +1290,6 @@ Antioch
 Antioch's
 Antipas
 Antipas's
-Antipodean
-Antipodeans
-Antipodes
-Antlia
 Antofagasta
 Antofagasta's
 Antoine
@@ -1376,7 +1339,6 @@ Apeldoorn
 Apennine
 Apennines
 Apennines's
-Apex
 Aphrodite
 Aphrodite's
 Apia
@@ -1386,7 +1348,6 @@ Apis's
 Apocalypse
 Apocrypha
 Apocrypha's
-Apocryphal
 Apollinaire
 Apollinaire's
 Apollo
@@ -1471,7 +1432,6 @@ Aragonese
 Araguaia
 Araguaya
 Araguaya's
-Arak
 Aral
 Aral's
 Aram
@@ -1515,12 +1475,8 @@ Arcadies
 Arcady
 Archaean
 Archaeozoic
-Archangel
 Archean
 Archean's
-Archer
-Archer's
-Archfiend
 Archibald
 Archibald's
 Archie
@@ -1584,8 +1540,6 @@ Argos's
 Argus
 Argus's
 Arguses
-Argyll
-Argylls
 Argyrol
 Argyrols
 Arhat
@@ -1678,7 +1632,6 @@ Armenia's
 Armenian
 Armenian's
 Armenians
-Armies
 Arminius
 Arminius's
 Armonk
@@ -1687,8 +1640,6 @@ Armour
 Armour's
 Armstrong
 Armstrong's
-Army
-Army's
 Arne
 Arneb
 Arneb's
@@ -1751,7 +1702,6 @@ Asch's
 Asclepiadean
 Asclepius
 Asclepius's
-Ascot
 Asgard
 Asgard's
 Ashanti
@@ -1822,8 +1772,6 @@ Assam
 Assam's
 Assamese
 Assamese's
-Assemblies
-Assembly
 Assiniboin
 Assiniboine
 Assiniboines
@@ -1833,8 +1781,6 @@ Assisi's
 Assn
 Assoc
 Assuan
-Assumption
-Assumptions
 Assur
 Assurbanipal
 Assurbanipal's
@@ -1893,8 +1839,6 @@ Ataturk's
 Atatürk
 Atatürk's
 Atchafalaya
-Ate
-Ate's
 Aten
 Aten's
 Athabasca
@@ -1948,7 +1892,6 @@ Atman's
 Atmans
 Aton
 Aton's
-Atonement
 Atreus
 Atreus's
 Atria
@@ -1960,8 +1903,6 @@ Attic
 Attic's
 Attica
 Attica's
-Atticism
-Atticisms
 Attila
 Attila's
 Attlee
@@ -2044,7 +1985,6 @@ Austerlitz's
 Austin
 Austin's
 Austins
-Austral
 Australasia
 Australasia's
 Australasian
@@ -2181,7 +2121,6 @@ B
 B's
 BA
 BAL
-BAR
 BASIC
 BASIC's
 BASICs
@@ -2197,8 +2136,6 @@ BBSes
 BBs
 BC
 BCE
-BEd
-BEds
 BFF
 BHT
 BIA
@@ -2279,8 +2216,6 @@ Bacardi's
 Bacchae
 Bacchanalia
 Bacchanalia's
-Bacchanalian
-Bacchanalians
 Bacchic
 Bacchus
 Bacchus's
@@ -2314,7 +2249,6 @@ Baez's
 Baffin
 Baffin's
 Bagdad
-Baggie
 Baggies
 Baggies's
 Baghdad
@@ -2389,7 +2323,6 @@ Balder's
 Baldwin
 Baldwin's
 Baldwins
-Bale
 Balearic
 Balearic's
 Balenciaga
@@ -2489,9 +2422,6 @@ Banneker's
 Bannister
 Bannister's
 Bannockburn
-Bantam
-Bantam's
-Bantams
 Banting
 Banting's
 Bantu
@@ -2553,7 +2483,6 @@ Bari's
 Baring
 Barker
 Barker's
-Barking
 Barkley
 Barkley's
 Barlow
@@ -2572,7 +2501,6 @@ Barnaul
 Barnaul's
 Barnes
 Barnes's
-Barnet
 Barnett
 Barnett's
 Barney
@@ -2632,7 +2560,6 @@ Bashkir
 Bashkirs
 Basho
 Basho's
-Basic
 Basie
 Basie's
 Basil
@@ -2665,8 +2592,6 @@ Bataan's
 Batavia
 Bates
 Bates's
-Bath
-Bath's
 Bathsheba
 Bathsheba's
 Bathurst
@@ -2738,7 +2663,6 @@ Bearnaise
 Bearnaise's
 Beasley
 Beasley's
-Beatitudes
 Beatlemania
 Beatlemania's
 Beatles
@@ -2769,8 +2693,6 @@ Beauregard's
 Beauvais
 Beauvoir
 Beauvoir's
-Beaverboard
-Beaverboards
 Beaverbrook
 Beaverbrook's
 Beaverton
@@ -2802,9 +2724,6 @@ Bedloe
 Bedouin
 Bedouin's
 Bedouins
-Beduin
-Beduin's
-Beduins
 Beeb
 Beebe
 Beebe's
@@ -2813,8 +2732,6 @@ Beecher
 Beecher's
 Beefaroni
 Beefaroni's
-Beefeater
-Beefeaters
 Beelzebub
 Beelzebub's
 Beerbohm
@@ -2822,15 +2739,10 @@ Beerbohm's
 Beersheba
 Beethoven
 Beethoven's
-Beetle
-Beetles
 Beeton
 Beeton's
 Begin
 Begin's
-Beguine
-Beguine's
-Beguines
 Behan
 Behan's
 Behring
@@ -2844,8 +2756,6 @@ Beirut
 Beirut's
 Bekesy
 Bekesy's
-Bel
-Bel's
 Bela
 Bela's
 Belarus
@@ -2885,7 +2795,6 @@ Bellamy
 Bellamy's
 Bellatrix
 Bellatrix's
-Belle
 Belleek
 Belleek's
 Belleeks
@@ -2914,7 +2823,6 @@ Belshazzar's
 Beltane
 Beltane's
 Beltanes
-Beltway
 Belushi
 Belushi's
 Bemba
@@ -2927,9 +2835,6 @@ Benadryl
 Benadryls
 Benares
 Benares's
-Bench
-Bench's
-Benches
 Benchley
 Benchley's
 Bender
@@ -2944,8 +2849,6 @@ Benedict's
 Benedictine
 Benedictine's
 Benedictines
-Benediction
-Benedictions
 Benedictus
 Benedictuses
 Benelux
@@ -3216,7 +3119,6 @@ Biggles's
 Bihar
 Bihari
 Biharis
-Bikini
 Biko
 Biko's
 Bikol
@@ -3298,8 +3200,6 @@ Bjork's
 Bk
 Black
 Black's
-BlackBerry
-BlackBerry's
 Blackbeard
 Blackbeard's
 Blackburn
@@ -3326,7 +3226,6 @@ Blake's
 Blanc
 Blanca
 Blanca's
-Blanch
 Blanchard
 Blanchard's
 Blanche
@@ -3347,7 +3246,6 @@ Blida
 Bligh
 Bligh's
 Blighty
-Blitz
 Bloch
 Bloch's
 Blockbuster
@@ -3379,8 +3277,6 @@ Blucher's
 Bluebeard
 Bluebeard's
 Bluebeards
-Bluenose
-Bluenoses
 Bluetooth
 Bluetooth's
 Blvd
@@ -3441,8 +3337,6 @@ Bohemia
 Bohemia's
 Bohemian
 Bohemian's
-Bohemianism
-Bohemianisms
 Bohemians
 Bohemias
 Bohol
@@ -3474,7 +3368,6 @@ Bolognans
 Bolognese
 Bolshevik
 Bolshevik's
-Bolsheviki
 Bolsheviks
 Bolshevism
 Bolshevism's
@@ -3516,7 +3409,6 @@ Bonnie
 Bonnie's
 Bono
 Bono's
-Book
 Booker
 Booker's
 Boole
@@ -3534,10 +3426,8 @@ Bordeaux
 Bordeaux's
 Borden
 Borden's
-Borders
 Bordon
 Bordon's
-Boreal
 Boreas
 Boreas's
 Borg
@@ -3618,8 +3508,6 @@ Bourbons
 Bourgogne
 Bournemouth
 Bournemouth's
-Bourse
-Bourses
 Bovary
 Bovary's
 Bowditch
@@ -3636,9 +3524,6 @@ Bowie
 Bowie's
 Bowman
 Bowman's
-Boxer
-Boxer's
-Boxers
 Boyd
 Boyd's
 Boyer
@@ -3808,7 +3693,6 @@ Brest's
 Bret
 Bret's
 Bretagne
-Brethren
 Breton
 Breton's
 Bretons
@@ -3838,8 +3722,6 @@ Brice
 Brice's
 Bridalveil
 Bridalveil's
-Bride
-Bride's
 Bridgeport
 Bridgeport's
 Bridger
@@ -3946,7 +3828,6 @@ Bronson
 Bronson's
 Bronte
 Bronte's
-Brontosaurus
 Bronx
 Bronx's
 Brooke
@@ -4085,7 +3966,6 @@ Buddy
 Buddy's
 Budge
 Budge's
-Budget
 Budweis
 Budweiser
 Budweiser's
@@ -4125,11 +4005,8 @@ Bulgarian
 Bulgarian's
 Bulgarians
 Bulgars
-Bull
-Bull's
 Bullock
 Bullock's
-Bulls
 Bullwinkle
 Bullwinkle's
 Bultmann
@@ -4140,7 +4017,6 @@ Buna
 Bunas
 Bunche
 Bunche's
-Bund
 Bundesbank
 Bundesbank's
 Bundesrat
@@ -4148,7 +4024,6 @@ Bundesrats
 Bundestag
 Bundestag's
 Bundestags
-Bunds
 Bundt
 Bundts
 Bunin
@@ -4193,8 +4068,6 @@ Burks
 Burks's
 Burl
 Burl's
-Burley
-Burleys
 Burlington
 Burlington's
 Burma
@@ -4241,17 +4114,12 @@ Bush's
 Bushido
 Bushido's
 Bushidos
-Bushman
-Bushman's
-Bushmen
 Bushnell
 Bushnell's
 Busoni
 Bute
 Butler
 Butler's
-Butte
-Butte's
 Butterfingers
 Butterfingers's
 Buxtehude
@@ -4293,7 +4161,6 @@ CAP
 CAPTCHA
 CAPTCHAs
 CARE
-CAT
 CATV
 CB
 CBC
@@ -4345,8 +4212,6 @@ COD
 COL
 COLA
 COLAs
-CORE
-CORE's
 COVID
 CP
 CPA
@@ -4376,15 +4241,9 @@ CW
 CZ
 Ca
 Caaba
-Cabala
-Cabalas
-Cabbala
-Cabbalas
 Cabernet
 Cabernet's
 Cabernets
-Cabinet
-Cabinets
 Cabot
 Cabot's
 Cabral
@@ -4422,7 +4281,6 @@ Caesar's
 Caesarea
 Caesarean
 Caesareans
-Caesarian
 Caesarism
 Caesarism's
 Caesarisms
@@ -4517,8 +4375,6 @@ Callisto's
 Caloocan
 Caloocan's
 Calpe
-Calvados
-Calvadoses
 Calvaries
 Calvary
 Calvary's
@@ -4534,13 +4390,7 @@ Calvinist's
 Calvinistic
 Calvinistical
 Calvinists
-Calypso
-Calypso's
-Calypsoes
 Calypsonian
-Calypsos
-Cam
-Cam's
 Camacho
 Camacho's
 Camaguey
@@ -4600,10 +4450,8 @@ Campbell's
 Campbellite
 Campbellites
 Campeche
-Campfire
 Campinas
 Campinas's
-Campion
 Campobello
 Campos
 Campos's
@@ -4635,7 +4483,6 @@ Canarese
 Canarese's
 Canaries
 Canaries's
-Canary
 Canaveral
 Canaveral's
 Canberra
@@ -4662,7 +4509,6 @@ Canicula
 Cannae
 Cannes
 Cannes's
-Canning
 Cannon
 Cannon's
 Canon
@@ -4731,7 +4577,6 @@ Capricornis's
 Capricorns
 Capris
 Capt
-Captain
 Capuchin
 Capuchin's
 Capuchins
@@ -4758,9 +4603,6 @@ Cardenas
 Cardenas's
 Cardiff
 Cardiff's
-Cardigan
-Cardigan's
-Cardigans
 Cardiganshire
 Cardin
 Cardin's
@@ -4875,8 +4717,6 @@ Carracci
 Carranza
 Carranza's
 Carrara
-Carrel
-Carrel's
 Carreras
 Carrickfergus
 Carrie
@@ -4938,7 +4778,6 @@ Casey
 Casey's
 Cash
 Cash's
-Cashmere
 Casio
 Casio's
 Caslon
@@ -5016,8 +4855,6 @@ Catholic's
 Catholicism
 Catholicism's
 Catholicisms
-Catholicities
-Catholicity
 Catholics
 Cathryn
 Cathryn's
@@ -5046,9 +4883,6 @@ Caucasus
 Caucasus's
 Cauchy
 Cauchy's
-Cavalier
-Cavalier's
-Cavaliers
 Cavan
 Cavell
 Cavell's
@@ -5118,8 +4952,6 @@ Cenozoic
 Cenozoic's
 Centaurus
 Centaurus's
-Centigrade
-Central
 Centralia
 Cephalonia
 Cepheid
@@ -5141,7 +4973,6 @@ Cesar's
 Cesarean
 Cesarean's
 Cesareans
-Cesarian
 Cessna
 Cessna's
 Cetus
@@ -5170,8 +5001,6 @@ Chaeronea
 Chagall
 Chagall's
 Chagos
-Chain
-Chain's
 Chainlink
 Chainlink's
 Chaitanya
@@ -5191,7 +5020,6 @@ Chaliapin
 Challenger
 Challenger's
 Chalmers
-Chamaeleon
 Chamberlain
 Chamberlain's
 Chambers
@@ -5201,8 +5029,6 @@ Chamonix
 Chamorro
 Chamorro's
 Chamorros
-Champagne
-Champagnes
 Champaign
 Champaign's
 Champlain
@@ -5213,12 +5039,8 @@ Chan
 Chan's
 Chance
 Chance's
-Chancellor
-Chancellor's
-Chancellors
 Chancellorsville
 Chancellorsville's
-Chancery
 Chandigarh
 Chandigarh's
 Chandler
@@ -5241,15 +5063,11 @@ Changchun
 Changchun's
 Changsha
 Changsha's
-Channel
 Chantillies
 Chantilly
 Chantilly's
 Chanukah
 Chanukahs
-Chaos
-Chaos's
-Chaoses
 Chaplin
 Chaplin's
 Chaplinesque
@@ -5489,8 +5307,6 @@ Chickasaws
 Chiclayo
 Chiclets
 Chiclets's
-Chief
-Chiefs
 Chifley
 Chihuahua
 Chihuahua's
@@ -5524,8 +5340,6 @@ Chinatowns
 Chinchow
 Chinese
 Chinese's
-Chink
-Chinks
 Chinook
 Chinook's
 Chinookan
@@ -5574,7 +5388,6 @@ Chopin
 Chopin's
 Chopra
 Chopra's
-Chosen
 Chou
 Chou's
 Chr
@@ -5600,9 +5413,6 @@ Christi
 Christi's
 Christian
 Christian's
-Christiania
-Christiania's
-Christianias
 Christianisation
 Christianisation's
 Christianisations
@@ -5654,7 +5464,6 @@ Christy's
 Chromebook
 Chromebook's
 Chromebooks
-Chronicles
 Chrysler
 Chrysler's
 Chrysostom
@@ -5676,7 +5485,6 @@ Chungking
 Chungking's
 Church
 Church's
-Churches
 Churchill
 Churchill's
 Churchillian
@@ -5687,7 +5495,6 @@ Chuvash's
 Chuvashes
 Ci
 Cibber
-Cicely
 Cicero
 Cicero's
 Ciceronian
@@ -5729,13 +5536,10 @@ Cistercian's
 Cistercians
 Citibank
 Citibank's
-Cities
 Citigroup
 Citigroup's
 Citroen
 Citroen's
-City
-City's
 Cl
 Clackmannan
 Clactonian
@@ -5771,7 +5575,6 @@ Clark
 Clark's
 Clarke
 Clarke's
-Classics
 Claud
 Claude
 Claude's
@@ -5905,11 +5708,9 @@ Cockcroft's
 Cockney
 Cockney's
 Cockneys
-Coco
 Cocteau
 Cocteau's
 Cocytus
-Cod
 Cody
 Cody's
 Coffey
@@ -5979,8 +5780,6 @@ Colombo
 Colombo's
 Colon
 Colon's
-Colonel
-Colonial
 Coloradan
 Coloradan's
 Coloradans
@@ -5988,16 +5787,12 @@ Colorado
 Colorado's
 Coloradoan
 Coloradoans
-Colored
-Coloreds
 Colossae
 Colosseum
 Colosseum's
 Colossian
 Colossian's
 Colossians
-Coloured
-Coloureds
 Colt
 Colt's
 Coltrane
@@ -6023,26 +5818,14 @@ Comenius's
 Cominform
 Comintern
 Comintern's
-Command
-Commander
-Commandment
-Commerce
-Commerce's
-Commissioner
-Commissioners
-Commodore
 Commodus
 Commons
 Commons's
-Commonwealth
-Commonwealths
 Communard
 Communards
 Communion
 Communion's
 Communions
-Communism
-Communisms
 Communist
 Communist's
 Communists
@@ -6114,15 +5897,12 @@ Congo's
 Congolese
 Congolese's
 Congregational
-Congregationalism
-Congregationalisms
 Congregationalist
 Congregationalist's
 Congregationalists
 Congress
 Congress's
 Congresses
-Congressional
 Congreve
 Congreve's
 Conley
@@ -6149,8 +5929,6 @@ Conrad's
 Conrail
 Conrail's
 Cons
-Conservatism
-Conservatisms
 Conservative
 Conservative's
 Conservatives
@@ -6214,7 +5992,6 @@ Coptic's
 Copts
 Cora
 Cora's
-Coral
 Corbusier
 Corby
 Corday
@@ -6229,8 +6006,6 @@ Cordoba
 Cordoba's
 Cordova
 Cordova's
-Cordovan
-Cordovans
 Corelli
 Corelli's
 Corey
@@ -6289,7 +6064,6 @@ Coronado's
 Corot
 Corot's
 Corp
-Corporal
 Correggio
 Correggio's
 Corregidor
@@ -6297,7 +6071,6 @@ Corriedale
 Corriedales
 Corrine
 Corrine's
-Corse
 Corsica
 Corsica's
 Corsican
@@ -6320,7 +6093,6 @@ Cory's
 Corybant
 Corybants
 Corydon
-Cos
 Cosby
 Cosby's
 Cosenza
@@ -6351,8 +6123,6 @@ Coulomb
 Coulomb's
 Coulter
 Coulter's
-Counselor
-Count
 Couperin
 Couperin's
 Courbet
@@ -6417,11 +6187,8 @@ Creator
 Creator's
 Crecy
 Crecy's
-Credo
-Credos
 Cree
 Cree's
-Creed
 Creek
 Creek's
 Creeks
@@ -6500,8 +6267,6 @@ Crow
 Crow's
 Crowley
 Crowley's
-Crown
-Crowns
 Crows
 Croydon
 Crucifixion
@@ -6510,7 +6275,6 @@ Cruikshank
 Cruikshank's
 Cruise
 Cruise's
-Crusade
 Crusades
 Crusades's
 Crusoe
@@ -6532,16 +6296,11 @@ Ctesiphon's
 Cthulhu
 Cthulhu's
 Cu
-Cub
 Cuba
 Cuba's
 Cuban
 Cuban's
 Cubans
-Cubism
-Cubist
-Cubists
-Cubs
 Cuchulain
 Cuchulain's
 Cucuta
@@ -6576,11 +6335,6 @@ Curacao
 Curacao's
 Curaçao
 Curaçao's
-Curia
-Curia's
-Curiae
-Curiae's
-Curial
 Curie
 Curie's
 Curitiba
@@ -6633,11 +6387,6 @@ Cymry
 Cymry's
 Cynewulf
 Cynewulf's
-Cynic
-Cynic's
-Cynicism
-Cynicisms
-Cynics
 Cynthia
 Cynthia's
 Cyprian
@@ -6715,7 +6464,6 @@ DJ
 DJ's
 DJs
 DKK
-DM
 DMCA
 DMD
 DMSO
@@ -6764,9 +6512,7 @@ Dada's
 Dadaism
 Dadaism's
 Dadaisms
-Dadaist
 Dadaistic
-Dadaists
 Dadas
 Daedalus
 Daedalus's
@@ -6782,7 +6528,6 @@ Daguerre
 Daguerre's
 Dagwood
 Dagwood's
-Dahl
 Dahna
 Dahoman
 Dahomans
@@ -6828,14 +6573,8 @@ Dalmatian's
 Dalmatians
 Dalton
 Dalton's
-Damascene
-Damascene's
-Damascenes
 Damascus
 Damascus's
-Dame
-Dame's
-Dames
 Damian
 Damian's
 Damien
@@ -6970,15 +6709,12 @@ Darwinistic
 Darwinists
 Daryl
 Daryl's
-Datamation
 Daudet
 Daugavpils
 Daugherty
 Daugherty's
 Daumier
 Daumier's
-Dauphin
-Dauphins
 Davao
 Davao's
 Dave
@@ -7016,7 +6752,6 @@ DeGeneres
 DeGeneres's
 Deadhead
 Deadhead's
-Deaf
 Dean
 Dean's
 Deana
@@ -7093,7 +6828,6 @@ Deimos
 Deimos's
 Deirdre
 Deirdre's
-Deity
 Dejesus
 Dejesus's
 Dekker
@@ -7163,7 +6897,6 @@ Delphinus's
 Delta
 Delta's
 Deltas
-Deluge
 Dem
 Demavend
 Demavend's
@@ -7415,21 +7148,15 @@ Dirk
 Dirk's
 Dis
 Dis's
-Disciple
-Disciples
 Disney
 Disney's
 Disneyland
 Disneyland's
 Disraeli
 Disraeli's
-Dissent
 Divali
-Dives
 Divine
 Divine's
-Divinities
-Divinity
 Diwali
 Diwali's
 Dix
@@ -7471,14 +7198,11 @@ Docetism
 Docetisms
 Docetist
 Docetists
-Doctor
 Doctorow
 Doctorow's
 Dodecanese
 Dodge
 Dodge's
-Dodgem
-Dodgems
 Dodgson
 Dodgson's
 Dodoma
@@ -7524,8 +7248,6 @@ Dominion's
 Dominions
 Dominique
 Dominique's
-Domino
-Domino's
 Dominus
 Domitian
 Domitian's
@@ -7543,7 +7265,6 @@ Donaldson
 Donaldson's
 Donar
 Donar's
-Donas
 Donatello
 Donatello's
 Donatist
@@ -7587,8 +7308,6 @@ Doppler
 Doppler's
 Dora
 Dora's
-Dorado
-Dorado's
 Dorcas
 Dorcas's
 Dorchester
@@ -7637,7 +7356,6 @@ Dot's
 Dotson
 Dotson's
 Dottie
-Dotty
 Douai
 Douala
 Douala's
@@ -7656,16 +7374,12 @@ Doukhobor
 Doukhobors
 Douro
 Douro's
-Dove
-Dove's
 Dover
 Dover's
 Dow
 Dow's
 Dowland
 Dowland's
-Down
-Down's
 Downpatrick
 Downs
 Downs's
@@ -7712,20 +7426,12 @@ Drudge
 Drudge's
 Druid
 Druid's
-Druidic
-Druidical
-Druidism
-Druidisms
 Druids
 Drupal
 Drupal's
-Druse
-Druse's
-Druses
 Druze
 Druze's
 Druzes
-Dryad
 Dryden
 Dryden's
 Ds
@@ -8003,9 +7709,6 @@ East
 Eastbourne
 Easter
 Easter's
-Eastern
-Easterner
-Easterners
 Easters
 Eastertide
 Eastertides
@@ -8040,17 +7743,12 @@ Eccles's
 Ecclesiastes
 Ecclesiastes's
 Ecclesiasticus
-Echo
-Echo's
 Eck
 Eck's
 Eckhart
 Eckhart's
-Eclectic
 Eco
 Eco's
-Ecstasies
-Ecstasy
 Ecuador
 Ecuador's
 Ecuadoran
@@ -8420,9 +8118,6 @@ Enki
 Enki's
 Enkidu
 Enkidu's
-Enlightenment
-Enlightenment's
-Enlightenments
 Enlil
 Enlil's
 Ennis
@@ -8490,7 +8185,6 @@ Epson
 Epson's
 Epstein
 Epstein's
-Equity
 Equuleus
 Equuleus's
 Er
@@ -8631,8 +8325,6 @@ Essex
 Essex's
 Essie
 Essie's
-Establishment
-Establishments
 Esteban
 Esteban's
 Estela
@@ -8704,7 +8396,6 @@ Euclid
 Euclid's
 Euclidean
 Euclidean's
-Euclidian
 Eugene
 Eugene's
 Eugenia
@@ -8736,7 +8427,6 @@ Eure
 Euripidean
 Euripides
 Euripides's
-Euro
 Euroamerican
 Eurobond
 Eurobonds
@@ -8771,7 +8461,6 @@ Europeanized
 Europeanizes
 Europeanizing
 Europeans
-Euros
 Eurosceptic
 Eurosceptics
 Eurozone
@@ -8790,10 +8479,6 @@ Eva
 Eva's
 Evan
 Evan's
-Evangelical
-Evangelicalism
-Evangelicalisms
-Evangelicals
 Evangelina
 Evangelina's
 Evangeline
@@ -8831,9 +8516,6 @@ Evian
 Evian's
 Evita
 Evita's
-Ewe
-Ewe's
-Ewes
 Ewing
 Ewing's
 Ex
@@ -8842,13 +8524,9 @@ Excalibur
 Excalibur's
 Excedrin
 Excedrin's
-Excellence
-Excellences
 Excellencies
 Excellency
 Excellency's
-Exchequer
-Exchequers
 Exercycle
 Exercycle's
 Exeter
@@ -8860,8 +8538,6 @@ Exocet's
 Exod
 Exodus
 Exodus's
-Explorer
-Explorers
 Exxon
 Exxon's
 Eyck
@@ -9015,17 +8691,13 @@ Farrow
 Farrow's
 Farsi
 Farsi's
-Fascism
-Fascisms
 Fascist
 Fascista
-Fascistic
 Fascists
 Fassbinder
 Fassbinder's
 Fatah
 Fatah's
-Fates
 Father
 Father's
 Fathers
@@ -9053,13 +8725,6 @@ Faustino
 Faustino's
 Faustus
 Faustus's
-Fauve
-Fauve's
-Fauves
-Fauvism
-Fauvisms
-Fauvist
-Fauvists
 Fawkes
 Fawkes's
 Fay
@@ -9083,8 +8748,6 @@ FedEx
 FedEx's
 Federal
 Federal's
-Federalism
-Federalisms
 Federalist
 Federalist's
 Federalists
@@ -9176,7 +8839,6 @@ Fielding
 Fielding's
 Fields
 Fields's
-Fife
 Fifeshire
 Figaro
 Figaro's
@@ -9277,7 +8939,6 @@ Flintstones's
 Flo
 Flo's
 Flodden
-Flood
 Flora
 Flora's
 Florence
@@ -9341,7 +9002,6 @@ Fonteyn's
 Foochow
 Foosball
 Foosball's
-Footsie
 Foraker
 Forbes
 Forbes's
@@ -9394,8 +9054,6 @@ Fourierism
 Fourierisms
 Fourneyron
 Fourneyron's
-Fourth
-Fourths
 Fowler
 Fowler's
 Fowles
@@ -9445,8 +9103,6 @@ Francophiles
 Francophobe
 Francophobe's
 Francophobes
-Francophone
-Francophones
 Franglais
 Franglais's
 Frank
@@ -9520,7 +9176,6 @@ Freemasonries
 Freemasonry
 Freemasonry's
 Freemasons
-Freephone
 Freepost
 Freetown
 Freetown's
@@ -9638,7 +9293,6 @@ Frost
 Frost's
 Frostbelt
 Frostbelt's
-Froward
 Fructidor
 Frunze
 Fry
@@ -9656,7 +9310,6 @@ Fuentes
 Fuentes's
 Fugger
 Fugger's
-Fuhrer
 Fuji
 Fuji's
 Fujian
@@ -9688,11 +9341,8 @@ Fulton's
 Funabashi
 Funafuti
 Funafuti's
-Fundamentalism
-Fundamentalisms
 Fundy
 Fundy's
-Furies
 Furman
 Furman's
 Furness
@@ -9704,13 +9354,10 @@ Furtwängler
 Furtwängler's
 Fushun
 Fushun's
-Futurism
-Futurisms
 Fuzhou
 Fuzhou's
 Fuzzbuster
 Fuzzbuster's
-Führer
 G
 G's
 GA
@@ -9793,7 +9440,6 @@ Gabrielle
 Gabrielle's
 Gacrux
 Gacrux's
-Gad
 Gaddafi
 Gaddafi's
 Gadhelic
@@ -9843,7 +9489,6 @@ Galatian
 Galatian's
 Galatians
 Galatians's
-Galaxy
 Galba
 Galbraith
 Galbraith's
@@ -9971,7 +9616,6 @@ Garfunkel
 Garfunkel's
 Gargantua
 Gargantua's
-Gargantuan
 Garibaldi
 Garibaldi's
 Garland
@@ -9988,8 +9632,6 @@ Garrison
 Garrison's
 Garry
 Garry's
-Garter
-Garters
 Garth
 Garth's
 Garvey
@@ -10117,7 +9759,6 @@ Genova
 Genovese
 Genseric
 Genseric's
-Gent
 Gentile
 Gentiles
 Gentoo
@@ -10129,7 +9770,6 @@ Geo
 Geo's
 Geoffrey
 Geoffrey's
-Geometric
 Geordie
 Geordie's
 Geordies
@@ -10146,7 +9786,6 @@ Georgia's
 Georgian
 Georgian's
 Georgians
-Georgics
 Georgina
 Georgina's
 Ger
@@ -10187,7 +9826,6 @@ Germans
 Germantown
 Germany
 Germany's
-Germinal
 Geronimo
 Geronimo's
 Gerry
@@ -10199,9 +9837,6 @@ Gertrude
 Gertrude's
 Geryon
 Geryon's
-Gestalt
-Gestalten
-Gestalts
 Gestapo
 Gestapo's
 Gestapos
@@ -10439,7 +10074,6 @@ Godhead
 Godhead's
 Godiva
 Godiva's
-Godlike
 Godot
 Godot's
 Godspeed
@@ -10621,9 +10255,6 @@ Gould's
 Gounod
 Gounod's
 Gov
-Government
-Governments
-Governor
 Govt
 Gower
 Gower's
@@ -10670,8 +10301,6 @@ Graham's
 Grahame
 Grahame's
 Graiae
-Grail
-Grails
 Grainger
 Grainger's
 Grammies
@@ -10684,10 +10313,6 @@ Grampians's
 Granada
 Granada's
 Granados
-Granary
-Grange
-Grange's
-Granges
 Granicus
 Grant
 Grant's
@@ -10706,7 +10331,6 @@ Gray
 Gray's
 Grays
 Graz
-Greater
 Grecian
 Grecian's
 Grecians
@@ -10814,7 +10438,6 @@ Grosz
 Grosz's
 Grotius
 Grotius's
-Grove
 Grover
 Grover's
 Groves
@@ -10865,7 +10488,6 @@ Guantanamo's
 Guarani
 Guarani's
 Guaranis
-Guards
 Guarneri
 Guarneri's
 Guarneris
@@ -10905,8 +10527,6 @@ Guiana
 Guiana's
 Guianan
 Guianans
-Guide
-Guides
 Guido
 Guillermo
 Guillermo's
@@ -10932,9 +10552,6 @@ Gujarati's
 Gujaratis
 Gujranwala
 Gujranwala's
-Gulag
-Gulags
-Gulf
 Gullah
 Gullah's
 Gullahs
@@ -10942,7 +10559,6 @@ Gulliver
 Gulliver's
 Gumbel
 Gumbel's
-Gumbo
 Gunter
 Gunther
 Gunther's
@@ -11044,7 +10660,6 @@ HTTP
 HUD
 HUD's
 HVAC
-Ha
 Haarlem
 Haas
 Haas's
@@ -11056,9 +10671,6 @@ Haber's
 Habsburg
 Habsburg's
 Habsburgs
-Hackney
-Hackney's
-Hackneys
 Hadar
 Hadar's
 Hadean
@@ -11163,10 +10775,7 @@ Ham
 Ham's
 Hama
 Hamadan
-Hamadryad
-Hamadryads
 Hamah
-Hamal
 Hamamatsu
 Haman
 Haman's
@@ -11176,9 +10785,6 @@ Hambletonian
 Hambletonians
 Hamburg
 Hamburg's
-Hamburger
-Hamburger's
-Hamburgers
 Hamburgs
 Hamelin
 Hamhung
@@ -11203,7 +10809,6 @@ Hamlin's
 Hamm
 Hammarskjold
 Hammarskjold's
-Hammer
 Hammersmith
 Hammerstein
 Hammerstein's
@@ -11279,8 +10884,6 @@ Hanukas
 Hanukkah
 Hanukkah's
 Hanukkahs
-Hanuman
-Hanuman's
 Haphtarah
 Hapsburg
 Hapsburg's
@@ -11349,7 +10952,6 @@ Harrods
 Harrods's
 Harrovian
 Harrovians
-Harrow
 Harry
 Harry's
 Hart
@@ -11417,7 +11019,6 @@ Havarti's
 Havartis
 Havel
 Havel's
-Havering
 Havoline
 Havoline's
 Havre
@@ -11630,9 +11231,6 @@ Helmholtz's
 Helmut
 Heloise
 Heloise's
-Helot
-Helots
-Help
 Helsinki
 Helsinki's
 Helvellyn
@@ -11707,13 +11305,10 @@ Herbert's
 Hercegovina
 Herculaneum
 Herculaneum's
-Herculean
 Hercules
 Hercules's
 Herder
 Herder's
-Here
-Here's
 Hereford
 Hereford's
 Herefords
@@ -11730,7 +11325,6 @@ Hermaphroditus
 Hermaphroditus's
 Hermes
 Hermes's
-Hermetic
 Hermine
 Herminia
 Herminia's
@@ -11744,8 +11338,6 @@ Hermosillo
 Hermosillo's
 Hernandez
 Hernandez's
-Hero
-Hero's
 Herod
 Herod's
 Herodias
@@ -11753,8 +11345,6 @@ Herodotus
 Herodotus's
 Heroku
 Heroku's
-Heron
-Heron's
 Herr
 Herr's
 Herren
@@ -11856,15 +11446,11 @@ Hickok
 Hickok's
 Hicks
 Hicks's
-Hidalgo
-Hidalgo's
-Hidalgos
 Hieronymus
 Hieronymus's
 Higashiosaka
 Higgins
 Higgins's
-Highland
 Highlander
 Highlander's
 Highlanders
@@ -12062,8 +11648,6 @@ Holder's
 Holguin
 Holiday
 Holiday's
-Holiness
-Holinesses
 Holinshed
 Holland
 Holland's
@@ -12103,18 +11687,13 @@ Holsteins
 Holt
 Holt's
 Holyhead
-Homburg
-Homburgs
 Homer
 Homer's
 Homeric
-Homicide
-Homo
 Homoiousian
 Homoiousians
 Homoousian
 Homoousians
-Homos
 Homs
 Hon
 Honan
@@ -12144,10 +11723,7 @@ Honiara's
 Honolulu
 Honolulu's
 Honor
-Honorable
 Honors
-Honourable
-Hons
 Honshu
 Honshu's
 Hood
@@ -12203,7 +11779,6 @@ Horne
 Horne's
 Horney
 Horney's
-Horologium
 Horowitz
 Horowitz's
 Horsa
@@ -12286,7 +11861,6 @@ Hudibrastic
 Hudibrastics
 Hudson
 Hudson's
-Hue
 Huerta
 Huerta's
 Huey
@@ -12315,8 +11889,6 @@ Huitzilopotchli
 Huitzilopotchli's
 Hull
 Hull's
-Humanism
-Humanisms
 Humber
 Humber's
 Humberside
@@ -12419,9 +11991,6 @@ Hygeia's
 Hyksos
 Hymen
 Hymen's
-Hyperborean
-Hyperborean's
-Hyperboreans
 Hyperion
 Hyperion's
 Hypnos
@@ -12587,8 +12156,6 @@ Idahoan's
 Idahoans
 Idahoes
 Idahos
-Identikit
-Identikits
 Ido
 Idomeneus
 Idun
@@ -12628,7 +12195,6 @@ Iliad
 Iliad's
 Iliads
 Ilion
-Ilium
 Ill
 Illampu
 Illimani
@@ -12647,8 +12213,6 @@ Ilocano
 Ilocanos
 Ilyushin
 Ilyushin's
-Imam
-Imams
 Imelda
 Imelda's
 Imhotep
@@ -12661,11 +12225,6 @@ Imodium's
 Imogen
 Imogene
 Imogene's
-Imperial
-Imperials
-Impressionism
-Impressionist
-Impressionists
 Imus
 Imus's
 In
@@ -12679,17 +12238,12 @@ Inca's
 Incan
 Incan's
 Incans
-Incarnation
 Incas
 Inchon
 Inchon's
-Incorporated
 Ind
 Independence
 Independence's
-Independent
-Independent's
-Independents
 India
 India's
 Indiaman
@@ -12750,7 +12304,6 @@ Ines
 Ines's
 Inez
 Inez's
-Infinite
 Inge
 Inge's
 Inglewood
@@ -12763,7 +12316,6 @@ Ingrid's
 Injun
 Injun's
 Inkerman
-Inland
 Innocent
 Innocent's
 Innsbruck
@@ -12789,15 +12341,11 @@ Intelsat
 Intelsat's
 Interlaken
 Interlingua
-International
-International's
 Internationale
 Internationale's
 Internationales
-Internationals
 Internet
 Internet's
-Internets
 Interpol
 Interpol's
 Inuit
@@ -13024,8 +12572,6 @@ Italianized
 Italianizes
 Italianizing
 Italians
-Italic
-Italics
 Italy
 Italy's
 Itasca
@@ -13378,7 +12924,6 @@ Jehovah
 Jehovah's
 Jehovist
 Jehovists
-Jehu
 Jekyll
 Jekyll's
 Jellicoe
@@ -13455,7 +13000,6 @@ Jespersen
 Jespersen's
 Jess
 Jess's
-Jessamine
 Jesse
 Jesse's
 Jessica
@@ -13557,7 +13101,6 @@ Jock's
 Jockey
 Jockey's
 Jocks
-Jodhpur
 Jodi
 Jodi's
 Jodie
@@ -13820,7 +13363,6 @@ Juno's
 Junoesque
 Jupiter
 Jupiter's
-Jura
 Jurassic
 Jurassic's
 Jurua
@@ -13834,9 +13376,6 @@ Justine
 Justine's
 Justinian
 Justinian's
-Jute
-Jute's
-Jutes
 Jutland
 Jutland's
 Juvenal
@@ -13870,28 +13409,13 @@ Ka's
 Kaaba
 Kaaba's
 Kaaren
-Kabbala
-Kabbala's
-Kabbalah
-Kabbalahs
-Kabbalism
-Kabbalist
-Kabbalist's
-Kabbalistic
-Kabuki
-Kabukis
 Kabul
 Kabul's
 Kabyle
 Kabyles
 Kadar
-Kaddish
-Kaddishes
 Kaffir
 Kaffirs
-Kafir
-Kafir's
-Kafirs
 Kafka
 Kafka's
 Kafkaesque
@@ -13953,8 +13477,6 @@ Kampuchean
 Kampuchean's
 Kampucheans
 Kan
-Kanaka
-Kanakas
 Kananga
 Kanara
 Kanarese
@@ -14321,14 +13843,10 @@ Khwarizmi
 Khwarizmi's
 Khyber
 Khyber's
-Ki
-Ki's
 Kibo
 Kickapoo
 Kickapoo's
 Kickapoos
-Kid
-Kid's
 Kidd
 Kidd's
 Kidderminster
@@ -14449,8 +13967,6 @@ Kitty's
 Kitwe
 Kiwanis
 Kiwanis's
-Kiwi
-Kiwis
 Klaipeda
 Klamath
 Klamaths
@@ -14545,7 +14061,6 @@ Koizumi
 Koizumi's
 Kojak
 Kojak's
-Kola
 Koln
 Koln's
 Kolwesi
@@ -14590,7 +14105,6 @@ Kory
 Kory's
 Korzybski
 Korzybski's
-Kos
 Kosciusko
 Kosciusko's
 Kosciuszko
@@ -14628,9 +14142,6 @@ Krasnodar
 Krasnodar's
 Krasnoyarsk
 Krasnoyarsk's
-Kraut
-Kraut's
-Krauts
 Krebs
 Krebs's
 Kreisler
@@ -14839,7 +14350,6 @@ LLMs
 LNG
 LOGO
 LOL
-LOX
 LP
 LP's
 LPG
@@ -14854,10 +14364,8 @@ LW
 LXX
 La
 LaFollette
-Lab
 Laban
 Laban's
-Labour
 Labourite
 Labourite's
 Labourites
@@ -14868,8 +14376,6 @@ Labradoreans
 Labradorian
 Labradorians
 Labradors
-Labs
-Labyrinth
 Laccadive
 Lacedaemon
 Lacedaemonian
@@ -14889,8 +14395,6 @@ Lacy
 Lacy's
 Ladies
 Ladin
-Ladino
-Ladinos
 Ladins
 Ladoga
 Ladoga's
@@ -14992,8 +14496,6 @@ Lanchou
 Lanchow
 Land
 Land's
-Landau
-Landau's
 Landes
 Landon
 Landon's
@@ -15197,13 +14699,10 @@ Lavoisier
 Lavoisier's
 Lavonne
 Lavonne's
-Law
-Law's
 Lawanda
 Lawanda's
 Lawrence
 Lawrence's
-Laws
 Lawson
 Lawson's
 Layamon
@@ -15246,8 +14745,6 @@ Learjet
 Learjet's
 Leary
 Leary's
-Leatherette
-Leatherettes
 Leavenworth
 Leavenworth's
 Leavis
@@ -15273,10 +14770,6 @@ Leeuwenhoek
 Leeuwenhoek's
 Leeward
 Leeward's
-Left
-Leftism
-Leftisms
-Lefts
 Legendre
 Legendre's
 Leger
@@ -15322,7 +14815,6 @@ Lely
 Lem
 Lemaitre
 Lemaitre's
-Leman
 Lemnos
 Lemuel
 Lemuel's
@@ -15409,9 +14901,6 @@ Les
 Les's
 Lesa
 Lesa's
-Lesbian
-Lesbian's
-Lesbians
 Lesbos
 Lesley
 Lesley's
@@ -15519,7 +15008,6 @@ Liberia's
 Liberian
 Liberian's
 Liberians
-Liberty
 Libra
 Libra's
 Libras
@@ -15559,8 +15047,6 @@ Liege
 Liege's
 Lietuva
 Lieut
-Lieutenant
-Lifesaver
 Liffey
 Liguria
 Liguria's
@@ -15591,7 +15077,6 @@ Lilliputian's
 Lilliputians
 Lilly
 Lilly's
-Lilo
 Lilongwe
 Lilongwe's
 Lily
@@ -15601,16 +15086,11 @@ Lima's
 Limavady
 Limbaugh
 Limbaugh's
-Limbo
 Limburg
 Limburger
 Limburger's
 Limburgers
 Limburgs
-Limerick
-Limerick's
-Limey
-Limeys
 Limoges
 Limoges's
 Limousin
@@ -15640,7 +15120,6 @@ Lindsey
 Lindsey's
 Lindy
 Lindy's
-Line
 Linlithgow
 Linnaean
 Linnaeus
@@ -15705,8 +15184,6 @@ Little
 Little's
 Litton
 Litton's
-Liturgies
-Liturgy
 Liverpool
 Liverpool's
 Liverpudlian
@@ -15822,9 +15299,6 @@ Long's
 Longfellow
 Longfellow's
 Longford
-Longhorn
-Longhorn's
-Longhorns
 Longinus
 Longobard
 Longobards
@@ -15930,15 +15404,12 @@ Lovelace
 Lovelace's
 Lovell
 Lovell's
-Low
-Low's
 Lowe
 Lowe's
 Lowell
 Lowell's
 Lowenbrau
 Lowenbrau's
-Lower
 Lowery
 Lowery's
 Lowestoft
@@ -15946,8 +15417,6 @@ Lowestofts
 Lowlands
 Lowry
 Lowry's
-Loyalist
-Loyalists
 Loyang
 Loyang's
 Loyd
@@ -15979,7 +15448,6 @@ Lucas
 Lucas's
 Luce
 Luce's
-Lucerne
 Lucia
 Lucia's
 Lucian
@@ -16033,8 +15501,6 @@ Lufthansa
 Lufthansa's
 Luftwaffe
 Luftwaffe's
-Lug
-Lug's
 Lugansk
 Luger
 Luger's
@@ -16059,7 +15525,6 @@ Lulu's
 Luluabourg
 Lumiere
 Lumiere's
-Luminal
 Lumière
 Lumière's
 Luna
@@ -16119,7 +15584,6 @@ Lw
 LyX
 LyX's
 Lyallpur
-Lyceum
 Lycia
 Lycian
 Lycians
@@ -16156,7 +15620,6 @@ Lynne
 Lynne's
 Lynnette
 Lynnette's
-Lynx
 Lyon
 Lyon's
 Lyonnais
@@ -16218,7 +15681,6 @@ MI's
 MIA
 MIDI
 MIDIs
-MIPS
 MIRV
 MIRVed
 MIRVing
@@ -16233,8 +15695,6 @@ MO
 MOD
 MOOC
 MOR
-MOT
-MOTs
 MOs
 MP
 MP's
@@ -16348,8 +15808,6 @@ Madagascan's
 Madagascans
 Madagascar
 Madagascar's
-Madam
-Madame
 Madden
 Madden's
 Maddox
@@ -16365,9 +15823,6 @@ Madeline
 Madeline's
 Madelyn
 Madelyn's
-Mademoiselle
-Mademoiselle's
-Mademoiselles
 Madge
 Madge's
 Madison
@@ -16395,7 +15850,6 @@ Mafeking
 Mafia
 Mafia's
 Mafias
-Mafiosi
 Mafioso
 Mafioso's
 Mafiosos
@@ -16430,7 +15884,6 @@ Magritte
 Magritte's
 Magsaysay
 Magsaysay's
-Magus
 Magyar
 Magyar's
 Magyars
@@ -16438,8 +15891,6 @@ Mahabharata
 Mahabharata's
 Maharashtra
 Maharashtra's
-Mahatma
-Mahatmas
 Mahavira
 Mahavira's
 Mahayana
@@ -16490,7 +15941,6 @@ Maiman
 Maiman's
 Maimonides
 Maimonides's
-Main
 Maine
 Maine's
 Mainer
@@ -16542,8 +15992,6 @@ Malamud's
 Malang
 Malaprop
 Malaprop's
-Malathion
-Malathions
 Malatya
 Malawi
 Malawi's
@@ -16704,7 +16152,6 @@ Mandrell
 Mandrell's
 Mandy
 Mandy's
-Manes
 Manet
 Manet's
 Manfred
@@ -16842,7 +16289,6 @@ Marcy
 Marcy's
 Marduk
 Marduk's
-Mare
 Marengo
 Margaret
 Margaret's
@@ -17010,12 +16456,10 @@ Marseille
 Marseille's
 Marseilles
 Marseilles's
-Marses
 Marsh
 Marsh's
 Marsha
 Marsha's
-Marshal
 Marshall
 Marshall's
 Marshallese
@@ -17102,9 +16546,6 @@ Masonic
 Masonite
 Masonite's
 Masonites
-Masonries
-Masonry
-Masonry's
 Masons
 Masorete
 Masorete's
@@ -17228,8 +16669,6 @@ Mavis
 Mavis's
 Max
 Max's
-Maxim
-Maxim's
 Maximilian
 Maximilian's
 Maxine
@@ -17248,8 +16687,6 @@ Mayan
 Mayan's
 Mayans
 Mayas
-Mayday
-Maydays
 Mayenne
 Mayer
 Mayer's
@@ -17262,8 +16699,6 @@ Maynard's
 Mayo
 Mayo's
 Mayotte
-Maypole
-Maypoles
 Mayra
 Mayra's
 Mays
@@ -17428,8 +16863,6 @@ Medellin's
 Medes
 Media
 Media's
-Median
-Medians
 Medicaid
 Medicaid's
 Medicaids
@@ -17453,13 +16886,10 @@ Meg
 Meg's
 Megaera
 Megaera's
-Megalithic
 Megan
 Megan's
 Meghan
 Meghan's
-Megillah
-Megillahs
 Megrez
 Meier
 Meier's
@@ -17577,8 +17007,6 @@ Mennonite's
 Mennonites
 Menominee
 Menominee's
-Menorah
-Menorahs
 Menorca
 Menotti
 Menotti's
@@ -17639,12 +17067,10 @@ Merrick
 Merrick's
 Merrill
 Merrill's
-Merrily
 Merrimack
 Merrimack's
 Merritt
 Merritt's
-Merry
 Mersey
 Merseyside
 Mersin
@@ -17662,8 +17088,6 @@ Mesa
 Mesa's
 Mesabi
 Mesabi's
-Mesdames
-Mesdemoiselles
 Meshed
 Mesmer
 Mesmer's
@@ -17680,11 +17104,9 @@ Mesopotamian
 Mesopotamians
 Mesozoic
 Mesozoic's
-Mesquite
 Messalina
 Messapian
 Messapians
-Messeigneurs
 Messerschmidt
 Messerschmidt's
 Messiaen
@@ -17698,11 +17120,9 @@ Messianisms
 Messias
 Messiases
 Messidor
-Messieurs
 Messina
 Messina's
 Messrs
-Met
 Meta
 MetaMask
 MetaMask's
@@ -17728,11 +17148,6 @@ Methodists
 Methuselah
 Methuselah's
 Methuselahs
-Metis
-Metis's
-Metro
-Metro's
-Metros
 Metternich
 Metternich's
 Metz
@@ -17837,7 +17252,6 @@ Mideastern
 Mideasterner
 Mideasterners
 Midgard
-Midi
 Midian
 Midianite
 Midianites
@@ -17845,7 +17259,6 @@ Midjourney
 Midjourney's
 Midland
 Midland's
-Midlands
 Midlothian
 Midway
 Midway's
@@ -18039,8 +17452,6 @@ Mister
 Misters
 Mistral
 Mistral's
-Mistress
-Mistresses
 Misty
 Misty's
 Mitch
@@ -18084,20 +17495,16 @@ Mo's
 Moab
 Moabite
 Moabites
-Mob
 Mobil
 Mobil's
 Mobile
 Mobile's
-Mobs
 Mobutu
 Mobutu's
 Mocambique
 Modena
 Moderna
 Moderna's
-Modernism
-Modernisms
 Modesto
 Modesto's
 Modigliani
@@ -18159,7 +17566,6 @@ Moiseyev's
 Mojave
 Mojave's
 Mojaves
-Mold
 Moldavia
 Moldavia's
 Moldavian
@@ -18237,8 +17643,6 @@ Mongolian
 Mongolian's
 Mongolians
 Mongolic
-Mongolism
-Mongolisms
 Mongoloid
 Mongoloid's
 Mongoloids
@@ -18260,10 +17664,6 @@ Monongahela's
 Monophysite
 Monophysite's
 Monophysites
-Monopolies
-Monopoly
-Monotype
-Monotypes
 Monroe
 Monroe's
 Monrovia
@@ -18271,7 +17671,6 @@ Monrovia's
 Mons
 Monsanto
 Monsanto's
-Monseigneur
 Monsieur
 Monsieur's
 Monsignor
@@ -18416,7 +17815,6 @@ Moroccan's
 Moroccans
 Morocco
 Morocco's
-Moron
 Moroni
 Moroni's
 Moros
@@ -18459,13 +17857,10 @@ Moslemism
 Moslems
 Mosley
 Mosley's
-Mosquito
-Mosquitos
 Moss
 Moss's
 Mosul
 Mosul's
-Motherland
 Motherwell
 Motherwell's
 Motorola
@@ -18479,7 +17874,6 @@ Mott's
 Moulmein
 Moulton
 Moulton's
-Mount
 Mountbatten
 Mountbatten's
 Mountie
@@ -18674,9 +18068,6 @@ Myra
 Myra's
 Myrdal
 Myrdal's
-Myrmidon
-Myrmidon's
-Myrmidons
 Myrna
 Myrna's
 Myron
@@ -18826,8 +18217,6 @@ Nahuatlans
 Nahuatls
 Nahum
 Nahum's
-Naiad
-Naiads
 Naipaul
 Naipaul's
 Nair
@@ -18953,7 +18342,6 @@ Nationwide
 Nationwide's
 Nativities
 Nativity
-Nature
 Naugahyde
 Naugahyde's
 Naugahydes
@@ -19009,8 +18397,6 @@ Ndjamena
 Ndjamena's
 Ndola
 Ne
-NeWS
-NeWSes
 Neal
 Neal's
 Neanderthal
@@ -19093,8 +18479,6 @@ Nemesis's
 Neo
 Neo's
 Neocene
-Neoclassicism
-Neoclassicisms
 Neogaea
 Neogaea's
 Neogene
@@ -19131,7 +18515,6 @@ Nerva
 Nerva's
 Nescafe
 Nescafe's
-Ness
 Nesselrode
 Nesselrode's
 Nesselrodes
@@ -19145,7 +18528,6 @@ Nestorians
 Nestorius
 Nestorius's
 Nestors
-Net
 Netflix
 Netflix's
 Neth
@@ -19182,7 +18564,6 @@ Nevis
 Nevis's
 Nevsky
 Nevsky's
-New
 Newark
 Newark's
 Newburg
@@ -19329,10 +18710,8 @@ Nile's
 Niles
 Nilgiri
 Nilotic
-Nils
 Nilsson
 Nilsson's
-Nimby
 Nimes
 Nimitz
 Nimitz's
@@ -19352,14 +18731,11 @@ Ninurta
 Ninurta's
 Niobe
 Niobe's
-Nip
-Nip's
 Nipissing
 Nippon
 Nippon's
 Nipponese
 Nipponese's
-Nips
 Nirenberg
 Nirenberg's
 Nirvana
@@ -19421,9 +18797,6 @@ Nome
 Nome's
 Nona
 Nona's
-Nonconformist
-Nonconformist's
-Nonconformists
 Nootka
 Nootka's
 Nootkas
@@ -19516,7 +18889,6 @@ Nottinghamshire
 Notus
 Nouakchott
 Nouakchott's
-Noughties
 Noumea
 Noumea's
 Nov
@@ -19575,8 +18947,6 @@ Nureyev's
 Nurnberg
 Nusku
 Nusku's
-Nut
-Nut's
 NutraSweet
 NutraSweet's
 Nvidia
@@ -19706,7 +19076,6 @@ Occidentalizes
 Occidentalizing
 Occidentals
 Occidents
-Ocean
 Oceania
 Oceania's
 Oceanian
@@ -19771,12 +19140,8 @@ Ofelia
 Ofelia's
 Offenbach
 Offenbach's
-Offertories
-Offertory
-Office
 OfficeMax
 OfficeMax's
-Offices
 Ogbomosho
 Ogbomosho's
 Ogden
@@ -19794,8 +19159,6 @@ Ohio's
 Ohioan
 Ohioan's
 Ohioans
-Ohm
-Ohm's
 Oireachtas
 Oireachtas's
 Oise
@@ -19807,7 +19170,6 @@ Ojibwas
 Ojibway
 Ojibway's
 Ojibways
-Oka
 Okavango
 Okayama
 Okeechobee
@@ -19862,7 +19224,6 @@ Olive
 Olive's
 Oliver
 Oliver's
-Olives
 Olivet
 Olivetti
 Olivetti's
@@ -19895,7 +19256,6 @@ Olympics
 Olympics's
 Olympus
 Olympus's
-Om
 Omagh
 Omaha
 Omaha's
@@ -19914,8 +19274,6 @@ Omdurman's
 Ommiad
 Ommiad's
 Ommiads
-Omnipotent
-Omniscient
 Omsk
 Omsk's
 Onassis
@@ -20018,15 +19376,8 @@ Orient
 Orient's
 Oriental
 Oriental's
-Orientalise
 Orientalism
 Orientalisms
-Orientalist
-Orientalists
-Orientalize
-Orientalized
-Orientalizes
-Orientalizing
 Orientals
 Orients
 Origen
@@ -20131,7 +19482,6 @@ Ossetic
 Ossets
 Ossian
 Ostend
-Ostia
 Ostrava
 Ostrogoth
 Ostrogoth's
@@ -20247,7 +19597,6 @@ PGP
 PHP
 PHP's
 PIN
-PJ's
 PLC
 PLO
 PLO's
@@ -20307,9 +19656,6 @@ Pacino's
 Packard
 Packard's
 Padang
-Paddies
-Paddy
-Paddy's
 Paderewski
 Paderewski's
 Padilla
@@ -20317,8 +19663,6 @@ Padilla's
 Padishah
 Padishahs
 Padova
-Padre
-Padre's
 Padua
 Padua's
 Paestum
@@ -20347,13 +19691,10 @@ Pakistan's
 Pakistani
 Pakistani's
 Pakistanis
-Palace
 Palaearctic
 Palaeogene
 Palaeolithic
 Palaeozoic
-Palatinate
-Palatinates
 Palau
 Palau's
 Palawan
@@ -20384,8 +19725,6 @@ Palisades's
 Palladian
 Palladio
 Palladio's
-Palladium
-Palladiums
 Pallas
 Pallas's
 Palma
@@ -20409,7 +19748,6 @@ Pamirs
 Pamirs's
 Pamlico
 Pamlico's
-Pampa
 Pampers
 Pampers's
 Pamplona
@@ -20454,8 +19792,6 @@ Pantheon's
 Pantheons
 Panza
 Panza's
-Papacies
-Papacy
 Papago
 Papagos
 Papandreou
@@ -20594,8 +19930,6 @@ Pate
 Pate's
 Patel
 Patel's
-Paternoster
-Paternosters
 Paterson
 Paterson's
 Pathan
@@ -20623,7 +19957,6 @@ Patterson
 Patterson's
 Patti
 Patti's
-Pattie
 Patton
 Patton's
 Patty
@@ -20653,9 +19986,6 @@ Pavo's
 Pawnee
 Pawnee's
 Pawnees
-Pax
-Pax's
-Paxes
 Paxton
 Paxton's
 PayPal
@@ -20687,7 +20017,6 @@ Peckinpah's
 Pecksniffian
 Pecos
 Pecos's
-Pecs
 Pedro
 Pedro's
 Peebles
@@ -20736,7 +20065,6 @@ Peloponnesian
 Peloponnesus
 Peloponnisos
 Pelops
-Pelotas
 Pembroke
 Pembroke's
 Pembrokes
@@ -20744,7 +20072,6 @@ Pen
 Pena
 Pena's
 Penang
-Penates
 Penderecki
 Penderecki's
 Penelope
@@ -20834,9 +20161,6 @@ Periclean's
 Pericles
 Pericles's
 Perigordian
-Peripatetic
-Peripatetic's
-Peripatetics
 Perkins
 Perkins's
 Perl
@@ -20879,8 +20203,6 @@ Persia's
 Persian
 Persian's
 Persians
-Perspex
-Perspexes
 Perth
 Perth's
 Peru
@@ -20944,14 +20266,12 @@ Pharaoh
 Pharaoh's
 Pharaohs
 Pharaonic
-Pharisaic
 Pharisaical
 Pharisaism
 Pharisaisms
 Pharisee
 Pharisee's
 Pharisees
-Pharos
 Pharsalus
 Phebe
 Phecda
@@ -21021,7 +20341,6 @@ Phoenicians
 Phoenix
 Phoenix's
 Phoenixes
-Phosphorus
 Photostat
 Photostat's
 Photostats
@@ -21077,17 +20396,11 @@ Pierre
 Pierre's
 Pierrot
 Pierrot's
-Pieta
-Pietas
 Pietermaritzburg
-Pietism
-Pietism's
-Pietisms
 Piggott
 Pigmies
 Pigmy
 Pigmy's
-Pigs
 Pike
 Pike's
 Pilate
@@ -21104,8 +20417,6 @@ Pilipino
 Pillsbury
 Pillsbury's
 Pilsen
-Pilsner
-Pilsners
 Pima
 Pima's
 Piman
@@ -21135,7 +20446,6 @@ Pinsk
 Pinter
 Pinter's
 Pinteresque
-Pinyin
 Pippin
 Pippin's
 Piraeus
@@ -21158,10 +20468,6 @@ Pissaro's
 Pissarro
 Pitcairn
 Pitcairn's
-Pithecanthropus
-Pithecanthropus's
-Pitman
-Pitman's
 Pitt
 Pitt's
 Pittman
@@ -21177,7 +20483,6 @@ Pizarro
 Pizarro's
 Pkwy
 Pl
-Place
 Planck
 Planck's
 Plano
@@ -21195,7 +20500,6 @@ Plath's
 Plato
 Plato's
 Platonic
-Platonically
 Platonism
 Platonism's
 Platonisms
@@ -21230,7 +20534,6 @@ Pliocenes
 Ploesti
 Plotinus
 Plotinus's
-Plough
 Plovdiv
 Plutarch
 Plutarch's
@@ -21360,7 +20663,6 @@ Pontiac's
 Pontianak
 Pontianak's
 Pontic
-Pontificate
 Pontus
 Pontus's
 Pooh
@@ -21405,7 +20707,6 @@ Portlander
 Portlanders
 Porto
 Porto's
-Ports
 Portsmouth
 Portsmouth's
 Portugal
@@ -21419,8 +20720,6 @@ Post
 Post's
 PostgreSQL
 PostgreSQL's
-Postimpressionism
-Postimpressionisms
 Potawatomi
 Potawatomi's
 Potawatomis
@@ -21491,8 +20790,6 @@ Preakness
 Preakness's
 Precambrian
 Precambrian's
-Premier
-Premiership
 Preminger
 Preminger's
 Premyslid
@@ -21513,8 +20810,6 @@ Prescott's
 President
 President's
 Presidents
-Presidium
-Presidiums
 Presley
 Presley's
 Preston
@@ -21535,8 +20830,6 @@ Priceline
 Priceline's
 Priestley
 Priestley's
-Primus
-Primuses
 Prince
 Prince's
 Princeton
@@ -21548,7 +20841,6 @@ Priscilla's
 Pristina
 Prius
 Prius's
-Private
 Procne
 Procrustean
 Procrustes
@@ -21558,8 +20850,6 @@ Procter's
 Procyon
 Procyon's
 Prof
-Prohibition
-Prohibitions
 Prokofiev
 Prokofiev's
 Promethean
@@ -21567,9 +20857,7 @@ Promethean's
 Prometheans
 Prometheus
 Prometheus's
-Promontory
 Propertius
-Prophet
 Prophets
 Proserpina
 Proserpina's
@@ -21579,10 +20867,6 @@ Prot
 Protagoras
 Protagoras's
 Protagorean
-Protector
-Protectorate
-Protectorates
-Protectors
 Proterozoic
 Proterozoic's
 Protestant
@@ -21678,8 +20962,6 @@ Pulitzers
 Pullman
 Pullman's
 Pullmans
-Pulmotor
-Pulmotors
 Punch
 Punch's
 Punchinello
@@ -21700,7 +20982,6 @@ Purcell
 Purcell's
 Purdue
 Purdue's
-Purgatory
 Purim
 Purim's
 Purims
@@ -21728,8 +21009,6 @@ Putin
 Putin's
 Putnam
 Putnam's
-Putsch
-Putsches
 Putumayo
 Puzo
 Puzo's
@@ -21822,8 +21101,6 @@ Qualcomm
 Qualcomm's
 Quaoar
 Quaoar's
-Quarter
-Quarters
 Quasimodo
 Quasimodo's
 Quasimodos
@@ -22003,11 +21280,9 @@ Ragnarök
 Ragnarök's
 Rainier
 Rainier's
-Raj
 Rajab
 Rajabs
 Rajasthan
-Rajes
 Rajkot
 Rajput
 Rajput's
@@ -22020,8 +21295,6 @@ Raleigh
 Raleigh's
 Ralph
 Ralph's
-Ram
-Ram's
 Rama
 Rama's
 Ramachandra
@@ -22097,7 +21370,6 @@ Raphael
 Raphael's
 Rappaport
 Rappaport's
-Rapture
 Rapunzel
 Rapunzel's
 Raquel
@@ -22161,8 +21433,6 @@ Reagan
 Reagan's
 Reaganomics
 Reaganomics's
-Realpolitik
-Realpolitiks
 Realtor
 Realtor's
 Realtors
@@ -22181,8 +21451,6 @@ Recife's
 Reconstruction
 Reconstructionism
 Reconstructionisms
-Reconstructionist
-Reconstructionists
 Red
 Red's
 Redbridge
@@ -22210,11 +21478,8 @@ Reeves's
 Reformation
 Reformation's
 Reformations
-Reformed
 Refugio
 Refugio's
-Regency
-Regency's
 Regensburg
 Reggie
 Reggie's
@@ -22283,18 +21548,13 @@ Representative
 Representatives
 Republican
 Republican's
-Republicanism
-Republicanisms
 Republicans
 Requiem
 Requiems
 Resht
-Resistance
-Resistances
 Restoration
 Resurrection
 Resurrections
-Reticulum
 Reuben
 Reuben's
 Reubens
@@ -22313,8 +21573,6 @@ Revelations
 Revelations's
 Revere
 Revere's
-Reverence
-Reverences
 Reverend
 Reverend's
 Revlon
@@ -22444,10 +21702,6 @@ Rigel
 Rigel's
 Riggs
 Riggs's
-Right
-Rightism
-Rightisms
-Rights
 Rigoberto
 Rigoberto's
 Rigoletto
@@ -22575,8 +21829,6 @@ Rockwell
 Rockwell's
 Rocky
 Rocky's
-Rococo
-Rococos
 Rod
 Rod's
 Roddenberry
@@ -22665,17 +21917,9 @@ Romanians
 Romanic
 Romanies
 Romanis
-Romanise
-Romanised
-Romanises
-Romanising
 Romanism
 Romanisms
 Romanist
-Romanize
-Romanized
-Romanizes
-Romanizing
 Romano
 Romano's
 Romanoff
@@ -22856,7 +22100,6 @@ Rourke's
 Rousseau
 Rousseau's
 Roussillon
-Route
 Rove
 Rove's
 Rover
@@ -23062,8 +22305,6 @@ SEK
 SF
 SG
 SGML
-SHAPE
-SHAPE's
 SHF
 SIDS
 SJ
@@ -23134,7 +22375,6 @@ Sabbatarian's
 Sabbatarians
 Sabbath
 Sabbaths
-Sabbatical
 Sabbats
 Sabellian
 Sabellians
@@ -23147,14 +22387,10 @@ Sabina's
 Sabine
 Sabine's
 Sabines
-Sabra
-Sabras
 Sabre
 Sabre's
 Sabrina
 Sabrina's
-Sac
-Sac's
 Sacagawea
 Sacagawea's
 Sacajawea
@@ -23164,13 +22400,10 @@ Sacco's
 Sachs
 Sachs's
 Sachsen
-Sacrament
 Sacramentarian
 Sacramentarians
 Sacramento
 Sacramento's
-Sacraments
-Sacs
 Sadat
 Sadat's
 Saddam
@@ -23287,9 +22520,7 @@ Salmanazar
 Salmanazars
 Salome
 Salome's
-Salon
 Salonika
-Salons
 Salop
 Saltillo
 Salton
@@ -23398,7 +22629,6 @@ Sandoval
 Sandoval's
 Sandra
 Sandra's
-Sandwich
 Sandy
 Sandy's
 Sanford
@@ -23447,7 +22677,6 @@ Saphar
 Saphars
 Sapir
 Sapir's
-Sapphic
 Sappho
 Sappho's
 Sapporo
@@ -23543,8 +22772,6 @@ Saturnalia's
 Saturnalias
 Saturnian
 Saturnians
-Satyr
-Satyrs
 Saudi
 Saudi's
 Saudis
@@ -23569,7 +22796,6 @@ Savannah
 Savannah's
 Savior
 Savior's
-Saviour
 Savoie
 Savona
 Savonarola
@@ -23612,8 +22838,6 @@ Scarborough
 Scarborough's
 Scarlatti
 Scarlatti's
-Schadenfreude
-Schadenfreudes
 Scheat
 Scheat's
 Schedar
@@ -23778,11 +23002,8 @@ Scranton
 Scranton's
 Scriabin
 Scriabin's
-Scribe
-Scribe's
 Scribner
 Scribner's
-Scriptural
 Scripture
 Scriptures
 Scrooge
@@ -23794,8 +23015,6 @@ Scud
 Scud's
 Sculley
 Sculley's
-Sculptor
-Scutum
 Scylla
 Scylla's
 Scythia
@@ -23810,8 +23029,6 @@ Seaborg
 Seaborg's
 Seagram
 Seagram's
-Seaman
-Seaman's
 Sean
 Sean's
 Sears
@@ -23821,7 +23038,6 @@ Seattle's
 Sebastian
 Sebastian's
 Sec
-Secession
 Seconal
 Seconal's
 Secretariat
@@ -23887,7 +23103,6 @@ Sellers's
 Sellotape
 Selma
 Selma's
-Seltzer
 Selznick
 Selznick's
 Semarang
@@ -23914,7 +23129,6 @@ Sen
 Senate
 Senate's
 Senates
-Senator
 Sendai
 Sendai's
 Seneca
@@ -23926,8 +23140,6 @@ Senegalese
 Senegalese's
 Senghor
 Senghor's
-Senior
-Seniors
 Senlac
 Sennacherib
 Sennacherib's
@@ -23958,7 +23170,6 @@ Sequoya
 Sequoya's
 Sequoyah
 Sequoyah's
-Seraglio
 Serapis
 Serb
 Serb's
@@ -23970,10 +23181,8 @@ Serbians
 Serbs
 Serena
 Serena's
-Serene
 Serengeti
 Serengeti's
-Sergeant
 Sergei
 Sergei's
 Sergio
@@ -24141,7 +23350,6 @@ Shawnee's
 Shawnees
 Shawwal
 Shawwals
-Shays
 Shcharansky
 Shcharansky's
 Shea
@@ -24154,7 +23362,6 @@ Shebeli
 Shebeli's
 Sheena
 Sheena's
-Sheerness
 Sheetrock
 Sheetrock's
 Sheetrocks
@@ -24270,7 +23477,6 @@ Shintos
 Shiraz
 Shiraz's
 Shirazes
-Shires
 Shirley
 Shirley's
 Shiva
@@ -24362,7 +23568,6 @@ Siena
 Sienese
 Sierpinski
 Sierpinski's
-Sierras
 Sigismund
 Sigismund's
 Sigmund
@@ -24387,10 +23592,6 @@ Silas
 Silas's
 Silastic
 Silastics
-Sileni
-Sileni's
-Silenus
-Silenus's
 Silesia
 Silesian
 Silesians
@@ -24428,8 +23629,6 @@ Simpsons
 Simpsons's
 Sims
 Sims's
-Sin
-Sin's
 Sinai
 Sinai's
 Sinaloa
@@ -24463,11 +23662,9 @@ Sinhalese's
 Sinkiang
 Sinkiang's
 Sino
-Sinologies
 Sinologist
 Sinologist's
 Sinologists
-Sinology
 Sinopharm
 Sinopharm's
 Sinovac
@@ -24485,9 +23682,6 @@ Sir
 Sir's
 Sirach
 Siracusa
-Siren
-Siren's
-Sirens
 Sirius
 Sirius's
 Sirs
@@ -24504,8 +23698,6 @@ Sita's
 Sitka
 Sitka's
 Sitsang
-Sitter
-Sitter's
 Sitwell
 Sitwell's
 Siva
@@ -24637,7 +23829,6 @@ Soave's
 Soaves
 Sobranje
 Soc
-Society
 Socinian
 Socinian's
 Socinians
@@ -24664,8 +23855,6 @@ Soissons
 Sol
 Sol's
 Solent
-Solferino
-Solidarity
 Solihull
 Solingen
 Solis
@@ -24681,8 +23870,6 @@ Solons
 Solutrean
 Solzhenitsyn
 Solzhenitsyn's
-Soma
-Soma's
 Somali
 Somali's
 Somalia
@@ -24692,8 +23879,6 @@ Somalian's
 Somalians
 Somaliland
 Somalis
-Somerset
-Somerset's
 Somersetshire
 Somme
 Somme's
@@ -24740,13 +23925,11 @@ Sophonias's
 Sophy
 Sopwith
 Sopwith's
-Sorb
 Sorbian
 Sorbian's
 Sorbians
 Sorbonne
 Sorbonne's
-Sorbs
 Sorrento
 Sosa
 Sosa's
@@ -24759,7 +23942,6 @@ Sourceforge
 Sourceforge's
 Sousa
 Sousa's
-Souter
 South
 Southampton
 Southampton's
@@ -24767,11 +23949,9 @@ Southdown
 Southdowns
 Southeast
 Southeasts
-Southern
 Southerner
 Southerner's
 Southerners
-Southerns
 Southey
 Southey's
 Southport
@@ -24784,15 +23964,9 @@ Soutine's
 Soviet
 Sovietisation
 Sovietisation's
-Sovietise
 Sovietization
 Sovietization's
 Sovietizations
-Sovietize
-Sovietized
-Sovietizes
-Sovietizing
-Soviets
 Soweto
 Soweto's
 Soyinka
@@ -24848,8 +24022,6 @@ Spencerian's
 Spencerianism
 Spencerianisms
 Spencerians
-Spender
-Spender's
 Spengler
 Spengler's
 Spenglerian
@@ -24878,8 +24050,6 @@ Spinx
 Spinx's
 Spires
 Spires's
-Spirit
-Spirits
 Spiro
 Spiro's
 Spirograph
@@ -24889,7 +24059,6 @@ Spitsbergen
 Spitsbergen's
 Spitz
 Spitz's
-Split
 Spock
 Spock's
 Spode
@@ -24898,7 +24067,6 @@ Spodes
 Spokane
 Spokane's
 Sporades
-Sprechgesang
 Springfield
 Springfield's
 Springsteen
@@ -24941,7 +24109,6 @@ StairMaster
 StairMaster's
 Stakhanovism
 Stakhanovisms
-Stalag
 Stalin
 Stalin's
 Stalinabad
@@ -24984,8 +24151,6 @@ Statehouse
 Statehouses
 Staten
 Staten's
-States
-Stateside
 Staubach
 Staubach's
 Stavanger
@@ -25023,9 +24188,6 @@ Stendhal
 Stendhal's
 Stengel
 Stengel's
-Stentor
-Stentor's
-Stentors
 Stephan
 Stephan's
 Stephanie
@@ -25075,7 +24237,6 @@ Stine
 Stine's
 Stirling
 Stirling's
-Stoa
 Stockhausen
 Stockhausen's
 Stockholm
@@ -25168,8 +24329,6 @@ Subaru's
 Succoth
 Succoths
 Suchow
-Suckling
-Suckling's
 Sucre
 Sucre's
 Sucrets
@@ -25312,8 +24471,6 @@ Surinam
 Surinam's
 Suriname
 Surinamese
-Surrey
-Surrey's
 Surya
 Surya's
 Susa
@@ -25383,7 +24540,6 @@ Swansea
 Swansea's
 Swanson
 Swanson's
-Swat
 Swazi
 Swazi's
 Swaziland
@@ -25437,8 +24593,6 @@ Sylvia
 Sylvia's
 Sylvie
 Sylvie's
-Symbolism
-Symbolisms
 Symonds
 Symonds's
 Syncom
@@ -25540,8 +24694,6 @@ Taegu
 Taegu's
 Taejon
 Taejon's
-Taffies
-Taffy
 Taft
 Taft's
 Tagalog
@@ -25694,8 +24846,6 @@ Tannoy
 Tanoan
 Tantalus
 Tantalus's
-Tantra
-Tantras
 Tanya
 Tanya's
 Tanzania
@@ -25739,12 +24889,9 @@ Tarkington's
 Tarlac
 Tarmac
 Tarmacs
-Tarot
-Tarots
 Tarpeia
 Tarragona
 Tarrytown
-Tarsus
 Tartar
 Tartar's
 Tartarean
@@ -25833,8 +24980,6 @@ Teheran
 Teheran's
 Tehran
 Tehran's
-TelePrompTer
-TelePrompTers
 TelePrompter
 TelePrompter's
 Telegonus
@@ -25844,11 +24989,7 @@ Telemachus
 Telemachus's
 Telemann
 Telemann's
-Telephoto
-Telephotos
 Telescopium
-Teletype
-Teletypes
 Teletypesetter
 Teletypesetters
 Tell
@@ -25903,7 +25044,6 @@ Terkel
 Terkel's
 Terpsichore
 Terpsichore's
-Terpsichorean
 Terr
 Terra
 Terra's
@@ -25922,10 +25062,6 @@ Terri's
 Terrie
 Terrie's
 Terrill
-Territorial
-Territorials
-Territories
-Territory
 Terry
 Terry's
 Tertiaries
@@ -25944,8 +25080,6 @@ Tessa's
 Tessie
 Tessie's
 Tessin
-Testament
-Testaments
 Tet
 Tet's
 Tethys
@@ -26039,7 +25173,6 @@ Themis
 Themis's
 Themistocles
 Themistocles's
-Theocracy
 Theocritus
 Theocritus's
 Theodora
@@ -26132,7 +25265,6 @@ Thorpe
 Thorpe's
 Thoth
 Thoth's
-Thousand
 Thrace
 Thrace's
 Thracia
@@ -26444,7 +25576,6 @@ Toscanini
 Toscanini's
 Toshiba
 Toshiba's
-Tote
 Toto
 Toto's
 Toulon
@@ -26490,11 +25621,6 @@ Transcaucasia
 Transcaucasia's
 Transcaucasian
 Transcaucasians
-Transcendentalism
-Transcendentalisms
-Transcendentalist
-Transfiguration
-Transfigurations
 Transvaal
 Transvaal's
 Transylvania
@@ -26516,8 +25642,6 @@ Treasury's
 Trebizond
 Treblinka
 Treblinka's
-Tree
-Tree's
 Trekkie
 Trekkie's
 Trent
@@ -26539,7 +25663,6 @@ Trevor
 Trevor's
 Trey
 Trey's
-Triad
 Triangulum
 Triangulum's
 Triassic
@@ -26991,8 +26114,6 @@ Umbrians
 Umbriel
 Umbriel's
 Una
-Uncial
-Uncials
 Underwood
 Underwood's
 Unesco
@@ -27007,8 +26128,6 @@ Unilever
 Unilever's
 Union
 Union's
-Unionism
-Unionisms
 Unionist
 Unionists
 Unions
@@ -27025,14 +26144,8 @@ Unitarians
 Unitas
 Unitas's
 Univ
-Universalism
-Universalisms
-Universalist
-Universalists
 Unix
 Unixes
-Untouchable
-Untouchables
 Unukalhai
 Unukalhai's
 Upanishad
@@ -27042,7 +26155,6 @@ Updike
 Updike's
 Upjohn
 Upjohn's
-Upper
 Uppsala
 Upton
 Upton's
@@ -27091,7 +26203,6 @@ Uruguayans
 Urumchi
 Urumqi
 Urumqi's
-Us
 Usenet
 Usenet's
 Usenets
@@ -27316,9 +26427,6 @@ Vedantic
 Vedas
 Vedda
 Veddas
-Vedic
-Veep
-Veeps
 Vega
 Vega's
 Vegas
@@ -27418,13 +26526,10 @@ Vesalius
 Vesalius's
 Vespasian
 Vespasian's
-Vesper
-Vespers
 Vespucci
 Vespucci's
 Vesta
 Vesta's
-Vesuvian
 Vesuvius
 Vesuvius's
 Viacom
@@ -27531,14 +26636,11 @@ Virgie's
 Virgil
 Virgil's
 Virgilian
-Virgin
-Virgin's
 Virginia
 Virginia's
 Virginian
 Virginian's
 Virginians
-Virgins
 Virgo
 Virgo's
 Virgos
@@ -27640,7 +26742,6 @@ Vouvray
 Vouvrays
 Voyager
 Voyager's
-Vs
 Vt
 Vuillard
 Vuillard's
@@ -27832,7 +26933,6 @@ Washingtonians
 Wasp
 Waspier
 Waspiest
-Waspish
 Wasps
 Waspy
 Wassermann
@@ -27875,7 +26975,6 @@ Wayne's
 Wb
 Weaver
 Weaver's
-Web
 Webb
 Webb's
 Weber
@@ -27926,7 +27025,6 @@ Welch
 Welch's
 Weldon
 Weldon's
-Welfare
 Welland
 Welland's
 Weller
@@ -28096,8 +27194,6 @@ Wiesenthal
 Wiesenthal's
 Wiggins
 Wiggins's
-Wight
-Wight's
 Wigner
 Wigner's
 Wii
@@ -28122,7 +27218,6 @@ Wilde
 Wilde's
 Wilder
 Wilder's
-Wilderness
 Wiles
 Wiles's
 Wiley
@@ -28244,8 +27339,6 @@ Wisconsin's
 Wisconsinite
 Wisconsinite's
 Wisconsinites
-Wisdom
-Wisdom's
 Wise
 Wise's
 Witt
@@ -28334,15 +27427,8 @@ Wordsworth
 Wordsworth's
 Workman
 Workman's
-World
-World's
-Worlds
 Worms
 Worms's
-Worship
-Worships
-Worth
-Worth's
 Wotan
 Wotan's
 Wovoka
@@ -28360,7 +27446,6 @@ Wright
 Wright's
 Wrigley
 Wrigley's
-Writings
 Wroclaw
 Wroclaw's
 Ws
@@ -28401,7 +27486,6 @@ Wyomingite
 Wyomingite's
 Wyomingites
 X
-X's
 XEmacs
 XEmacs's
 XL
@@ -28541,7 +27625,6 @@ Yaobang
 Yaobang's
 Yaounde
 Yaounde's
-Yap
 Yaqui
 Yaqui's
 Yaquis
@@ -28564,7 +27647,6 @@ Yeats's
 Yeatsian
 Yekaterinburg
 Yekaterinburg's
-Yellow
 Yellowknife
 Yellowknife's
 Yellowstone
@@ -28598,9 +27680,6 @@ Ymir
 Ymir's
 Yoda
 Yoda's
-Yoga
-Yoga's
-Yogas
 Yoknapatawpha
 Yoknapatawpha's
 Yoko
@@ -28753,9 +27832,6 @@ Zarathustra's
 Zarqa
 Zealand
 Zealand's
-Zealot
-Zealot's
-Zealots
 Zebedee
 Zebedee's
 Zechariah
@@ -28768,8 +27844,6 @@ Zeebrugge
 Zeeland
 Zeffirelli
 Zeffirelli's
-Zeitgeist
-Zeitgeists
 Zeke
 Zeke's
 Zelda
