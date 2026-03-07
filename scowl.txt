@@ -388,7 +388,7 @@
 
 70 [moby] 85 [ukacd]: Aberdare <n/upper?>
 
-50 [name] 60 60 US [town]: Aberdeen <n/place>: Aberdeen's
+50 [name] 60: Aberdeen <n/place>: Aberdeen's
 
 70 [moby] 85 [ukacd]: Aberdeen Angus <n/upper?>
 70 [moby]: - <n/upper?>: Aberdeen Angus's
@@ -492,7 +492,7 @@
 
 70 [moby] 80: abigail <n>: abigails
 
-50 [name] 60 60 US [town]: Abilene <n/place>: Abilene's
+50 [name] 60: Abilene <n/place>: Abilene's
 
 35: ability <n>: abilities
 
@@ -7549,7 +7549,7 @@
 
 80: akratic
 
-50 [name] 60 60 US [town]: Akron <n/place>: Akron's
+50 [name] 60: Akron <n/place>: Akron's
 
 80 [moby]: Akutan <n/place>
 
@@ -7806,7 +7806,7 @@
 
 50: Albanian <aj/demonym>
 
-50 50 AU [town] 60 US [town]: Albany <n/place>: Albany's
+50: Albany <n/place>: Albany's
 
 85 [ukacd]: albarelli
 
@@ -7983,7 +7983,7 @@
 
 70 [moby] 80: albumose <n>: albumoses
 
-50 60 US [town]: Albuquerque <n/place>: Albuquerque's
+50: Albuquerque <n/place>: Albuquerque's
 
 80 [upper]: Albuquerquean <n/upper?>: Albuquerqueans
 
@@ -8392,7 +8392,7 @@
 
 50: Alexandra <n/person>: Alexandra's
 
-50 60 US [town]: Alexandria <n/place>: Alexandria's
+50: Alexandria <n/place>: Alexandria's
 
 60: Alexandrian <n/upper>: Alexandrian's
 65: - <n/upper>: Alexandrians-
@@ -9170,7 +9170,7 @@
 
 80 [moby]: Allenton <n/place>
 
-50 [name] 60 60 US [town]: Allentown <n/place>: Allentown's
+50 [name] 60: Allentown <n/place>: Allentown's
 
 80 [moby]: Allenwood <n/place>
 
@@ -10258,7 +10258,7 @@
 
 80: altoist <n>: altoists
 
-50 60 US [town]: Alton <n/place>: Alton's
+50: Alton <n/place>: Alton's
 
 70 [moby]: Altona <n/place>
 
@@ -10575,7 +10575,7 @@
 60: amaretto <n>
 80: - <n>: amarettos~
 
-50 [name] 60 60 US [town]: Amarillo <n/place>: Amarillo's
+50 [name] 60: Amarillo <n/place>: Amarillo's
 
 80 [upper]: Amarilloan <n/upper?>: Amarilloans
 
@@ -12257,7 +12257,7 @@
 70 [5desk] [moby] 80: A Z: anagrammatize <v>: anagrammatized, anagrammatizing, anagrammatizes
 70 [5desk] [moby] 80: B: anagrammatise <v>: anagrammatised, anagrammatising, anagrammatises
 
-50 [name] 60 60 US [town]: Anaheim <n/place>: Anaheim's
+50 [name] 60: Anaheim <n/place>: Anaheim's
 
 80 [moby]: Anahola <n/place>
 
@@ -12684,7 +12684,7 @@
 
 35: anchorage <n>: anchorages
 
-50 60 US [town]: Anchorage <n/place>: Anchorage's
+50: Anchorage <n/place>: Anchorage's
 
 70 [moby] 80: anchoress <n>: anchoresses
 
@@ -12849,7 +12849,7 @@
 
 50: Andersen <n/upper>: Andersen's
 
-50 60 US [town]: Anderson <n/place>: Anderson's
+50: Anderson <n/place>: Anderson's
 
 80 [moby]: Andersonville <n/place>
 
@@ -14021,7 +14021,7 @@
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Annapurna <n/name?>
 50 [name] 70 [5desk] [moby]: - <n/name?>: Annapurna's
 
-60 60 US [town]: Ann Arbor <n/place>: Ann Arbor's
+60: Ann Arbor <n/place>: Ann Arbor's
 
 80 [moby]: Annarbor <n/place>
 
@@ -20166,7 +20166,7 @@
 
 50: Arline <n/person>: Arline's
 
-50 [name] 60 60 US [town]: Arlington <n/place>: Arlington's
+50 [name] 60: Arlington <n/place>: Arlington's
 
 70 [5desk]: Arlo </upper?>
 
@@ -23187,7 +23187,7 @@
 
 50 [name] 60: Athenian <aj/upper>
 
-50 [name] 60 60 US [town]: Athens <n/place>: Athens's
+50 [name] 60: Athens <n/place>: Athens's
 
 85 [ukacd]: atheological
 
@@ -23317,7 +23317,7 @@
 
 70 [3of6]: at knifepoint
 
-50 60 US [town]: Atlanta <n/place>: Atlanta's
+50: Atlanta <n/place>: Atlanta's
 
 70 [5desk] 80 [upper]: Atlantan <n/upper?>: Atlantans
 
@@ -24364,7 +24364,7 @@
 
 85 [ukacd]: !august <n>: augusts
 
-50 60 US [town]: Augusta <n/place>: Augusta's
+50: Augusta <n/place>: Augusta's
 
 50 [name] 60: Augustan <aj/upper>
 
@@ -24564,7 +24564,7 @@
 70 [moby] 80: aurochs <n>: aurochses
 70 [moby]: - <n>: aurochs's
 
-50 60 US [town]: Aurora <n/place>: Aurora's
+50: Aurora <n/place>: Aurora's
 
 60: aurora <n>: (auroras | ~: aurorae), aurora's, (auroras' | ~: aurorae's)
 
@@ -24657,7 +24657,7 @@
 
 80 [moby]: -Austerlitz <n/place>
 
-50 60 US [town]: Austin <n/place>: Austin's
+50: Austin <n/place>: Austin's
 
 50: Austin <n/upper>: Austin's
 65: - <n/upper>: Austins-
@@ -28059,7 +28059,7 @@
 
 50: baker's dozen <n>
 
-50 [name] 60 60 US [town]: Bakersfield <n/place>: Bakersfield's
+50 [name] 60: Bakersfield <n/place>: Bakersfield's
 
 80: bakersheet <n>: bakersheets
 
@@ -28742,7 +28742,7 @@
 
 60: Baltic Sea <n/upper>
 
-50 60 US [town]: Baltimore <n/place>: Baltimore's
+50: Baltimore <n/place>: Baltimore's
 
 80 [upper]: Baltimorean <n/upper?>: Baltimoreans
 
@@ -29492,10 +29492,8 @@
 
 80 [moby]: Barbeau <n/place>
 
-35 35 AU [extra]: A B: barbecue <n_v>: -, -, barbecues, barbecue's
-35 35 AU [extra]: AV Bv: barbeque <n_v>: -, -, barbeques, barbeque's
-35: A B: - <n_v>: barbecued, barbecuing, -
-35: AV Bv: - <n_v>: barbequed, barbequing, -
+35: A B: barbecue <n_v>: barbecued, barbecuing, barbecues, barbecue's
+35: AV Bv: barbeque <n_v>: barbequed, barbequing, barbeques, barbeque's
 
 80: barbecuer <n>: barbecuers
 
@@ -31149,7 +31147,7 @@
 
 85 [ukacd]: !baton <v>: batoned, batoning, batons
 
-50 60 US [town]: Baton Rouge <n/place>: Baton Rouge's
+50: Baton Rouge <n/place>: Baton Rouge's
 
 85 [ukacd]: batoon <n>: batoons
 
@@ -32105,7 +32103,7 @@
 
 70 [moby]: beau monde <n>: beau monde's
 
-50 [name] 60 60 US [town]: Beaumont <n/place>: Beaumont's
+50 [name] 60: Beaumont <n/place>: Beaumont's
 
 85 [ukacd]: beaumontage <n>: beaumontages
 
@@ -35438,7 +35436,7 @@
 
 50: Beverly <n/person>: Beverly's
 
-60 60 US [town]: Beverly Hills <n/place>: Beverly Hills's
+60: Beverly Hills <n/place>: Beverly Hills's
 
 80 [moby]: Bevier <n/place>
 
@@ -36643,7 +36641,7 @@
 
 50: billing <n>: billings
 
-50 [name] 60 60 US [town]: Billings <n/place>: Billings's
+50 [name] 60: Billings <n/place>: Billings's
 
 60: billingsgate <n>
 80: - <n>: billingsgates~
@@ -37795,7 +37793,7 @@
 
 80 [upper]: Birman <n/upper?>: Birmans
 
-50 60 US [town]: Birmingham <n/place>: Birmingham's
+50: Birmingham <n/place>: Birmingham's
 
 85 [ukacd]: A Z: Birminghamize <n/upper?>
 85 [ukacd]: B: Birminghamise <n/upper?>
@@ -37965,7 +37963,7 @@
 
 85 [ukacd]: bismar <n>: bismars
 
-50 60 US [town]: Bismarck <n/place>: Bismarck's
+50: Bismarck <n/place>: Bismarck's
 
 70 [moby]: Bismarck Archipelago <n/upper?>
 
@@ -43008,7 +43006,7 @@
 
 80 [moby]: Bostic <n/place>
 
-50 60 US [town]: Boston <n/place>: Boston's
+50: Boston <n/place>: Boston's
 
 50: Boston <n/upper>: Boston's
 65: - <n/upper>: Bostons-
@@ -43367,7 +43365,7 @@
 35: A B: boulder <n>: boulders, boulder's
 35: AV: bowlder <n>: bowlders, bowlder's
 
-50 [name] 50 AU [town] 60 60 US [town]: Boulder <n/place>: Boulder's
+50 [name] 50 AU [town] 60: Boulder <n/place>: Boulder's
 
 85 [ukacd]: A B: !boulder <v>
 
@@ -45817,7 +45815,7 @@
 
 70 [moby] 85 [ukacd]: Bridge of Sighs </upper?>
 
-50 [name] 60 60 US [town]: Bridgeport <n/place>: Bridgeport's
+50 [name] 60: Bridgeport <n/place>: Bridgeport's
 
 50 [name] 70 [5desk]: Bridger <n/name?>: Bridger's
 
@@ -46227,7 +46225,7 @@
 
 50: bristly <aj>: bristlier, bristliest
 
-50 [name] 60 60 US [town]: Bristol <n/place>: Bristol's
+50 [name] 60: Bristol <n/place>: Bristol's
 
 80: bristol <n>: bristols
 
@@ -47224,7 +47222,7 @@
 
 50: brown sugar <n>
 
-50 [name] 60 60 US [town]: Brownsville <n/place>: Brownsville's
+50 [name] 60: Brownsville <n/place>: Brownsville's
 
 70 [moby]: Brown Swiss <n/upper?>: Brown Swiss's
 
@@ -47586,7 +47584,7 @@
 
 80: bruxism <n>: bruxisms
 
-50 60 US [town]: Bryan <n/place>: Bryan's
+50: Bryan <n/place>: Bryan's
 
 70 [5desk] [moby]: Bryansk </upper?>
 
@@ -48144,7 +48142,7 @@
 
 35: buffalo <v>: buffaloed, buffaloing, (buffaloes | ~: buffalos)
 
-50 60 US [town]: Buffalo <n/place>: Buffalo's
+50: Buffalo <n/place>: Buffalo's
 
 80: _: buffaloberry <n>: buffaloberries
 80: _V: buffalo-berry <n>
@@ -49432,7 +49430,7 @@
 
 80 [moby]: Burlingham <n/place>
 
-60 60 US [town]: Burlington <n/place>: Burlington's
+60: Burlington <n/place>: Burlington's
 
 80 [moby]: Burlison <n/place>
 
@@ -52020,7 +52018,7 @@
 
 85 [ukacd]: califont <n>: califonts
 
-50 60 US [town]: California <n/place>: California's
+50: California <n/place>: California's
 
 50: Californian <n/demonym>: Californians, Californian's
 
@@ -53229,7 +53227,7 @@
 
 85 [ukacd]: canbank <n>: canbanks
 
-50 50 AU [town]: Canberra <n/place>: Canberra's
+50: Canberra <n/place>: Canberra's
 
 70 [moby]: can buoy <n>
 
@@ -54002,7 +54000,7 @@
 
 50: canton <n>: cantons
 
-50 [name] 60 60 US [town]: Canton <n/place>: Canton's
+50 [name] 60: Canton <n/place>: Canton's
 
 80: -canton <v>: cantoned, cantoning, cantons
 
@@ -56361,7 +56359,7 @@
 
 50 [name] 60: Carson <n/upper>: Carson's
 
-50 60 US [town]: Carson City <n/place>: Carson City's
+50: Carson City <n/place>: Carson City's
 
 80 [moby]: Carsonville <n/place>
 
@@ -58776,7 +58774,7 @@
 
 70 [moby] 85 [ukacd]: cedar of Lebanon <n/upper?>
 
-60 60 US [town]: Cedar Rapids <n/place>: Cedar Rapids's
+60: Cedar Rapids <n/place>: Cedar Rapids's
 
 80 [moby]: Cedars <n/place>
 
@@ -61542,7 +61540,7 @@
 
 70 [moby]: Charles the Great <n/upper?>: Charles the Great's
 
-50 60 US [town]: Charleston <n/place>: Charleston's
+50: Charleston <n/place>: Charleston's
 
 50: Charleston <n/upper>: Charlestons, Charleston's
 
@@ -61571,7 +61569,7 @@
 
 70 [moby] 80: charlock <n>: charlocks
 
-50 60 US [town]: Charlotte <n/place>: Charlotte's
+50: Charlotte <n/place>: Charlotte's
 
 70 [moby] 80: charlotte <n>: charlottes
 
@@ -61903,7 +61901,7 @@
 
 80 [moby]: -Chattahoochee <n/place>
 
-50 [name] 60 60 US [town]: Chattanooga <n/place>: Chattanooga's
+50 [name] 60: Chattanooga <n/place>: Chattanooga's
 
 80 [moby]: Chattaroy <n/place>
 
@@ -63109,7 +63107,7 @@
 
 35: chewy <aj>: chewier, chewiest
 
-50 60 US [town]: Cheyenne <n/place>: Cheyenne's
+50: Cheyenne <n/place>: Cheyenne's
 
 50: Cheyenne <n/upper>: Cheyenne's
 65: - <n/upper>: Cheyennes-
@@ -63209,7 +63207,7 @@
 
 80: chica <n>: chicas
 
-50 60 US [town]: Chicago <n/place>: Chicago's
+50: Chicago <n/place>: Chicago's
 
 50 [name] 60: Chicagoan <n/upper>: Chicagoan's
 65: - <n/upper>: Chicagoans-
@@ -66383,7 +66381,7 @@
 
 85 [ukacd]: cincinnate
 
-50 [name] 60 60 US [town]: Cincinnati <n/place>: Cincinnati's
+50 [name] 60: Cincinnati <n/place>: Cincinnati's
 
 80 [upper]: Cincinnatian <n/upper?>: Cincinnatians
 
@@ -68582,7 +68580,7 @@
 
 70 [moby] 80: cleveite <n>: cleveites
 
-50 60 US [town]: Cleveland <n/place>: Cleveland's
+50: Cleveland <n/place>: Cleveland's
 
 80 [upper]: Clevelander <n/upper?>: Clevelanders
 
@@ -72702,7 +72700,7 @@
 
 70 [moby]: Colorado potato beetle <n/upper?>: Colorado potato beetle's
 
-60 60 US [town]: Colorado Springs <n/place>: Colorado Springs's
+60: Colorado Springs <n/place>: Colorado Springs's
 
 60: A Cv DV: colorant <n>: colorants, colorant's
 60: B C D: colourant <n>: colourants, colourant's
@@ -72993,7 +72991,7 @@
 
 85 [ukacd]: columbate
 
-50 60 US [town]: Columbia <n/place>: Columbia's
+50: Columbia <n/place>: Columbia's
 
 70 [moby] 80 [upper] 85 [ukacd]: Columbian <aj/upper?>
 
@@ -73018,7 +73016,7 @@
 
 70 [5desk] [moby] 80: columbium <n>: columbiums
 
-50 60 US [town]: Columbus <n/place>: Columbus's
+50: Columbus <n/place>: Columbus's
 
 60: Columbus Day <n/upper>
 
@@ -75561,7 +75559,7 @@
 35: concord <n>
 80: - <n>: concords~
 
-50 60 US [town]: Concord <n/place>: Concord's
+50: Concord <n/place>: Concord's
 
 50: Concord <n/upper>: Concord's
 65: - <n/upper>: Concords-
@@ -79087,7 +79085,7 @@
 
 80: convulsiveness <n>: convulsivenesses
 
-50 60 US [town]: Conway <n/place>: Conway's
+50: Conway <n/place>: Conway's
 
 85 [ukacd]: Conwy </upper?>
 
@@ -80888,7 +80886,7 @@
 
 85 [ukacd]: corpus cavernosum
 
-50 [name] 60 60 US [town]: Corpus Christi <n/place>: Corpus Christi's
+50 [name] 60: Corpus Christi <n/place>: Corpus Christi's
 
 35: corpuscle <n>: corpuscles
 
@@ -90355,7 +90353,7 @@
 
 80 [moby]: Dallardsville <n/place>
 
-50 60 US [town]: Dallas <n/place>: Dallas's
+50: Dallas <n/place>: Dallas's
 
 70 [5desk] 80 [upper]: Dallasite <n/upper?>: Dallasites
 
@@ -90396,7 +90394,7 @@
 
 85 [ukacd]: dalt <n>: dalts
 
-50 60 US [town]: Dalton <n/place>: Dalton's
+50: Dalton <n/place>: Dalton's
 
 80: dalton <n>: daltons
 
@@ -90916,7 +90914,7 @@
 
 70 [moby] 80: dap <m>: dapped, dapping, daps
 
-50 60 US [town]: Daphne <n/place>: Daphne's
+50: Daphne <n/place>: Daphne's
 
 70 [moby] 80: daphne <n>: daphnes
 
@@ -91245,7 +91243,7 @@
 50 [name] 70 [5desk] [moby]: - <n/upper>: Darvon's
 70 [5desk] [moby] 80 [upper]: - <n/upper>: Darvons-
 
-50 50 AU [town]: Darwin <n/place>: Darwin's
+50: Darwin <n/place>: Darwin's
 
 50 [name] 60: Darwinian <n/upper>: Darwinian's
 65: - <n/upper>: Darwinians-
@@ -91553,7 +91551,7 @@
 
 50: davenport <n>: davenports
 
-50 60 US [town]: Davenport <n/place>: Davenport's
+50: Davenport <n/place>: Davenport's
 
 85 [ukacd]: Daventry </upper?>
 
@@ -91584,7 +91582,7 @@
 
 50 [name] 60: da Vinci <n/upper>: da Vinci's
 
-50 60 US [town]: Davis <n/place>: Davis's
+50: Davis <n/place>: Davis's
 
 80 [moby]: Davisboro <n/place>
 
@@ -91811,7 +91809,7 @@
 
 40: day-to-day <aj>
 
-50 [name] 60 60 US [town]: Dayton <n/place>: Dayton's
+50 [name] 60: Dayton <n/place>: Dayton's
 
 60 US [town] 70 [moby] 85 [ukacd]: Daytona Beach <n/place>
 60 US [town] 70 [moby]: - <n/place>: Daytona Beach's
@@ -92838,7 +92836,7 @@
 
 40: decathlon <n>: decathlons
 
-50 [name] 60 60 US [town]: Decatur <n/place>: Decatur's
+50 [name] 60: Decatur <n/place>: Decatur's
 
 80 [moby]: Decaturville <n/place>
 
@@ -96451,7 +96449,7 @@
 
 70 [5desk] [moby] 80: denunciatory <aj>
 
-50 60 US [town]: Denver <n/place>: Denver's
+50: Denver <n/place>: Denver's
 
 70 [3of6] 85 [ukacd]: Denver boot <n/upper?>: Denver boots
 
@@ -97755,7 +97753,7 @@
 70 [moby] 80: desmoid <n>
 85 [stale]: - <n>: desmoids!
 
-50 60 US [town]: Des Moines <n/place>: Des Moines's
+50: Des Moines <n/place>: Des Moines's
 
 80 [moby]: Desmoines <n/place>
 
@@ -98395,7 +98393,7 @@
 50: detritus <n>
 80: - <n>: detritus~
 
-50 60 US [town]: Detroit <n/place>: Detroit's
+50: Detroit <n/place>: Detroit's
 
 80 [upper]: Detroiter <n/upper?>: Detroiters
 
@@ -108219,7 +108217,7 @@
 
 80: doven <m>: dovened, dovening, dovens
 
-50 60 US [town]: Dover <n/place>: Dover's
+50: Dover <n/place>: Dover's
 
 85 [ukacd]: dover <m>: dovered, dovering, dovers
 
@@ -110940,7 +110938,7 @@
 70 [moby] 80: dulse <n>: dulses
 70 [moby]: - <n>: dulse's
 
-50 [name] 60 60 US [town]: Duluth <n/place>: Duluth's
+50 [name] 60: Duluth <n/place>: Duluth's
 
 80 [upper]: Duluthian <n/upper?>: Duluthians
 
@@ -111571,7 +111569,7 @@
 
 85 [ukacd]: durgan <n>: durgans
 
-50 60 US [town]: Durham <n/place>: Durham's
+50: Durham <n/place>: Durham's
 
 50: Durham <n/upper>: Durham's
 65: - <n/upper>: Durhams-
@@ -116557,7 +116555,7 @@
 
 80 [moby]: -Eloy <n/place>
 
-50 [name] 60 60 US [town]: El Paso <n/place>: El Paso's
+50 [name] 60: El Paso <n/place>: El Paso's
 
 60 US [town]: El Paso de Robles <n/place>: El Paso de Robles's
 
@@ -122333,7 +122331,7 @@
 
 50 [name] 70 [5desk] [moby]: Eridanus <n/name?>: Eridanus's
 
-50 60 US [town]: Erie <n/place>: Erie's
+50: Erie <n/place>: Erie's
 
 50: Erie <n/upper>: Erie's
 65: - <n/upper>: Eries-
@@ -124311,7 +124309,7 @@
 
 85 [ukacd]: euge <n>: euges
 
-50 60 US [town]: Eugene <n/place>: Eugene's
+50: Eugene <n/place>: Eugene's
 
 50: Eugenia <n/person>: Eugenia's
 
@@ -125058,7 +125056,7 @@
 
 70 [5desk] [moby]: Evanston </upper?>
 
-50 [name] 60 60 US [town]: Evansville <n/place>: Evansville's
+50 [name] 60: Evansville <n/place>: Evansville's
 
 80 [moby]: Evant <n/place>
 
@@ -129064,7 +129062,7 @@
 
 80 [moby]: Fairbank <n/place>
 
-50 [name] 60 60 US [town]: Fairbanks <n/place>: Fairbanks's
+50 [name] 60: Fairbanks <n/place>: Fairbanks's
 
 80 [moby]: Fairborn <n/place>
 
@@ -130118,7 +130116,7 @@
 
 70 [3of6]: far from
 
-50 [name] 60 60 US [town]: Fargo <n/place>: Fargo's
+50 [name] 60: Fargo <n/place>: Fargo's
 
 60: _: far gone
 60: _v: far-gone
@@ -136521,7 +136519,7 @@
 
 35: flint <n>: flints
 
-50 [name] 60 60 US [town]: Flint <n/place>: Flint's
+50 [name] 60: Flint <n/place>: Flint's
 
 80: -flint <v>: flinted, flinting, flints
 
@@ -136891,7 +136889,7 @@
 
 70 [moby] 85 [ukacd]: floreated
 
-50 60 US [town]: Florence <n/place>: Florence's
+50: Florence <n/place>: Florence's
 
 85 [stale] [ukacd]: florence <n>: florences
 
@@ -136940,7 +136938,7 @@
 35: florid <aj>
 65: - <aj>: florider-, floridest-
 
-50 [name] 60 60 US [town]: Florida <n/place>: Florida's
+50 [name] 60: Florida <n/place>: Florida's
 
 60: Florida Keys </upper?>
 
@@ -140178,11 +140176,11 @@
 
 60 US [town]: Fort Walton Beach <n/place>: Fort Walton Beach's
 
-60 60 US [town]: Fort Wayne <n/place>: Fort Wayne's
+60: Fort Wayne <n/place>: Fort Wayne's
 
 70 [moby] 85 [ukacd]: Fort William </upper?>
 
-50 60 US [town]: Fort Worth <n/place>: Fort Worth's
+50: Fort Worth <n/place>: Fort Worth's
 
 35: forty <n/number>: forties
 
@@ -141497,7 +141495,7 @@
 
 70 [5desk] 80 [moby] 85 [ukacd]: Frederica <n/place>
 
-50 60 US [town]: Frederick <n/place>: Frederick's
+50: Frederick <n/place>: Frederick's
 
 70 [5desk]: Fredericka </upper?>
 
@@ -142176,7 +142174,7 @@
 
 70 [moby] 85 [ukacd]: Fresnel lens <n/upper?>
 
-50 [name] 60 60 US [town]: Fresno <n/place>: Fresno's
+50 [name] 60: Fresno <n/place>: Fresno's
 
 80: fress <v>: fressed, fressing, fresses
 
@@ -150807,7 +150805,7 @@
 
 80: gladsomeness <n>: gladsomenesses
 
-50 50 AU [town]: Gladstone <n/place>: Gladstone's
+50: Gladstone <n/place>: Gladstone's
 
 50: Gladstone <n/upper>: Gladstone's
 65: - <n/upper>: Gladstones-
@@ -153745,7 +153743,7 @@
 
 70 [3of6]: goody bag <n>: goody bags
 
-50 [name] 60 60 US [town]: Goodyear <n/place>: Goodyear's
+50 [name] 60: Goodyear <n/place>: Goodyear's
 
 85 [ukacd]: goodyear <n>: goodyears
 
@@ -155188,7 +155186,7 @@
 
 40: grand prix
 
-60 60 US [town]: Grand Rapids <n/place>: Grand Rapids's
+60: Grand Rapids <n/place>: Grand Rapids's
 
 80: grandsir <n>: grandsirs
 
@@ -156286,7 +156284,7 @@
 
 60: Greek Orthodox Church <n/upper>: Greek Orthodox Church's
 
-50 [name] 60 60 US [town]: Greeley <n/place>: Greeley's
+50 [name] 60: Greeley <n/place>: Greeley's
 
 80 [moby]: Greeleyville <n/place>
 
@@ -156319,7 +156317,7 @@
 
 80 [moby]: Greenbank <n/place>
 
-50 [name] 60 60 US [town]: Green Bay <n/place>: Green Bay's
+50 [name] 60: Green Bay <n/place>: Green Bay's
 
 40: green bean <n>: green beans
 
@@ -156502,7 +156500,7 @@
 
 70 [moby] 80: greensand <n>: greensands
 
-50 [name] 60 60 US [town]: Greensboro <n/place>: Greensboro's
+50 [name] 60: Greensboro <n/place>: Greensboro's
 
 80 [moby]: Greensburg <n/place>
 
@@ -156887,7 +156885,7 @@
 
 85 [ukacd]: griffinism
 
-50 50 AU [town]: Griffith <n/place>: Griffith's
+50: Griffith <n/place>: Griffith's
 
 50: Griffith <n/upper>: Griffith's
 65: - <n/upper>: Griffiths-
@@ -161400,7 +161398,7 @@
 
 80 [moby]: Hammon <n/place>
 
-50 60 US [town]: Hammond <n/place>: Hammond's
+50: Hammond <n/place>: Hammond's
 
 70 [moby] 85 [ukacd]: Hammond organ <n/upper?>: Hammond organs-
 
@@ -161976,7 +161974,7 @@
 
 50: Hanoi <n/upper>: Hanoi's
 
-50 [name] 60 60 US [town]: Hanover <n/place>: Hanover's
+50 [name] 60: Hanover <n/place>: Hanover's
 
 50 [name] 60: Hanover <n/upper>: Hanover's
 65: - <n/upper>: Hanovers-
@@ -162978,7 +162976,7 @@
 
 50 [name] 60: Harris <n/upper>: Harris's
 
-50 60 US [town]: Harrisburg <n/place>: Harrisburg's
+50: Harrisburg <n/place>: Harrisburg's
 
 50: Harrison <n/person>: Harrison's
 
@@ -163052,7 +163050,7 @@
 
 80 [moby]: Hartfield <n/place>
 
-50 60 US [town]: Hartford <n/place>: Hartford's
+50: Hartford <n/place>: Hartford's
 
 80 [upper]: Hartfordite <n/upper?>: Hartfordites
 
@@ -166603,7 +166601,7 @@
 
 70 [moby] 80: hendecasyllable <n>: hendecasyllables
 
-50 60 US [town]: Henderson <n/place>: Henderson's
+50: Henderson <n/place>: Henderson's
 
 70 [5desk] [moby] 80: hendiadys <n>: hendiadyses
 
@@ -170983,7 +170981,7 @@
 
 80 [moby]: Holladay <n/place>
 
-50 60 US [town]: Holland <n/place>: Holland's
+50: Holland <n/place>: Holland's
 
 50: Holland <n/upper>: Holland's
 65: - <n/upper>: Hollands-
@@ -174088,7 +174086,7 @@
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Housman <n/name?>
 50 [name] 70 [5desk] [moby]: - <n/name?>: Housman's
 
-50 60 US [town]: Houston <n/place>: Houston's
+50: Houston <n/place>: Houston's
 
 70 [moby] 80: houstonia <n>: houstonias
 
@@ -174191,7 +174189,7 @@
 
 85 [ukacd]: Howel Dda </upper?>
 
-50 60 US [town]: Howell <n/place>: Howell's
+50: Howell <n/place>: Howell's
 
 50 [name] 70 [5desk]: Howells <n/name?>: Howells's
 
@@ -175330,7 +175328,7 @@
 
 85 [ukacd]: huntsmanship
 
-50 [name] 60 60 US [town]: Huntsville <n/place>: Huntsville's
+50 [name] 60: Huntsville <n/place>: Huntsville's
 
 70 [moby] 85 [ukacd]: hunt up
 
@@ -183619,7 +183617,7 @@
 
 60: Indianan <n/demonym>: Indianans, Indianan's
 
-50 60 US [town]: Indianapolis <n/place>: Indianapolis's
+50: Indianapolis <n/place>: Indianapolis's
 
 70 [moby] 85 [ukacd]: Indian bread </upper?>
 
@@ -193380,7 +193378,7 @@
 
 50: jacks-of-all-trades
 
-50 60 US [town]: Jackson <n/place>: Jackson's
+50: Jackson <n/place>: Jackson's
 
 80 [moby]: Jacksonboro <n/place>
 
@@ -193398,7 +193396,7 @@
 
 80 [moby]: Jacksontown <n/place>
 
-50 [name] 60 60 US [town]: Jacksonville <n/place>: Jacksonville's
+50 [name] 60: Jacksonville <n/place>: Jacksonville's
 
 70 [moby] 80: jackstay <n>: jackstays
 
@@ -194618,7 +194616,7 @@
 
 50: Jefferson <n/upper>: Jefferson's
 
-50 60 US [town]: Jefferson City <n/place>: Jefferson City's
+50: Jefferson City <n/place>: Jefferson City's
 
 50 [name] 60: Jeffersonian <n/upper>: Jeffersonian's
 65: - <n/upper>: Jeffersonians-
@@ -196187,7 +196185,7 @@
 
 80: -jook <v>: jooked, jooking, jooks
 
-50 [name] 60 60 US [town]: Joplin <n/place>: Joplin's
+50 [name] 60: Joplin <n/place>: Joplin's
 
 70 [moby] 85 [ukacd]: Joppa <n/place>
 
@@ -198130,7 +198128,7 @@
 
 50 [name] 60: Kansas <n/place>: Kansas's
 
-50 60 US [town]: Kansas City <n/place>: Kansas City's
+50: Kansas City <n/place>: Kansas City's
 
 80 [moby]: Kansasville <n/place>
 
@@ -200857,7 +200855,7 @@
 
 70 [moby] 85 [ukacd]: king's shilling
 
-50 60 US [town]: Kingston <n/place>: Kingston's
+50: Kingston <n/place>: Kingston's
 
 60: Kingston upon Hull </upper?>
 
@@ -202067,7 +202065,7 @@
 
 80 [moby]: Knoxdale <n/place>
 
-50 [name] 60 60 US [town]: Knoxville <n/place>: Knoxville's
+50 [name] 60: Knoxville <n/place>: Knoxville's
 
 80 [moby]: Knt. <abbr>
 
@@ -203648,7 +203646,7 @@
 60: lacework <n>
 80: - <n>: laceworks~
 
-50 60 US [town]: Lacey <n/place>: Lacey's
+50: Lacey <n/place>: Lacey's
 
 80: lacey <a>: lacier†, laciest†
 
@@ -204106,7 +204104,7 @@
 
 80 [moby]: Lafargeville <n/place>
 
-50 60 US [town]: Lafayette <n/place>: Lafayette's
+50: Lafayette <n/place>: Lafayette's
 
 80 [moby]: Laferia <n/place>
 
@@ -204930,7 +204928,7 @@
 50 [name] 70 [5desk] [moby]: - <n/upper>: Lancashire's
 70 [5desk] [moby] 80 [upper]: - <n/upper>: Lancashires-
 
-50 60 US [town]: Lancaster <n/place>: Lancaster's
+50: Lancaster <n/place>: Lancaster's
 
 50: Lancaster <n/upper>: Lancaster's
 70 [5desk] [moby] 80 [upper]: - <n/upper>: Lancasters-
@@ -205495,7 +205493,7 @@
 
 80 [moby]: Lansford <n/place>
 
-50 60 US [town]: Lansing <n/place>: Lansing's
+50: Lansing <n/place>: Lansing's
 
 70 [moby] 85 [ukacd]: lansquenet <n>: lansquenets
 
@@ -205851,7 +205849,7 @@
 
 85 [ukacd]: lare
 
-50 [name] 60 60 US [town]: Laredo <n/place>: Laredo's
+50 [name] 60: Laredo <n/place>: Laredo's
 
 80: laree <n>: larees
 
@@ -206253,7 +206251,7 @@
 
 60: last word <n>
 
-50 60 US [town]: Las Vegas <n/place>: Las Vegas's
+50: Las Vegas <n/place>: Las Vegas's
 
 50: _: lat. <abbr>
 50: _~: lat <abbr>
@@ -207111,7 +207109,7 @@
 
 70 [moby]: law of thermodynamics <n>
 
-50 60 US [town]: Lawrence <n/place>: Lawrence's
+50: Lawrence <n/place>: Lawrence's
 
 80 [moby]: Lawrenceburg <n/place>
 
@@ -207886,7 +207884,7 @@
 
 50: Lebanese <aj/demonym>
 
-50 60 US [town]: Lebanon <n/place>: Lebanon's
+50: Lebanon <n/place>: Lebanon's
 
 85 [ukacd]: lebbek <n>: lebbeks
 
@@ -210057,7 +210055,7 @@
 
 70 [moby] 85 [ukacd]: lexigraphy
 
-50 [name] 60 60 US [town]: Lexington <n/place>: Lexington's
+50 [name] 60: Lexington <n/place>: Lexington's
 
 60 US [town]: Lexington-Fayette <n/place>: Lexington-Fayette's
 
@@ -211345,7 +211343,7 @@
 
 60: lily-white <aj>
 
-50 60 US [town]: Lima <n/place>: Lima's
+50: Lima <n/place>: Lima's
 
 85 [stale] [ukacd]: lima <n>: limas
 
@@ -211687,7 +211685,7 @@
 35: _: linchpin <n>: linchpins, linchpin's
 35: _V: lynchpin <n>: lynchpins, lynchpin's
 
-50 60 US [town]: Lincoln <n/place>: Lincoln's
+50: Lincoln <n/place>: Lincoln's
 
 50: Lincoln <n/upper>: Lincoln's
 65: - <n/upper>: Lincolns-
@@ -213094,7 +213092,7 @@
 
 80 [moby]: Littleport <n/place>
 
-50 60 US [town]: Little Rock <n/place>: Little Rock's
+50: Little Rock <n/place>: Little Rock's
 
 70 [moby] 85 [ukacd]: Little Russian </upper?>
 
@@ -214086,7 +214084,7 @@
 
 80 [moby]: log <suf>
 
-50 60 US [town]: Logan <n/place>: Logan's
+50: Logan <n/place>: Logan's
 
 70 [moby] 85 [stale] [ukacd]: logan <n>: logans
 
@@ -214607,7 +214605,7 @@
 
 70 [3of6] 85 [ukacd]: long-awaited
 
-50 [name] 60 60 US [town]: Long Beach <n/place>: Long Beach's
+50 [name] 60: Long Beach <n/place>: Long Beach's
 
 50: longboat <n>: longboats
 
@@ -215400,7 +215398,7 @@
 50 [name] 85 [ukacd]: Los Alamos <n/name?>
 50 [name]: - <n/name?>: Los Alamos's
 
-50 60 US [town]: Los Angeles <n/place>: Los Angeles's
+50: Los Angeles <n/place>: Los Angeles's
 
 35: lose <v>: lost, losing, loses
 
@@ -215631,7 +215629,7 @@
 
 70 [moby]: Louis V <n/upper?>: Louis V's
 
-50 [name] 60 60 US [town]: Louisville <n/place>: Louisville's
+50 [name] 60: Louisville <n/place>: Louisville's
 
 70 [5desk] 80 [upper]: Louisvillian <n/upper?>: Louisvillians
 
@@ -216370,7 +216368,7 @@
 
 70 [moby] 85 [ukacd]: lubber's hole <n>: lubber's holes
 
-50 [name] 60 60 US [town]: Lubbock <n/place>: Lubbock's
+50 [name] 60: Lubbock <n/place>: Lubbock's
 
 50: lube <n_v>: lubed, lubing, lubes
 
@@ -218550,7 +218548,7 @@
 
 80 [moby]: Macomb <n/place>
 
-50 [name] 60 60 US [town]: Macon <n/place>: Macon's
+50 [name] 60: Macon <n/place>: Macon's
 
 50 [name] 60: Macon <n/upper>: Macon's
 65: - <n/upper>: Macons-
@@ -218890,7 +218888,7 @@
 
 80 [moby]: Madill <n/place>
 
-50 60 US [town]: Madison <n/place>: Madison's
+50: Madison <n/place>: Madison's
 
 70 [moby] 85 [ukacd]: Madison Avenue </upper?>
 
@@ -221205,7 +221203,7 @@
 
 80 [upper]: Manchegan <n/upper?>: Manchegans
 
-50 [name] 60 60 US [town]: Manchester <n/place>: Manchester's
+50 [name] 60: Manchester <n/place>: Manchester's
 
 70 [moby] 85 [ukacd]: Manchester terrier <n/upper?>: Manchester terriers-
 70 [moby]: - <n/upper?>: Manchester terrier's
@@ -221539,7 +221537,7 @@
 
 80 [moby]: Manhasset <n/place>
 
-50 [name] 60 60 US [town]: Manhattan <n/place>: Manhattan's
+50 [name] 60: Manhattan <n/place>: Manhattan's
 
 50 [name] 60: Manhattan <n/upper>: Manhattan's
 65: - <n/upper>: Manhattans-
@@ -225795,7 +225793,7 @@
 
 50: McKinley <n/upper>: McKinley's
 
-50 60 US [town]: McKinney <n/place>: McKinney's
+50: McKinney <n/place>: McKinney's
 
 80 [moby]: McKinnon <n/place>
 
@@ -227280,7 +227278,7 @@
 
 80 [moby]: Melbeta <n/place>
 
-50 50 AU [town] 60 US [town]: Melbourne <n/place>: Melbourne's
+50: Melbourne <n/place>: Melbourne's
 
 80 [upper]: Melbournian <n/upper?>: Melbournians
 
@@ -227695,7 +227693,7 @@
 70 [moby] 80 [upper] 85 [ukacd]: Memphian <n/upper?>
 70 [moby] 80 [upper]: - <n/upper?>: Memphians
 
-50 60 US [town]: Memphis <n/place>: Memphis's
+50: Memphis <n/place>: Memphis's
 
 80 [upper] 85 [ukacd]: Memphite <n/upper?>
 80 [upper]: - <n/upper?>: Memphites
@@ -228782,7 +228780,7 @@
 
 50: mesa <n>: mesas, mesa's
 
-50 [name] 60 60 US [town]: Mesa <n/place>: Mesa's
+50 [name] 60: Mesa <n/place>: Mesa's
 
 50 [name]: Mesabi <n/name?>: Mesabi's
 
@@ -230348,7 +230346,7 @@
 
 80 [moby]: M.I.A. <abbr>
 
-50 60 US [town]: Miami <n/place>: Miami's
+50: Miami <n/place>: Miami's
 
 50: Miami <n/upper>: Miami's
 65: - <n/upper>: Miamis-
@@ -231575,7 +231573,7 @@
 
 50: midland <aj>
 
-50 [name] 60 60 US [town]: Midland <n/place>: Midland's
+50 [name] 60: Midland <n/place>: Midland's
 
 80 [upper]: Midlander <n/upper?>: Midlanders
 
@@ -232611,7 +232609,7 @@
 
 85 [ukacd]: Milvus <n/upper?>
 
-50 60 US [town]: Milwaukee <n/place>: Milwaukee's
+50: Milwaukee <n/place>: Milwaukee's
 
 80 [upper]: Milwaukeean <n/upper?>: Milwaukeeans
 
@@ -233219,7 +233217,7 @@
 
 80 [moby]: -Minn. <abbr>
 
-50 60 US [town]: Minneapolis <n/place>: Minneapolis's
+50: Minneapolis <n/place>: Minneapolis's
 
 80 [upper]: Minneapolitan <n/upper?>: Minneapolitans
 
@@ -235516,7 +235514,7 @@
 
 35: mobile <aj>
 
-50 [name] 60 60 US [town]: Mobile <n/place>: Mobile's
+50 [name] 60: Mobile <n/place>: Mobile's
 
 35: mobile home <n>: mobile homes
 
@@ -235807,7 +235805,7 @@
 
 35: modestly <av>
 
-50 [name] 60 60 US [town]: Modesto <n/place>: Modesto's
+50 [name] 60: Modesto <n/place>: Modesto's
 
 80 [moby]: Modesttown <n/place>
 
@@ -237783,7 +237781,7 @@
 
 80 [moby]: Monponsett <n/place>
 
-50 60 US [town]: Monroe <n/place>: Monroe's
+50: Monroe <n/place>: Monroe's
 
 70 [moby]: Monroe Doctrine <n/upper?>
 
@@ -237950,7 +237948,7 @@
 
 70 [moby] 85 [ukacd]: montgolfier <n>: montgolfiers
 
-50 60 US [town]: Montgomery <n/place>: Montgomery's
+50: Montgomery <n/place>: Montgomery's
 
 85 [ukacd]: Montgomeryshire </upper?>
 
@@ -239853,7 +239851,7 @@
 
 85 [ukacd]: Mountjoy </upper?>
 
-60 60 US [town]: Mount Vernon <n/place>: Mount Vernon's
+60: Mount Vernon <n/place>: Mount Vernon's
 
 70 [5desk] 80 [upper]: Mounty </upper?>
 
@@ -244777,7 +244775,7 @@
 
 50 [name] 60 US [town] 70 [5desk] [moby]: Nashua <n/place>: Nashua's
 
-50 60 US [town]: Nashville <n/place>: Nashville's
+50: Nashville <n/place>: Nashville's
 
 50: Nashville <n/upper>: Nashville's
 65: - <n/upper>: Nashvilles-
@@ -247862,7 +247860,7 @@
 
 40: New Age </upper?>
 
-50 60 US [town]: Newark <n/place>: Newark's
+50: Newark <n/place>: Newark's
 
 60 US [town] 70 [moby]: New Bedford <n/place>: New Bedford's
 
@@ -247970,7 +247968,7 @@
 
 60: New Hampshirite <n/demonym>: New Hampshirite's
 
-50 [name] 60 60 US [town]: New Haven <n/place>: New Haven's
+50 [name] 60: New Haven <n/place>: New Haven's
 
 85 [ukacd]: Newhaven </upper?>
 
@@ -248041,7 +248039,7 @@
 
 70 [moby]: New Netherland <n/upper?>
 
-50 60 US [town]: New Orleans <n/place>: New Orleans's
+50: New Orleans <n/place>: New Orleans's
 
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Newport <n/name?>
 50 [name] 70 [5desk] [moby]: - <n/name?>: Newport's
@@ -248239,7 +248237,7 @@
 
 70 [3of6]: New Year's resolution <n/upper?>: New Year's resolutions
 
-50 60 US [town]: New York <n/place>: New York's
+50: New York <n/place>: New York's
 
 70 [moby]: New York Bay <n/upper?>
 
@@ -253755,7 +253753,7 @@
 
 80 [moby]: Normalville <n/place>
 
-50 60 US [town]: Norman <n/place>: Norman's
+50: Norman <n/place>: Norman's
 
 50: Norman <n/upper>: Norman's
 65: - <n/upper>: Normans-
@@ -254124,7 +254122,7 @@
 
 85 [ukacd]: Norweyan </upper?>
 
-50 [name] 60 60 US [town]: Norwich <n/place>: Norwich's
+50 [name] 60: Norwich <n/place>: Norwich's
 
 80 [moby]: Norwood <n/place>
 
@@ -256078,7 +256076,7 @@
 
 80 [moby]: Oakhurst <n/place>
 
-50 [name] 60 60 US [town]: Oakland <n/place>: Oakland's
+50 [name] 60: Oakland <n/place>: Oakland's
 
 80 [moby]: Oaklawn <n/place>
 
@@ -257706,7 +257704,7 @@
 
 50 [name] 60: Oder <n/upper>: Oder's
 
-50 60 US [town]: Odessa <n/place>: Odessa's
+50: Odessa <n/place>: Odessa's
 
 50 [name] 60: Odets <n/upper>: Odets's
 
@@ -258787,7 +258785,7 @@
 
 50: Oklahoma <n/place>: Oklahoma's
 
-60 60 US [town]: Oklahoma City <n/place>: Oklahoma City's
+60: Oklahoma City <n/place>: Oklahoma City's
 
 50 [name] 60: Oklahoman <n/demonym>: Oklahoman's
 60: - <n/demonym>: Oklahomans
@@ -259392,7 +259390,7 @@
 
 85 [ukacd]: olykoek
 
-50 60 US [town]: Olympia <n/place>: Olympia's
+50: Olympia <n/place>: Olympia's
 
 50: Olympia <n/upper>: Olympia's
 65: - <n/upper>: Olympias-
@@ -259435,7 +259433,7 @@
 
 70 [5desk] 85 [ukacd]: Omagh </upper?>
 
-50 60 US [town]: Omaha <n/place>: Omaha's
+50: Omaha <n/place>: Omaha's
 
 50: Omaha <n/upper>: Omaha's
 65: - <n/upper>: Omahas-
@@ -262379,7 +262377,7 @@
 
 80 [moby]: Orland <n/place>
 
-50 60 US [town]: Orlando <n/place>: Orlando's
+50: Orlando <n/place>: Orlando's
 
 70 [moby] 80: orle <n>: orles
 
@@ -267576,7 +267574,7 @@
 
 50: oxford <n>: oxfords
 
-50 [name] 60 60 US [town]: Oxford <n/place>: Oxford's
+50 [name] 60: Oxford <n/place>: Oxford's
 
 50 [name] 60: Oxford <n/upper>: Oxford's
 65: - <n/upper>: Oxfords-
@@ -267657,7 +267655,7 @@
 
 80 [moby]: Oxly <n/place>
 
-50 [name] 60 60 US [town]: Oxnard <n/place>: Oxnard's
+50 [name] 60: Oxnard <n/place>: Oxnard's
 
 80: oxo
 
@@ -269755,7 +269753,7 @@
 
 70 [moby]: Panama Canal Zone <n/upper?>
 
-60 60 US [town]: Panama City <n/place>: Panama City's
+60: Panama City <n/place>: Panama City's
 
 60: panama hat <n>: panama hats
 
@@ -276823,7 +276821,7 @@
 
 60: People's Republic of China <n/upper>
 
-50 60 US [town]: Peoria <n/place>: Peoria's
+50: Peoria <n/place>: Peoria's
 
 80 [moby]: Peosta <n/place>
 
@@ -280400,7 +280398,7 @@
 
 85 [stale] [ukacd]: philabeg <n>: philabegs
 
-50 60 US [town]: Philadelphia <n/place>: Philadelphia's
+50: Philadelphia <n/place>: Philadelphia's
 
 60: Philadelphia lawyer <n/upper?>
 65: - <n/upper?>: Philadelphia lawyers-
@@ -280860,7 +280858,7 @@
 35 [ukfreq] 40: phoenix <n>
 40: - <n>: phoenixes, phoenix's
 
-50 60 US [town]: Phoenix <n/place>: Phoenix's
+50: Phoenix <n/place>: Phoenix's
 
 50: Phoenix <n/upper>: Phoenix's
 65: - <n/upper>: Phoenixes-
@@ -284996,7 +284994,7 @@
 
 80 [moby]: Pittsburg <n/place>
 
-50 60 US [town]: Pittsburgh <n/place>: Pittsburgh's
+50: Pittsburgh <n/place>: Pittsburgh's
 
 80 [upper]: Pittsburgher <n/upper?>: Pittsburghers
 
@@ -289792,7 +289790,7 @@
 80 [moby] [upper]: Ponca <n/place>: Ponca's
 80 [upper]: - <n/place>: Poncas-
 
-50 [name] 60 60 US [town]: Ponce <n/place>: Ponce's
+50 [name] 60: Ponce <n/place>: Ponce's
 
 60 [brif] 70 [3of6] [moby] 80: ponce <n>: ponces
 60 [brif] 70 [3of6] [moby]: - <n>: ponce's
@@ -290794,7 +290792,7 @@
 
 80: portionless
 
-50 50 AU [town] 60 US [town]: Portland <n/place>: Portland's
+50: Portland <n/place>: Portland's
 
 85 [ukacd]: portland
 
@@ -290899,7 +290897,7 @@
 
 80: portside
 
-50 [name] 60 60 US [town]: Portsmouth <n/place>: Portsmouth's
+50 [name] 60: Portsmouth <n/place>: Portsmouth's
 
 70 [3of6] 85 [ukacd]: ports of call
 
@@ -299838,7 +299836,7 @@
 35: providence <n>
 80: - <n>: providences~
 
-50 60 US [town]: Providence <n/place>: Providence's
+50: Providence <n/place>: Providence's
 
 50: Providence <n/upper>: Providence's
 65: - <n/upper>: Providences-
@@ -301414,7 +301412,7 @@
 
 35: pueblo <n>: (pueblos | ~: pueblo), pueblo's
 
-50 [name] 60 60 US [town]: Pueblo <n/place>: Pueblo's
+50 [name] 60: Pueblo <n/place>: Pueblo's
 
 50 [name] 60: Pueblo <n/upper>: Pueblo's
 65: - <n/upper>: Pueblos-
@@ -306195,7 +306193,7 @@
 
 50: racily <av>
 
-50 [name] 60 60 US [town]: Racine <n/place>: Racine's
+50 [name] 60: Racine <n/place>: Racine's
 
 50: raciness <n>
 80: - <n>: racinesses~
@@ -307282,7 +307280,7 @@
 
 70 [5desk]: Ralegh <n/upper?>: Ralegh's
 
-50 60 US [town]: Raleigh <n/place>: Raleigh's
+50: Raleigh <n/place>: Raleigh's
 
 70 [5desk]: rales
 
@@ -309126,7 +309124,7 @@
 
 35: reading <n>: readings
 
-60 60 US [town]: Reading <n/place>: Reading's
+60: Reading <n/place>: Reading's
 
 70 [3of6]: reading list <n>: reading lists
 
@@ -314646,7 +314644,7 @@
 60: rennin <n>
 80: - <n>: rennins~
 
-50 60 US [town]: Reno <n/place>: Reno's
+50: Reno <n/place>: Reno's
 
 80: renogram <n>: renograms
 
@@ -319326,7 +319324,7 @@
 
 35: richly <av>
 
-50 60 US [town]: Richmond <n/place>: Richmond's
+50: Richmond <n/place>: Richmond's
 
 80 [moby]: Richmonddale <n/place>
 
@@ -320721,7 +320719,7 @@
 
 40: riverside <a>
 
-60 60 US [town]: Riverside <n/place>: Riverside's
+60: Riverside <n/place>: Riverside's
 
 80 [moby]: Riverton <n/place>
 
@@ -320926,7 +320924,7 @@
 
 80 [moby]: Roann <n/place>
 
-60 60 US [town]: Roanoke <n/place>: Roanoke's
+60: Roanoke <n/place>: Roanoke's
 
 35: roar <n_v>: roared, roaring, roars
 
@@ -321167,7 +321165,7 @@
 
 80 [moby]: Rochert <n/place>
 
-50 [name] 60 60 US [town]: Rochester <n/place>: Rochester's
+50 [name] 60: Rochester <n/place>: Rochester's
 
 70 [moby] 80: rochet <n>: rochets
 
@@ -321270,7 +321268,7 @@
 
 80: rockfishes
 
-50 [name] 60 60 US [town]: Rockford <n/place>: Rockford's
+50 [name] 60: Rockford <n/place>: Rockford's
 
 50: rock garden <n>: rock gardens
 
@@ -321590,7 +321588,7 @@
 
 85 [ukacd]: Roger de Coverley </upper?>
 
-50 60 US [town]: Rogers <n/place>: Rogers's
+50: Rogers <n/place>: Rogers's
 
 80 [moby]: Rogerson <n/place>
 
@@ -322073,7 +322071,7 @@
 
 80 [moby]: Rom. Cath. <abbr>
 
-50 60 US [town]: Rome <n/place>: Rome's
+50: Rome <n/place>: Rome's
 
 50: Rome <n/upper>: Rome's
 65: - <n/upper>: Romes-
@@ -325772,7 +325770,7 @@
 
 85 [ukacd]: sacramentary <n>: sacramentaries
 
-50 60 US [town]: Sacramento <n/place>: Sacramento's
+50: Sacramento <n/place>: Sacramento's
 
 70 [5desk] [moby] 80: sacrarium <n>: (sacraria | -: sacrariums!) # fixme: sacrariums: check if variant
 
@@ -326665,7 +326663,7 @@
 
 85 [stale] [ukacd]: saleably
 
-50 60 US [town]: Salem <n/place>: Salem's
+50: Salem <n/place>: Salem's
 
 80 [moby]: Salemburg <n/place>
 
@@ -326823,7 +326821,7 @@
 
 70 [moby] 80: salina <n>: salinas
 
-50 60 US [town]: Salinas <n/place>: Salinas's
+50: Salinas <n/place>: Salinas's
 
 50: saline <n>: salines
 
@@ -327185,7 +327183,7 @@
 
 50 [name]: Salt Lake <n/name?>: Salt Lake's
 
-50 60 US [town]: Salt Lake City <n/place>: Salt Lake City's
+50: Salt Lake City <n/place>: Salt Lake City's
 
 80: saltless
 
@@ -327649,7 +327647,7 @@
 
 60 US [town]: San Angelo <n/place>: San Angelo's
 
-50 [name] 60 60 US [town]: San Antonio <n/place>: San Antonio's
+50 [name] 60: San Antonio <n/place>: San Antonio's
 
 70 [5desk] [moby] 80: sanative <aj>
 
@@ -327865,7 +327863,7 @@
 
 70 [moby] 85 [ukacd]: Sandhurst </upper?>
 
-50 [name] 60 60 US [town]: San Diego <n/place>: San Diego's
+50 [name] 60: San Diego <n/place>: San Diego's
 
 50: sandiness <n>
 80: - <n>: sandinesses~
@@ -328001,7 +327999,7 @@
 
 60: San Franciscan </upper?>
 
-50 60 US [town]: San Francisco <n/place>: San Francisco's
+50: San Francisco <n/place>: San Francisco's
 
 60: San Francisco Bay <n/upper>
 
@@ -328163,12 +328161,12 @@
 
 50 [name]: San Joaquin <n/name?>: San Joaquin's
 
-50 60 US [town]: San Jose <n/place>: San Jose's
+50: San Jose <n/place>: San Jose's
 
 70 [moby] 85 [ukacd]: San Jose scale <n/upper?>
 70 [moby]: - <n/upper?>: San Jose scale's
 
-50 60 US [town]: San Juan <n/place>: San Juan's
+50: San Juan <n/place>: San Juan's
 
 70 [moby]: San Juan Mountains <n/upper?>
 
@@ -328263,7 +328261,7 @@
 
 50 [name] 70 [moby]: Santa Anna <n/name?>: Santa Anna's
 
-60 60 US [town]: Santa Barbara <n/place>: Santa Barbara's
+60: Santa Barbara <n/place>: Santa Barbara's
 
 70 [moby]: Santa Catalina <n/upper?>
 
@@ -328277,7 +328275,7 @@
 50 [name] 60 US [town] 70 [moby] 85 [ukacd]: Santa Cruz <n/place>
 50 [name] 60 US [town] 70 [moby]: - <n/place>: Santa Cruz's
 
-50 60 US [town]: Santa Fe <n/place>: Santa Fe's
+50: Santa Fe <n/place>: Santa Fe's
 
 60: Santa Fe Trail <n/upper>
 
@@ -328310,7 +328308,7 @@
 
 85 [ukacd]: Santander </upper?>
 
-60 60 US [town]: Santa Rosa <n/place>: Santa Rosa's
+60: Santa Rosa <n/place>: Santa Rosa's
 
 50 [name] 70 [5desk] [moby]: Santayana <n/name?>: Santayana's
 
@@ -329633,7 +329631,7 @@
 50: _: savanna <n>: savannas, savanna's
 50: _V: savannah <n>: (savannahes | -: savannahs), savannah's # fixme: savannahs: check if variant
 
-50 60 US [town]: _: Savannah <n/place>: Savannah's
+50: _: Savannah <n/place>: Savannah's
 
 80 [moby]: Savanna <n/place>
 
@@ -330962,7 +330960,7 @@
 
 85 [ukacd]: -schemozzle <v>: schemozzled, schemozzling, schemozzles
 
-50 [name] 60 60 US [town]: Schenectady <n/place>: Schenectady's
+50 [name] 60: Schenectady <n/place>: Schenectady's
 
 80 [moby]: Schenevus <n/place>
 
@@ -334139,7 +334137,7 @@
 
 80: seatrouts
 
-50 60 US [town]: Seattle <n/place>: Seattle's
+50: Seattle <n/place>: Seattle's
 
 80 [upper]: Seattleite <n/upper?>: Seattleites
 
@@ -334201,7 +334199,7 @@
 
 85 [stale]: sebasic
 
-50 60 US [town]: Sebastian <n/place>: Sebastian's
+50: Sebastian <n/place>: Sebastian's
 
 80 [moby] 85 [ukacd]: Sebastopol <n/place>
 
@@ -340525,7 +340523,7 @@
 
 80 [upper]: Sherlockian </upper?>
 
-50 60 US [town]: Sherman <n/place>: Sherman's
+50: Sherman <n/place>: Sherman's
 
 80 [upper]: Shermanesque </upper?>
 
@@ -342124,7 +342122,7 @@
 
 80 [moby]: Shreve <n/place>
 
-50 [name] 60 60 US [town]: Shreveport <n/place>: Shreveport's
+50 [name] 60: Shreveport <n/place>: Shreveport's
 
 35: shrew <n>: shrews, shrew's
 
@@ -343970,7 +343968,7 @@
 
 70 [moby] 80: simitar <n>: simitars
 
-60 60 US [town]: Simi Valley <n/place>: Simi Valley's
+60: Simi Valley <n/place>: Simi Valley's
 
 85 [ukacd]: simkin <n>: simkins
 
@@ -344454,7 +344452,7 @@
 
 50: singleton <n>: singletons, singleton's
 
-50 50 AU [town]: Singleton <n/place>: Singleton's
+50: Singleton <n/place>: Singleton's
 
 60: singletree <n>: singletrees
 
@@ -344728,7 +344726,7 @@
 
 60 US [town]: Sioux City <n/place>: Sioux City's
 
-60 60 US [town]: Sioux Falls <n/place>: Sioux Falls's
+60: Sioux Falls <n/place>: Sioux Falls's
 
 35: sip <n_v>: sipped, sipping, sips
 
@@ -352229,7 +352227,7 @@
 
 70 [moby] 85 [ukacd]: South Australia <n/place>
 
-60 60 US [town]: South Bend <n/place>: South Bend's
+60: South Bend <n/place>: South Bend's
 
 40: _: southbound <aj>
 40: _-: south-bound <aj>
@@ -355504,7 +355502,7 @@
 
 60: spoils system <n>
 
-50 [name] 60 60 US [town]: Spokane <n/place>: Spokane's
+50 [name] 60: Spokane <n/place>: Spokane's
 
 35: spoke <n>: spokes
 
@@ -356227,7 +356225,7 @@
 
 40: spring fever
 
-50 60 US [town]: Springfield <n/place>: Springfield's
+50: Springfield <n/place>: Springfield's
 
 70 [moby] 85 [ukacd]: Springfield rifle <n/upper?>: Springfield rifles
 
@@ -357747,7 +357745,7 @@
 
 80: stamened
 
-50 [name] 60 60 US [town]: Stamford <n/place>: Stamford's
+50 [name] 60: Stamford <n/place>: Stamford's
 
 35: stamina <n>
 80: - <n>: staminas~
@@ -360771,7 +360769,7 @@
 
 60: St. Lawrence Seaway <n/upper>
 
-50 [name] 60 60 US [town]: St. Louis <n/place>: St. Louis's
+50 [name] 60: St. Louis <n/place>: St. Louis's
 
 50 [name] 60: St. Lucia <n/upper>: St. Lucia's
 
@@ -360960,7 +360958,7 @@
 60: stocktaking <n>
 80: - <n>: stocktakings~
 
-50 [name] 60 60 US [town]: Stockton <n/place>: Stockton's
+50 [name] 60: Stockton <n/place>: Stockton's
 
 70 [moby] 85 [ukacd]: Stockton-on-Tees </upper?>
 
@@ -361789,9 +361787,9 @@
 
 60: St. Patrick's Day </upper?>
 
-50 [name] 60 60 US [town]: St. Paul <n/place>: St. Paul's
+50 [name] 60: St. Paul <n/place>: St. Paul's
 
-50 [name] 60 60 US [town]: St. Petersburg <n/place>: St. Petersburg's
+50 [name] 60: St. Petersburg <n/place>: St. Petersburg's
 
 80 [moby]: str. <abbr>
 
@@ -371036,7 +371034,7 @@
 
 70 [moby] 80: sycosis <n>: sycoses
 
-50 50 AU [town]: Sydney <n/place>: Sydney's
+50: Sydney <n/place>: Sydney's
 
 80 [upper]: Sydneyer <n/upper?>: Sydneyers
 
@@ -372140,7 +372138,7 @@
 
 80 [upper]: Syracusan <n/upper?>: Syracusans
 
-50 [name] 60 60 US [town]: Syracuse <n/place>: Syracuse's
+50 [name] 60: Syracuse <n/place>: Syracuse's
 
 80: syrah <n>: syrahs
 
@@ -373559,7 +373557,7 @@
 
 70 [moby] 80: tallage <m>: tallaged, tallaging, tallages
 
-50 60 US [town]: Tallahassee <n/place>: Tallahassee's
+50: Tallahassee <n/place>: Tallahassee's
 
 80: tallaisim
 
@@ -373906,7 +373904,7 @@
 
 85 [ukacd]: !tamp <n>
 
-50 60 US [town]: Tampa <n/place>: Tampa's
+50: Tampa <n/place>: Tampa's
 
 80: tampala <n>: tampalas
 
@@ -381508,7 +381506,7 @@
 
 70 [moby] 85 [ukacd]: Thousand Island dressing <n/upper?>
 
-60 60 US [town]: Thousand Oaks <n/place>: Thousand Oaks's
+60: Thousand Oaks <n/place>: Thousand Oaks's
 
 35: thousandth <n/ordinal>: thousandths
 
@@ -384817,7 +384815,7 @@
 
 80 [upper]: Toledan <n/upper?>: Toledans
 
-50 [name] 60 60 US [town]: Toledo <n/place>: Toledo's
+50 [name] 60: Toledo <n/place>: Toledo's
 
 50 [name] 60: Toledo <n/upper>: Toledo's
 65: - <n/upper>: Toledos-
@@ -385628,7 +385626,7 @@
 
 85 [ukacd]: topek <n>: topeks
 
-50 60 US [town]: Topeka <n/place>: Topeka's
+50: Topeka <n/place>: Topeka's
 
 70 [3of6]: top-end
 
@@ -387373,7 +387371,7 @@
 
 85 [ukacd]: tractus <n>: tractuses
 
-50 60 US [town]: Tracy <n/place>: Tracy's
+50: Tracy <n/place>: Tracy's
 
 80 [moby]: Tracyton <n/place>
 
@@ -389496,7 +389494,7 @@
 70 [moby] 85 [ukacd]: Trento <n/upper?>
 70 [moby]: - <n/upper?>: Trento's
 
-50 60 US [town]: Trenton <n/place>: Trenton's
+50: Trenton <n/place>: Trenton's
 
 70 [5desk] 80 [upper]: Trentonian <n/upper?>: Trentonians
 
@@ -392730,7 +392728,7 @@
 
 80: tucotuco <n>: tucotucos
 
-50 60 US [town]: Tucson <n/place>: Tucson's
+50: Tucson <n/place>: Tucson's
 
 80 [upper]: Tucsonan <n/upper?>: Tucsonans
 
@@ -392911,7 +392909,7 @@
 
 80 [moby]: Tully <n/place>: Tully's
 
-50 [name] 60 60 US [town]: Tulsa <n/place>: Tulsa's
+50 [name] 60: Tulsa <n/place>: Tulsa's
 
 70 [5desk] 80 [upper]: Tulsan <n/upper?>: Tulsans
 
@@ -394646,7 +394644,7 @@
 40: Tylenol <n/trademark>: Tylenol's
 65: - <n/trademark>: Tylenols-
 
-50 60 US [town]: Tyler <n/place>: Tyler's
+50: Tyler <n/place>: Tyler's
 
 85 [ukacd]: tyler <n>: tylers
 
@@ -409378,7 +409376,7 @@
 
 80: valleculate
 
-60 60 US [town]: Vallejo <n/place>: Vallejo's
+60: Vallejo <n/place>: Vallejo's
 
 50 [name] 60: Valletta <n/upper>: Valletta's
 
@@ -412863,7 +412861,7 @@
 
 50: Victoria <n/person>: Victoria's
 
-50 60 US [town]: Victoria <n/place>: Victoria's
+50: Victoria <n/place>: Victoria's
 
 70 [5desk] [moby] 80: victoria <n>: victorias
 
@@ -413779,7 +413777,7 @@
 
 80: virginia <n>: virginias
 
-60 60 US [town]: Virginia Beach <n/place>: Virginia Beach's
+60: Virginia Beach <n/place>: Virginia Beach's
 
 50: Virginia creeper <n/upper>: Virginia creepers
 
@@ -416020,7 +416018,7 @@
 40: _: wacky <aj>: wackier, wackiest
 40: _V: whacky <aj>: whackier, whackiest
 
-50 [name] 60 60 US [town]: Waco <n/place>: Waco's
+50 [name] 60: Waco <n/place>: Waco's
 
 80 [moby]: Waconia <n/place>
 
@@ -417844,7 +417842,7 @@
 
 60: washing soda <n>
 
-50 60 US [town]: Washington <n/place>: Washington's
+50: Washington <n/place>: Washington's
 
 50: Washington <n/surname>: Washington's
 
@@ -418198,7 +418196,7 @@
 70 [moby] 85 [ukacd]: water bug <n>: water bugs
 70 [moby]: - <n>: water bug's
 
-50 [name] 60 60 US [town]: Waterbury <n/place>: Waterbury's
+50 [name] 60: Waterbury <n/place>: Waterbury's
 
 80: _: waterbus <n>: (waterbuses | waterbusses) #! unmarked variants: waterbuses, waterbusses
 80: _=: water-bus <n>: water-buses
@@ -418417,7 +418415,7 @@
 
 35: waterlogged <aj>
 
-50 [name] 60 60 US [town]: Waterloo <n/place>: Waterloo's
+50 [name] 60: Waterloo <n/place>: Waterloo's
 
 50 [name] 60: Waterloo <n/upper>: Waterloo's
 65: - <n/upper>: Waterloos-
@@ -422545,7 +422543,7 @@
 
 85 [stale] [ukacd]: wich <n>: wiches
 
-50 [name] 60 60 US [town]: Wichita <n/place>: Wichita's
+50 [name] 60: Wichita <n/place>: Wichita's
 
 50 [name] 60: Wichita <n/upper>: Wichita's
 65: - <n/upper>: Wichitas-
@@ -423288,7 +423286,7 @@
 
 80 [moby]: Wilmette <n/place>
 
-50 [name] 60 60 US [town]: Wilmington <n/place>: Wilmington's
+50 [name] 60: Wilmington <n/place>: Wilmington's
 
 80 [moby]: Wilmont <n/place>
 
@@ -423401,7 +423399,7 @@
 
 80: wincher <n>: winchers
 
-50 [name] 60 60 US [town]: Winchester <n/place>: Winchester's
+50 [name] 60: Winchester <n/place>: Winchester's
 
 50 [name] 60: Winchester <n/upper>: Winchester's
 50 hacker 65: - <n/upper>: Winchesters-
@@ -424028,7 +424026,7 @@
 
 80 [moby]: -Winston <n/place>
 
-50 [name] 60 60 US [town]: Winston-Salem <n/place>: Winston-Salem's
+50 [name] 60: Winston-Salem <n/place>: Winston-Salem's
 
 80 [moby]: Winstonville <n/place>
 
@@ -425712,7 +425710,7 @@
 
 85 [ukacd]: !wop <v> (offensive-2): wopped, wopping, wops
 
-50 [name] 60 60 US [town]: Worcester <n/place>: Worcester's
+50 [name] 60: Worcester <n/place>: Worcester's
 
 50 [name] 60: Worcester <n/upper>: Worcester's
 65: - <n/upper>: Worcesters-
@@ -426630,7 +426628,7 @@
 35 [ukfreq] 60: wright <n>
 60: - <n>: wrights, wright's
 
-50 60 US [town]: Wright <n/place>: Wright's
+50: Wright <n/place>: Wright's
 
 80 [moby]: Wrights <n/place>
 
@@ -428947,7 +428945,7 @@
 
 85 [ukacd]: Yorick </upper?>
 
-50 60 US [town]: York <n/place>: York's
+50: York <n/place>: York's
 
 85 [ukacd]: !york <m>: yorked, yorking, yorks
 
@@ -429062,7 +429060,7 @@
 
 35: youngster <n>: youngsters, youngster's
 
-50 [name] 60 60 US [town]: Youngstown <n/place>: Youngstown's
+50 [name] 60: Youngstown <n/place>: Youngstown's
 
 80 [moby]: Youngsville <n/place>
 
@@ -429330,7 +429328,7 @@
 
 40: yum <i>
 
-60 60 US [town]: Yuma <n/place>: Yuma's
+60: Yuma <n/place>: Yuma's
 
 60: Yuma <n/upper>: Yuma's
 65: - <n/upper>: Yumas-
