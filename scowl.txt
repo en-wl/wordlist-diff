@@ -30609,8 +30609,6 @@
 
 70 [moby] 80: basidiomycete <n>: basidiomycetes
 
-85 [ukacd]: Basidiomycetes <n/upper?>
-
 80: basidiomycetous <aj>
 
 70 [moby] 80: basidiospore <n>: basidiospores
@@ -53623,8 +53621,6 @@
 
 85 [ukacd]: cannach <n>: cannachs
 
-70 [moby]: Cannae <n/upper?>
-
 40: canned <aj>
 
 80: cannel <n>: cannels
@@ -53948,8 +53944,6 @@
 50: canticle <n>: canticles
 
 70 [moby] 85 [ukacd]: Canticle of Canticles <n/upper?>
-
-70 [5desk]: Canticles <n/upper?>
 
 85 [ukacd]: cantico <m>: canticoed, canticoing, canticos
 
@@ -101874,8 +101868,6 @@
 70 [3of6] 85 [ukacd]: dip switch <n>: dip switches
 
 80: dipt
-
-85 [ukacd]: Diptera <n/upper?>
 
 70 [moby] 80: dipteral
 
@@ -191978,8 +191970,6 @@
 60 [extra] 70 [5desk] 80: A C Dv: ischemic <aj>
 60 [extra] 70 [5desk] 80: B D: ischaemic <aj>
 
-70 [moby]: Ischia <n/upper?>
-
 80: ischiadic
 
 80: ischial
@@ -194259,8 +194249,6 @@
 85 [ukacd]: B: jasperise <m>: jasperised, jasperising, jasperises
 
 85 [ukacd]: jasperous
-
-70 [moby]: Jaspers <n/upper?>: Jaspers's
 
 80: jasperware <n>: jasperwares
 
@@ -207124,8 +207112,6 @@
 
 85 [ukacd]: Lawrie </upper?>
 
-80 [upper]: Laws <n/upper?>
-
 50: Lawson <n/surname>: Lawson's
 
 80 [upper] 85 [ukacd]: -Lawson <n/upper?>
@@ -214283,9 +214269,6 @@
 70 [moby]: B D: - <n>: logorrhoea's
 
 80: logorrheic
-
-70 [moby] 80 [upper]: Logos <n/upper?>
-70 [moby]: - <n/upper?>: Logos's
 
 85 [ukacd]: logothete <n>: logothetes
 
@@ -236311,8 +236294,6 @@
 
 85 [ukacd]: mollitious
 
-85 [ukacd]: Mollusca <n/upper?>
-
 60: A B: molluscan <n>
 60: Av: molluskan <n>
 70: A B: - <n>: molluscans
@@ -257409,8 +257390,6 @@
 
 80: octanol <n>: octanols
 
-70 [5desk] [moby] 85 [ukacd]: Octans <n/upper?>
-
 70 [5desk] [moby] 80: octant <n>: octants
 
 70 [5desk] 80: octantal
@@ -261239,8 +261218,6 @@
 
 50 [name]: Oprah <n/name?>: Oprah's
 
-70 [moby]: Ops <n/upper?>: Ops's
-
 70 [3of6]: op shop <n>: op shops
 
 85 [ukacd]: opsimath <n>: opsimaths
@@ -263098,8 +263075,6 @@
 70 [moby]: - <n>: oscine's
 
 70 [moby] 80: oscine <aj>
-
-85 [ukacd]: Oscines <n/upper?>
 
 85 [stale] [ukacd]: oscinine
 
@@ -296369,8 +296344,6 @@
 
 35: primate <n>: primates, primate's
 
-80 [upper]: Primates <n/upper?>
-
 70 [moby] 80: primateship <n>: primateships
 
 70 [5desk] 80: primatial
@@ -315545,8 +315518,6 @@
 35: reptile <n>: reptiles, reptile's
 
 85 [ukacd]: -reptile <a>
-
-85 [ukacd]: Reptilia <n/upper?>
 
 40: reptilian <n>: reptilians, reptilian's
 
@@ -338305,8 +338276,6 @@
 
 85 [ukacd]: sessionally
 
-70 [moby]: Sessions <n/upper?>: Sessions's
-
 85 [stale] [ukacd]: sesspool <n>: sesspools
 
 70 [moby] 80: sesterce <n>: sesterces
@@ -354562,9 +354531,6 @@
 
 70 [moby] 80: spier <m>: spiered, spiering, spiers
 
-70 [moby]: A: Spiers <n/upper?>: Spiers's
-70 [moby]: B: Spires <n/upper?>: Spires's
-
 60 [brif] 70 [3of6] 80: spiff <n>: spiffs
 
 60 [brif] 70 [3of6] 80: -spiff <v>: spiffed, spiffing, spiffs
@@ -355821,8 +355787,6 @@
 80: sporopollenin <n>: sporopollenins
 
 80: sporotrichosis <n>: sporotrichoses
-
-85 [ukacd]: Sporozoa <n/upper?>
 
 80: sporozoan <n>: sporozoans
 
@@ -386739,8 +386703,6 @@
 35: tourniquet <n>: tourniquets
 
 85 [ukacd]: tournure <n>: tournures
-
-70 [5desk] [moby]: Tours <n/upper?>
 
 70 [3of6] 85 [ukacd]: tours de force
 

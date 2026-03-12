@@ -4506,7 +4506,6 @@ Candlemases
 Candy
 Candy's
 Canicula
-Cannae
 Cannes
 Cannes's
 Cannon
@@ -4521,7 +4520,6 @@ Cantabrigian's
 Cantabrigians
 Canterbury
 Canterbury's
-Canticles
 Canton
 Canton's
 Cantonese
@@ -12469,7 +12467,6 @@ Isaiah's
 Isaias
 Iscariot
 Iscariot's
-Ischia
 Iseult
 Iseult's
 Isfahan
@@ -12841,8 +12838,6 @@ Jason
 Jason's
 Jasper
 Jasper's
-Jaspers
-Jaspers's
 Jat
 Jat's
 Jataka
@@ -15253,8 +15248,6 @@ Loews's
 Lofoten
 Logan
 Logan's
-Logos
-Logos's
 Lohengrin
 Lohengrin's
 Loire
@@ -19091,7 +19084,6 @@ Ochoa's
 Ockham
 Ockham's
 Oct
-Octans
 Octavia
 Octavia's
 Octavian
@@ -19327,8 +19319,6 @@ Opposition's
 Oppositions
 Oprah
 Oprah's
-Ops
-Ops's
 Ora
 Ora's
 Oracle
@@ -23195,8 +23185,6 @@ Serra's
 Serrano
 Serrano's
 Servia
-Sessions
-Sessions's
 Set
 Set's
 Seth
@@ -24048,8 +24036,6 @@ Spinozism
 Spinozisms
 Spinx
 Spinx's
-Spires
-Spires's
 Spiro
 Spiro's
 Spirograph
@@ -25582,7 +25568,6 @@ Toulon
 Toulouse
 Toulouse's
 Touraine
-Tours
 Townes
 Townes's
 Townsend
