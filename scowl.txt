@@ -4064,7 +4064,7 @@
 
 85 [ukacd]: administratorship
 
-80: administratrix <n>: (administratrices | administratrixes) #! unmarked variants: administratrices, administratrixes
+80: administratrix <n>: (administratrices | -: administratrixes!) # fixme: administratrixes: check if variant
 
 70 [5desk] 80: admirability <n>: admirabilities
 
@@ -6111,7 +6111,7 @@
 
 70 [5desk] 80: aggie <n>: aggies
 
-80 [plurals]: aggiornamenti
+85 [plurals]: aggiornamenti
 
 70 [moby] 80: aggiornamento <n>: aggiornamentos
 
@@ -9948,7 +9948,7 @@
 
 70 [moby] 80: alphorn <n>: alphorns
 
-70 [moby] 80: alphosis <n>: (alphoses | alphosises) #! unmarked variants: alphoses, alphosises
+70 [moby] 80: alphosis <n>: (alphosises | -: alphoses!) # fixme: alphoses: check if variant
 
 85 [stale]: alphyl <n>: alphyls
 
@@ -12788,7 +12788,7 @@
 
 50: andante <aj_av>
 
-80 [plurals]: andantini
+85 [plurals]: andantini
 
 70 [5desk] [moby] 80: andantino <aj>
 
@@ -17906,7 +17906,7 @@
 
 70 [moby] 80: appoggiatura <n>: appoggiaturas
 
-80 [plurals]: appoggiature
+85 [plurals]: appoggiature
 
 35: appoint <v>: appointed, appointing, appoints
 
@@ -30152,7 +30152,7 @@
 
 35: barricade <n_v>: barricaded, barricading, barricades
 
-80: barricado <v>: barricadoed, barricadoing, (barricadoes | barricados) #! unmarked variants: barricadoes, barricados
+80: barricado <v>: barricadoed, barricadoing, (barricadoes | -: barricados) # fixme: barricados: check if variant
 
 85 [ukacd]: barrico <n>: (barricoes | barricos) #! unmarked variants: barricoes, barricos
 
@@ -49985,7 +49985,7 @@
 
 80: buttinsky <n>: buttinskies
 
-80 [plurals]: buttinskys
+85 [plurals]: buttinskys
 
 70 [moby]: butt joint <n>
 
@@ -65795,7 +65795,7 @@
 
 85 [ukacd]: chylify <m>: chylified, chylifying, chylifies
 
-80 [plurals]: chylomicra
+85 [plurals]: chylomicra
 
 80: chylomicron <n>: chylomicrons
 
@@ -69041,8 +69041,8 @@
 
 80: clostridial
 
-70 [moby] 80: clostridium <n>: (clostridia | clostridiums) #! unmarked variants: clostridia, clostridiums, clostridia's, clostridiums'
-70 [moby]: - <n>: -, clostridium's, (clostridia's | clostridiums')
+70 [moby] 80: clostridium <n>: (clostridia | -: clostridiums) # fixme: clostridiums: check if variant
+70 [moby]: - <n>: -, clostridium's, (clostridia's | -: clostridiums')
 
 35: closure <n>: closures
 
@@ -78088,7 +78088,7 @@
 
 80: contralateral <aj>
 
-80 [3of6] [plurals] 85 [ukacd]: contralti
+80 [3of6] 85 [plurals] [ukacd]: contralti
 
 50: contralto <n>: contraltos, contralto's
 
@@ -100353,7 +100353,7 @@
 
 85 [ukacd]: digynous
 
-80 [plurals]: dihedra
+85 [plurals]: dihedra
 
 70 [moby] 80: dihedral <n>: dihedrals
 
@@ -112746,7 +112746,7 @@
 
 80: ecesic
 
-70 [moby] 80: ecesis <n>: (eceses | ecesises) #! unmarked variants: eceses, ecesises
+70 [moby] 80: ecesis <n>: (ecesises | -: eceses) # fixme: eceses: check if variant
 
 60: ECG <n/upper>: ECGs
 
@@ -117527,7 +117527,7 @@
 
 80: encephalomyocarditis <n>: encephalomyocarditises
 
-70 [5desk] [moby] 80: encephalon <n>: (encephala | encephalons) #! unmarked variants: encephala, encephalons
+70 [5desk] [moby] 80: encephalon <n>: (encephala | -: encephalons) # fixme: encephalons: check if variant
 
 80: encephalopathic
 
@@ -118078,7 +118078,7 @@
 
 80: endomitotic
 
-80: endomixis <n>: (endomixes | endomixises) #! unmarked variants: endomixes, endomixises
+80: endomixis <n>: (endomixises | -: endomixes!) # fixme: endomixes: check if variant
 
 70 [5desk] [moby] 80: endomorph <n>: endomorphs
 70 [5desk] [moby]: - <n>: endomorph's
@@ -119025,7 +119025,7 @@
 50 [name] 70 [5desk] [moby] 85 [ukacd]: Enos <n/name?>
 50 [name] 70 [5desk] [moby]: - <n/name?>: Enos's
 
-70 [moby] 80: enosis <n>: (enoses | enosises) #! unmarked variants: enoses, enosises
+70 [moby] 80: enosis <n>: (enosises | -: enoses) # fixme: enoses: check if variant
 70 [moby]: - <n>: enosis's
 
 35: enough <av>
@@ -120588,7 +120588,7 @@
 
 70 [moby] 80: epileptoid
 
-80 [plurals]: epilimnia
+85 [plurals]: epilimnia
 
 70 [moby] 80: epilimnion <n>: epilimnions
 
@@ -120682,7 +120682,7 @@
 
 80: epiphenomenally
 
-70 [moby] 80: epiphenomenon <n>: (epiphenomena | epiphenomenons) #! unmarked variants: epiphenomena, epiphenomenons
+70 [moby] 80: epiphenomenon <n>: (epiphenomena | -: epiphenomenons) # fixme: epiphenomenons: check if variant
 
 85 [ukacd]: epiphonema <n>: epiphonemas
 
@@ -175231,7 +175231,7 @@
 
 70 [moby] 80: hydromechanics
 
-70 [moby] 80: hydromedusa <n>: (hydromedusae | hydromedusas) #! unmarked variants: hydromedusae, hydromedusas
+70 [moby] 80: hydromedusa <n>: (hydromedusae | -: hydromedusas!) # fixme: hydromedusas: check if variant
 
 85 [ukacd]: hydromedusan
 
@@ -198277,7 +198277,7 @@
 
 60 US [town] 80 [moby]: Kenosha <n/place>: Kenosha's
 
-70 [moby] 80: kenosis <n>: (kenoses | kenosises) #! unmarked variants: kenoses, kenosises
+70 [moby] 80: kenosis <n>: (kenosises | -: kenoses) # fixme: kenoses: check if variant
 
 80: kenotic
 
@@ -229645,7 +229645,7 @@
 
 80: microfilamentous
 
-80: microfilaria <n>: (microfilariae | microfilarias) #! unmarked variants: microfilariae, microfilarias
+80: microfilaria <n>: (microfilariae | -: microfilarias!) # fixme: microfilarias: check if variant
 
 80: microfilarial
 
@@ -231248,7 +231248,7 @@
 
 85 [stale]: millimho <n>: millimhos
 
-80 [plurals]: millimicra
+85 [plurals]: millimicra
 
 70 [moby] 80: millimicron <n>: millimicrons
 
@@ -246307,7 +246307,7 @@
 
 80: neurohypophysis <n>: neurohypophyses
 
-80 [plurals]: neurohypophysises
+85 [plurals]: neurohypophysises
 
 85 [stale]: neuroid
 
@@ -248715,7 +248715,7 @@
 
 50: Noemi <n/person>: Noemi's
 
-70 [moby] 80: noesis <n>: (noeses | noesises) #! unmarked variants: noeses, noesises
+70 [moby] 80: noesis <n>: (noesises | -: noeses) # fixme: noeses: check if variant
 
 85 [ukacd]: Noetian </upper?>
 
@@ -259975,7 +259975,7 @@
 
 35: oppressor <n>: oppressors, oppressor's
 
-80 [plurals]: opprobria
+85 [plurals]: opprobria
 
 50: opprobrious <aj>
 
@@ -286388,7 +286388,7 @@
 
 80: pococuranteism <n>: pococuranteisms
 
-80 [plurals]: pococuranti
+85 [plurals]: pococuranti
 
 80: pococurantism <n>: pococurantisms
 
@@ -302178,7 +302178,7 @@
 
 85 [ukacd]: pyroscope <n>: pyroscopes
 
-70 [moby] 80: pyrosis <n>: (pyroses | pyrosises) #! unmarked variants: pyroses, pyrosises
+70 [moby] 80: pyrosis <n>: (pyrosises | -: pyroses) # fixme: pyroses: check if variant
 
 85 [ukacd]: Pyrosoma </upper?>
 
@@ -318922,7 +318922,9 @@
 
 80 [moby]: Rison <n/place>
 
-80 [plurals]: risorgimenti
+80 [upper]: Risorgimenti </upper?>
+
+85 [plurals]: risorgimenti
 
 50 [name] 70 [moby] 80 [upper]: Risorgimento <n/upper>
 50 [name] 70 [moby]: - <n/upper>: Risorgimento's
@@ -329327,7 +329329,7 @@
 
 80 [moby]: Schertz <n/place>
 
-80 [plurals] 85 [ukacd]: scherzandi
+85 [plurals] [ukacd]: scherzandi
 
 70 [moby] 80: scherzando <n>: scherzandos
 
@@ -363011,7 +363013,7 @@
 
 85 [ukacd]: submatrix
 
-80: submaxilla <n>: (submaxillae | submaxillas) #! unmarked variants: submaxillae, submaxillas
+80: submaxilla <n>: (submaxillae | -: submaxillas) # fixme: submaxillas: check if variant
 
 70 [moby] 80: submaxillary <n>: submaxillaries
 
@@ -370007,7 +370009,7 @@
 
 60: synergy <n>: synergies
 
-80: synesis <n>: (syneses | synesises) #! unmarked variants: syneses, synesises
+80: synesis <n>: (synesises | -: syneses!) # fixme: syneses: check if variant
 
 70 [moby] 80: A Dv: synesthesia <n>: synesthesias
 70 [moby] 80: B D: synaesthesia <n>: synaesthesias
@@ -383109,7 +383111,7 @@
 
 50: Tomas <n/person>: Tomas's
 
-60 [coca-llm] 80: tomatillo <n>: (tomatilloes | tomatillos) #! unmarked variants: tomatilloes, tomatillos
+60 [coca-llm] 80: tomatillo <n>: (tomatillos | -: tomatilloes) # fixme: tomatilloes: check if variant
 
 35: tomato <n>: tomatoes, tomato's
 

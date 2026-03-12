@@ -31422,7 +31422,6 @@ alphanumerically
 alphas
 alphorn
 alphorns
-alphoses
 alphosis
 alphosises
 alpine
@@ -50649,7 +50648,6 @@ clostridia
 clostridia's
 clostridium
 clostridium's
-clostridiums
 closure
 closures
 clot
@@ -67147,7 +67145,6 @@ ecdysiast
 ecdysiast's
 ecdysiasts
 ecdysis
-eceses
 ecesis
 ecesises
 echelon
@@ -68808,7 +68805,6 @@ encephalography
 encephalomyelitides
 encephalomyelitis
 encephalon
-encephalons
 encephalous
 enchain
 enchained
@@ -69434,7 +69430,6 @@ enormity
 enormous
 enormously
 enormousness
-enoses
 enosis
 enosis's
 enosises
@@ -70123,7 +70118,6 @@ epiphenomena
 epiphenomenalism
 epiphenomenalisms
 epiphenomenon
-epiphenomenons
 epiphora
 epiphragm
 epiphragms
@@ -88126,7 +88120,6 @@ hydromancy
 hydromechanics
 hydromedusa
 hydromedusae
-hydromedusas
 hydromel
 hydromels
 hydrometallurgies
@@ -95710,7 +95703,6 @@ kenning
 kennings
 keno
 kenogenesis
-kenoses
 kenosis
 kenosises
 kens
@@ -110214,7 +110206,6 @@ nodules
 nodus
 noel
 noels
-noeses
 noesis
 noesises
 noetic
@@ -126879,7 +126870,6 @@ pyrophotometer
 pyrophotometers
 pyrophyllite
 pyrophyllites
-pyroses
 pyrosis
 pyrosises
 pyrostat
@@ -154339,7 +154329,6 @@ tomahawked
 tomahawking
 tomahawks
 tomatillo
-tomatilloes
 tomatillos
 tomato
 tomato's

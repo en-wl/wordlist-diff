@@ -2,8 +2,7 @@ New words, unclassified:
   colorizations
   mammae
   po'boy
-  tomatilloes
-total: 4
+total: 3
 
 New words, in 2of12id, but marked as a variant:
   backslidden
