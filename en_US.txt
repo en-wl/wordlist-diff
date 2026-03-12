@@ -28154,7 +28154,6 @@ birdhouse
 birdhouses
 birdie
 birdied
-birdieing
 birdies
 birding
 birdlike
@@ -28164,6 +28163,7 @@ birdseed
 birdsong
 birdwatcher
 birdwatchers
+birdying
 biretta
 birettas
 birth
@@ -29157,6 +29157,7 @@ bomber
 bomber's
 bombers
 bombing
+bombing's
 bombings
 bombproof
 bombs
@@ -40445,6 +40446,7 @@ dear
 dear's
 dearer
 dearest
+dearest's
 dearests
 dearies
 dearly
@@ -46141,6 +46143,7 @@ electrocutions
 electrode
 electrode's
 electrodes
+electrodynamics
 electroencephalogram
 electroencephalograms
 electroencephalograph
@@ -49728,6 +49731,7 @@ fellas
 fellatio
 felled
 feller
+feller's
 fellers
 fellest
 felling
@@ -52189,6 +52193,7 @@ fresheners
 freshening
 freshens
 fresher
+fresher's
 freshers
 freshest
 freshet
@@ -59288,6 +59293,7 @@ imagine
 imagined
 imagines
 imaging
+imaging's
 imagining
 imaginings
 imago
@@ -67092,6 +67098,8 @@ mamboing
 mambos
 mamma
 mamma's
+mammae
+mammae's
 mammal
 mammal's
 mammalian
@@ -70159,6 +70167,7 @@ moneymaker
 moneymaker's
 moneymakers
 moneymaking
+moneys
 monger
 monger's
 mongered
@@ -70176,7 +70185,6 @@ mongooses
 mongrel
 mongrel's
 mongrels
-monies
 moniker
 moniker's
 monikers
@@ -72714,8 +72722,8 @@ nonpersons
 nonphysical
 nonphysically
 nonplus
+nonpluses
 nonplussed
-nonplusses
 nonplussing
 nonpoisonous
 nonpolitical
@@ -88063,6 +88071,7 @@ roundelay
 roundelays
 roundels
 rounder
+rounder's
 rounders
 roundest
 roundhouse
@@ -88094,7 +88103,6 @@ rout's
 route
 route's
 routed
-routeing
 router
 router's
 routers
@@ -90373,8 +90381,8 @@ segregationist's
 segregationists
 segue
 segued
-segueing
 segues
+seguing
 seigneur
 seigneur's
 seigneurs
@@ -97648,6 +97656,7 @@ sunburn
 sunburned
 sunburning
 sunburns
+sunburnt
 sunburst
 sunbursts
 sundae
@@ -101129,6 +101138,7 @@ tomahawked
 tomahawking
 tomahawks
 tomatillo
+tomatilloes
 tomatillos
 tomato
 tomato's

@@ -1,7 +1,9 @@
 New words, unclassified:
   colorizations
+  mammae
   po'boy
-total: 2
+  tomatilloes
+total: 4
 
 New words, in 2of12id, but marked as a variant:
   backslidden
@@ -10,7 +12,8 @@ New words, in 2of12id, but marked as a variant:
   mown
   shorn
   strived
-total: 6
+  sunburnt
+total: 7
 
 New words, upper:
   Black
@@ -130,7 +133,6 @@ Missing words, unclassified:
   driers
   dybbuks
   edemas
-  electrodynamics
   elevenses
   emfs
   enamelings
@@ -169,7 +171,6 @@ Missing words, unclassified:
   metempsychoses
   mitoses
   momenta
-  moneys
   mung
   mungs
   mys
@@ -253,7 +254,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 152
+total: 150
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -865,7 +866,7 @@ Missing words, variant:
   kielbasi
   kronor
   mananas
-  nonpluses
+  monies
   oles
   penumbras
   precises
@@ -2778,7 +2779,6 @@ New words, ok, in 2of12id:
   nonexempts
   nonfoods
   nonoccurrence
-  nonplusses
   nonsympathizers
   okayed
   outboxed
@@ -2813,7 +2813,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 100
+total: 99
 
 New words, ok, other:
   Curaçao
@@ -3020,7 +3020,7 @@ Missing words, ok, variant:
   Salvadorians
   anchorpeople
   anyways
-  birdying
+  birdieing
   brier
   briers
   congresspeople
@@ -3040,13 +3040,14 @@ Missing words, ok, variant:
   phoneying
   planeloads
   poorboy
+  routeing
   samurais
-  seguing
+  segueing
   sixshooter
   superheros
   tsarists
   unpeople
   zloties
   Ångström
-total: 36
+total: 37
 
