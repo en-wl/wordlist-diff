@@ -16581,7 +16581,9 @@ May's
 Maya
 Maya's
 Mayaguez
+Mayaguez's
 Mayagüez
+Mayagüez's
 Mayakovski
 Mayakovski's
 Mayan
@@ -41186,6 +41188,7 @@ bog
 bog's
 boga
 bogan
+bogan's
 bogans
 bogbean
 bogbeans
@@ -56804,6 +56807,7 @@ croaking
 croaks
 croaky
 croc
+croc's
 crocein
 croceins
 crochet
@@ -65115,6 +65119,7 @@ doomsday
 doomster
 doomsters
 doona
+doona's
 doonas
 door
 door's
@@ -66433,6 +66438,7 @@ dunnock
 dunnock's
 dunnocks
 dunny
+dunny's
 duns
 dunt
 dunted
@@ -94052,6 +94058,7 @@ jackanapes
 jackanapes's
 jackanapeses
 jackaroo
+jackaroo's
 jackaroos
 jackass
 jackass's
@@ -108511,6 +108518,7 @@ namesake's
 namesakes
 naming
 nana
+nana's
 nanas
 nance
 nance's
@@ -153746,6 +153754,7 @@ tinner
 tinner's
 tinners
 tinnie
+tinnie's
 tinnier
 tinnies
 tinniest
@@ -161001,6 +161010,7 @@ usurps
 usury
 ut
 ute
+ute's
 utensil
 utensils
 uteri
