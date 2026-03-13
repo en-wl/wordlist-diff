@@ -31741,7 +31741,6 @@ carpi
 carping
 carpool
 carpooled
-carpooler
 carpooling
 carpools
 carport
@@ -107734,6 +107733,7 @@ woodlice
 woodlot
 woodlots
 woodlouse
+woodlouse's
 woodman
 woodman's
 woodmen

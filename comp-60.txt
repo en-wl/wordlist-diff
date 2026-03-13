@@ -2678,7 +2678,6 @@ New words, ok, closed form of compound word:
   boomtowns
   brownnoser
   bubblegums
-  carpooler
   chowchow
   clearheadedness
   cornpone
@@ -2710,7 +2709,7 @@ New words, ok, closed form of compound word:
   waterskiing
   wetsuit
   wetsuits
-total: 41
+total: 40
 
 New words, ok, in 2of12id:
   attaches
