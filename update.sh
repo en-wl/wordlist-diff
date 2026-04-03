@@ -1,15 +1,13 @@
-#!/bin/sh
+#!/usr/bin/env bash
+set -euo pipefail
 
-# this will update an already populated git-disk
-
-set -ex
+# This will update an already populated git-disk
 
 : ${SCOWL_BRANCH:=v2}
 export SCOWL_BRANCH
 : ${DIFF_BRANCH:=diff}
 export DIFF_BRANCH
 ROOTDIR="$PWD"
-
 cd git-disk
 
 git reset --hard
@@ -23,9 +21,11 @@ git reset --hard src/"$SCOWL_BRANCH"
 
 cd ..
 
-if ! mountpoint -q git; then sh init.sh; fi
+if ! mountpoint -q git; then
+	./init.sh
+fi
 
 cd git
-PATH="$ROOTDIR/bin:$PATH" perl ../doit.pl
+PATH="$ROOTDIR/bin:$PATH" ../doit.pl
 
-echo 'now do: cd git; sh ../push.sh'
+echo 'now do: cd git; ../push.sh'

@@ -1,11 +1,11 @@
 # set this to the absolute path of the root directly you are running the
 # scripts from.
-ROOTDIR=/home/kevina/wordlist/diff/
+ROOTDIR="${HOME}/wordlist/diff/"
 
 export DBNAME=scowl
 
-export PGVER=11
-export PGBINDIR=/usr/lib/postgresql/11/bin
+export PGVER=18
+export PGBINDIR=/usr/lib/postgresql/18/bin
 
 export PATH="$PGBINDIR":"$PATH"
 
@@ -15,7 +15,8 @@ export PGDIR="$DBROOT"/scowl
 export PGHOST="$DBROOT"
 export PGPORT=${PGPORT:-5437}
 
-alias psql=`which psql`
+alias psql=$(command -v psql)
+
 pgctl () {
-    pg_ctl -D "$PGDIR" -l "$PGDIR"/log "$@"
+	pg_ctl -D "$PGDIR" -l "$PGDIR"/log "$@"
 }

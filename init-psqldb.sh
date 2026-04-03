@@ -1,13 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Create the psql database
+
 . ./psqldb-env.sh
 
-set -e
-
-# create the psql database
-
-if findmnt psqldb
-then
-    pgctl stop
-    sudo umount psqldb
+if findmnt psqldb && [[ -e ${PGDIR} ]]; then
+	pgctl stop
+	sudo umount psqldb
 fi
 
 mkdir -p psqldb
@@ -28,7 +28,6 @@ max_wal_size = 512MB
 EOF
 pgctl start
 
-createdb $DBNAME
+createdb "$DBNAME"
 psql scowl -f comp/util-fun.sql
 psql scowl -f comp/comp-init.sql
-
