@@ -2099,7 +2099,7 @@
 50: accurateness <n>
 80: - <n>: accuratenesses~
 
-85 [ukacd]: accurse <v>: -, accursing, accurses
+85 [ukacd]: accurse <v>: accursed, accursing, accurses # fixme: accursed: check for variants
 
 50: A B: accursed <aj>
 50: AV B-: accurst <aj>
@@ -3606,9 +3606,7 @@
 
 70 [5d+2a] 80: adducible
 
-70 [moby] 80: adduct <n_v>: adducted, -, adducts
-
-80: adducting <aj>
+70 [moby] 80: adduct <n_v>: adducted, adducting, adducts
 
 70 [moby] 80: adduction <n>: adductions
 
@@ -5116,9 +5114,7 @@
 
 80: aerosolization <n>: aerosolizations
 
-80: aerosolize <v>: -, aerosolizing, aerosolizes
-
-80: aerosolized <aj>
+80: aerosolize <v>: aerosolized, aerosolizing, aerosolizes
 
 35: aerospace <n>: aerospace's
 80: - <n>: aerospaces~
@@ -6975,7 +6971,7 @@
 
 70 [3of6]: air con
 
-50: air-condition <v>: -, -, air-conditions
+50: air-condition <v>: air-conditioned, air-conditioning, air-conditions
 
 40: _: air-conditioned <aj>
 40: _v: air conditioned <aj>
@@ -11312,9 +11308,7 @@
 
 85 [ukacd]: ammoniacum
 
-70 [moby] 80: ammoniate <v>: -, ammoniating, ammoniates
-
-80: ammoniated <aj>
+70 [moby] 80: ammoniate <v>: ammoniated, ammoniating, ammoniates
 
 80: ammoniation <n>: ammoniations
 
@@ -26305,9 +26299,7 @@
 50 [name] 70 [5d+2a] [moby] 80 [upper]: Babbitt <n/upper>: Babbitt's
 70 [5d+2a] [moby] 80 [upper]: - <n/upper>: Babbitts-
 
-70 [5d+2a] [moby] 80: babbitt <n_v>: babbitted, -, babbitts
-
-80: babbitting <n>
+70 [5d+2a] [moby] 80: babbitt <n_v>: babbitted, babbitting, babbitts
 
 85 [ukacd]: Babbittism </upper?>
 
@@ -26957,7 +26949,7 @@
 
 70 [moby] 85 [ukacd]: backsight <n>: backsights
 
-70 [5d+2a] 80: backslap <v>: backslapped, -, backslaps
+70 [5d+2a] 80: backslap <v>: backslapped, backslapping, backslaps
 
 85 [ukacd]: back slap <n>: back slaps
 
@@ -30540,16 +30532,17 @@
 
 70 [moby] 85 [ukacd]: Bastille Day <n/upper?>
 
-70 [5d+2a] 80: bastinade <m>: bastinaded, bastinading, bastinades
-
-80: A: bastinaded
-80: B: bastinadoed
+70 [5d+2a] 80: bastinade <m>: -, bastinading, bastinades # fixme: bastinaded: check for variants
+70 [5d+2a] [moby] 80: - <m>: bastinaded, -, -
 
 80: A: bastinades
 80: B: bastinadoes
 
-70 [5d+2a] [moby] 80: bastinado <n_v>: -, bastinadoing, -
-70 [5d+2a] [moby] 85 [ukacd]: - <n_v>: -, -, bastinados
+70 [5d+2a] [moby] 80: bastinado <n>
+70 [5d+2a] [moby] 85 [ukacd]: - <n>: bastinados
+
+70 [5d+2a] [moby] 80: bastinado <v>: bastinadoed, bastinadoing, - # fixme: bastinadoed: check for variants
+70 [5d+2a] [moby] 85 [ukacd]: - <v>: -, -, bastinados
 
 70 [moby] 80: basting <n>: bastings
 
@@ -32064,9 +32057,7 @@
 50: bedevilment <n>
 80: - <n>: bedevilments~
 
-70 [5d+2a] [moby] 80: bedew <v>: -, bedewing, bedews
-
-80: bedewed <aj>
+70 [5d+2a] [moby] 80: bedew <v>: bedewed, bedewing, bedews
 
 70 [5d+2a] [moby] 80: bedfast <aj>
 
@@ -32517,9 +32508,7 @@
 
 50: befog <v>: befogged, befogging, befogs
 
-70 [moby] 80: befool <v>: befooled, -, befools
-
-80: befooling <n>
+70 [moby] 80: befool <v>: befooled, befooling, befools
 
 35: before <av>
 
@@ -33291,7 +33280,7 @@
 
 50: belly dance <n>: belly dances
 
-50: belly dance <v>: belly danced, -, -
+50: belly dance <v>: belly danced, belly dancing, -
 
 50: belly dancer <n>: belly dancers, belly dancer's
 
@@ -34192,7 +34181,7 @@
 70 [3of6] [5d+2a] 80: _: - <n>: berk's
 70 [3of6] [5d+2a] 80: _-: - <n>
 
-85 [ukacd]: _-: !burk <v>: burked, burking†, burks
+85 [ukacd]: _-: !burk <v>: burked†, burking†, burks
 
 70 [moby] 80 [upper] 85 [ukacd]: Berkeleian <n/upper?>
 70 [moby] 80 [upper]: - <n/upper?>: Berkeleians
@@ -37363,9 +37352,9 @@
 
 80: birkie <n>: birkies
 
-70 [moby] 80: birl <v>: birled†, -, birls
+70 [moby] 80: birl <v>: birled†, birling†, birls
 
-80: birle <v>: birled†, -, birles
+80: birle <v>: birled†, birling†, birles
 
 80: birler <n>: birlers
 
@@ -37623,7 +37612,7 @@
 
 35: bit <a>
 
-80: -bit <v>: bitted, bitting, bits
+80: -bit <v>: bitted, bitting†, bits
 
 80: bitable
 
@@ -37705,7 +37694,7 @@
 
 70 [moby] 80: bitt <n>: bitts
 
-70 [moby] 85 [ukacd]: bitt <v>
+70 [moby] 85 [ukacd]: bitt <v>: -, bitting†, bitts
 
 85 [ukacd]: bittacle <n>: bittacles
 
@@ -39205,7 +39194,7 @@
 60: blitheness <n>
 80: - <n>: blithenesses~
 
-70 [5d+2a] [moby] 80: blither <v>: blithered, -, blithers
+70 [5d+2a] [moby] 80: blither <v>: blithered, blithering, blithers
 
 60: blithering <a>
 
@@ -42094,11 +42083,9 @@
 
 70 [5d+2a] 80: bootlessness <n>: bootlessnesses
 
-70 [5d+2a] [moby] 80: bootlick <v>: bootlicked, -, bootlicks
+70 [5d+2a] [moby] 80: bootlick <v>: bootlicked, bootlicking, bootlicks
 
 70 [5d+2a] 80: bootlicker <n>: bootlickers, bootlicker's
-
-80: bootlicking <aj>
 
 85 [ukacd]: bootmaker <n>: bootmakers
 
@@ -47267,9 +47254,9 @@
 
 50: buccaneer <n>: buccaneers, buccaneer's
 
-80: -buccaneer <v>: buccaneered, -, -
+80: -buccaneer <v>: buccaneered, buccaneering, -
 
-70 [3of6] [5d+2a] 80: buccaneering <n>
+70 [3of6] [5d+2a]: buccaneering <n>
 
 80: buccaneerish
 
@@ -48817,11 +48804,9 @@
 
 50: Burke <n/surname>: Burke's
 
-70 [moby] 80: burke <v>: -, burking, burkes
+70 [moby] 80: burke <v>: burked, burking, burkes
 
 80 [upper]: Burkean </upper?>
-
-80: burked <aj>
 
 85 [stale]: burker <n>: burkers
 
@@ -52393,9 +52378,9 @@
 
 80: camphoraceous <aj>
 
-70 [moby] 80: camphorate <v>: -, camphorating, camphorates
+70 [moby] 80: camphorate <v>: camphorated, camphorating, camphorates
 
-70 [5d+2a] 80: camphorated <aj>
+70 [5d+2a]: camphorated <aj>
 
 70 [moby] 85 [ukacd]: camphorated oil
 
@@ -54191,15 +54176,10 @@
 
 80: carack <n>: caracks
 
-80: caracol <m>: caracolled, caracolling, caracols
+70 [5d+2a] [moby] 80: - <m>: caracolled, caracolling, - # fixme: caracolled, caracolling: check for variants
+80: caracol <m>: -, -, caracols
 
-70 [5d+2a] [moby] 80: caracole <v>: -, -, caracoles
-
-80: A: caracoled
-80: B: caracolled
-
-80: A: caracoling
-80: B: caracolling
+70 [5d+2a] [moby] 80: caracole <v>: caracoled, caracoling, caracoles # fixme: caracoled, caracoling: check for variants
 
 85 [ukacd]: caract
 
@@ -61797,11 +61777,9 @@
 
 80: chelatable
 
-70 [moby] 80: chelate <n_v>: -, chelating, chelates
+70 [moby] 80: chelate <n_v>: chelated, chelating, chelates
 
 70 [moby] 80: chelate <aj>
-
-80: chelated <aj>
 
 80: chelation <n>: chelations
 
@@ -65115,11 +65093,11 @@
 
 70 [moby] 80: chufa <n>: chufas
 
-70 [moby] 80: chuff <v>: -, chuffing, chuffs
+70 [moby] 80: chuff <v>: chuffed, chuffing, chuffs
 
 80: -chuff <a>: chuffer, chuffest
 
-60 [brif] 70 [3of6] [5d+2a] 80: chuffed <aj>
+60 [brif] 70 [3of6] [5d+2a]: chuffed <aj>
 
 80: chuffle <m>: chuffled, chuffling, chuffles
 
@@ -66395,7 +66373,7 @@
 
 60: citified <aj>
 
-70 [5d+2a] [moby] 80: citify <v>: -, citifying, citifies
+70 [5d+2a] [moby] 80: citify <v>: citified, citifying, citifies
 
 85 [ukacd]: citigrade
 
@@ -73724,7 +73702,7 @@
 70 [5d+2a] 80: !compleat <m>
 70 [5d+2a] 85 [ukacd]: - <m>: compleated, compleating, compleats
 
-70 [moby] 80: complect <v>: -, complecting, complects
+70 [moby] 80: complect <v>: complected, complecting, complects
 
 50: complected <a>
 
@@ -76041,7 +76019,7 @@
 
 60: Conn </upper?>
 
-70 [5d+2a] [moby] 80: conn <v>: -, -, conns
+70 [5d+2a] [moby] 80: conn <v>: -, conning†, conns
 
 70 [5d+2a] [moby] 85 [ukacd]: Connacht </upper?>
 
@@ -78216,7 +78194,7 @@
 
 80: convoker <n>: convokers
 
-70 [moby] 80: convolute <v>: -, convoluting, convolutes
+70 [moby] 80: convolute <v>: convoluted, convoluting, convolutes
 
 70 [moby] 80: convolute <aj>
 
@@ -78281,9 +78259,7 @@
 
 35: coo <i>
 
-80: cooccur <v>: cooccurred, -, cooccurs
-
-80: cooccurring <aj>
+80: cooccur <v>: cooccurred, cooccurring, cooccurs
 
 80: cooch <n>: cooches
 
@@ -78792,7 +78768,7 @@
 
 70 [3of6] 85 [ukacd]: copper beech <n>: copper beeches
 
-70 [3of6] 85 [ukacd]: copper-bottomed <aj>
+70 [3of6]: copper-bottomed <aj>
 
 50 [name] 85 [ukacd]: Copperfield <n/name?>: Copperfield's
 
@@ -79010,7 +78986,7 @@
 
 40: copy machine
 
-70 [moby] 80: copyread <v>: -, copyreading, copyreads
+70 [moby] 80: copyread <v>: copyread, copyreading, copyreads
 
 70 [5d+2a] [moby] 80: copyreader <n>: copyreaders, copyreader's
 
@@ -83741,7 +83717,7 @@
 70 [moby] 80: B: cree <n>: crees, cree's
 
 70 [moby] 80: A: cere <v>: cered, cering, -
-70 [moby] 80: B: cree <v>: -, creeing, - # fixme: lemma_rank originally "!"
+70 [moby] 80: B: cree <v>: creed, creeing, - # fixme: lemma_rank originally "!"
 
 35: creed <n>: creeds, creed's
 
@@ -83877,9 +83853,7 @@
 
 80: crenature <n>: crenatures
 
-70 [moby] 80: crenel <n>: crenels
-
-70 [moby] 85 [ukacd]: crenel <v>
+70 [moby] 80: crenel <n_v>: (creneled | crenelled), (creneling | crenelling), crenels #! unmarked variants: creneled, crenelled, creneling, crenelling
 
 60: A Bv: crenelate <v>: crenelated, crenelating, crenelates
 60: B: crenellate <v>: crenellated, crenellating, crenellates
@@ -83892,15 +83866,9 @@
 65: A Bv: - <n>: crenelation's-
 65: B: - <n>: crenellation's-
 
-80: A Bv: creneled
-80: B: crenelled
-
-80: A Bv: creneling
-80: B: crenelling
-
 80: crenelle <n>: crenelles
 
-80: -crenelle <v>: crenelled, crenelling, crenelles
+85 [ukacd]: !crenelle <v>: crenelled†, crenelling†, crenelles
 
 70 [5d+2a] 80: crenshaw <n>: crenshaws
 
@@ -84988,7 +84956,7 @@
 
 80: crosscutting <n>: crosscuttings
 
-60: cross-dress <v>: cross-dressed, -, cross-dresses
+60: cross-dress <v>: cross-dressed, cross-dressing, cross-dresses
 
 60: cross-dresser <n>: cross-dressers, cross-dresser's
 
@@ -85113,11 +85081,9 @@
 
 50: crosspiece <n>: crosspieces
 
-60: _: cross-pollinate <v>: cross-pollinated, -, cross-pollinates
+60: _: cross-pollinate <v>: cross-pollinated, cross-pollinating, cross-pollinates
 60: _v: crosspollinate <v>
 ## Compound variant levels are a best guess based on freq and other related info.
-
-70 [3of6] 85 [ukacd]: cross-pollinating <aj>
 
 60: _: cross-pollination <n>
 60: _v: crosspollination <n>
@@ -91551,9 +91517,7 @@
 60: debonairness <n>
 80: - <n>: debonairnesses~
 
-70 [5d+2a] 80: debone <v>: -, deboning, debones
-
-80: deboned <aj>
+70 [5d+2a] 80: debone <v>: deboned, deboning, debones
 
 80: deboner <n>: deboners
 
@@ -92435,9 +92399,7 @@
 
 70 [5d+2a] 80: decongestive
 
-70 [5d+2a] [moby] 80: deconsecrate <v>: -, deconsecrating, deconsecrates
-
-80: deconsecrated <aj>
+70 [5d+2a] [moby] 80: deconsecrate <v>: deconsecrated, deconsecrating, deconsecrates
 
 70 [5d+2a] 80: deconsecration <n>: deconsecrations
 
@@ -92697,9 +92659,7 @@
 
 60: dedicatory <a>
 
-80: dedifferentiate <v>: -, dedifferentiating, dedifferentiates
-
-80: dedifferentiated <aj>
+80: dedifferentiate <v>: dedifferentiated, dedifferentiating, dedifferentiates
 
 70 [moby] 80: dedifferentiation <n>: dedifferentiations
 
@@ -92818,7 +92778,7 @@
 60: _v: deepfrozen
 ## Compound variant levels are a best guess based on freq and other related info.
 
-50: _: deep-fry <v>: -, deep-frying, deep-fries
+50: _: deep-fry <v>: deep-fried, deep-frying, deep-fries
 50: _v: deep fry <v>
 ## Compound variant levels are a best guess based on freq and other related info.
 
@@ -93494,11 +93454,11 @@
 
 50: de Gaulle <n/upper>: de Gaulle's
 
-70 [5d+2a] [moby] 80: degauss <v>: degaussed, -, degausses
+70 [5d+2a] [moby] 80: degauss <v>: degaussed, degaussing, degausses
 
 70 [5d+2a] 80: degausser <n>: degaussers
 
-70 [5d+2a] 80: degaussing <n>
+70 [5d+2a]: degaussing <n>
 
 80: degender <m>: degendered, degendering, degenders
 
@@ -95001,11 +94961,8 @@
 70 [5d+2a] 80: A Z: demythologization <n>: demythologizations, demythologization's
 70 [5d+2a] 80: B: demythologisation <n>: demythologisations, demythologisation's
 
-70 [5d+2a] [moby] 80: A Z: demythologize <v>: -, demythologizing, demythologizes
-70 [5d+2a] [moby] 80: B: demythologise <v>: -, demythologising, demythologises
-
-80: A Z: demythologized <aj>
-80: B: demythologised <aj>
+70 [5d+2a] [moby] 80: A Z: demythologize <v>: demythologized, demythologizing, demythologizes
+70 [5d+2a] [moby] 80: B: demythologise <v>: demythologised, demythologising, demythologises
 
 80: A Z: demythologizer <n>: demythologizers
 80: B: demythologiser <n>
@@ -97554,14 +97511,7 @@
 
 80: devein <v>: deveined, deveining, deveins
 
-85 [stale] [ukacd]: devel <m>: -, -, devels
-85 [stale]: - <m>: develed, develing, -
-
-85 [ukacd]: A: develed
-85 [ukacd]: B: develled
-
-85 [ukacd]: A: develing
-85 [ukacd]: B: develling
+85 [stale] [ukacd]: devel <m>: (A: develed | B: develled), (A: develing | B: develling), devels
 
 35: develop <v>: developed, developing, develops
 
@@ -99888,7 +99838,7 @@
 
 70 [moby] 80 [upper]: Dilantin <n/upper?>: Dilantins-
 
-70 [moby] 80: dilapidate <v>: -, dilapidating, dilapidates
+70 [moby] 80: dilapidate <v>: dilapidated, dilapidating, dilapidates
 
 35: dilapidated <aj>
 
@@ -102648,11 +102598,11 @@
 
 85 [ukacd]: disjection <n>: disjections
 
-70 [5d+2a] [moby] 80: disjoin <v>: -, disjoining, disjoins
+70 [5d+2a] [moby] 80: disjoin <v>: disjoined, disjoining, disjoins
 
 80: disjoinable
 
-70 [moby] 80: disjoined <aj>
+70 [moby]: disjoined <aj>
 
 35 [ukfreq] 50: disjoint <v>
 50: - <v>: disjointed, disjointing, disjoints
@@ -103222,7 +103172,7 @@
 
 80: dispraisingly
 
-70 [moby] 80: dispread <v>: -, dispreading, dispreads
+70 [moby] 80: dispread <v>: dispread, dispreading, dispreads
 
 85 [ukacd]: disprinced
 
@@ -104297,7 +104247,7 @@
 
 85 [ukacd]: !dive <a>: diver, divest
 
-70 [3of6] [moby] 85 [ukacd]: dive-bomb <v>: dive-bombed, -, dive-bombs
+70 [3of6] [moby] 85 [ukacd]: dive-bomb <v>: dive-bombed, dive-bombing, dive-bombs
 
 80: divebomb <m>: divebombed, divebombing, divebombs
 
@@ -104306,8 +104256,6 @@
 70 [3of6] 85 [ukacd]: _: - <n>
 70 [3of6] 85 [ukacd]: _=: - <n>: dive-bombers
 ## Compound variant levels are a best guess based on freq and other related info.
-
-70 [3of6] 85 [ukacd]: dive-bombing <n>
 
 85 [ukacd]: divellent
 
@@ -106915,7 +106863,7 @@
 
 70 [moby] 85 [ukacd]: double sharp <n>: double sharps
 
-60: double-space <v>: -, -, double-spaces
+60: double-space <v>: double-spaced, double-spacing, double-spaces
 
 40: double-spaced <aj>
 
@@ -107808,9 +107756,7 @@
 
 80: draggingly <av>
 
-70 [moby] 80: draggle <v>: -, draggling, draggles
-
-80: draggled <aj>
+70 [moby] 80: draggle <v>: draggled, draggling, draggles
 
 70 [moby] 85 [ukacd]: _: draggletailed
 70 [moby] 85 [ukacd]: _?: draggle-tailed
@@ -110903,7 +110849,9 @@
 
 80 [moby]: Dycusburg <n/place>
 
-35: dye <n_v>: dyed, dyeing, dyes
+35: dye <n>: dyes
+
+35: dye <v>: dyed, (dyeing | -: dying-†), dyes # fixme: dying: check if variant
 
 80: dyeability <n>: dyeabilities
 
@@ -111410,7 +111358,7 @@
 
 35: ear <n>: ears
 
-85 [ukacd]: -ear <v>: eared, earing, ears
+85 [ukacd]: -ear <v>: eared, (earing | -: earring-), ears # fixme: earring: check if variant
 
 35: earache <n>: earaches
 
@@ -115751,7 +115699,7 @@
 
 35: embassy <n>: embassies, embassy's
 
-70 [5d+2a] [moby] 80: embattle <v>: -, embattling, embattles
+70 [5d+2a] [moby] 80: embattle <v>: embattled, embattling, embattles
 
 40: embattled <aj>
 
@@ -116636,9 +116584,7 @@
 
 85 [ukacd]: emptysis
 
-70 [moby] 80: empurple <v>: -, empurpling, empurples
-
-80: empurpled <aj>
+70 [moby] 80: empurple <v>: empurpled, empurpling, empurples
 
 85 [ukacd]: empusa <n>: empusas
 
@@ -118272,9 +118218,7 @@
 
 50 [name]: Enkidu <n/name?>: Enkidu's
 
-70 [moby] 80: enkindle <v>: -, enkindling, enkindles
-
-80: enkindled <aj>
+70 [moby] 80: enkindle <v>: enkindled, enkindling, enkindles
 
 80: enkindler <n>: enkindlers
 
@@ -119369,11 +119313,9 @@
 
 80: enwound
 
-70 [moby] 80: enwrap <v>: -, enwrapping, enwraps
+70 [moby] 80: enwrap <v>: enwrapped, enwrapping, enwraps
 
 85 [ukacd]: enwrapment <n>: enwrapments
-
-80: enwrapped <aj>
 
 85 [ukacd]: enwrapping <n>: enwrappings!
 
@@ -122828,11 +122770,11 @@
 
 70 [3of6]: e-ticket <n>: e-tickets
 
-70 [moby] 80: etiolate <v>: -, etiolating, etiolates
+70 [moby] 80: etiolate <v>: etiolated, etiolating, etiolates
 
 70 [moby] 80: etiolate <aj>
 
-60 [brif] 70 [3of6] [5d+2a] 80: etiolated <aj>
+60 [brif] 70 [3of6] [5d+2a]: etiolated <aj>
 
 80: etiolation <n>: etiolations
 
@@ -124054,9 +123996,7 @@
 
 50 [name]: Evert <n/name?>: Evert's
 
-70 [moby] 80: evert <v>: everted, -, everts
-
-80: everting <n>
+70 [moby] 80: evert <v>: everted, everting, everts
 
 80 [moby] 85 [ukacd]: Everton <n/place>
 
@@ -124847,7 +124787,7 @@
 
 85 [ukacd]: !excretory <n>: excretories
 
-70 [moby] 80: excruciate <v>: excruciated, -, excruciates
+70 [moby] 80: excruciate <v>: excruciated, excruciating, excruciates
 
 35: excruciating <aj>
 
@@ -127666,8 +127606,8 @@
 35: A Cv: fagot <n> {bundle}: fagots, fagot's
 35: A= B C: faggot <n> {bundle}: faggots, faggot's
 
-80: A Cv: -fagot <v> {bundle}: fagoted, -, -
-80: Av B C: -faggot <v> {bundle}: faggoted, -, -
+80: A Cv: -fagot <v> {bundle}: fagoted, fagoting, -
+80: Av B C: -faggot <v> {bundle}: faggoted, faggoting, -
 
 85 [ukacd]: A B: !faggot <v>
 
@@ -129888,7 +129828,7 @@
 70 [5d+2a] 80: _v: - <n>: featherbeds
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [5d+2a] 80: featherbed <v>: featherbedded, -, featherbeds
+70 [5d+2a] 80: featherbed <v>: featherbedded, featherbedding, featherbeds
 
 50: featherbedding <n>
 80: - <n>: featherbeddings~
@@ -134839,9 +134779,9 @@
 
 80: flectional
 
-70 [5d+2a] [moby] 80: fledge <v>: -, fledging, fledges
+70 [5d+2a] [moby] 80: fledge <v>: fledged, fledging, fledges
 
-35 [ukfreq] 60 [brif] 70 [3of6] [5d+2a] 80: fledged <aj>
+35 [ukfreq] 60 [brif] 70 [3of6] [5d+2a]: fledged <aj>
 
 35: A B C: fledgling <n>: fledglings, fledgling's
 35: AV Bv: fledgeling <n>: fledgelings, fledgeling's
@@ -136728,11 +136668,11 @@
 
 70 [5d+2a] [moby] 80: foliar
 
-70 [5d+2a] [moby] 80: foliate <v>: -, foliating, foliates
+70 [5d+2a] [moby] 80: foliate <v>: foliated, foliating, foliates
 
 70 [5d+2a] [moby] 80: foliate <aj>
 
-70 [5d+2a] [moby] 80: foliated <aj>
+70 [5d+2a] [moby]: foliated <aj>
 
 70 [moby] 80: foliation <n>: foliations
 
@@ -137205,7 +137145,7 @@
 80: _v: - <n>: footlamberts
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [moby] 80: footle <v>: footled, -, footles
+70 [moby] 80: footle <v>: footled, footling, footles
 
 80: footler <n>: footlers
 
@@ -137224,8 +137164,6 @@
 85 [stale]: footlike
 
 60: footling <n>: footlings
-
-85 [ukacd]: !footling <aj>
 
 40: _: footlocker <n>: footlockers
 40: _v: foot locker <n>
@@ -137297,11 +137235,11 @@
 
 40: footsie <n>: footsies
 
-70 [moby] 80: footslog <v>: footslogged, -, footslogs
+70 [moby] 80: footslog <v>: footslogged, footslogging, footslogs
 
 80: footslogger <n>: footsloggers
 
-60 [brif] 80: footslogging
+60 [brif]: footslogging
 
 60: foot soldier <n>: foot soldiers, foot soldier's
 
@@ -139378,7 +139316,7 @@
 60 [brif] 70 [3of6] 80: _V: fox-hunt <n>: fox-hunts
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: foxhunt <v>: foxhunted, -, -
+80: foxhunt <v>: foxhunted, foxhunting, -
 
 80: _: foxhunter <n>: foxhunters
 80: _V: fox-hunter <n>: fox-hunters
@@ -140467,9 +140405,9 @@
 
 40: freeze-dried <aj>
 
-50: freeze-dry <v>: -, -, freeze-dries
+50: freeze-dry <v>: freeze-dried, freeze-drying, freeze-dries
 
-70 [3of6] [moby] 85 [ukacd]: freeze-drying <n>
+70 [moby]: freeze-drying <n>
 
 70 [3of6] 85 [ukacd]: freeze-frame <n>
 70 [3of6]: - <n>: freeze-frames
@@ -141227,16 +141165,10 @@
 
 70 [moby]: Friuli-Venezia Giulia <n/upper?>
 
-70 [moby] 80: frivol <v>: -, -, frivols
-
-80: A: frivoled
-80: B: frivolled
+70 [moby] 80: frivol <v>: (A: frivoled | B: frivolled), (A: frivoling | B: frivolling), frivols
 
 80: A: frivoler <n>: frivolers
 80: B: frivoller <n>: frivollers
-
-80: A: frivoling
-80: B: frivolling
 
 35: frivolity <n>: frivolities
 
@@ -145337,13 +145269,11 @@
 
 80: gasification <n>: gasifications
 
-80: gasified <aj>
-
 80: gasifier <n>: gasifiers
 
 70 [moby] 80: gasiform
 
-70 [moby] 80: gasify <v>: -, gasifying, gasifies
+70 [moby] 80: gasify <v>: gasified, gasifying, gasifies
 
 70 [moby] 85 [ukacd]: gas jet <n>: gas jets
 
@@ -150096,7 +150026,7 @@
 
 70 [5d+2a] 80: globetrot <m>: globetrotted, globetrotting, globetrots
 
-85 [ukacd]: globe-trot <v>: globe-trotted, -, globe-trots
+85 [ukacd]: globe-trot <v>: globe-trotted, globe-trotting, globe-trots
 
 40: _: globetrotter <n>: globetrotters, globetrotter's
 40: _?: globe-trotter <n>: globe-trotters-
@@ -151658,7 +151588,7 @@
 70 [moby]: gold plate <n>
 
 70 [moby] 85 [ukacd]: _: gold plate <v>
-70 [moby] 85 [ukacd]: _v: gold-plate <v>: -, gold-plating, gold-plates
+70 [moby] 85 [ukacd]: _v: gold-plate <v>: gold-plated, gold-plating, gold-plates
 ## Compound variant levels are a best guess based on freq and other related info.
 
 60: gold-plated
@@ -155598,7 +155528,7 @@
 
 85 [ukacd]: Grizelda </upper?>
 
-60 [brif] 70 [3of6] [5d+2a] [moby] 80: grizzle <n_v>: -, grizzling, grizzles
+60 [brif] 70 [3of6] [5d+2a] [moby] 80: grizzle <n_v>: grizzled, grizzling, grizzles
 
 35: grizzled <aj>
 
@@ -155683,7 +155613,7 @@
 80: A: -groin <v> {wall}: groined, groining, groins
 80: B: -groyne <v> {wall}: groyned, groyning, groynes
 
-85 [ukacd]: A B: -groin <v> {body part}
+85 [ukacd]: A B: -groin <v> {body part}: -, groining-, groins
 
 85 [ukacd]: A: groining <n>: groinings!
 #! missing spellings: B Z C D
@@ -160194,7 +160124,7 @@
 70 [5d+2a] 80: _v: - <n>: handwringings
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: handwrite <v>: handwrote, -, handwrites
+80: handwrite <v>: handwrote, handwriting, handwrites
 85 [stale]: - <v>: -, handwrit, -, -
 
 35: handwriting <n>
@@ -161698,15 +161628,7 @@
 
 60: hatcheck <a>
 
-70 [moby] 80: hatchel <n>: hatchels
-
-70 [moby] 85 [ukacd]: hatchel <v>
-
-80: A: hatcheled
-80: B: hatchelled
-
-80: A: hatcheling
-80: B: hatchelling
+70 [moby] 80: hatchel <n_v>: (A: hatcheled | B: hatchelled), (A: hatcheling | B: hatchelling), hatchels
 
 70 [5d+2a] 80: hatcher <n>: hatchers, hatcher's
 
@@ -164346,14 +164268,8 @@
 
 70 [moby] 80: A Dv: hemagglutinate <v>
 70 [moby] 80: B D: haemagglutinate <v>
-80: A Dv: - <v>: -, -, hemagglutinates
+80: A Dv: - <v>: hemagglutinated, hemagglutinating, hemagglutinates
 80: B D: - <v>
-
-80: A Dv: hemagglutinated
-80: B D: haemagglutinated
-
-80: A Dv: hemagglutinating
-80: B D: haemagglutinating
 
 80: A Dv: hemagglutination <n>: hemagglutinations
 80: B D: haemagglutination <n>
@@ -172117,7 +172033,7 @@
 40: _-: house-husband <n>: house-husbands
 ## Compound variant levels are a best guess based on freq and other related info.
 
-80: housekeep <v>: housekept, -, housekeeps
+80: housekeep <v>: housekept, housekeeping, housekeeps
 
 35: housekeeper <n>: housekeepers, housekeeper's
 
@@ -173133,7 +173049,7 @@
 
 80: humified <aj>
 
-80: humify <v>: -, humifying, humifies
+80: humify <v>: humified, humifying, humifies
 
 85 [ukacd]: humiliant
 
@@ -175862,11 +175778,8 @@
 
 80: hypophyseal <aj>
 
-80: A Z: hypophysectomize <v>: -, hypophysectomizing, hypophysectomizes
+80: A Z: hypophysectomize <v>: hypophysectomized, hypophysectomizing, hypophysectomizes
 80: B: hypophysectomise <v>
-
-80: A Z: hypophysectomized <aj>
-80: B: hypophysectomised <aj>
 
 80: hypophysectomy <n>: hypophysectomies
 
@@ -177751,9 +177664,7 @@
 
 50: ill-timed <aj>
 
-35: ill-treat <v>: -, ill-treating, ill-treats
-
-70 [3of6] 85 [ukacd]: ill-treated <aj>
+35: ill-treat <v>: ill-treated, ill-treating, ill-treats
 
 50: ill-treatment <n>
 
@@ -177805,9 +177716,9 @@
 
 50: ill-usage <n>
 
-50: ill-use <v>: -, ill-using, ill-uses
+50: ill-use <v>: ill-used, ill-using, ill-uses
 
-70 [3of6] 85 [ukacd]: ill-used <aj>
+70 [3of6]: ill-used <aj>
 
 35: illusion <n>: illusions
 
@@ -178063,11 +177974,11 @@
 
 85 [ukacd]: imbrex <n>: imbrices
 
-70 [5d+2a] [moby] 80: imbricate <v>: -, imbricating, imbricates
+70 [5d+2a] [moby] 80: imbricate <v>: imbricated, imbricating, imbricates
 
 70 [5d+2a] [moby] 80: imbricate <aj>
 
-70 [5d+2a] 80: imbricated <aj>
+70 [5d+2a]: imbricated <aj>
 
 80: imbricately
 
@@ -180400,11 +180311,9 @@
 
 85 [ukacd]: incarvillea
 
-70 [5d+2a] [moby] 80: incase <v>: -, incasing, incases
+70 [5d+2a] [moby] 80: incase <v>: incased, incasing, incases
 
 70 [3of6]: in case <av>
-
-80: incased <aj>
 
 80: incasement <n>: incasements
 
@@ -182092,7 +182001,7 @@
 
 50: indispensably <a>
 
-70 [moby] 80: indispose <v>: -, indisposing, indisposes
+70 [moby] 80: indispose <v>: indisposed, indisposing, indisposes
 
 35: indisposed <aj>
 
@@ -184018,9 +183927,7 @@
 
 70 [5d+2a] [moby] 80: inhumation <n>: inhumations
 
-70 [moby] 80: inhume <v>: -, inhuming, inhumes
-
-80: inhumed <aj>
+70 [moby] 80: inhume <v>: inhumed, inhuming, inhumes
 
 80: inhumer <n>: inhumers
 
@@ -188122,9 +188029,7 @@
 
 85 [ukacd]: introitus <n>: introituses
 
-70 [5d+2a] [moby] 80: introject <n_v>: -, introjecting, introjects
-
-80: introjected <aj>
+70 [5d+2a] [moby] 80: introject <n_v>: introjected, introjecting, introjects
 
 70 [5d+2a] [moby] 80: introjection <n>: introjections
 
@@ -188869,11 +188774,7 @@
 
 80: iodin <n>: iodins
 
-80: iodinate <v>: -, -, iodinates
-
-80: iodinated <aj>
-
-80: iodinating <aj>
+80: iodinate <v>: iodinated, iodinating, iodinates
 
 80: iodination <n>: iodinations
 
@@ -207886,9 +207787,7 @@
 80: A Z: lexicalization <n>: lexicalizations
 80: B: lexicalisation <n>: lexicalisations
 
-80: lexicalize <v>: -, lexicalizing, lexicalizes
-
-80: lexicalized <aj>
+80: lexicalize <v>: lexicalized, lexicalizing, lexicalizes
 
 70 [5d+2a] 80: lexically <av>
 
@@ -212115,7 +212014,7 @@
 
 85 [ukacd]: log out <v>
 
-70 [moby] 80: logroll <v>: logrolled, -, logrolls
+70 [moby] 80: logroll <v>: logrolled, logrolling, logrolls
 
 85 [ukacd]: log-roll <m>: log-rolled, log-rolling, log-rolls
 
@@ -214465,7 +214364,7 @@
 
 60 [brif] 70 [3of6] [5d+2a] [moby] 80: luge <n>: luges
 
-70 [5d+2a] [moby] 80: luge <v>: luged, lugeing, -
+70 [5d+2a] [moby] 80: luge <v>: luged, (lugeing | luging), - #! unmarked variants: lugeing, luging
 
 85 [ukacd]: lugeing <n>: lugeings!
 
@@ -214487,8 +214386,7 @@
 
 60 [brif] 70 [3of6] [5d+2a] 85 [ukacd]: lughole <n>: lugholes
 
-80: luging <n>
-85 [ukacd]: - <n>: lugings
+85 [ukacd]: luging <n>: lugings
 
 60: lug nut
 
@@ -215695,11 +215593,8 @@
 80: A Z: lyophilization <n>: lyophilizations
 80: B: lyophilisation <n>: lyophilisations
 
-70 [moby] 80: A Z: lyophilize <v>: -, lyophilizing, lyophilizes
-70 [moby] 80: B: lyophilise <v>: -, lyophilising, lyophilises
-
-80: A Z: lyophilized <aj>
-80: B: lyophilised <aj>
+70 [moby] 80: A Z: lyophilize <v>: lyophilized, lyophilizing, lyophilizes
+70 [moby] 80: B: lyophilise <v>: lyophilised, lyophilising, lyophilises
 
 80: A Z: lyophilizer <n>: lyophilizers
 80: B: lyophiliser <n>
@@ -221820,7 +221715,7 @@
 
 85 [ukacd]: Massoretic </upper?>
 
-40: mass-produce <v>: -, mass-producing, mass-produces
+40: mass-produce <v>: mass-produced, mass-producing, mass-produces
 
 60: mass-produced <aj>
 
@@ -231237,7 +231132,7 @@
 
 80: misaim <m>: misaimed, misaiming, misaims
 
-80: misalign <v>: -, misaligning, misaligns
+80: misalign <v>: misaligned, misaligning, misaligns
 
 60: misaligned <a>
 
@@ -231611,9 +231506,7 @@
 
 80: miscut <m>: miscut, miscutting, miscuts
 
-70 [5d+2a] [moby] 80: misdate <v>: misdated, -, misdates
-
-80: misdating <n>
+70 [5d+2a] [moby] 80: misdate <v>: misdated, misdating, misdates
 
 50: misdeal <n_v>: misdealt, misdealing, misdeals
 
@@ -231812,7 +231705,7 @@
 
 80: misgauge <v>: misgauged, misgauging, misgauges
 
-70 [moby] 80: misgive <v>: misgave, misgiven, -, misgives
+70 [moby] 80: misgive <v>: misgave, misgiven, misgiving, misgives
 
 85 [ukacd]: misgived
 
@@ -232041,9 +231934,7 @@
 
 85 [ukacd]: mismatchment <n>: mismatchments
 
-70 [5d+2a] [moby] 80: mismate <v>: -, mismating, mismates
-
-80: mismated <aj>
+70 [5d+2a] [moby] 80: mismate <v>: mismated, mismating, mismates
 
 85 [ukacd]: mismeasure <m>: mismeasured, mismeasuring, mismeasures
 
@@ -235739,7 +235630,7 @@
 35: moonlight <n>
 80: - <n>: moonlights~
 
-35: moonlight <v>: moonlighted, moonlighting, moonlights
+35: moonlight <v>: (moonlighted | moonlit), moonlighting, moonlights #! unmarked variants: moonlighted, moonlit # fixme: moonlit: check if variant
 
 50: moonlighter <n>: moonlighters, moonlighter's
 
@@ -261862,7 +261753,7 @@
 
 85 [ukacd]: outmeasure <m>: outmeasured, outmeasuring, outmeasures
 
-80: outmode <v>: -, outmoding, outmodes
+80: outmode <v>: outmoded, outmoding, outmodes
 
 35: outmoded <aj>
 
@@ -262113,13 +262004,7 @@
 
 80: outring <m>: outrung, outringing, outrings
 
-80: outrival <v>: -, -, outrivals
-
-80: A: outrivaled
-80: B: outrivalled
-
-80: A: outrivaling
-80: B: outrivalling
+80: outrival <v>: (A: outrivaled | B: outrivalled), (A: outrivaling | B: outrivalling), outrivals
 
 70 [moby] 80: outroar <v>: outroared, outroaring, outroars
 
@@ -262690,9 +262575,10 @@
 
 80: overapt
 
+60 [extra] 70 [moby] 80: - <v>: -, overarching, -
 70 [moby] 80: overarch <v>: overarched, -, overarches
 
-60 [brif] [extra] 70 [3of6] [5d+2a] 80: overarching
+60 [brif] [extra] 70 [3of6] [5d+2a]: overarching
 
 80: overarchingly
 
@@ -264061,7 +263947,7 @@
 
 85 [ukacd]: overreckon <m>: overreckoned, overreckoning, overreckons
 
-70 [5d+2a] 80: _: overrefine <v>: -, overrefining, overrefines
+70 [5d+2a] 80: _: overrefine <v>: overrefined, overrefining, overrefines
 70 [5d+2a] 80: _?: over-refine <v>
 ## Compound variant levels are a best guess based on freq and other related info.
 
@@ -264387,7 +264273,7 @@
 
 70 [moby] 80: overstudy <m>: overstudied, overstudying, overstudies
 
-70 [5d+2a] [moby] 80: overstuff <v>: -, overstuffing, overstuffs
+70 [5d+2a] [moby] 80: overstuff <v>: overstuffed, overstuffing, overstuffs
 
 50: overstuffed <aj>
 
@@ -264631,7 +264517,7 @@
 35: overwork <n>
 80: - <n>: overworks~
 
-35: overwork <v>: overworked, overworking, overworks
+35: overwork <v>: (overworked | -: overwrought-), overworking, overworks # fixme: overwrought: check if variant
 
 35 [ukfreq] 40: overworked
 
@@ -266930,11 +266816,9 @@
 
 85 [ukacd]: palsy-walsy <aj>
 
-70 [5d+2a] [moby] 80: palter <v>: paltered, -, palters
+70 [5d+2a] [moby] 80: palter <v>: paltered, paltering, palters
 
 80: palterer <n>: palterers
-
-80: paltering <n>
 
 80: paltrily
 
@@ -269289,14 +269173,13 @@
 
 80: parge <m>: parged, parging, parges
 
-70 [moby] 80: parget <n_v>: (pargeted | pargetted), -, pargets #! unmarked variants: pargeted, pargetted
+70 [moby] 80: parget <n_v>: (pargeted | pargetted), pargetting, pargets #! unmarked variants: pargeted, pargetted
 
 85 [ukacd]: pargeter <n>: pargeters
 
 70 [moby] 80: pargeting <n>: pargetings
 
-80: pargetting <n>
-85 [ukacd]: - <n>: pargettings
+85 [ukacd]: pargetting <n>: pargettings
 
 80: parging <n>: pargings
 
@@ -284879,7 +284762,7 @@
 
 50: pock <n>: pocks
 
-80: -pock <v>: -, pocking, -
+80: -pock <v>: pocked, pocking, -
 
 85 [ukacd]: pockard <n>: pockards
 
@@ -285744,7 +285627,7 @@
 
 50: politic <aj>
 
-85 [ukacd]: !politic <n_v>: politicked†, politicking, politics
+85 [ukacd]: !politic <n_v>: politicked†, politicking†, politics
 
 35: political <aj>
 
@@ -285791,7 +285674,7 @@
 70 [5d+2a]: A Z: politicized
 70 [5d+2a]: B: politicised
 
-70 [5d+2a] [moby] 80: politick <v>: politicked, -, politicks
+70 [5d+2a] [moby] 80: politick <v>: politicked, politicking, politicks
 
 70 [5d+2a] 80: politicker <n>: politickers
 
@@ -303349,9 +303232,9 @@
 
 50 [name] 85 [ukacd]: Radcliffe <n/name?>: Radcliffe's
 
-70 [moby] 80: raddle <n_v>: -, raddling, raddles
+70 [moby] 80: raddle <n_v>: raddled, raddling, raddles
 
-60 [brif] 70 [3of6] [5d+2a] [moby] 80: raddled <aj>
+60 [brif] 70 [3of6] [5d+2a] [moby]: raddled <aj>
 
 85 [ukacd]: raddleman <n>: raddlemen
 
@@ -305132,9 +305015,9 @@
 80: _=: rare-ripe <n>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-70 [5d+2a] 80: rarified <aj>
+70 [5d+2a]: rarified <aj>
 
-70 [5d+2a] 80: rarify <v>: -, rarifying, rarifies
+70 [5d+2a] 80: rarify <v>: rarified, rarifying, rarifies
 
 40: raring <aj>
 
@@ -307313,13 +307196,11 @@
 
 80: recock <m>: recocked, recocking, recocks
 
-80: recode <v>: recoded, -, recodes
+80: recode <v>: recoded, recoding, recodes
 
 80: recodification <n>: recodifications
 
 80: recodify <m>: recodified, recodifying, recodifies
-
-80: recoding <n>
 
 35: recognition <n>
 65: - <n>: recognitions-
@@ -307947,9 +307828,9 @@
 
 70 [5d+2a]: recurvature
 
-70 [5d+2a] [moby] 80: recurve <v>: -, recurving, recurves
+70 [5d+2a] [moby] 80: recurve <v>: recurved, recurving, recurves
 
-70 [moby] 80: recurved <aj>
+70 [moby]: recurved <aj>
 
 85 [ukacd]: recurvirostral
 
@@ -308432,7 +308313,7 @@
 
 40: red-light district <n>: red-light districts
 
-70 [5d+2a] 80: redline <v>: redlined, -, redlines
+70 [5d+2a] 80: redline <v>: redlined, redlining, redlines
 
 85 [ukacd]: red line <n>
 
@@ -310754,9 +310635,7 @@
 
 50: relay race <n>: relay races
 
-50: relearn <v>: relearned, relearning, relearns
-
-80: relearnt
+50: relearn <v>: (relearned | -: relearnt-), relearning, relearns # fixme: relearnt: check if variant
 
 80: releasability <n>: releasabilities
 
@@ -312237,14 +312116,12 @@
 
 80: reposer <n>: reposers
 
-70 [moby] 80: reposit <v>: reposited, -, reposits
+70 [moby] 80: reposit <v>: reposited, repositing, reposits
 
-80: repositing <n>
-
-60 [extra] 70 [moby] 80: reposition <n_v>: -, -, -
+60 [extra] 70 [moby] 80: reposition <n_v>: -, repositioning, -
 70 [moby] 80: - <n_v>: repositioned-, -, repositions-
 
-60 [extra] 80: repositioning <n>
+60 [extra]: repositioning <n>
 
 85 [ukacd]: repositor <n>: repositors
 
@@ -313165,9 +313042,7 @@
 
 85 [ukacd]: resinata <n>: resinatas
 
-70 [moby] 80: resinate <v>: -, resinating, resinates
-
-80: resinated <aj>
+70 [moby] 80: resinate <v>: resinated, resinating, resinates
 
 70 [5d+2a]: resined
 
@@ -314075,11 +313950,11 @@
 
 85 [ukacd]: reticulary
 
-70 [5d+2a] [moby] 80: reticulate <v>: -, reticulating, reticulates
+70 [5d+2a] [moby] 80: reticulate <v>: reticulated, reticulating, reticulates
 
 70 [5d+2a] [moby] 80: reticulate <aj>
 
-60 [brif] 70 [5d+2a] 80: reticulated
+60 [brif] 70 [5d+2a]: reticulated
 
 80: reticulately
 
@@ -316811,9 +316686,7 @@
 
 80: rigidification <n>: rigidifications
 
-70 [moby] 80: rigidify <v>: rigidified, -, rigidifies
-
-80: rigidifying <n>
+70 [moby] 80: rigidify <v>: rigidified, rigidifying, rigidifies
 
 35: rigidity <n>
 65: - <n>: rigidities-
@@ -320017,7 +319890,7 @@
 60 [brif] 70 [5d+2a] [moby] 80: roughcast <n>
 70 [5d+2a] [moby] 80: - <n>: roughcasts-
 
-70 [5d+2a] [moby] 80: roughcast <v>: -, roughcasting, roughcasts
+70 [5d+2a] [moby] 80: roughcast <v>: roughcast, roughcasting, roughcasts
 
 80: roughcaster <n>: roughcasters
 
@@ -325251,11 +325124,11 @@
 
 70 [5d+2a] 80: saponification <n>: saponifications
 
-70 [5d+2a] 80: saponified <aj>
+70 [5d+2a]: saponified <aj>
 
 80: saponifier <n>: saponifiers
 
-70 [5d+2a] [moby] 80: saponify <v>: -, saponifying, saponifies
+70 [5d+2a] [moby] 80: saponify <v>: saponified, saponifying, saponifies
 
 70 [moby] 80: saponin <n>: saponins
 
@@ -337694,7 +337567,7 @@
 
 35: shirt <n>: shirts, shirt's
 
-85 [ukacd]: !shirt <v>: shirted, -, -
+85 [ukacd]: !shirt <v>: shirted, shirting, -
 
 60 [coca-llm] 80: _: shirtdress <n>: shirtdresses
 60 [coca-llm] 80: _=: shirt dress <n>: shirt dresses
@@ -339833,7 +339706,7 @@
 
 85 [ukacd]: sightscreen <n>: sightscreens
 
-70 [5d+2a] 80: sightsee <v>: sightsaw, sightseen, -, sightsees
+70 [5d+2a] 80: sightsee <v>: sightsaw, sightseen, sightseeing, sightsees
 
 40: _: sightseeing <n>
 40: _v: sight-seeing <n>
@@ -340978,7 +340851,9 @@
 
 60: Singaporean <aj/demonym>
 
-35: singe <n_v>: singed, singeing, singes
+35: singe <n>: singes
+
+35: singe <v>: singed, (singeing | -: singing-†), singes # fixme: singing: check if variant
 
 35: singer <n>: singers, singer's
 
@@ -341274,11 +341149,9 @@
 60: sin tax <n>
 65: - <n>: sin taxes-
 
-70 [5d+2a] [moby] 80: sinter <v>: -, sintering, sinters
+70 [5d+2a] [moby] 80: sinter <v>: sintered, sintering, sinters
 
 80: sinterability <n>: sinterabilities
-
-80: sintered <aj>
 
 85 [ukacd]: sintery
 
@@ -343767,9 +343640,9 @@
 
 35: slogan <n>: slogans
 
-70 [moby] 80: sloganeer <n_v>: sloganeered, -, sloganeers, sloganeer's
+70 [moby] 80: sloganeer <n_v>: sloganeered, sloganeering, sloganeers, sloganeer's
 
-60 [brif] 70 [3of6] [5d+2a] 80: sloganeering <n>
+60 [brif] 70 [3of6] [5d+2a]: sloganeering <n>
 
 80: A Z: sloganize <m>: sloganized, sloganizing, sloganizes
 80: B: sloganise <m>: sloganised, sloganising, sloganises
@@ -344421,7 +344294,7 @@
 
 85 [ukacd]: smatch <m>: smatched, smatching, smatches
 
-70 [5d+2a] [moby] 80: smatter <v>: smattered, -, smatters
+70 [5d+2a] [moby] 80: smatter <v>: smattered, smattering, smatters
 
 80: smatterer <n>: smatterers
 
@@ -344821,9 +344694,7 @@
 
 85 [ukacd]: smoothe <a>: smoother†, smoothest†
 
-70 [moby] 80: smoothen <v>: -, smoothening, smoothens
-
-80: smoothened <aj>
+70 [moby] 80: smoothen <v>: smoothened, smoothening, smoothens
 
 70 [5d+2a] 80: smoother <n>: smoothers
 
@@ -345511,9 +345382,7 @@
 
 80: snoek <n>: snoeks
 
-60 [brif] 70 [3of6] [5d+2a] 80: snog <v>: snogged, -, snogs
-
-60 [brif] 70 [3of6] 80: snogging <n>
+60 [brif] 70 [3of6] [5d+2a] 80: snog <v>: snogged, snogging, snogs
 
 80 [moby]: Snohomish <n/place>
 
@@ -348105,7 +347974,7 @@
 
 85 [ukacd]: soral
 
-70 [moby] 80: sorb <n_v>: -, sorbing, sorbs
+70 [moby] 80: sorb <n_v>: sorbed, sorbing, sorbs
 
 80: sorbability <n>: sorbabilities
 
@@ -348114,8 +347983,6 @@
 85 [ukacd]: sorbaria
 
 80: sorbate <n>: sorbates
-
-80: sorbed <aj>
 
 85 [ukacd]: -sorbefacient <n>: sorbefacients
 
@@ -350558,6 +350425,7 @@
 85 [stale]: speltz <n>: speltzes
 
 85 [stale]: spelunk <v>: spelunked, -, spelunks
+85 [stale] [ukacd]: - <v>: -, spelunking, -
 
 50: spelunker <n>: spelunkers, spelunker's
 
@@ -352549,7 +352417,7 @@
 
 35: spotty <aj>: spottier, spottiest
 
-70 [moby] 85 [ukacd]: spot-weld <n_v>: spot-welded, -, spot-welds
+70 [moby] 85 [ukacd]: spot-weld <n_v>: spot-welded, spot-welding, spot-welds
 
 85 [ukacd]: spousage <n>: spousages
 
@@ -352747,7 +352615,7 @@
 
 40: spring chicken <n>: spring chicken's
 
-70 [3of6] [moby] 85 [ukacd]: spring-clean <v>: spring-cleaned, -, spring-cleans
+70 [3of6] [moby] 85 [ukacd]: spring-clean <v>: spring-cleaned, spring-cleaning, spring-cleans
 
 60: spring-cleaning <n>
 
@@ -353496,9 +353364,7 @@
 
 85 [ukacd]: squinancy
 
-70 [moby] 80: squinch <n_v>: -, squinching, squinches
-
-80: squinched <aj>
+70 [moby] 80: squinch <n_v>: squinched, squinching, squinches
 
 80: squinny <m>: squinnied, squinnying, squinnies
 
@@ -357809,7 +357675,7 @@
 50: stoneware <n>
 80: - <n>: stonewares~
 
-80: stonewash <v>: -, stonewashing, stonewashes
+80: stonewash <v>: stonewashed, stonewashing, stonewashes
 
 60: stonewashed <a>
 
@@ -358108,7 +357974,7 @@
 
 85 [ukacd]: A B: -story <v> {book}: storied, storying, stories
 
-85 [ukacd]: A Cv DV: -story <v> {level of building}
+85 [ukacd]: A Cv DV: -story <v> {level of building}: storied-, storying-, stories
 85 [ukacd]: AV B C D: -storey <v> {level of building}
 
 60: storyboard <n>: storyboards
@@ -359106,7 +358972,7 @@
 
 60: stria <n>: striae
 
-70 [5d+2a] [moby] 80: striate <v>: -, striating, striates
+70 [5d+2a] [moby] 80: striate <v>: striated, striating, striates
 
 70 [5d+2a] [moby] 80: striate <aj>
 
@@ -362188,11 +362054,8 @@
 80: A Z: suburbanization <n>: suburbanizations
 80: B: suburbanisation <n>: suburbanisations
 
-70 [moby] 80: A Z: suburbanize <v>: -, suburbanizing, suburbanizes
-70 [moby] 80: B: suburbanise <v>: -, suburbanising, suburbanises
-
-80: A Z: suburbanized <aj>
-80: B: suburbanised <aj>
+70 [moby] 80: A Z: suburbanize <v>: suburbanized, suburbanizing, suburbanizes
+70 [moby] 80: B: suburbanise <v>: suburbanised, suburbanising, suburbanises
 
 85 [stale]: suburbed
 
@@ -367079,9 +366942,9 @@
 
 70 [3of6] [moby] 85 [ukacd]: swing door <n>: swing doors
 
-70 [5d+2a] [moby] 80: swinge <v>: swinged, -, swinges
+70 [5d+2a] [moby] 80: swinge <v>: swinged, (swingeing | swinging†), swinges #! unmarked variants: swingeing, swinging
 
-60 [brif] 70 [3of6] [moby] 80: swingeing <aj>
+60 [brif] 70 [3of6] [moby]: swingeing <aj>
 
 85 [ukacd]: swingeingly
 
@@ -378162,7 +378025,7 @@
 70 [moby] 80: thromboplastin <n>: thromboplastins
 
 80: - <v>: -, thrombosing, -
-85 [ukacd]: thrombose <v>
+85 [ukacd]: thrombose <v>: thrombosed, -, -
 
 80: thrombosed <aj>
 
@@ -380440,13 +380303,7 @@
 
 60: tittle-tattle <n_v>: -, -, -
 
-70 [moby] 80: tittup <v>: -, -, tittups
-
-80: A: tittuped
-80: B: tittupped
-
-80: A: tittuping
-80: B: tittupping
+70 [moby] 80: tittup <v>: (A: tittuped | B: tittupped), (A: tittuping | B: tittupping), tittups
 
 80: A: tittupy
 80: B: tittuppy
@@ -390687,11 +390544,9 @@
 
 85 [ukacd]: twostroke
 
-50: two-time <v>: two-timed, -, two-times
+50: two-time <v>: two-timed, two-timing, two-times
 
 50: two-timer <n>: two-timers, two-timer's
-
-70 [3of6] 85 [ukacd]: two-timing <aj>
 
 40: two-tone
 
@@ -392745,7 +392600,7 @@
 
 85 [ukacd]: unarisen
 
-70 [5d+2a] [moby] 80: unarm <v>: -, unarming, unarms
+70 [5d+2a] [moby] 80: unarm <v>: unarmed, unarming, unarms
 
 35: unarmed <aj>
 
@@ -392993,7 +392848,7 @@
 
 60: unbaked <a>
 
-60 [brif] 70 [3of6] [5d+2a] [moby] 80: unbalance <n_v>: -, unbalancing, unbalances
+60 [brif] 70 [3of6] [5d+2a] [moby] 80: unbalance <n_v>: unbalanced, unbalancing, unbalances
 
 80: unbalanceable
 
@@ -393046,7 +392901,7 @@
 
 80: unbe
 
-85 [stale] [ukacd]: unbear <m>: (unbeared | unborne), unborn, unbearing, unbears #! unmarked variants: unbeared, unborne
+85 [stale] [ukacd]: unbear <m>: (unbeared | unborn | unborne), unborn, unbearing, unbears #! unmarked variants: unbeared, unborn, unborne
 
 35: unbearable <aj>
 
@@ -393128,9 +392983,7 @@
 
 70 [5d+2a] 80: unbeloved <aj>
 
-70 [moby] 80: unbelt <v>: -, unbelting, unbelts
-
-80: unbelted <aj>
+70 [moby] 80: unbelt <v>: unbelted, unbelting, unbelts
 
 80: unbemused
 
@@ -393352,9 +393205,7 @@
 
 60 [extra] 80: unbox <v>: unboxed, unboxing, unboxes
 
-70 [moby] 80: unbrace <v>: -, unbracing, unbraces
-
-80: unbraced <aj>
+70 [moby] 80: unbrace <v>: unbraced, unbracing, unbraces
 
 80: unbracketed
 
@@ -393392,7 +393243,7 @@
 
 80: unbridged
 
-70 [5d+2a] [moby] 80: unbridle <v>: -, unbridling, unbridles
+70 [5d+2a] [moby] 80: unbridle <v>: unbridled, unbridling, unbridles
 
 40: unbridled <aj>
 
@@ -393910,9 +393761,7 @@
 
 70 [moby] 80: unclinch <m>: unclinched, unclinching, unclinches
 
-80: unclip <v>: -, unclipping, unclips
-
-80: unclipped <aj>
+80: unclip <v>: unclipped, unclipping, unclips
 
 60: uncloak <v>: uncloaked, uncloaking, uncloaks
 
@@ -393924,7 +393773,7 @@
 
 70 [5d+2a]: unclosed
 
-60: unclothe <v>: unclothed, unclothing, unclothes
+60: unclothe <v>: (unclothed | -: unclad-), unclothing, unclothes # fixme: unclad: check if variant
 
 60 [brif] 70 [3of6] [5d+2a]: unclothed <aj>
 
@@ -393950,7 +393799,7 @@
 
 85 [ukacd]: unclutch <m>: unclutched, unclutching, unclutches
 
-60 [extra] 80: unclutter <v>: -, uncluttering, unclutters
+60 [extra] 80: unclutter <v>: uncluttered, uncluttering, unclutters
 
 50: uncluttered <aj>
 
@@ -394970,7 +394819,7 @@
 
 85 [ukacd]: underdeck <n>: underdecks
 
-80: underdevelop <v>: -, underdeveloping, underdevelops
+80: underdevelop <v>: underdeveloped, underdeveloping, underdevelops
 
 50: underdeveloped <aj>
 
@@ -394997,9 +394846,9 @@
 
 85 [ukacd]: underdrawing <n>: underdrawings
 
-70 [5d+2a] 80: underdress <v>: -, underdressing, underdresses
+70 [5d+2a] 80: underdress <v>: underdressed, underdressing, underdresses
 
-60 [coca-llm] 70 [3of6] 80: underdressed <aj>
+60 [coca-llm] 70 [3of6]: underdressed <aj>
 
 85 [ukacd]: underdrive
 
@@ -395214,7 +395063,7 @@
 
 85 [ukacd]: undernote <m>: undernoted, undernoting, undernotes
 
-80: undernourish <v>: -, undernourishing, undernourishes
+80: undernourish <v>: undernourished, undernourishing, undernourishes
 
 35: undernourished <aj>
 
@@ -395953,9 +395802,9 @@
 80: A Z: undramatized <n>
 80: B: undramatised <n>
 
-70 [moby] 80: undrape <v>: -, undraping, undrapes
+70 [moby] 80: undrape <v>: undraped, undraping, undrapes
 
-70 [5d+2a] 80: undraped <aj>
+70 [5d+2a]: undraped <aj>
 
 80: undraw <m>: undrew, undrawn, undrawing, undraws
 
@@ -397287,7 +397136,7 @@
 
 80: unhairer <n>: unhairers
 
-70 [moby] 80: unhallow <v>: -, unhallowing, unhallows
+70 [moby] 80: unhallow <v>: unhallowed, unhallowing, unhallows
 
 60: unhallowed <aj>
 
@@ -400973,7 +400822,7 @@
 
 80: unsanctified <aj>
 
-85 [ukacd]: unsanctify <v>: -, unsanctifying, unsanctifies
+85 [ukacd]: unsanctify <v>: unsanctified, unsanctifying, unsanctifies
 
 60: unsanctioned <aj>
 
@@ -401297,9 +401146,7 @@
 
 80: unsewn
 
-70 [moby] 80: unsex <v>: -, unsexing, unsexes
-
-80: unsexed <aj>
+70 [moby] 80: unsex <v>: unsexed, unsexing, unsexes
 
 85 [ukacd]: unsexist
 
@@ -401853,7 +401700,7 @@
 
 80: unstriated
 
-70 [5d+2a] [moby] 80: unstring <v>: -, unstringing, unstrings
+70 [5d+2a] [moby] 80: unstring <v>: unstrung, unstringing, unstrings
 
 85 [ukacd]: unstringed
 
@@ -402177,7 +402024,7 @@
 
 60 [coca-llm] 70 [5d+2a] 80: untaxed <aj>
 
-70 [moby] 80: unteach <v>: -, unteaching, unteaches
+70 [moby] 80: unteach <v>: untaught, unteaching, unteaches
 
 60: unteachable <a>
 
@@ -402256,9 +402103,9 @@
 
 85 [ukacd]: unthatch <m>: unthatched, unthatching, unthatches
 
-85 [ukacd]: unthaw <v>: -, unthawing, unthaws
+85 [ukacd]: unthaw <v>: unthawed, unthawing, unthaws
 
-85 [stale] [ukacd]: unthawed <aj>
+85 [stale]: unthawed <aj>
 
 85 [ukacd]: untheological
 
@@ -402859,8 +402706,7 @@
 
 70 [5d+2a] 80: unweathered <aj>
 
-70 [5d+2a] [moby] 80: unweave <v>: -, unweaving, unweaves
-70 [5d+2a] [moby] 85 [ukacd]: - <v>: unweaved, -, -
+70 [5d+2a] [moby] 80: unweave <v>: (unwoven | -: unweaved), unweaving, unweaves # fixme: unweaved: check if variant
 
 85 [ukacd]: unwebbed <aj>
 
@@ -403590,7 +403436,7 @@
 
 85 [ukacd]: uprisal <n>: uprisals
 
-70 [moby] 80: uprise <v>: uprose, uprisen, -, uprises
+70 [moby] 80: uprise <v>: uprose, uprisen, uprising, uprises
 
 80: upriser <n>: uprisers
 
@@ -406374,14 +406220,8 @@
 
 35: vase <n>: vases, vase's
 
-70 [5d+2a] 80: A Z: vasectomize <v>: -, -, vasectomizes
+70 [5d+2a] 80: A Z: vasectomize <v>: vasectomized, vasectomizing, vasectomizes
 70 [5d+2a] 80: B: vasectomise <v>
-
-80: A Z: vasectomized
-80: B: vasectomised
-
-80: A Z: vasectomizing
-80: B: vasectomising
 
 40: vasectomy <n>: vasectomies
 
@@ -407896,7 +407736,7 @@
 
 80: vermicularly
 
-70 [moby] 80: vermiculate <v>: -, vermiculating, vermiculates
+70 [moby] 80: vermiculate <v>: vermiculated, vermiculating, vermiculates
 
 70 [moby] 80: vermiculate <aj>
 
@@ -409908,13 +409748,7 @@
 80: A Z: virilization <n>: virilizations
 80: B: virilisation <n>: virilisations
 
-80: virilize <v>: -, -, virilizes
-
-80: A Z: virilized
-80: B: virilised
-
-80: A Z: virilizing
-80: B: virilising
+80: virilize <v>: virilized, virilizing, virilizes
 
 80: virilocal
 
@@ -418401,7 +418235,7 @@
 
 85 [stale]: whoosis <n>: whoosises
 
-60 [brif] 70 [5d+2a] [moby] 80: whop <v>: whopped, -, whops
+60 [brif] 70 [5d+2a] [moby] 80: whop <v>: whopped, whopping, whops
 
 35: whopper <n>: whoppers
 
@@ -421362,7 +421196,7 @@
 
 50: woodshed <n>: woodsheds
 
-80: -woodshed <v>: woodshedded, woodshedding, woodsheds
+80: -woodshed <v>: (woodshedded | -: woodshed-), woodshedding, woodsheds # fixme: woodshed: check if variant
 
 80 [moby]: Woodshole <n/place>
 
@@ -421513,7 +421347,7 @@
 
 80 [moby]: Woolford <n/place>
 
-70 [5d+2a] 80: woolgather <v>: woolgathered, -, woolgathers
+70 [5d+2a] 80: woolgather <v>: woolgathered, woolgathering, woolgathers
 
 80: woolgatherer <n>: woolgatherers
 

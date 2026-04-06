@@ -29673,6 +29673,7 @@ adducible
 adducing
 adduct
 adducted
+adducting
 adduction
 adductions
 adductor
@@ -32188,6 +32189,7 @@ ammoniac
 ammoniacal
 ammoniacs
 ammoniate
+ammoniated
 ammoniates
 ammoniating
 ammonic
@@ -37076,6 +37078,7 @@ babassu
 babassus
 babbitt
 babbitted
+babbitting
 babbitts
 babble
 babbled
@@ -38611,6 +38614,7 @@ bastinaded
 bastinades
 bastinading
 bastinado
+bastinadoed
 bastinadoing
 bastinados
 basting
@@ -39111,6 +39115,7 @@ bedevilling
 bedevilment
 bedevils
 bedew
+bedewed
 bedewing
 bedews
 bedfast
@@ -39279,6 +39284,7 @@ befogging
 befogs
 befool
 befooled
+befooling
 befools
 before
 beforehand
@@ -40758,6 +40764,7 @@ birianis
 biriyani
 birl
 birled
+birling
 birls
 birr
 birred
@@ -40902,6 +40909,7 @@ bitterweeds
 bittier
 bittiest
 bittiness
+bitting
 bitts
 bitty
 bitumen
@@ -42532,6 +42540,7 @@ bootlicked
 bootlicker
 bootlicker's
 bootlickers
+bootlicking
 bootlicks
 boots
 bootstrap
@@ -44810,6 +44819,7 @@ burka
 burka's
 burkas
 burke
+burked
 burkes
 burking
 burl
@@ -46650,7 +46660,11 @@ caracara
 caracara's
 caracaras
 caracole
+caracoled
 caracoles
+caracoling
+caracolled
+caracolling
 caracul
 caracul's
 carafe
@@ -49318,6 +49332,7 @@ chela
 chela's
 chelas
 chelate
+chelated
 chelates
 chelating
 chelicera
@@ -57840,6 +57855,8 @@ crenelating
 crenelation
 crenelation's
 crenelations
+creneled
+creneling
 crenellate
 crenellated
 crenellates
@@ -57847,6 +57864,8 @@ crenellating
 crenellation
 crenellation's
 crenellations
+crenelled
+crenelling
 crenels
 crenshaw
 crenshaws
@@ -60463,6 +60482,7 @@ debonaire
 debonairly
 debonairness
 debone
+deboned
 debones
 deboning
 debouch
@@ -60937,6 +60957,7 @@ decongestions
 decongestive
 decongests
 deconsecrate
+deconsecrated
 deconsecrates
 deconsecrating
 deconsecration
@@ -62222,12 +62243,14 @@ demythologisation
 demythologisation's
 demythologisations
 demythologise
+demythologised
 demythologises
 demythologising
 demythologization
 demythologization's
 demythologizations
 demythologize
+demythologized
 demythologizes
 demythologizing
 den
@@ -67393,6 +67416,7 @@ draggier
 draggiest
 dragging
 draggle
+draggled
 draggles
 draggletailed
 draggling
@@ -70459,6 +70483,7 @@ emptor's
 empty
 emptying
 empurple
+empurpled
 empurples
 empurpling
 empyema
@@ -71152,6 +71177,7 @@ enjoyment
 enjoyments
 enjoys
 enkindle
+enkindled
 enkindles
 enkindling
 enlace
@@ -71704,6 +71730,7 @@ enwombed
 enwombing
 enwombs
 enwrap
+enwrapped
 enwrapping
 enwraps
 enwreathe
@@ -73148,6 +73175,7 @@ eversion
 eversions
 evert
 everted
+everting
 evertor
 evertors
 everts
@@ -79817,6 +79845,8 @@ fritz
 frivol
 frivolities
 frivolity
+frivolled
+frivolling
 frivolous
 frivolously
 frivolousness
@@ -81275,6 +81305,7 @@ gashes
 gashing
 gasholder
 gasholders
+gasified
 gasifies
 gasiform
 gasify
@@ -86720,6 +86751,8 @@ hatcheck
 hatchecks
 hatched
 hatchel
+hatchelled
+hatchelling
 hatchels
 hatcher
 hatcher's
@@ -92635,6 +92668,7 @@ incarnation
 incarnation's
 incarnations
 incase
+incased
 incases
 incasing
 incautious
@@ -94104,6 +94138,7 @@ inhumannesses
 inhumation
 inhumations
 inhume
+inhumed
 inhumes
 inhuming
 inia
@@ -95761,6 +95796,7 @@ introgressions
 introit
 introits
 introject
+introjected
 introjecting
 introjection
 introjections
@@ -103378,6 +103414,7 @@ luggers
 lugging
 lughole
 lugholes
+luging
 lugs
 lugsail
 lugsails
@@ -103756,9 +103793,11 @@ lynxes
 lyonnaise
 lyophilic
 lyophilise
+lyophilised
 lyophilises
 lyophilising
 lyophilize
+lyophilized
 lyophilizes
 lyophilizing
 lyophobic
@@ -108678,6 +108717,7 @@ miscuing
 misdate
 misdated
 misdates
+misdating
 misdeal
 misdealing
 misdeals
@@ -108877,6 +108917,7 @@ mismatched
 mismatches
 mismatching
 mismate
+mismated
 mismates
 mismating
 misname
@@ -119445,6 +119486,7 @@ palsy
 palsying
 palter
 paltered
+paltering
 palters
 paltrier
 paltriest
@@ -120173,6 +120215,7 @@ pargeting
 pargetings
 pargets
 pargetted
+pargetting
 parhelia
 parhelion
 pariah
@@ -135962,6 +136005,7 @@ reposes
 reposing
 reposit
 reposited
+repositing
 reposition
 repositioned
 repositioning
@@ -136443,6 +136487,7 @@ resiliently
 resiling
 resin
 resinate
+resinated
 resinates
 resinating
 resined
@@ -137924,6 +137969,7 @@ rigidest
 rigidified
 rigidifies
 rigidify
+rigidifying
 rigidities
 rigidity
 rigidly
@@ -145539,6 +145585,7 @@ sinning
 sinology
 sins
 sinter
+sintered
 sintering
 sinters
 sinuate
@@ -146900,6 +146947,7 @@ smoothbore
 smoothbores
 smoothed
 smoothen
+smoothened
 smoothening
 smoothens
 smoother
@@ -148100,6 +148148,7 @@ sops
 sora
 soras
 sorb
+sorbed
 sorbet
 sorbets
 sorbing
@@ -150017,6 +150066,7 @@ squill
 squillion
 squills
 squinch
+squinched
 squinches
 squinching
 squint
@@ -153152,12 +153202,14 @@ suburb
 suburb's
 suburban
 suburbanise
+suburbanised
 suburbanises
 suburbanising
 suburbanite
 suburbanite's
 suburbanites
 suburbanize
+suburbanized
 suburbanizes
 suburbanizing
 suburbans
@@ -159157,6 +159209,8 @@ tittivation's
 tittle
 tittles
 tittup
+tittupped
+tittupping
 tittups
 titty
 titular
@@ -163176,6 +163230,7 @@ unbelieving
 unbelievingly
 unbeloved
 unbelt
+unbelted
 unbelting
 unbelts
 unbend
@@ -163227,6 +163282,7 @@ unboxed
 unboxes
 unboxing
 unbrace
+unbraced
 unbraces
 unbracing
 unbraid
@@ -165524,6 +165580,7 @@ unsettles
 unsettling
 unsettlingly
 unsex
+unsexed
 unsexes
 unsexing
 unsexual
@@ -165925,7 +165982,6 @@ unwearied
 unwearying
 unweathered
 unweave
-unweaved
 unweaves
 unweaving
 unwed
@@ -167019,7 +167075,9 @@ vase's
 vasectomies
 vasectomise
 vasectomize
+vasectomized
 vasectomizes
+vasectomizing
 vasectomy
 vases
 vasoconstriction
@@ -167527,6 +167585,7 @@ vermicide
 vermicides
 vermicular
 vermiculate
+vermiculated
 vermiculates
 vermiculating
 vermiculation
