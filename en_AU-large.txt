@@ -256,7 +256,6 @@ Adapa's
 Adar
 Adar's
 Adars
-Adas
 Addams
 Addams's
 Adderley
@@ -6492,12 +6491,10 @@ DD
 DDS
 DDT
 DDT's
-DDTs
 DE
 DEA
 DEA's
 DEC
-DECed
 DECs
 DEET
 DELTA
@@ -8661,7 +8658,6 @@ FICA's
 FIFO
 FL
 FM
-FMs
 FNMA
 FNMA's
 FOFL
@@ -22488,8 +22484,6 @@ SOB's
 SOBs
 SOP
 SOS
-SOSes
-SOs
 SP
 SPCA
 SPF
@@ -24643,7 +24637,6 @@ Sunnite's
 Sunnites
 Sunnyvale
 Sunnyvale's
-Suns
 Suomi
 Superbowl
 Superbowl's
@@ -25164,7 +25157,6 @@ Tchaikovsky's
 Tchaikovskyan
 Te
 TeX
-TeXes
 Teach
 Teach's
 Teasdale
@@ -27774,7 +27766,6 @@ Xerox's
 Xeroxes
 Xerxes
 Xerxes's
-Xes
 Xhosa
 Xhosa's
 Xhosas
@@ -57279,7 +57270,6 @@ creatinines
 creation
 creation's
 creationism
-creationisms
 creationist
 creationists
 creations
@@ -65710,7 +65700,6 @@ documentarists
 documentary
 documentary's
 documentation
-documentations
 documented
 documenter
 documenters
@@ -74251,7 +74240,6 @@ farmhouse's
 farmhouses
 farming
 farming's
-farmings
 farmland
 farmlands
 farms
@@ -78797,7 +78785,6 @@ frogfish's
 froggier
 froggiest
 frogging
-froggings
 froggy
 froghopper
 froghopper's
@@ -81737,9 +81724,10 @@ globalist
 globalists
 globally
 globate
+globbed
+globbing
 globe
 globe's
-globed
 globefish
 globefish's
 globeflower
@@ -81755,7 +81743,6 @@ globetrotting
 globigerina
 globigerina's
 globin
-globing
 globins
 globoid
 globoids
@@ -82516,7 +82503,6 @@ gormless
 gormlessly
 gormlessness
 gorp
-gorps
 gorse
 gory
 gos
@@ -83809,7 +83795,6 @@ grumpiness
 grumps
 grumpy
 grunge
-grunges
 grungier
 grungiest
 grunginess
@@ -95834,7 +95819,6 @@ jellify
 jellifying
 jelling
 jello
-jellos
 jells
 jelly
 jelly's
@@ -102759,7 +102743,6 @@ magician's
 magicians
 magicked
 magicking
-magics
 magisterial
 magisterially
 magisteries
@@ -103313,7 +103296,6 @@ manageably
 managed
 management
 management's
-managements
 manager
 manager's
 manageress
@@ -109603,7 +109585,9 @@ mundanest
 mundanities
 mundanity
 mung
+munge
 munged
+munges
 munging
 municipal
 municipalise
@@ -109789,7 +109773,6 @@ musicologist
 musicologist's
 musicologists
 musicology
-musics
 musing
 musingly
 musings
@@ -114764,7 +114747,6 @@ optimiser
 optimises
 optimising
 optimism
-optimisms
 optimist
 optimist's
 optimistic
@@ -123203,7 +123185,6 @@ plumbery
 plumbic
 plumbiferous
 plumbing
-plumbings
 plumbism
 plumbisms
 plumbs
@@ -126862,7 +126843,6 @@ programmer's
 programmers
 programmes
 programming
-programmings
 programs
 progress
 progressed
@@ -130109,8 +130089,6 @@ randomises
 randomising
 randomly
 randomness
-randomnesses
-randoms
 rands
 randy
 ranee
@@ -159355,6 +159333,7 @@ tsp
 tsunami
 tsunami's
 tsunamis
+tty
 ttys
 tuatara
 tuatara's
@@ -164669,7 +164648,6 @@ verbena
 verbenaceous
 verbenas
 verbiage
-verbiages
 verbid
 verbids
 verbified
@@ -170045,6 +170023,7 @@ zenith
 zenithal
 zeniths
 zenned
+zenning
 zens
 zeolite
 zeolites

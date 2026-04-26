@@ -1,8 +1,16 @@
 New words, unclassified:
   colorizations
+  fragged
+  fragging
+  globbed
+  globbing
   mammae
+  munge
+  munges
   po'boy
-total: 3
+  tty
+  zenning
+total: 11
 
 New words, in 2of12id, but marked as a variant:
   backslidden
@@ -111,6 +119,7 @@ Missing words, unclassified:
   aphelions
   assaulter
   aviatrices
+  bandwidths
   barmier
   barmiest
   blamer
@@ -124,11 +133,13 @@ Missing words, unclassified:
   cloven
   coccis
   cochleas
+  creationisms
   crematoria
   cudgelings
   deaves
   dialings
   dialyzes
+  documentations
   driers
   dybbuks
   edemas
@@ -138,13 +149,18 @@ Missing words, unclassified:
   eucalypti
   eviller
   evillest
+  farmings
   fayer
   flooder
+  frogging
+  froggings
   furthest
   givings
+  gorps
   grindings
   grovelled
   grovelling
+  grunges
   hes
   hims
   hydrolyses
@@ -152,6 +168,7 @@ Missing words, unclassified:
   hypnoses
   iambi
   intermezzi
+  jellos
   kines
   kuchens
   latices
@@ -162,6 +179,8 @@ Missing words, unclassified:
   lingerings
   lipsticked
   loveys
+  magics
+  managements
   matzohs
   matzos
   matzot
@@ -172,6 +191,7 @@ Missing words, unclassified:
   momenta
   mung
   mungs
+  musics
   mys
   narcoses
   necroses
@@ -179,6 +199,7 @@ Missing words, unclassified:
   nothings
   novae
   nybbles
+  optimisms
   optimums
   opuses
   pareses
@@ -189,14 +210,18 @@ Missing words, unclassified:
   pfennigs
   piing
   plectrums
+  plumbings
   pompadoured
+  programmings
   prophylaxes
   psychoanalyses
   psychoneuroses
+  randomnesses
   rattlings
   ravelings
   raviolis
   reactance
+  recursions
   residua
   revelings
   ringings
@@ -239,6 +264,7 @@ Missing words, unclassified:
   troubleshooted
   tunnelings
   veges
+  verbiages
   verrucas
   vivaria
   wakings
@@ -253,7 +279,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 150
+total: 168
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -354,11 +380,13 @@ Missing words, common variant:
   fête
   fêtes
   hippy
-total: 8
+  waldoes
+total: 9
 
 Missing words, upper:
   ABMs
   Acropolis
+  Adas
   Admiralty
   Adrenalins
   Adventists
@@ -486,6 +514,8 @@ Missing words, upper:
   Crows
   Crucifixions
   Czechoslovakians
+  DDTs
+  DECed
   Dacrons
   Dakotas
   Dame
@@ -519,6 +549,7 @@ Missing words, upper:
   Eurodollars
   Evangelical
   Exchequer
+  FMs
   Fabians
   Fates
   Fathers
@@ -600,6 +631,7 @@ Missing words, upper:
   Kiowas
   Kleenexes
   Klondikes
+  Ks
   Kwanzaas
   Lab
   Lamaisms
@@ -749,6 +781,8 @@ Missing words, upper:
   Roqueforts
   Rubicons
   Rwandas
+  SOSes
+  SOs
   Sabbaths
   Saracens
   Scotchmen
@@ -786,6 +820,7 @@ Missing words, upper:
   Sumatrans
   Sumerians
   Sunnites
+  Suns
   Swahilis
   TELNETTed
   TELNETTing
@@ -799,6 +834,7 @@ Missing words, upper:
   Tamils
   Taoisms
   Tatars
+  TeXes
   Teflons
   TelePrompTer
   Teutons
@@ -837,6 +873,7 @@ Missing words, upper:
   Whitsundays
   Windsors
   Worcesters
+  Xes
   Xians
   Yorkshires
   Yugoslavs
@@ -846,7 +883,7 @@ Missing words, upper:
   Zions
   Zoroastrianisms
   Zoroastrians
-total: 489
+total: 499
 
 Missing words, variant:
   bauds
@@ -2899,6 +2936,8 @@ Missing words, ok, uncommon derived aj/av:
   cutesiest
   fayest
   flashest
+  fragiler
+  fragilest
   hepper
   heppest
   impurer
@@ -2915,13 +2954,14 @@ Missing words, ok, uncommon derived aj/av:
   uncleanliest
   unsafer
   unsafest
-total: 31
+total: 33
 
 Missing words, ok, uncommon form:
   accessioned
   accessioning
   aliened
   aliening
+  alts
   anons
   antipodals
   ashed
@@ -2942,6 +2982,8 @@ Missing words, ok, uncommon form:
   dowdies
   glamoured
   glamouring
+  globed
+  globing
   grahams
   gruelings
   humblings
@@ -2967,6 +3009,7 @@ Missing words, ok, uncommon form:
   pretrials
   proportionals
   ragtags
+  randoms
   renegaded
   renegading
   repleted
@@ -3005,7 +3048,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 87
+total: 91
 
 Missing words, ok, variant:
   Curacao

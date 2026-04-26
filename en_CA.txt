@@ -183,7 +183,6 @@ Adana
 Adana's
 Adar
 Adar's
-Adas
 Addams
 Addams's
 Adderley
@@ -4753,12 +4752,10 @@ DD
 DDS
 DDT
 DDT's
-DDTs
 DE
 DEA
 DEA's
 DEC
-DECed
 DECs
 DH
 DHS
@@ -6348,7 +6345,6 @@ FICA's
 FIFO
 FL
 FM
-FMs
 FNMA
 FNMA's
 FOFL
@@ -10408,7 +10404,6 @@ Krupp
 Krupp's
 Krystal
 Krystal's
-Ks
 Kshatriya
 Kshatriya's
 Kublai
@@ -16424,8 +16419,6 @@ SOB's
 SOBs
 SOP
 SOS
-SOSes
-SOs
 SPCA
 SPF
 SQL
@@ -17975,7 +17968,6 @@ Sunnite
 Sunnite's
 Sunnyvale
 Sunnyvale's
-Suns
 Superbowl
 Superbowl's
 Superfund
@@ -18338,7 +18330,6 @@ Tchaikovsky
 Tchaikovsky's
 Te
 TeX
-TeXes
 Teasdale
 Teasdale's
 Technicolor
@@ -20214,7 +20205,6 @@ Xerox's
 Xeroxes
 Xerxes
 Xerxes's
-Xes
 Xhosa
 Xhosa's
 Xi'an
@@ -22574,7 +22564,6 @@ altruist's
 altruistic
 altruistically
 altruists
-alts
 alum
 alum's
 alumina
@@ -25894,7 +25883,6 @@ bandstands
 bandwagon
 bandwagons
 bandwidth
-bandwidths
 bandy
 bandying
 bane
@@ -38313,7 +38301,6 @@ creating
 creation
 creation's
 creationism
-creationisms
 creationist
 creationists
 creations
@@ -43546,7 +43533,6 @@ documentaries
 documentary
 documentary's
 documentation
-documentations
 documented
 documenting
 documents
@@ -48716,7 +48702,6 @@ farmhouse's
 farmhouses
 farming
 farming's
-farmings
 farmland
 farmlands
 farms
@@ -51285,9 +51270,9 @@ fractured
 fractures
 fracturing
 frag
+fragged
+fragging
 fragile
-fragiler
-fragilest
 fragility
 fragment
 fragment's
@@ -51654,8 +51639,6 @@ frock
 frocks
 frog
 frog's
-frogging
-froggings
 frogman
 frogman's
 frogmarch
@@ -53368,15 +53351,15 @@ globalized
 globalizes
 globalizing
 globally
+globbed
+globbing
 globe
 globe's
-globed
 globes
 globetrotter
 globetrotter's
 globetrotters
 globetrotting
-globing
 globs
 globular
 globule
@@ -53775,7 +53758,6 @@ gormandizes
 gormandizing
 gormless
 gorp
-gorps
 gorse
 gory
 gosh
@@ -54627,7 +54609,6 @@ grumpiness
 grumps
 grumpy
 grunge
-grunges
 grungier
 grungiest
 grungy
@@ -61864,7 +61845,6 @@ jellied
 jellies
 jelling
 jello
-jellos
 jells
 jelly
 jelly's
@@ -65941,7 +65921,6 @@ magician's
 magicians
 magicked
 magicking
-magics
 magisterial
 magisterially
 magistracy
@@ -66290,7 +66269,6 @@ manageable
 managed
 management
 management's
-managements
 manager
 manager's
 manageress
@@ -70192,7 +70170,9 @@ munchkins
 mundane
 mundanely
 mundanes
+munge
 munged
+munges
 munging
 municipal
 municipalities
@@ -70305,7 +70285,6 @@ musicologist
 musicologist's
 musicologists
 musicology
-musics
 musing
 musingly
 musings
@@ -73209,7 +73188,6 @@ optima
 optimal
 optimally
 optimism
-optimisms
 optimist
 optimist's
 optimistic
@@ -78176,7 +78154,6 @@ plumber
 plumber's
 plumbers
 plumbing
-plumbings
 plumbs
 plume
 plume's
@@ -80434,7 +80411,6 @@ programmer
 programmer's
 programmers
 programming
-programmings
 programs
 progress
 progressed
@@ -82454,8 +82430,6 @@ randomizes
 randomizing
 randomly
 randomness
-randomnesses
-randoms
 randy
 ranee
 ranee's
@@ -83576,7 +83550,6 @@ recurrently
 recurring
 recurs
 recursion
-recursions
 recursive
 recursively
 recuse
@@ -101590,6 +101563,7 @@ tsp
 tsunami
 tsunami's
 tsunamis
+tty
 ttys
 tub
 tub's
@@ -104904,7 +104878,6 @@ verbatim
 verbena
 verbenas
 verbiage
-verbiages
 verbose
 verbosely
 verbosity
@@ -105873,7 +105846,6 @@ wakens
 wakes
 waking
 waldo
-waldoes
 waldos
 wale
 waled
@@ -108520,6 +108492,7 @@ zen
 zenith
 zeniths
 zenned
+zenning
 zens
 zeolite
 zeolites

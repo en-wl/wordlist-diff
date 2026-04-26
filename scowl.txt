@@ -245,7 +245,7 @@
 
 60: abbrev. <abbr>
 
-50 hacker: abbrev <n>: abbrevs
+50 hacker: abbrev <n/abbr>: abbrevs
 
 35: abbreviate <v>: abbreviated, abbreviating, abbreviates
 
@@ -3334,8 +3334,7 @@
 
 80 [moby]: -A.D. <abbr>
 
-50: -Ada <n/upper?>: Ada's
-50 hacker: - <n/upper?>: Adas
+50: Ada <n/person>: Ada's
 
 70 [moby] 85 [ukacd]: adactylous <aj>
 
@@ -5209,8 +5208,6 @@
 
 50 [extra]: AFAIK <abbr>
 
-50 hacker: -AFAIK <n/abbr?>
-
 80 [moby]: A.F.A.M. <abbr>
 
 35: afar <av>
@@ -6757,9 +6754,9 @@
 
 80 [moby]: A.I. <abbr>
 
-50 hacker 60: AI <n/upper>
-50 hacker: - <n/upper>: AIs-
-60: - <n/upper>: AI's
+50 hacker 60: AI <n/abbr>
+50 hacker: - <n/abbr>: AIs
+60: - <n/abbr>: AI's
 
 80 [moby]: A.I.A. <abbr>
 
@@ -9939,7 +9936,8 @@
 60: _: alt. <abbr>
 60: _~: alt <abbr>
 
-50 hacker 70 [moby] 80: -alt <n>: alts
+50 hacker 70 [moby] 80: -alt <n>
+70 [moby] 80: - <n>: alts
 
 50: Alta <n/person>: Alta's
 
@@ -21127,8 +21125,8 @@
 
 70 [moby] 80: ascidium <n>: ascidia
 
-50: ASCII <n/upper>: ASCII's
-50 hacker: - <n/upper>: ASCIIs-
+50: ASCII <n/abbr>: ASCII's
+50 hacker: - <n/abbr>: ASCIIs-
 
 70 [moby] 80: ascites <n>
 
@@ -23160,7 +23158,7 @@
 
 35: atomic <aj>
 
-50 hacker 85 [stale] [ukacd]: -atomic <n>
+50 hacker 85 [stale] [ukacd]: !atomic <n>
 85 [stale]: - <n>: atomics
 
 85 [stale] [ukacd]: atomical <aj>
@@ -28687,7 +28685,7 @@
 35: bandwagon <n>: bandwagons
 
 35 [ukfreq] 60 [brif] 70 [3of6] [5d+2a] [moby] 80: bandwidth <n>
-50 hacker 70 [3of6] [5d+2a] [moby] 80: - <n>: bandwidths-
+70 [3of6] [5d+2a] [moby] 80: - <n>: bandwidths-
 
 35: bandy <v>: bandied, bandying, bandies
 
@@ -31239,7 +31237,7 @@
 
 70 [3of6]: BBs </upper?>
 
-50 hacker: -BBS <n/abbr>: BBSes
+50 hacker: BBS <n/abbr>: BBSes
 
 60: BB shot <n/upper>
 
@@ -37697,7 +37695,7 @@
 70 [3of6] [5d+2a] 80: _V: bit-mapped <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
 
-50 hacker: BITNET <n/abbr?>
+50 hacker: BITNET <n/name>
 
 85 [ukacd]: bito <n>: bitos
 
@@ -38518,7 +38516,7 @@
 
 50: blameworthy <aj>
 
-50 hacker: !blammo <m>
+50 hacker: blammo <m>
 
 70 [5d+2a] [moby]: Blanc <n/surname>
 
@@ -38763,8 +38761,9 @@
 
 80: blasty <aj>: blastier†, blastiest†
 
-50 hacker 70 [moby] 80: blat <v>: -, -, blats
-70 [moby] 80: - <v>: blatted†, blatting†, -
+70 [moby] 80: blat <v>: blatted†, blatting†, blats
+
+50 hacker: blat <n>: blats
 
 60: blatancy <n>: blatancies
 
@@ -42301,8 +42300,8 @@
 
 70 [5d+2a]: borewell <n>
 
-50 [name] 85 [ukacd]: Borg <n/surname>: Borg's
-50 hacker: - <n/surname>: Borgs-
+50 [name] 85 [ukacd]: Borg <n/name>: Borg's
+50 hacker: - <n/name>: Borgs-
 
 70 [moby] 80: A: borg <n>
 70 [moby] 80: B: bourg <n>: bourgs
@@ -47159,8 +47158,8 @@
 
 70 [3of6]: BSc <n/abbr>: BScs
 
-50 [name]: BSD <n/abbr?>: BSD's
-50 hacker: - <n/abbr?>: BSDs
+50 [name]: BSD <n/name>: BSD's
+50 hacker: - <n/name>: BSDs
 
 70 [3of6] [5d+2a]: BSE <n/upper?>
 
@@ -50167,7 +50166,7 @@
 
 80: c <x>
 
-50 hacker 80: C <x>
+80: C <x>
 
 50: ca <abbr>
 
@@ -64769,7 +64768,7 @@
 85 [ukacd]: chromatype <n>: chromatypes
 
 35: chrome <n>
-50 hacker 80: - <n>: chromes~
+80: - <n>: chromes~
 
 35: chrome <v>: chromed, chroming, chromes
 
@@ -76265,7 +76264,7 @@
 
 70 [moby]: Cons. <abbr>
 
-50 hacker: -cons <v>: consed, consing, conses
+50 hacker: cons <v>: consed, consing, conses
 
 70 [5d+2a] 80: consanguine <aj>
 
@@ -83606,7 +83605,7 @@
 80: creational <aj>
 
 50: creationism <n>
-50 hacker 80: - <n>: creationisms~
+80: - <n>: creationisms~
 
 60: creationist <n>: creationists
 
@@ -85553,7 +85552,7 @@
 
 85 [ukacd]: Cruft <n/surname>
 
-50 hacker: !cruft <v>: crufted, -, crufts
+50 hacker: cruft <v>: crufted, -, crufts
 
 85 [ukacd]: Cruft's </upper?>
 
@@ -86115,11 +86114,11 @@
 
 80: cs <x>
 
+80: Cs <x>
+
 80 [ucacr]: CS <n/abbr>
 
 80 [moby]: C.S. <abbr>
-
-50 hacker 80: Cs <x>
 
 80: csárdás <n>: csárdáses # accented
 80: _~: csardas <n>: csardases # need-accent
@@ -86255,7 +86254,7 @@
 
 70 [moby] 80: cubiform <aj>
 
-50 hacker: !cubing <m>
+50 hacker: cubing <m>
 
 50: cubism <n>: cubism's
 80: - <n>: cubisms~
@@ -90933,7 +90932,6 @@
 50 hacker: dds
 
 35: DDT <n/upper>: DDT's
-50 hacker: - <n/upper>: DDTs-
 
 80 [ucacr]: DDVP <n/abbr>
 
@@ -91651,7 +91649,7 @@
 
 70 [moby]: dec. <abbr>
 
-50 hacker: !DEC <m/abbr?>: DECed, -, DECs
+50 hacker: DEC <n/name>: DECs
 
 80 [moby]: deca <pre>
 
@@ -91845,7 +91843,7 @@
 85 [ukacd]: decaudate <v>: decaudated, decaudating, decaudates
 
 35: decay <n>: decay's
-50 hacker 80: - <n>: decays~
+80: - <n>: decays~
 
 35: decay <v>: decayed, decaying, decays
 
@@ -94140,7 +94138,7 @@
 
 50: delinquently <av>
 
-50 hacker: !delint <v>: delinted, delinting, -
+50 hacker: delint <v>: delinted, delinting, -
 
 60: deliquesce <v>: deliquesced, deliquescing, deliquesces
 
@@ -94502,8 +94500,7 @@
 80: A Cv DV: - <n>: demeanors~
 80: B C D: - <n>: demeanours~
 
-50 hacker 70 [moby] 80: - <v>: demented, -, -
-70 [moby] 80: dement <v>: -, dementing, dements
+70 [moby] 80: dement <v>: demented, dementing, dements
 
 85 [ukacd]: dementate <v>: dementated, dementating, dementates
 
@@ -94673,6 +94670,7 @@
 80 [moby]: demo <pre>
 
 50 hacker 80: -demo <v>: demoed, demoing, -
+50 hacker: - <v>: -, -, demos
 
 60 [brif] 70 [3of6] [5d+2a] [moby] 80: demob <v>: demobbed, demobbing, demobs
 
@@ -94893,8 +94891,7 @@
 
 80 [moby]: Demorest <n/place>
 
-50 hacker 80: demos <n>
-80: - <n>: demoses
+80: demos <n>: demoses
 
 80 [moby]: Demossville <n/place>
 
@@ -99433,7 +99430,7 @@
 
 80 [moby]: diff. <abbr>
 
-50 hacker: -diff <v>: diffed, diffing, diffs
+50 hacker: diff <v>: diffed, diffing, diffs
 
 85 [ukacd]: diffarreation <n>
 
@@ -100329,7 +100326,7 @@
 
 85 [stale] [ukacd]: !dink <v>: dinked, dinking, dinks
 
-50 hacker: -dink <a>: dinker, -
+50 hacker: dink <a>: dinker, -
 
 70 [moby] 80 [upper]: Dinka <n/upper?>: Dinkas-
 
@@ -104982,7 +104979,7 @@
 35: documentary <aj>
 
 35: documentation <n>
-50 hacker 80: - <n>: documentations~
+80: - <n>: documentations~
 
 80: documentational <aj>
 
@@ -112766,10 +112763,10 @@
 
 50: Ed <n/person>: Ed's
 
-50 hacker 60: ed <n>
-50 hacker 80: - <n>: (ed~ | ?: eds~)
+60: ed <n>
+80: - <n>: (ed~ | ?: eds~)
 
-50 hacker 70 [moby]: !ed <suf>
+70 [moby]: !ed <suf>
 
 70 [5d+2a] [moby] 80: edacious <aj>
 
@@ -115539,7 +115536,7 @@
 
 60 [coca-llm] 70 [moby] 80: elvish <aj>
 
-50 hacker: -elvish <n>
+50 hacker: elvish <n>
 
 80: elvishly <av>
 
@@ -124914,7 +124911,7 @@
 
 60: exec. <abbr>
 
-50 hacker: !exec <v>
+50 hacker: exec <v>
 
 50: execrable <aj>
 
@@ -128696,8 +128693,8 @@
 
 70 [moby]: FAO <n/upper?>: FAO's
 
-50 [+] 70 [3of6] [5d+2a] 80 [upper]: FAQ <n/upper?>
-50 hacker 70 [3of6] [5d+2a] 80 [upper]: - <n/upper?>: FAQs
+50 [+] 70 [3of6] [5d+2a] 80 [upper]: FAQ <n/abbr>
+50 hacker 70 [3of6] [5d+2a] 80 [upper]: - <n/abbr>: FAQs
 
 50 [+] [extra]: FAQ <abbr>
 
@@ -128902,7 +128899,7 @@
 
 35 [ukfreq] 40: farming <n>
 40: - <n>: farming's
-50 hacker 80: - <n>: farmings~
+80: - <n>: farmings~
 
 80 [moby]: Farmingdale <n/place>
 
@@ -136438,11 +136435,12 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 35: FM <n/upper>
-50 hacker: - <n/upper>: FMs-
 
 60: Fm <n/upper>
 
 70 [moby]: fm. <abbr>
+
+50 hacker: FM <abbr>
 
 80 [ucacr]: FMN <n/abbr>
 
@@ -139547,8 +139545,9 @@
 
 80: fractus <n>: fracti
 
-50 hacker 70 [moby] 80: frag <v>: -, -, frags
-70 [moby] 80: - <v>: fragged, fragging, -
+50 hacker: frag <n>: frags
+
+50 hacker 70 [moby] 80: frag <v>: fragged, fragging, frags
 
 85 [ukacd]: Fragaria <n/upper?>
 
@@ -139557,7 +139556,7 @@
 80: fragging <n>: fraggings
 
 35: fragile <aj>
-50 hacker 65: - <aj>: fragiler-, fragilest-
+65: - <aj>: fragiler-, fragilest-
 
 70 [5d+2a] 80: fragilely <av>
 
@@ -141321,10 +141320,6 @@
 
 70 [5d+2a]: frogging
 
-50 hacker: frogging <n>: froggings
-
-50 hacker: !frogging <v>: -, -, froggings
-
 70 [moby] 80: froggy <aj>: froggier, froggiest
 
 70 [moby] 80: _: froghopper <n>: froghoppers, froghopper's
@@ -142024,7 +142019,7 @@
 
 80: fud <n>: fuds
 
-50 hacker: -FUD <n/abbr>: FUDs
+50 hacker: FUD <n/abbr>: FUDs
 
 50: fuddle <n_v>: fuddled, fuddling, fuddles
 
@@ -143322,9 +143317,9 @@
 
 80 [moby]: g. <abbr>
 
-80 [moby]: G. <abbr>
+80: G <x>
 
-50 hacker 80: G <x>
+80 [moby]: G. <abbr>
 
 50: Ga <n/upper>
 
@@ -149995,7 +149990,7 @@
 
 40: glitch <n>: glitches
 
-50 hacker: -glitch <v>: glitched, glitching, glitches
+50 hacker: glitch <v>: glitched, glitching, glitches
 
 70 [5d+2a] 80: glitchy <aj>
 
@@ -150038,7 +150033,8 @@
 
 40: glob <n>: globs, glob's
 
-50 hacker 85 [ukacd]: -glob <v>
+50 hacker 85 [ukacd]: !glob <v>
+50 hacker: - <v>: globbed, globbing, globs
 
 35: global <aj>
 
@@ -150076,8 +150072,7 @@
 35: globe <n>: globes, globe's
 
 35 [ukfreq] 80: -globe <v>
-50 hacker 80: - <v>: globed, globing, -
-80: - <v>: -, -, globes
+80: - <v>: globed, globing, globes
 
 60: globe artichoke <n>: globe artichokes
 
@@ -152623,7 +152618,7 @@
 70 [5d+2a]: gormlessness <n>
 
 50 hacker 60: gorp <n>
-50 hacker 80: - <n>: gorps~
+80: - <n>: gorps~
 
 50: gorse <n>
 80: - <n>: gorses~
@@ -156354,7 +156349,7 @@
 50 [name]: _~: Grunewald <n>: Grunewald's # need-accent # fixme: pos_class originally "name?"
 
 40: grunge <n>
-50 hacker 80: - <n>: grunges~
+80: - <n>: grunges~
 
 85 [ukacd]: !grunge <a>
 
@@ -158109,9 +158104,9 @@
 
 60: H. <abbr>
 
-80: H <x>
+80: h <x>
 
-50 hacker 80: h <x>
+80: H <x>
 
 35: A B: ha <i>
 35: Av Bv: hah <i>
@@ -160958,12 +160953,12 @@
 
 80 [moby]: Hardwick <n/place>
 
-50 hacker 80: - <v>: hardwired, -, -
-80: hardwire <v>: -, hardwiring, hardwires
+80: hardwire <v>: hardwired, hardwiring, hardwires
 
-50 hacker 60: _: hard-wired <aj>
-50 hacker 60: _v: hardwired <aj>
-## Compound variant levels are a best guess based on freq and other related info.
+60: hard-wired
+
+50 hacker 70 [3of6] [5d+2a]: _: hardwired <aj>
+50 hacker 70 [3of6] [5d+2a]: _?: hard-wired <aj>
 
 70 [3of6] 85 [ukacd]: hard-won
 
@@ -171843,7 +171838,6 @@
 
 50 hacker 70 [3of6] [5d+2a] 80: _: hotlink <n>: hotlinks
 50 hacker 70 [3of6] [5d+2a] 80: _v: hot link <n>: hot links
-## Compound variant levels are a best guess based on freq and other related info.
 
 70 [5d+2a]: hotlist <n>
 
@@ -178086,7 +178080,7 @@
 
 50 [extra]: IMHO <abbr>
 
-50 hacker 70 [3of6]: IMHO </abbr?>
+70 [3of6]: IMHO </abbr?>
 
 50 [name] 85 [ukacd]: Imhotep <n/name?>: Imhotep's
 
@@ -180279,7 +180273,7 @@
 50: _: inc. <abbr>
 50: _~: inc <abbr>
 
-50 hacker: -inc <v>: inced, incing, incs
+50 hacker: inc <v>: inced, incing, incs
 
 50: Inca <n/upper>: Inca's
 65: - <n/upper>: Incas-
@@ -186953,7 +186947,7 @@
 35 [+] 70 [3of6] [5d+2a] 85 [ukacd]: internet <n>
 70 [5d+2a]: - <n>: internets-
 
-40: -Internet <n/name>: Internet's
+40: Internet <n/name>: Internet's
 50 hacker: - <n/name>: Internets
 
 70 [3of6]: Internet cafe <n/upper?>: Internet cafes
@@ -192735,7 +192729,7 @@
 40: Jell-O <n/trademark>: Jell-O's
 
 50: jello <n>
-50 hacker 80: - <n>: jellos~
+80: - <n>: jellos~
 
 35: jelly <n_v>: jellied, jellying, jellies, jelly's
 
@@ -195568,9 +195562,9 @@
 
 80: k <x>
 
-80 [moby]: K. <abbr>
+80: K <x>
 
-50 hacker 80: K <x>
+80 [moby]: K. <abbr>
 
 50: K2 <n/upper>
 
@@ -197157,7 +197151,7 @@
 80: kempy <aj>
 
 35 [ukfreq] 50: ken <n>
-50 hacker 80: - <n>: kens~
+50 hacker 80: - <n>: kens
 
 35 [ukfreq] 50: ken <v>
 50: - <v>: (kenned | ~: kent), kenning, kens
@@ -199538,8 +199532,8 @@
 
 50 hacker 70 [5d+2a] 80: kluge <n>: kluges
 
-50 hacker 80: -kluge <v>: kluged, -, kluges
-80: - <v>: -, kluging, -
+50 hacker 80: -kluge <v>: kluged, -, kluges #! unmarked variants: kludgeing, kluging
+80: - <v>: -, (kludgeing | kluging), -
 
 40: klutz <n>: klutzes, klutz's
 
@@ -200833,11 +200827,11 @@
 
 50: KS <n/upper>
 
+70 [3of6]: Ks </upper?>
+
 80: ks <x>
 
-50 hacker 70 [3of6]: Ks </upper?>
-
-50 hacker 80: Ks <x>
+80: Ks <x>
 
 85 [ukacd]: ksar <n>: ksars
 
@@ -209957,7 +209951,7 @@
 35: lint <n>
 80: - <n>: lints~
 
-50 hacker: -lint <v>: linted, linting, lints
+50 hacker: lint <v>: linted, linting, lints
 
 50: lintel <n>: lintels
 
@@ -215868,9 +215862,9 @@
 
 80: m <x>
 
-80 [moby]: M' <pre/upper?>
+80: M <x>
 
-50 hacker 80: M <x>
+80 [moby]: M' <pre/upper?>
 
 35: ma <n>: mas, ma's
 
@@ -216889,7 +216883,7 @@
 80 [upper]: - <n/upper?>: Magianisms
 
 35: magic <n>: magic's
-50 hacker 80: - <n>: magics~
+80: - <n>: magics~
 
 35: magic <aj>
 
@@ -218839,7 +218833,7 @@
 60: managed care
 
 35: management <n>: management's
-50 hacker 80: - <n>: managements~
+80: - <n>: managements~
 
 80: managemental <aj>
 
@@ -224695,7 +224689,7 @@
 
 80 [upper]: MEGO </abbr?>
 
-50 hacker: MEGO <n/abbr?>: MEGOs
+50 hacker: MEGO <n/abbr>: MEGOs
 
 70 [moby] 80: megohm <n>: megohms
 
@@ -231794,10 +231788,9 @@
 
 70 [moby] 80: misfeasor <n>: misfeasors
 
-50 hacker 85 [ukacd]: misfeature <n>: misfeatures
+85 [ukacd]: misfeature <v>: misfeatured, misfeaturing, misfeatures
 
-50 hacker 85 [ukacd]: !misfeature <v>: -, -, misfeatures
-85 [ukacd]: - <v>: misfeatured, misfeaturing, -
+50 hacker 85 [ukacd]: misfeature <n>: misfeatures
 
 85 [ukacd]: misfeed <v>: misfed, misfeeding, misfeeds
 
@@ -233261,7 +233254,7 @@
 
 70 [3of6]: MOD <n/abbr>
 
-50 hacker: -mod <v>: modded, modding, mods
+50 hacker: mod <v>: modded, modding, mod
 
 80: modacrylic <n>: modacrylics
 
@@ -239182,8 +239175,7 @@
 
 60 [coca-llm] 80: multitalented <aj>
 
-50 hacker 60 [extra] 70 [3of6] [5d+2a] 80: multitask <v>: -, -, multitasks
-60 [extra] 70 [3of6] [5d+2a] 80: - <v>: multitasked, multitasking, -
+50 hacker 60 [extra] 70 [3of6] [5d+2a] 80: multitask <v>: multitasked, multitasking, multitasks
 
 60 [coca-llm]: multitasker <n>: multitaskers
 
@@ -239446,8 +239438,7 @@
 
 85 [ukacd]: mungcorn <n>: mungcorns
 
-50 hacker: - <v>: munged, munging, -
-99: munge <v>
+50 hacker: munge <v>: munged, munging, munges
 
 80 [moby]: Munger <n/place>
 
@@ -239962,7 +239953,7 @@
 50 [name]: Musial <n/name?>: Musial's
 
 35: music <n>: music's
-50 hacker 80: - <n>: musics~
+80: - <n>: musics~
 
 85 [ukacd]: !music <v>: musicked†, musicking†, musics
 
@@ -241230,7 +241221,7 @@
 
 80: n <x>
 
-50 hacker 80: N <x>
+80: N <x>
 
 50: Na <n/upper>
 
@@ -253378,7 +253369,7 @@
 
 80: nybble <n>: nybbles
 
-50 hacker: !nybble <v>
+50 hacker: nybble <v>
 
 50: NYC <n/abbr?>
 
@@ -257999,7 +257990,7 @@
 50 hacker 60: op <n>: ops
 60: - <n>: op's
 
-50 hacker 85 [ukacd]: -op <abbr>
+50 hacker 85 [ukacd]: !op <abbr>
 
 80: opacifier <n>: opacifiers
 
@@ -258786,7 +258777,7 @@
 70 [moby] 85 [stale] [ukacd]: optime <n>: optimes
 
 35: optimism <n>
-50 hacker 80: - <n>: optimisms~
+80: - <n>: optimisms~
 
 35: optimist <n>: optimists, optimist's
 
@@ -262942,7 +262933,7 @@
 
 80: overclear <v>: overcleared, overclearing, overclears
 
-50 hacker: !overclock <v>: overclocked, overclocking, -
+50 hacker: overclock <v>: overclocked, overclocking, -
 
 70 [5d+2a] 80: overclothes <n>
 
@@ -276386,7 +276377,7 @@
 
 85 [ukacd]: pessimal <aj>
 
-50 hacker: !pessimal <m>
+50 hacker: pessimal <m>
 
 35: pessimism <n>
 80: - <n>: pessimisms~
@@ -284407,7 +284398,7 @@
 70 [moby] 80: plumbiferous <aj>
 
 35: plumbing <n>
-50 hacker 80: - <n>: plumbings~
+80: - <n>: plumbings~
 
 70 [moby] 80: plumbism <n>: plumbisms
 
@@ -284760,7 +284751,7 @@
 
 80 [moby]: -P.M. <abbr>
 
-50 hacker: -PM <v/abbr?>: PMed, PMing, PMs
+50 hacker: PM <v>: PMed, PMing, PMs
 
 80 [moby]: P.M.G. <abbr>
 
@@ -295052,8 +295043,8 @@
 
 35 [ukfreq] 40: A B: programming <n>
 35 [ukfreq] 40: Av: programing <n>
-50 hacker 80: A B: - <n>: programmings~
-50 hacker 80: Av: - <n>: programings~
+80: A B: - <n>: programmings~
+80: Av: - <n>: programings~
 
 70 [moby]: program music <n>
 
@@ -302162,7 +302153,7 @@
 
 80 [moby]: ques. <abbr>
 
-50 hacker: -ques <n>
+50 hacker: ques <n>
 
 50 [+] 70 [5d+2a] 80: quesadilla <n>: quesadillas
 70 [5d+2a] 80: - <n>: quesadilla's
@@ -303006,9 +302997,11 @@
 
 60: qwerty <aj>
 
+70 [3of6] [5d+2a] 80 [upper] 85 [ukacd]: QWERTY </abbr?>
+
 80: -qwerty <n>: qwertys
 
-50 hacker 70 [3of6] [5d+2a] 80 [upper] 85 [ukacd]: QWERTY </abbr?>
+50 hacker: QWERTY <n/abbr>
 
 40: r <n>
 
@@ -304823,7 +304816,7 @@
 
 35: random <aj>
 
-50 hacker 80: -random <n>: randoms
+80: -random <n>: randoms
 
 60: _: random-access
 60: _=: random access
@@ -304847,7 +304840,7 @@
 35 [ukfreq] 40: randomly <av>
 
 35 [ukfreq] 50: randomness <n>
-50 hacker 80: - <n>: randomnesses~
+80: - <n>: randomnesses~
 
 85 [ukacd]: randomwise <av>
 
@@ -308000,7 +307993,7 @@
 70 [5d+2a]: recurring <aj>
 
 35 [ukfreq] 70 [5d+2a] [moby] 80: recursion <n>
-50 hacker 70 [5d+2a] [moby] 80: - <n>: recursions
+70 [5d+2a] [moby] 80: - <n>: recursions
 
 35 [ukfreq] 60 [coca-llm] 70 [3of6] [5d+2a] 80: recursive <aj>
 
@@ -315315,7 +315308,7 @@
 
 50 [extra]: RFC <abbr>
 
-50 hacker: -RFC <n/abbr>: RFCs
+50 hacker: RFC <n/abbr>: RFCs
 
 50: RFD <n/upper>
 
@@ -320666,8 +320659,6 @@
 50: _~: rte <abbr>
 
 50 [extra]: RTFM <abbr>
-
-50 hacker: !RTFM <v/abbr?>
 
 70 [3of6] [moby]: Rt. Hon. <abbr>
 
@@ -326893,7 +326884,7 @@
 
 70 [moby] 80: scag <n>: scags
 
-50 hacker: !scag <v>: scagged, -, scags
+50 hacker: scag <v>: scagged, -, scags
 
 85 [ukacd]: scaglia <n>
 
@@ -329826,7 +329817,7 @@
 
 85 [ukacd]: scrog <n>: scrogs
 
-50 hacker: !scrog <v>
+50 hacker: scrog <v>
 
 80 [moby]: Scroggins <n/place>
 
@@ -340269,7 +340260,7 @@
 70 [moby] 80: silicle <n>: silicles
 
 35: silicon <n>: silicon's
-50 hacker 80: - <n>: silicons~
+50 hacker 80: - <n>: silicons
 
 70 [moby]: silicon carbide <n>
 
@@ -342821,7 +342812,7 @@
 85 [ukacd]: slabstone <n>: slabstones
 
 35: slack <n>: slack's
-50 hacker 80: - <n>: slacks~
+80: - <n>: slacks~
 
 35: slack <v>: slacked, slacking, slacks
 
@@ -343872,7 +343863,7 @@
 85 [ukacd]: sloot <n>: sloots
 
 35: slop <n>
-50 hacker 80: - <n>: slops~
+80: - <n>: slops~
 
 35: slop <v>: slopped, slopping, slops
 
@@ -346005,8 +345996,6 @@
 80 [moby]: sol. <abbr>
 
 80 [moby]: Sol. <abbr>
-
-50 hacker: -SO <n/abbr>: SOs
 
 35: soak <n_v>: soaked, soaking, soaks
 
@@ -348441,7 +348430,6 @@
 70 [moby] 80: sorus <n>: sori
 
 35: SOS <n/upper>
-50 hacker: - <n/upper>: SOSes-
 
 85 [ukacd]: _V: !sos <v>: sossed†, sossing†, sosses†
 
@@ -363635,9 +363623,7 @@
 
 40: Sun. <abbr>
 
-50 hacker 60: Sun <n/upper>
-50 hacker: - <n/upper>: Suns-
-60: - <n/upper>: Sun's
+60: Sun <n/upper>: Sun's
 
 80 [moby]: Sunapee <n/place>
 
@@ -368048,10 +368034,10 @@
 
 40: A B: sync <n>
 40: AV Bv: synch <n> # fixme: synches: check if variant
-50 hacker 80: A B: - <n>: syncs~
-50 hacker 80: AV Bv: - <n>: (synchs~ | -: synches~)
 65: A B: - <n>: sync's-
 65: AV Bv: - <n>: synch's-
+80: A B: - <n>: syncs~
+80: AV Bv: - <n>: (synchs~ | -: synches~)
 
 40: A B: sync <v>: synced, syncing, syncs
 40: AV Bv: synch <v>: synched, synching, (synchs | -: synches) # fixme: synches: check if variant
@@ -368794,7 +368780,7 @@
 
 80: t <x>
 
-50 hacker 80: T <x>
+80: T <x>
 
 40: TA <n/abbr>
 
@@ -375648,7 +375634,7 @@
 
 80 [moby]: -Tex. <abbr>
 
-50 hacker: TeX <n/upper?>: TeXes
+50 hacker: TeX <n/name>
 
 50 [name]: Texaco <n/name?>: Texaco's
 
@@ -380651,7 +380637,7 @@
 
 35: toad <n>: toads, toad's
 
-50 hacker: !toad <v>
+50 hacker: toad <v>
 
 70 [moby] 80: _: toadeater <n>: toadeaters
 70 [moby] 80: _?: toad-eater <n>
@@ -387743,7 +387729,7 @@
 
 85 [ukacd]: tron <n>: trons
 
-50 hacker: !tron <v>
+50 hacker: tron <v>
 
 70 [moby] 80: trona <n>: tronas
 
@@ -388714,8 +388700,7 @@
 50 [name] 70 [5d+2a] [moby] 80 [upper] 85 [ukacd]: Tswana <n/upper>: Tswana's
 70 [5d+2a] [moby] 80 [upper] 85 [ukacd]: - <n/upper>: Tswanas-
 
-50 hacker: - <n>: ttys
-99: tty <n>
+50 hacker: tty <n>: ttys
 
 60: Tu. <abbr>
 
@@ -390570,10 +390555,9 @@
 
 80: twinjet <n>: twinjets
 
-50 hacker 70 [moby] 85 [ukacd]: twink <n>: twinks
+70 [moby] 85 [ukacd]: twink <v>: twinked, twinking, twinks
 
-50 hacker 70 [moby] 85 [ukacd]: !twink <v>: -, -, twinks
-70 [moby] 85 [ukacd]: - <v>: twinked, twinking, -
+50 hacker 70 [moby] 85 [ukacd]: twink <n>: (twink | twinks) #! unmarked variants: twink, twinks
 
 70 [5d+2a] 80 [upper]: Twinkie <n/upper?>: Twinkies-
 
@@ -398062,8 +398046,6 @@
 
 35 [ukfreq] 50: uninteresting <aj>
 
-50 hacker: uninteresting <n>
-
 80: uninterestingly <av>
 
 85 [ukacd]: unintermitted <aj>
@@ -404383,7 +404365,7 @@
 
 50 [extra]: URL <abbr>
 
-50 hacker 70 [3of6] [5d+2a] 80 [ucacr]: URL <n/upper?>: URLs
+50 hacker 70 [3of6] [5d+2a] 80 [ucacr]: URL <n/abbr>: URLs
 
 85 [ukacd]: urman <n>: urmans
 
@@ -404642,8 +404624,8 @@
 35: uselessness <n>
 80: - <n>: uselessnesses~
 
-50 [name] 70 [3of6] [5d+2a]: Usenet <n/name?>: Usenet's
-50 hacker: - <n/name?>: Usenets-
+50 [name] 70 [3of6] [5d+2a]: Usenet <n/name>: Usenet's
+50 hacker: - <n/name>: Usenets-
 
 70 [5d+2a]: USENET <n/abbr>
 
@@ -407759,7 +407741,7 @@
 85 [ukacd]: verberation <n>: verberations
 
 35 [ukfreq] 50: verbiage <n>
-50 hacker 80: - <n>: verbiages~
+80: - <n>: verbiages~
 
 80: verbicide <n>: verbicides
 
@@ -412728,7 +412710,7 @@
 
 50: Waldo <n/person>: Waldo's
 
-50 hacker 80: waldo <n>: (waldoes | waldos) #! unmarked variants: waldoes, waldos # fixme: waldos: check if variant
+50 hacker 80: waldo <n>: (waldos | v: waldoes) # fixme: waldos: check if variant
 
 80 [moby]: Waldoboro <n/place>
 
@@ -420209,7 +420191,7 @@
 
 40: wired <aj>
 
-50 hacker: -wired <n>: wireds
+50 hacker: wired <n>: wireds
 
 70 [moby] 80: _: wiredraw <v>: wiredrew, wiredrawn, wiredrawing, wiredraws
 70 [moby] 80: _?: wire-draw <v>
@@ -423069,9 +423051,9 @@
 
 40: X <n/upper>
 
-35 roman-numerals 80: x <x>
+80: X <x>
 
-50 hacker 80: X <x>
+35 roman-numerals 80: x <x>
 
 50 [name]: Xamarin <n/name?>: Xamarin's
 
@@ -423403,8 +423385,6 @@
 
 70 [moby]: Xerxes I <n/upper?>: Xerxes I's
 
-50 hacker: Xes </upper?>
-
 50 [name] 70 [5d+2a] [moby] 80 [upper] 85 [ukacd]: Xhosa <n/upper>: Xhosa's
 70 [5d+2a] [moby] 80 [upper] 85 [ukacd]: - <n/upper>: Xhosas-
 
@@ -423501,7 +423481,7 @@
 
 50 [name]: Xochipilli <n/name?>: Xochipilli's
 
-50 hacker: xor
+50 hacker: xor <c>
 
 70 [5d+2a] 80 [upper] 85 [ukacd]: Xosa <n/upper?>
 70 [5d+2a] 80 [upper]: - <n/upper?>: Xosas
@@ -423518,7 +423498,7 @@
 
 70 [3of6] 85 [ukacd]: -X-ray <v/upper>: X-rayed, X-raying, X-rays
 
-50 hacker: !xref <v>: -, -, xrefs
+50 hacker: xref <n>: xrefs
 
 50: XS </abbr?>
 
@@ -425905,7 +425885,7 @@
 
 85 [ukacd]: zen
 
-50 hacker: !zen <m>: zenned, -, zens
+50 hacker: zen <v>: zenned, zenning, zens
 
 80: zenaida <n>: zenaidas
 
