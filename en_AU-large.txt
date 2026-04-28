@@ -46,7 +46,6 @@ AI
 AI's
 AIDS
 AIDS's
-AIDSes
 AIs
 AK
 AK's
@@ -15800,9 +15799,6 @@ MT
 MTV
 MTV's
 MUD
-MUDDed
-MUDDing
-MUDs
 MV
 MVP
 MVP's
@@ -22466,7 +22462,6 @@ SC
 SC's
 SCART
 SCSI
-SCSIs
 SD
 SDI
 SDLP
@@ -24839,9 +24834,6 @@ TD
 TDD
 TEFL
 TELNET
-TELNETTed
-TELNETTing
-TELNETs
 TESL
 TESOL
 TFT
@@ -78805,8 +78797,6 @@ frogfish's
 froggier
 froggiest
 frogging
-frogginged
-frogginging
 froggings
 froggy
 froghopper
@@ -109615,7 +109605,6 @@ mundanity
 mung
 munged
 munging
-mungs
 municipal
 municipalise
 municipalised
@@ -159931,6 +159920,8 @@ twinging
 twinight
 twining
 twink
+twinked
+twinking
 twinkle
 twinkled
 twinkler

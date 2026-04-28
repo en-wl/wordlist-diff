@@ -205,6 +205,7 @@ Missing words, unclassified:
   sames
   sangs
   scleroses
+  scrogs
   semipros
   sharking
   sheller
@@ -234,6 +235,7 @@ Missing words, unclassified:
   thesauri
   trabecula
   tricepses
+  trons
   troubleshooted
   tunnelings
   veges
@@ -251,7 +253,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 148
+total: 150
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -785,6 +787,9 @@ Missing words, upper:
   Sumerians
   Sunnites
   Swahilis
+  TELNETTed
+  TELNETTing
+  TELNETs
   Tabascos
   Tabernacles
   Tabrizes
@@ -841,7 +846,7 @@ Missing words, upper:
   Zions
   Zoroastrianisms
   Zoroastrians
-total: 486
+total: 489
 
 Missing words, variant:
   bauds
@@ -2972,7 +2977,6 @@ Missing words, ok, uncommon form:
   satellited
   satelliting
   scanties
-  scrogs
   seeings
   semiglosses
   sharked
@@ -2994,7 +2998,6 @@ Missing words, ok, uncommon form:
   thous
   touchings
   trilaterals
-  trons
   troys
   unknowings
   vagabonded
@@ -3002,7 +3005,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 89
+total: 87
 
 Missing words, ok, variant:
   Curacao
