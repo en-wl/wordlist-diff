@@ -2910,7 +2910,6 @@ Missing words, ok, other:
   gs
   ks
   ls
-  mes
   ms
   reprized
   rs
@@ -2918,7 +2917,7 @@ Missing words, ok, other:
   sens
   ts
   whiskys
-total: 18
+total: 17
 
 Missing words, ok, uncommon derived aj/av:
   adverser
@@ -2995,6 +2994,7 @@ Missing words, ok, uncommon form:
   lipsticking
   livelongs
   melancholics
+  mes
   motiles
   offstages
   overmuches
@@ -3048,7 +3048,7 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 91
+total: 92
 
 Missing words, ok, variant:
   Curacao
