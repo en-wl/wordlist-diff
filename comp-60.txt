@@ -191,8 +191,6 @@ Missing words, unclassified:
   plectrums
   pompadoured
   prophylaxes
-  précised
-  précising
   psychoanalyses
   psychoneuroses
   rattlings
@@ -253,7 +251,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 150
+total: 148
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -579,7 +577,6 @@ Missing words, upper:
   Iliads
   Incas
   Incorporated
-  Internets
   Inuits
   Ionians
   Ionics
@@ -635,7 +632,6 @@ Missing words, upper:
   Manilas
   Maoisms
   Marseillaises
-  Marses
   Marxisms
   Mayans
   Mayas
@@ -800,7 +796,6 @@ Missing words, upper:
   Tatars
   Teflons
   TelePrompTer
-  Teletype
   Teutons
   Tibetans
   Titans
@@ -846,7 +841,7 @@ Missing words, upper:
   Zions
   Zoroastrianisms
   Zoroastrians
-total: 489
+total: 486
 
 Missing words, variant:
   bauds

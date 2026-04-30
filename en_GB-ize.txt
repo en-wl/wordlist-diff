@@ -9034,6 +9034,7 @@ Internationale
 Internationale's
 Internet
 Internet's
+Internets
 Interpol
 Interpol's
 Inuit
@@ -12057,6 +12058,7 @@ Marseillaise
 Marseillaise's
 Marseilles
 Marseilles's
+Marses
 Marsh
 Marsh's
 Marsha
@@ -15313,7 +15315,6 @@ Prof
 Prokofiev
 Prokofiev's
 Promethean
-Promethean's
 Prometheus
 Prometheus's
 Prophets
@@ -17656,11 +17657,9 @@ Spencerian's
 Spengler
 Spengler's
 Spenglerian
-Spenglerian's
 Spenser
 Spenser's
 Spenserian
-Spenserian's
 Sperry
 Sperry's
 Sphinx
@@ -18370,6 +18369,7 @@ Telemachus
 Telemachus's
 Telemann
 Telemann's
+Teletype
 Tell
 Tell's
 Teller
@@ -38088,6 +38088,8 @@ cozenage
 cozened
 cozening
 cozens
+cozier
+coziest
 cpd
 cpl
 cps
@@ -73955,6 +73957,7 @@ overaggressive
 overall
 overalls
 overambitious
+overanalyse
 overanxious
 overarching
 overarm
@@ -79402,10 +79405,12 @@ precipitous
 precipitously
 precis
 precise
+precised
 precisely
 preciseness
 preciser
 precisest
+precising
 precision
 preclude
 precluded
