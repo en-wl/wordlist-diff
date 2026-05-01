@@ -24539,7 +24539,6 @@ assertive
 assertively
 assertiveness
 asserts
-asses
 assess
 assessed
 assesses

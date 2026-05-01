@@ -21663,8 +21663,6 @@
 
 85 [ukacd]: assertory <aj>
 
-60 [brif] 70 [3of6] 80: asses <m>: assessed†, assessing†, assesses†
-
 35: assess <v>: assessed, assessing, assesses
 
 70 [5d+2a] 80: assessable <aj>
@@ -34364,8 +34362,6 @@
 
 60: bestrew <v>: bestrewed, (bestrewn | v: bestrewed), bestrewing, bestrews
 
-70 [5d+2a]: !bestrid <m>
-
 85 [ukacd]: bestridable <aj>
 
 50: bestride <v>: (bestrode | @: bestrid), (bestridden | @: bestrid), bestriding, bestrides
@@ -42880,8 +42876,6 @@
 
 50 AU [town]: Bowral <n/place>: Bowral's
 
-85 [ukacd]: !bows <m>: bowsed†, bowsing†, bowses†
-
 70 [moby] 80: bowse <v>: bowsed, bowsing, bowses
 
 70 [5d+2a] 85 [ukacd]: bowser <n>
@@ -43909,6 +43903,8 @@
 35: brass <n>: brasses, brass's
 
 35: brass <aj>
+
+80: -brass <v>: brassed, brassing, brasses
 
 85 [stale]: brassage <n>: brassages
 
@@ -46258,8 +46254,6 @@
 80: browny <aj>: brownier, browniest
 
 80: browridge <n>: browridges
-
-60 [brif] 70 [3of6] 80: brows <m>: browsed†, browsing†, browses†
 
 35: browse <n_v>: browsed, browsing, browses, browse's
 
@@ -66840,8 +66834,6 @@
 
 60: clean room <n>
 
-60 [brif] 70 [3of6] 80: cleans <m>: cleansed†, cleansing†, cleanses†
-
 85 [ukacd]: cleansable <aj>
 
 35: cleanse <v>: cleansed, cleansing, cleanses
@@ -78124,11 +78116,9 @@
 
 85 [ukacd]: coprozoic <aj>
 
-85 [ukacd]: !cops <m>: copsed†, copsing†, copses†
-
 50: copse <n>: copses, copse's
 
-85 [ukacd]: !copse <v>: copsed†, copsing†, copses†
+85 [ukacd]: !copse <v>: copsed, copsing, copses
 
 85 [ukacd]: copsewood <n>: copsewoods
 
@@ -86403,8 +86393,6 @@
 70 [moby]: curry sauce <n>
 
 80 [moby]: Curryville <n/place>
-
-60 [brif] 70 [3of6] 80: curs <m>: cursed†, cursing†, curses†
 
 85 [ukacd]: cursal <aj>
 
@@ -106444,13 +106432,11 @@
 
 80 [moby]: Dows <n/place>
 
-85 [ukacd]: !dows <m>: dowsed†, dowsing†, dowses†
-
 70 [moby] 80: dowsabel <n>: dowsabels
 
 50: dowse <v>: dowsed, dowsing, dowses
 
-85 [ukacd]: -dowse <n>: dowses†
+85 [ukacd]: -dowse <n>: dowses
 
 60: dowser <n>: dowsers, dowser's
 
@@ -119677,8 +119663,6 @@
 
 60: eradicator <n>: eradicators, eradicator's
 
-60 [brif] 70 [3of6] 80: eras <m>
-
 80: erasability <n>: erasabilities
 
 60: erasable <aj>
@@ -124767,8 +124751,6 @@
 80: - <n>: exportations~
 
 35: exporter <n>: exporters, exporter's
-
-60 [brif] 70 [3of6] 80: expos <m>
 
 85 [ukacd]: exposable <aj>
 
@@ -131428,8 +131410,6 @@
 
 50: finery <n>
 80: - <n>: fineries~
-
-60 [brif] 70 [3of6] 80: fines <m>: finessed†, finessing†, finesses†
 
 70 [moby] 85 [ukacd]: fines herbes <n>
 
@@ -160628,6 +160608,8 @@
 
 70 [moby] 80: hawse <n>: hawses
 
+80: -hawse <v>: hawsed, hawsing, hawses
+
 70 [moby] 80: hawsehole <n>: hawseholes
 
 70 [moby] 80: hawsepipe <n>: hawsepipes
@@ -161256,6 +161238,8 @@
 70 [moby]: hearsay evidence <n>
 
 35: hearse <n>: hearses
+
+80: -hearse <v>: hearsed, hearsing, hearses
 
 50 [name] 60: Hearst <n/upper>: Hearst's
 
@@ -201745,8 +201729,6 @@
 
 80 [moby]: Lapryor <n/place>
 
-60 [brif] 70 [3of6] 80: laps <m>: lapsed†, lapsing†, lapses†
-
 80: lapsable <aj>
 
 80 [upper]: Lapsang <n/name>
@@ -203699,8 +203681,6 @@
 50 [name] 70 [5d+2a]: Leary <n/name?>: Leary's
 
 80: leary <aj>: learier, leariest
-
-85 [ukacd]: !leas <m>: leased†, leasing†, leases†
 
 80: leasable <aj>
 
@@ -210832,8 +210812,6 @@
 
 85 [ukacd]: loord <n>: loords
 
-60 [brif] 70 [3of6] 80: loos <m>: loosed†, loosing†, looses†
-
 60 [brif] 70 [3of6] 80: loos <a>: looser†, loosest†
 
 35: loose <v>: loosed, loosing, looses
@@ -211952,10 +211930,8 @@
 
 70 [moby] 85 [ukacd]: Lowry <n/upper?>: Lowry's
 
-85 [ukacd]: !lows <m>: lowsed†, lowsing†, lowses†
-
 85 [stale] [ukacd]: lowse <v>
-85 [ukacd]: - <v>: lowsed†, lowsing†, lowses†
+85 [ukacd]: - <v>: lowsed, lowsing, lowses
 
 70 [3of6]: low season
 
@@ -280922,8 +280898,6 @@
 
 85 [ukacd]: pleaing
 
-35 [ukfreq] 60 [brif] 70 [3of6] 80: pleas <m>: pleased†, pleasing†, pleases†
-
 70 [moby] 80: pleasance <n>: pleasances
 
 35: pleasant <aj>: pleasanter, pleasantest
@@ -280943,7 +280917,7 @@
 
 80 [moby]: Pleasantville <n/place>
 
-35: please <v>: pleased†, pleasing†, pleases†
+35: please <v>: pleased, pleasing, pleases
 
 35: please <av>
 
@@ -285493,8 +285467,6 @@
 40: posse <n>: posses, posse's
 
 70 [moby] 85 [ukacd]: posse comitatus <n>: posse comitatus's
-
-60 [brif] 70 [3of6] 80: posses <m>: possessed†, possessing†, possesses†
 
 35: possess <v>: possessed, possessing, possesses
 
@@ -368986,8 +368958,6 @@
 
 50: teary <aj>: tearier, teariest
 
-60 [brif] 70 [3of6] 80: teas <m>: teased†, teasing†, teases†
-
 80: teasable <aj>
 
 50 [name]: Teasdale <n/name?>: Teasdale's
@@ -370783,12 +370753,9 @@
 
 70 [moby] 80: tenrec <n>: tenrecs, tenrec's
 
-35 [ukfreq] 60 [brif] 70 [3of6] 80: tens <m>: -, -, tenses†
-60 [brif] 70 [3of6] 80: - <m>: tensed†, tensing†, -
-
 80 [upper]: TENS <n/abbr>
 
-35: tense <n_v>: tensed, tensing, tenses†
+35: tense <n_v>: tensed, tensing, tenses
 
 35: tense <aj>: tenser, tensest
 

@@ -35630,7 +35630,6 @@ assertiveness
 assertor
 assertors
 asserts
-asses
 assess
 assessable
 assessed
@@ -39876,7 +39875,6 @@ bestrewed
 bestrewing
 bestrewn
 bestrews
-bestrid
 bestridden
 bestride
 bestrides
