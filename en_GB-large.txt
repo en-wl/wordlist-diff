@@ -57339,12 +57339,7 @@ cozeners
 cozening
 cozens
 cozes
-cozied
-cozier
-cozies
-coziest
 cozing
-cozying
 cozzes
 cp
 cpd
@@ -60783,7 +60778,6 @@ declaring
 declass
 declasse
 declassed
-declassee
 declasses
 declassification
 declassified
@@ -68531,8 +68525,6 @@ débutante's
 débutantes
 débutants
 déclassé
-déclassée
-déclassés
 décolletage
 décolletages
 décolleté
@@ -128266,7 +128258,6 @@ priory
 prisage
 prisages
 prise
-prise's
 prised
 prises
 prising
@@ -161802,7 +161793,6 @@ tryster
 trysters
 trysting
 trysts
-très
 tsar
 tsar's
 tsarevitch

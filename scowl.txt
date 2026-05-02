@@ -52236,8 +52236,6 @@
 50: candidness <n>
 80: - <n>: candidnesses~
 
-85 [ukacd]: candie <m>: candied†, candying†, candies†
-
 60 [brif] 70 [3of6] [5d+2a] [moby]: candied <aj>
 
 70 [moby] 80 [upper]: Candiot <n/upper?>: Candiots
@@ -52331,6 +52329,9 @@
 35: candy <n_v>: candied, candying, candies
 
 50: Candy <n/person>: Candy's
+
+85 [ukacd]: _: candy <n> {unit}: candies
+85 [ukacd]: _V: candie <n> {unit}: candies
 
 70 [3of6]: candy apple <n>: candy apples
 
@@ -62950,15 +62951,14 @@
 
 85 [ukacd]: chiyogami <n>
 
-85 [ukacd]: chiz <m>: chizzed†, chizzing†, chizzes†
+85 [ukacd]: _: chiz <v>: chizzed, chizzing, chizzes
+85 [ukacd]: _v: chizz <v>: chizzed, chizzing, chizzes
 
 85 [ukacd]: chized
 
 85 [ukacd]: chizes
 
 85 [ukacd]: chizing
-
-85 [ukacd]: chizz <v>: chizzed†, chizzing†, chizzes†
 
 70 [moby] 80: chlamydate <aj>
 
@@ -79738,11 +79738,6 @@
 
 70 [moby] 80: coset <n>: cosets
 
-35: - <aj>: (- | B Cv: cosier†), (- | B Cv: cosiest†) #! missing non-variants: cosier, cosiest
-80: cosey <aj>
-
-80: cosey <n>: coseys
-
 60 [brif] 70 [3of6] [5d+2a] [moby] 80: cosh <n_v>: coshed, coshing, coshes
 
 70 [moby] 80: cosher <aj>
@@ -79756,12 +79751,6 @@
 85 [ukacd]: coshery <n>: cosheries
 
 80 [moby]: Coshocton <n/place>
-
-35: - <aj>: (- | B Cv: cosier†), (- | B Cv: cosiest†) #! missing non-variants: cosier, cosiest
-80: cosie <aj>
-
-70 [3of6] 80: - <v>: (- | B Cv: cosied†), (- | B Cv: cosying†), (- | B Cv: cosies†) #! missing non-variants: cosied, cosying, cosies
-80: cosie <v>
 
 50: cosign <v>: cosigned, cosigning, cosigns
 
@@ -81896,17 +81885,6 @@
 
 70 [5d+2a] 80: cozener <n>: cozeners
 
-35: - <aj>: cozier†, coziest† # fixme: cozier, coziest: check for variants
-85 [stale]: cozey <aj>
-
-85 [stale]: cozey <n>: cozeys
-
-35: - <aj>: cozier†, coziest† # fixme: cozier, coziest: check for variants
-85 [stale]: cozie <aj>
-
-70 [3of6] 80: - <m>: cozied†, cozying†, cozies† # fixme: cozied, cozies, cozying: check for variants
-85 [stale]: cozie <m>
-
 35: A C: cozily <av>
 35: B: cosily <av>
 
@@ -81920,13 +81898,19 @@
 50 [name] 70 [5d+2a]: Cozumel <n/name?>: Cozumel's
 
 35: A C: cozy <n>: cozies, cozy's
+35: A@: cozey <n>: cozeys
+35: A@ B@: cosey <n>: coseys
 35: B Cv: cosy <n>: cosies, cosy's
 
-35: A C: cozy <aj>: cozier†, coziest†
-35: B Cv: cosy <aj>: cosier†, cosiest†
+35: A C: cozy <aj>: cozier, coziest
+35: A@ {1}: cozey <aj>: cozier, coziest
+35: A@ {2}: cozie <aj>: cozier, coziest
+35: A@ B@ {1}: cosey <aj>: cosier, cosiest
+35: A@ B@ {2}: cosie <aj>: cosier, cosiest
+35: B Cv: cosy <aj>: cosier, cosiest
 
-60 [coca-llm] 70 [3of6] 80: A C: -cozy <v>: cozied†, cozying†, cozies†
-60 [coca-llm] 70 [3of6] 80: B Cv: -cosy <v>: cosied†, cosying†, cosies†
+60 [coca-llm] 70 [3of6] 80: A C: -cozy <v>: cozied, cozying, cozies
+60 [coca-llm] 70 [3of6] 80: B Cv: -cosy <v>: cosied, cosying, cosies
 
 35 AU [extra]: cozzie <n>: cozzies, cozzie's
 
@@ -91267,14 +91251,12 @@
 
 60: declarer <n>: declarers, declarer's
 
-70 [moby] 80: declass <v>: declassed†, declassing†, declasses†
+70 [moby] 80: declass <v>: declassed, declassing, declasses
 
-70 [5d+2a] 80: declasse <m>: declassed†, declassing†, declasses† # need-accent
-
-70 [5d+2a] 80: déclassé <n>: déclassés # accented
-
-70 [5d+2a]: déclassée <n> # accented
-70 [5d+2a]: _~: declassee <n> # need-accent
+70 [5d+2a] 80: _: déclassé <aj>
+70 [5d+2a] 80: _v: declasse <aj>
+70 [5d+2a] 80: _V {1}: declassee <aj>
+70 [5d+2a] 80: _V {2}: déclassée <aj>
 
 80: declassifiable <aj>
 
@@ -127325,9 +127307,6 @@
 
 60: fantasia <n>: fantasias
 
-35: - <m>: fantasied†, fantasying†, - # fixme: fantasied, fantasies, fantasying: check for variants
-80: fantasie <m>: -, -, fantasies†
-
 60 [brif] 70 [3of6] [5d+2a] [moby] 80: fantasist <n>: fantasists
 70 [3of6] [5d+2a] [moby] 80: - <n>: fantasist's
 
@@ -127365,11 +127344,9 @@
 
 85 [ukacd]: fantastry <n>: fantastries
 
-35: A B: fantasy <n_v>: fantasied†, fantasying†, fantasies, fantasy's
+35: A B: fantasy <n_v>: fantasied, fantasying, fantasies, fantasy's
 35: AV BV: phantasy <n_v>: phantasied, phantasying, phantasies, phantasy's
-
-## fantasy (phantasy):
-## phantasy marked as archaic or Psych. var. of fantasy by Ox (all versions)
+35: A- B-: fantasie <n_v>: fantasied, fantasying, fantasies
 
 60 [coca-llm] 80: fantasyland <n>
 80: - <n>: fantasylands
@@ -152659,11 +152636,15 @@
 
 85 [ukacd]: gratinate <v>: gratinated, gratinating, gratinates
 
-80: gratiné <v> # accented
-80: _~: gratine <v>: gratineed†, gratineing, gratines # need-accent
+80: _: gratiné <aj>
+80: _v: gratinée <aj>
+80: _V {1}: gratine <aj>
+80: _V {2}: gratinee <aj>
 
-80: gratinée <m> # accented
-80: _~: gratinee <m>: gratineed†, gratineeing, gratinees # need-accent
+80: _: gratinée <v>: gratinéed, gratinéeing, gratinées
+80: _v: gratinee <v>: gratineed, gratineeing, gratinees
+80: _- {1}: gratine <v>: gratineed, gratineing, gratines
+80: _- {2}: gratiné <v>
 
 35: grating <n>: gratings
 
@@ -227118,9 +227099,10 @@
 60: Midwesterner <n/upper?>: Midwesterner's
 65: - <n/upper?>: Midwesterners-
 
-35: midwife <n>: midwives, midwife's
+35: _: midwife <n>: midwives, midwife's
+35: _x: midwive <n>: midwives
 
-35: midwife <v>: (midwifed | v: midwived†), (midwifing | v: midwiving†), midwifes
+35: midwife <v>: (midwifed | v: midwived), (midwifing | v: midwiving), midwifes
 
 50: midwifery <n>: midwiferies
 
@@ -227135,9 +227117,6 @@
 40: _: midwinter <aj>
 40: _V: mid-winter <aj>
 ## Compound variant levels are a best guess based on freq and other related info.
-
-35: - <m>: (- | v: midwived†), (- | v: midwiving†), - #! missing non-variants: midwived, midwiving
-85 [ukacd]: midwive <m>: -, -, midwives†
 
 50: _: midyear <n>: midyears
 50: _V: mid-year <n>
@@ -291297,21 +291276,21 @@
 85 [ukacd]: A C: prizable <aj>
 85 [ukacd]: B: prisable <aj>
 
-35: A C: prize <n> {otherwise}: prizes
-35: B: prise <n> {otherwise}: prises # fixme: lemma_rank originally "-"
-65: A C: - <n> {otherwise}: prize's-
-65: B: - <n> {otherwise}: prise's-
+35: A B: prize <n_v>: prized, prizing, prizes
+35: B- {1}: prys <n_v>: prysed, prysing, pryses
+35: B- {2}: pryse <n_v>: prysed, prysing, pryses
+65: A B: - <n_v>: -, -, -, prize's-
+65: B- {1}: - <n_v>: -, -, -
+65: B- {2}: - <n_v>: -, -, -
 
-35: A C: prize <v> {otherwise}: prized, prizing, prizes
-35: B: prise <v> {otherwise}: prised, prising, prises
+35: A B: prize <aj>
+35: B- {1}: prys <aj>
+35: B- {2}: pryse <aj>
 
-35: A C: prize <aj> {otherwise}
-35: B: prise <aj> {otherwise} # fixme: lemma_rank originally "-"
+35: A BV C: prize <v> {pry}: prized, prizing, prizes
+35: B: prise <v> {pry}: prised, prising, prises
 
-35: A B: prize <n_v> {reward}: prized, prizing, prizes
-65: A B: - <n_v> {reward}: -, -, -, prize's-
-
-35: A B: prize <aj> {reward}
+80 [moby]: Pryse <n/place>
 
 50: _: prizefight <n>: prizefights
 50: _V: prize-fight <n>: prize-fights
@@ -294483,12 +294462,6 @@
 
 50 [name]: Pryor <n/name?>: Pryor's
 
-85 [ukacd]: prys <m>: prysed†, prysing†, pryses†
-
-80 [moby]: Pryse <n/place>
-
-85 [ukacd]: pryse <v>: prysed†, prysing†, pryses†
-
 70 [moby] 80: prytaneum <n>: prytanea
 
 85 [stale] [ukacd]: prythee <n>
@@ -297271,8 +297244,6 @@
 
 60 [coca-llm]: puttanesca <n>
 
-60: puttee <n>: puttees
-
 35: putter <n_v>: puttered, puttering, putters, putter's
 
 60: putterer <n>: putterers, putterer's
@@ -297284,8 +297255,6 @@
 70 [3of6] 85 [ukacd]: put the mockers on
 
 70 [moby] 85 [ukacd]: put through <v>
-
-80: puttie <m>: puttied†, puttying†, putties†
 
 70 [moby] 80: puttier <n>: puttiers
 
@@ -297300,9 +297269,13 @@
 85 [ukacd]: puttock <n>: puttocks
 
 35: putty <n>
-80: - <n>: putties~†
+80: - <n>: putties~
 
 35: putty <v>: puttied, puttying, putties
+
+60: _: puttee <n> {cloth strip}: puttees
+60: _V {1}: puttie <n> {cloth strip}: putties
+60: _V {2}: putty <n> {cloth strip}: putties
 
 70 [moby]: putty knife <n>
 
@@ -382328,10 +382301,10 @@
 
 80: treponeme <n>: treponemes
 
-70 [5d+2a]: très <m> # accented
-70 [5d+2a]: _~: tres <m> # need-accent # fixme: lemma_rank originally "!"
-70 [5d+2a] 85 [ukacd]: - <m>
-70 [5d+2a] 85 [ukacd]: _~: - <m>: tressed†, tressing†, tresses†
+70 [5d+2a]: tres <abbr>
+
+85 [ukacd]: _: !très <av>
+85 [ukacd]: _V: !tres <av>
 
 80 [moby]: Tresckow <n/place>
 
@@ -382345,8 +382318,8 @@
 
 50: tress <n>: tresses
 
-80: -tress <v>: tressed†, -, tresses†
-85 [ukacd]: - <v>: -, tressing†, -
+80: -tress <v>: tressed, -, tresses
+85 [ukacd]: - <v>: -, tressing, -
 
 70 [5d+2a] 80: tressel <n>: tressels-
 
