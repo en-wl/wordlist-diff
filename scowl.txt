@@ -117420,6 +117420,10 @@
 
 85 [ukacd]: enshield <v>: enshielded, enshielding, enshields
 
+60 [+]: enshittification <n> (vulgar-2)
+
+60 [+]: enshittify <v> (vulgar-2): enshittified, enshittifying, enshittifies
+
 35: enshrine <v>: enshrined, enshrining, enshrines
 
 80: enshrinee <n>: enshrinees
@@ -423446,6 +423450,7 @@
 #:   offensive-1
 #:   offensive-2
 #:   vulgar-1
+#:   vulgar-2
 #:   vulgar-3
 #:
 #: Categories:

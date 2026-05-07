@@ -70458,6 +70458,11 @@ ensheathe
 ensheathed
 ensheathes
 ensheathing
+enshittification
+enshittified
+enshittifies
+enshittify
+enshittifying
 enshrine
 enshrined
 enshrinement

@@ -1528,6 +1528,11 @@ New words, ok, added:
   endnotes
   enrollee
   enrollees
+  enshittification
+  enshittified
+  enshittifies
+  enshittify
+  enshittifying
   entranceway
   entranceways
   epistemologies
@@ -2652,7 +2657,7 @@ New words, ok, added:
   ziplock
   ziti
   zombielike
-total: 1738
+total: 1743
 
 New words, ok, all-upper lemma:
   ATMs
