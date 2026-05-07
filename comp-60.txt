@@ -948,6 +948,8 @@ New words, ok, added:
   Instagramming
   Instagrams
   Janssen
+  Juneteenth
+  Juneteenths
   LLM
   LLMs
   LOL
@@ -2650,7 +2652,7 @@ New words, ok, added:
   ziplock
   ziti
   zombielike
-total: 1736
+total: 1738
 
 New words, ok, all-upper lemma:
   ATMs

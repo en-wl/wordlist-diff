@@ -193242,7 +193242,8 @@
 
 80 [moby]: Junedale <n/place>
 
-80 [upper]: Juneteenth <n/upper?>: Juneteenths
+60 [+] 80 [upper]: Juneteenth <n>: Juneteenths
+60 [+]: - <n>: Juneteenth's
 
 50 [name] 60: Jung <n/upper>: Jung's
 
