@@ -2,6 +2,8 @@
 # scripts from.
 ROOTDIR=/home/kevina/wordlist/diff/
 
+export PGPORT=5437
+
 export DBNAME=scowl
 
 export PGVER=11
@@ -13,7 +15,6 @@ export DBROOT="$ROOTDIR"/psqldb
 
 export PGDIR="$DBROOT"/scowl
 export PGHOST="$DBROOT"
-export PGPORT=${PGPORT:-5437}
 
 alias psql=`which psql`
 pgctl () {

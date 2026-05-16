@@ -262,6 +262,6 @@ $/ = "\n";
 while (<TAGS>) {
     my ($id, $tag) = m~(\S+) refs/tags/(\S+)~ or die "Bad line: $_";
     next if $tag =~ m~^diff/~;
-    my $c = $commits{$id} or die;
+    my $c = $commits{$id} or next;
     sys("git tag -f diff/$tag $c->{newId}");
 }

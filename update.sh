@@ -9,6 +9,7 @@ export SCOWL_BRANCH
 : ${DIFF_BRANCH:=diff}
 export DIFF_BRANCH
 ROOTDIR="$PWD"
+export SCOWL_CACHE
 
 cd git-disk
 
