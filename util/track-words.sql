@@ -1,8 +1,16 @@
 -- Schema and views for util/track-words.py.
 --
--- Idempotent: tables are CREATE TABLE IF NOT EXISTS; views are
+-- Idempotent: tables / indexes use CREATE ... IF NOT EXISTS; views use
 -- DROP/CREATE so they get refreshed on every run.  Running this against
--- an existing DB will not touch any table or its data.
+-- an existing DB does not touch any table or its data.
+--
+-- A row in `changes` is marked `canonical = 1` when it is the earliest
+-- (smallest-seq) row for its (dict, word) whose op matches the current
+-- state -- i.e. the op of the row at the highest seq for that pair.
+-- There is therefore exactly one canonical row per (dict, word):
+--   * if currently added: canonical = first add
+--   * if currently removed: canonical = first remove
+-- Later flapping is preserved in the table but ignored by `word_state`.
 
 CREATE TABLE IF NOT EXISTS commits (
   seq         INTEGER PRIMARY KEY,
@@ -11,10 +19,11 @@ CREATE TABLE IF NOT EXISTS commits (
 );
 
 CREATE TABLE IF NOT EXISTS changes (
-  seq  INTEGER NOT NULL REFERENCES commits(seq) ON DELETE CASCADE,
-  dict TEXT NOT NULL,
-  op   TEXT NOT NULL CHECK (op IN ('add','remove')),
-  word TEXT NOT NULL,
+  seq       INTEGER NOT NULL REFERENCES commits(seq) ON DELETE CASCADE,
+  dict      TEXT    NOT NULL,
+  op        TEXT    NOT NULL CHECK (op IN ('add','remove')),
+  word      TEXT    NOT NULL,
+  canonical INTEGER NOT NULL DEFAULT 0 CHECK (canonical IN (0, 1)),
   PRIMARY KEY (word, dict, seq)
 ) WITHOUT ROWID;
 
@@ -34,28 +43,18 @@ CREATE TABLE IF NOT EXISTS state (
 -- Views
 -- ----------------------------------------------------------------------
 
--- One row per (dict, word) ever touched.  Collapses add/remove flapping
--- by reporting the *current* op separately from the *first-add* commit.
--- `release_tag` is the most recent release that included the first-add
--- commit (null if the word was added after the latest tagged release).
 DROP VIEW IF EXISTS word_state;
 CREATE VIEW word_state AS
 SELECT
-  agg.dict,
-  agg.word,
-  (SELECT op FROM changes c
-     WHERE c.dict = agg.dict AND c.word = agg.word
-     ORDER BY c.seq DESC LIMIT 1)         AS current_state,
-  agg.first_add_seq,
-  fc.hash                                 AS first_add_hash,
-  fc.author_date                          AS first_add_date,
+  ch.dict,
+  ch.word,
+  ch.op AS current_state,
+  ch.seq,
+  co.hash,
+  co.author_date,
   (SELECT t.tag FROM tags t
-     WHERE t.seq >= agg.first_add_seq
-     ORDER BY t.seq DESC LIMIT 1)         AS release_tag
-FROM (
-  SELECT dict, word,
-         MIN(CASE WHEN op = 'add' THEN seq END) AS first_add_seq
-  FROM changes
-  GROUP BY dict, word
-) AS agg
-LEFT JOIN commits fc ON fc.seq = agg.first_add_seq;
+     WHERE t.seq >= ch.seq
+     ORDER BY t.seq ASC LIMIT 1) AS release_tag
+FROM changes ch
+JOIN commits co ON co.seq = ch.seq
+WHERE ch.canonical = 1;

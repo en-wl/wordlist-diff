@@ -34,6 +34,11 @@ SKIP_RE = re.compile(
 UPSTREAM_RE = re.compile(r"^= ([0-9a-f]{40})$", re.MULTILINE)
 DIFF_HEADER_RE = re.compile(r"^diff --git a/(\S+) b/\S+")
 
+# Tags we treat as releases.  Stored with the `diff/` prefix stripped so
+# the canonical release name (e.g. "rel-2026.02.25", "scowl-7.1") shows
+# up directly in `word_state.release_tag`.
+RELEASE_TAG_RE = re.compile(r"^diff/(rel-.+|scowl-7\..+)$")
+
 
 def init_db(conn: sqlite3.Connection, branch: str) -> None:
     conn.execute("PRAGMA foreign_keys = ON")
@@ -52,6 +57,63 @@ def init_db(conn: sqlite3.Connection, branch: str) -> None:
             f"DB was previously populated from branch {row[0]!r}; "
             f"refusing to mix with {branch!r}.  Use a different DB."
         )
+
+
+_CANONICAL_PICK = """
+  SELECT dict, word, MIN(seq) AS seq FROM changes c
+   WHERE op = (
+     SELECT op FROM changes c2
+      WHERE c2.dict = c.dict AND c2.word = c.word
+      ORDER BY c2.seq DESC LIMIT 1
+   )
+"""
+
+
+def mark_canonical(conn: sqlite3.Connection, start_seq: int, *,
+                   full: bool = False) -> None:
+    """(Re-)compute the canonical flag.
+
+    There is exactly one canonical row per (dict, word): the earliest row
+    whose op matches that pair's *current* state (op at MAX(seq)).
+
+    If `full` is True (or start_seq == 0), recompute over the whole table.
+    Otherwise recompute only for pairs that have any row at or after
+    `start_seq` -- the append-only fast path.
+    """
+    if full or start_seq == 0:
+        conn.execute("UPDATE changes SET canonical = 0 WHERE canonical = 1")
+        conn.execute(f"""
+            UPDATE changes SET canonical = 1
+            WHERE (dict, word, seq) IN (
+              {_CANONICAL_PICK}
+              GROUP BY dict, word
+            )
+        """)
+        return
+
+    # Scoped path: clear canonical on pairs with new activity, then redo.
+    conn.execute("""
+        UPDATE changes SET canonical = 0
+        WHERE canonical = 1
+          AND EXISTS (
+            SELECT 1 FROM changes c
+            WHERE c.dict = changes.dict
+              AND c.word = changes.word
+              AND c.seq  >= ?
+          )
+    """, (start_seq,))
+    conn.execute(f"""
+        UPDATE changes SET canonical = 1
+        WHERE (dict, word, seq) IN (
+          {_CANONICAL_PICK}
+            AND EXISTS (
+              SELECT 1 FROM changes c3
+              WHERE c3.dict = c.dict AND c3.word = c.word
+                AND c3.seq  >= ?
+            )
+          GROUP BY dict, word
+        )
+    """, (start_seq,))
 
 
 def git(repo: str, *args: str) -> str:
@@ -232,13 +294,16 @@ def rebuild_tags(conn, repo, diff_hash_to_seq) -> int:
         if len(parts) != 3:
             continue
         tag, peeled, raw = parts
+        m = RELEASE_TAG_RE.match(tag)
+        if not m:
+            continue
         commit_hash = peeled or raw
         if not commit_hash:
             continue
         seq = diff_hash_to_seq.get(commit_hash)
         if seq is None:
             continue
-        conn.execute("INSERT INTO tags(tag, seq) VALUES (?, ?)", (tag, seq))
+        conn.execute("INSERT INTO tags(tag, seq) VALUES (?, ?)", (m.group(1), seq))
         n += 1
     return n
 
@@ -286,11 +351,17 @@ def run(conn, args):
         )
         conn.execute("DELETE FROM commits WHERE seq >= ?", (divergence,))
         next_seq = divergence
+        forced_rewind = True
     else:
         next_seq = len(stored)
+        forced_rewind = False
 
     new_commits = real[next_seq:]
     ingest(conn, args.repo_path, args.branch, new_commits, next_seq)
+    if new_commits or forced_rewind:
+        # A rewind can flip a pair's current state without touching any
+        # row at seq >= next_seq, so the scoped recompute would miss it.
+        mark_canonical(conn, next_seq, full=forced_rewind)
 
     n_tags = rebuild_tags(conn, args.repo_path, diff_hash_to_seq)
 
