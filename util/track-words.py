@@ -34,10 +34,10 @@ SKIP_RE = re.compile(
 UPSTREAM_RE = re.compile(r"^= ([0-9a-f]{40})$", re.MULTILINE)
 DIFF_HEADER_RE = re.compile(r"^diff --git a/(\S+) b/\S+")
 
-# Tags we treat as releases.  Stored with the `diff/` prefix stripped so
-# the canonical release name (e.g. "rel-2026.02.25", "scowl-7.1") shows
-# up directly in `word_state.release_tag`.
-RELEASE_TAG_RE = re.compile(r"^diff/(rel-.+|scowl-7\..+)$")
+# Tags we treat as releases.  Depending on the repo config the tags we need
+# might be prefixed with a `diff/` or might be bare so try both and if the
+# prefix is present, strip it.
+RELEASE_TAG_RE = re.compile(r"^(diff/)?(rel-.+|scowl-7\..+)$")
 
 
 def init_db(conn: sqlite3.Connection, branch: str) -> None:
@@ -303,7 +303,7 @@ def rebuild_tags(conn, repo, diff_hash_to_seq) -> int:
         seq = diff_hash_to_seq.get(commit_hash)
         if seq is None:
             continue
-        conn.execute("INSERT INTO tags(tag, seq) VALUES (?, ?)", (m.group(1), seq))
+        conn.execute("INSERT OR IGNORE INTO tags(tag, seq) VALUES (?, ?)", (m.group(2), seq))
         n += 1
     return n
 
