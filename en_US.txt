@@ -3719,8 +3719,6 @@ Cervantes
 Cervantes's
 Cesar
 Cesar's
-Cesarean
-Cesarean's
 Cessna
 Cessna's
 Cetus
@@ -63952,7 +63950,6 @@ largemouths
 largeness
 larger
 larges
-largess
 largesse
 largest
 largish

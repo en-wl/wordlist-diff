@@ -3665,8 +3665,6 @@ Cervantes
 Cervantes's
 Cesar
 Cesar's
-Cesarean
-Cesarean's
 Cessna
 Cessna's
 Cetus
@@ -30841,6 +30839,8 @@ cadres
 cads
 caducei
 caduceus
+caesarean
+caesareans
 caesura
 caesuras
 cafe
@@ -32515,8 +32515,6 @@ cerulean
 cervical
 cervices
 cervix
-cesarean
-cesareans
 cesium
 cessation
 cessations
@@ -52724,10 +52722,10 @@ gelling
 gels
 gem
 gem's
-gemological
-gemologist
-gemologists
-gemology
+gemmological
+gemmologist
+gemmologists
+gemmology
 gems
 gemstone
 gemstones
@@ -55550,8 +55548,6 @@ harassing
 harassment
 harbinger
 harbingers
-harbormaster
-harbormasters
 harbour
 harbour's
 harboured
@@ -56672,8 +56668,6 @@ higher
 highers
 highest
 highfalutin
-highflier
-highfliers
 highhandedly
 highland
 highlander
@@ -57903,7 +57897,6 @@ humoresque
 humorist
 humorist's
 humorists
-humorlessly
 humorous
 humorously
 humorousness
@@ -57911,6 +57904,7 @@ humour
 humoured
 humouring
 humourless
+humourlessly
 humourlessness
 humours
 hump
@@ -63584,7 +63578,6 @@ largemouths
 largeness
 larger
 larges
-largess
 largesse
 largest
 largish
@@ -68015,8 +68008,8 @@ microdots
 microeconomics
 microelectronic
 microelectronics
-microfiber
-microfibers
+microfibre
+microfibres
 microfiche
 microfilm
 microfilmed
@@ -69235,10 +69228,8 @@ mojo
 molar
 molars
 molasses
-moldable
 moldboard
 moldboards
-moldiness
 mole
 mole's
 molecular
@@ -69864,6 +69855,7 @@ moue
 moues
 mould
 mould's
+mouldable
 moulded
 moulder
 mouldered
@@ -69871,6 +69863,7 @@ mouldering
 moulders
 mouldier
 mouldiest
+mouldiness
 moulding
 moulding's
 mouldings
@@ -70220,7 +70213,7 @@ multipronged
 multipurpose
 multiracial
 multistage
-multistory
+multistorey
 multitalented
 multitask
 multitasked
@@ -75894,8 +75887,8 @@ pay
 payable
 payback
 paybacks
-paycheck
-paychecks
+paycheque
+paycheques
 payday
 paydays
 payed
@@ -92614,9 +92607,8 @@ snorers
 snores
 snoring
 snorkel
-snorkeler
-snorkelers
 snorkelled
+snorkeller
 snorkelling
 snorkels
 snort
@@ -95433,6 +95425,7 @@ storerooms
 stores
 storey
 storey's
+storeyed
 storeys
 storied
 stories
@@ -103554,8 +103547,8 @@ unless
 unlettered
 unlicensed
 unlighted
-unlikable
 unlike
+unlikeable
 unlikelier
 unlikeliest
 unlikelihood
@@ -104133,7 +104126,7 @@ untrained
 untrammelled
 untranslatable
 untranslated
-untraveled
+untravelled
 untreatable
 untreated
 untried

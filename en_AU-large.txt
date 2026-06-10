@@ -4312,7 +4312,6 @@ Caesar
 Caesar's
 Caesarea
 Caesarean
-Caesareans
 Caesarism
 Caesarism's
 Caesarisms
@@ -5004,9 +5003,6 @@ Cervantes
 Cervantes's
 Cesar
 Cesar's
-Cesarean
-Cesarean's
-Cesareans
 Cessna
 Cessna's
 Cetus
@@ -5043,7 +5039,6 @@ Chaitin
 Chaitin's
 Chalcis
 Chalcis's
-Chaldaea
 Chaldea
 Chaldean
 Chaldean's
@@ -29739,6 +29734,7 @@ adjudgements
 adjudges
 adjudging
 adjudgment
+adjudgments
 adjudicate
 adjudicated
 adjudicates
@@ -32478,6 +32474,7 @@ anandrous
 ananthous
 anapaest
 anapaestic
+anapaestics
 anapaests
 anapest
 anapestic
@@ -33429,7 +33426,6 @@ antigenic
 antigenicity
 antigens
 antiglobalisation
-antiglobalization
 antigovernment
 antigravities
 antigravity
@@ -35810,9 +35806,6 @@ athematic
 athenaeum
 athenaeum's
 athenaeums
-atheneum
-atheneum's
-atheneums
 atheroma
 atheromas
 atherosclerosis
@@ -36727,6 +36720,7 @@ axed
 axel
 axels
 axeman
+axemen
 axenic
 axes
 axial
@@ -36753,8 +36747,6 @@ axle's
 axles
 axletree
 axletrees
-axman
-axmen
 axolotl
 axolotl's
 axolotls
@@ -47527,12 +47519,10 @@ ceaselessly
 ceaselessness
 ceases
 ceasing
-ceca
 cecal
 cecally
 cecities
 cecity
-cecum
 cedar
 cedar's
 cedars
@@ -47989,8 +47979,6 @@ cervicitis
 cervicitises
 cervine
 cervix
-cesarean
-cesareans
 cesium
 cesiums
 cespitose
@@ -48014,10 +48002,8 @@ cestodes
 cestoid
 cestus
 cestuses
-cesura
 cesurae
 cesural
-cesuras
 cetacean
 cetacean's
 cetaceans
@@ -54128,7 +54114,6 @@ conscientious
 conscientiously
 conscientiousness
 conscientise
-conscientize
 conscionable
 conscious
 consciously
@@ -60339,8 +60324,6 @@ defacer
 defacers
 defaces
 defacing
-defaecate
-defaecation
 defalcate
 defalcated
 defalcates
@@ -60829,10 +60812,10 @@ delegation's
 delegations
 delegator
 delegators
-delegitimize
-delegitimized
-delegitimizes
-delegitimizing
+delegitimise
+delegitimised
+delegitimises
+delegitimising
 deleing
 deles
 delete
@@ -61557,9 +61540,7 @@ dependence
 dependencies
 dependency
 dependent
-dependent's
 dependently
-dependents
 depending
 depends
 depersonalisation
@@ -65549,7 +65530,6 @@ dollarfish's
 dollarisation
 dollarisations
 dollarise
-dollarize
 dollars
 dolled
 dollhouse
@@ -66252,6 +66232,9 @@ drafters
 drafting
 drafts
 draftspeople
+draftsperson
+draftsperson's
+draftspersons
 drag
 dragged
 draggee
@@ -66372,8 +66355,6 @@ draughtsman's
 draughtsmanship
 draughtsmen
 draughtsmen's
-draughtspeople
-draughtsperson
 draughtswoman
 draughtswomen
 draughty
@@ -70004,9 +69985,6 @@ enol
 enologies
 enology
 enols
-enophile
-enophile's
-enophiles
 enormities
 enormity
 enormous
@@ -74118,7 +74096,6 @@ favelas
 faveolate
 faves
 favonian
-favorability
 favour
 favourability
 favourable
@@ -80106,6 +80083,7 @@ gemmations
 gemmier
 gemmiest
 gemmiparous
+gemmological
 gemmologist
 gemmologists
 gemmology
@@ -80114,9 +80092,6 @@ gemmulations
 gemmule
 gemmules
 gemmy
-gemological
-gemologist
-gemologists
 gemot
 gemots
 gems
@@ -81267,7 +81242,6 @@ globuliferous
 globulin
 globulous
 glocalisation
-glocalization
 glochidia
 glochidiate
 glochidium
@@ -81793,7 +81767,6 @@ gomutis
 gonad
 gonadal
 gonadic
-gonadotrophic
 gonadotrophin
 gonadotrophins
 gonadotropic
@@ -84757,9 +84730,6 @@ harassingly
 harassment
 harbinger
 harbingers
-harbormaster
-harbormaster's
-harbormasters
 harbour
 harbour's
 harbourage
@@ -86624,11 +86594,6 @@ higher
 highers
 highest
 highfalutin
-highflier
-highflier's
-highfliers
-highflyer
-highflyers
 highflying
 highhanded
 highhandedly
@@ -88419,7 +88384,6 @@ humoresques
 humorist
 humorist's
 humorists
-humorlessly
 humorous
 humorously
 humorousness
@@ -91841,12 +91805,11 @@ infanticide's
 infanticides
 infantile
 infantilise
+infantilised
+infantilises
+infantilising
 infantilism
 infantilisms
-infantilize
-infantilized
-infantilizes
-infantilizing
 infantine
 infantries
 infantry
@@ -95676,6 +95639,7 @@ journalist's
 journalistic
 journalistically
 journalists
+journalling
 journals
 journey
 journey's
@@ -98212,7 +98176,6 @@ largemouths
 largeness
 larger
 larges
-largess
 largesse
 largest
 larghetto
@@ -99743,10 +99706,6 @@ ligulate
 ligure
 ligures
 lii
-likability
-likable
-likableness
-likably
 like
 likeability
 likeable
@@ -100351,6 +100310,7 @@ liturgists
 liturgy
 lituus
 lituuses
+livabilities
 livability
 livable
 livableness
@@ -105342,8 +105302,6 @@ microencapsulation
 microencapsulations
 microfarad
 microfarads
-microfiber
-microfibers
 microfibre
 microfibres
 microfiche
@@ -106337,6 +106295,9 @@ mischances
 mischaracterisation
 mischaracterisations
 mischaracterise
+mischaracterised
+mischaracterises
+mischaracterising
 mischief
 mischievous
 mischievously
@@ -107179,10 +107140,8 @@ molarity
 molars
 molas
 molasses
-moldable
 moldboard
 moldboards
-moldiness
 mole
 mole's
 molecular
@@ -108202,6 +108161,7 @@ moujik's
 moujiks
 mould
 mould's
+mouldable
 moulded
 moulder
 mouldered
@@ -108720,7 +108680,6 @@ multisense
 multiskilling
 multistage
 multistorey
-multistory
 multitalented
 multitask
 multitasked
@@ -115537,8 +115496,6 @@ overgeneralise
 overgeneralised
 overgeneralises
 overgeneralising
-overgeneralization
-overgeneralizations
 overgenerous
 overglaze
 overglazed
@@ -116433,7 +116390,6 @@ paduasoys
 paean
 paeans
 paederastic
-paederasty
 paediatric
 paediatrician
 paediatrician's
@@ -116589,6 +116545,7 @@ palaeoecology's
 palaeogeographies
 palaeogeography
 palaeographer
+palaeographers
 palaeographic
 palaeographical
 palaeography
@@ -116671,12 +116628,8 @@ paleoecology
 paleoecology's
 paleogeographies
 paleogeography
-paleographer
-paleographer's
-paleographers
 paleographic
 paleographical
-paleography
 paleolith
 paleolith's
 paleolithic
@@ -118300,10 +118253,6 @@ pay
 payable
 payback
 paybacks
-paycheck
-paychecks
-paycheque
-paycheques
 payday
 paydays
 payed
@@ -120058,6 +120007,7 @@ phenetoles
 phenix
 phenixes
 phenobarbital
+phenobarbitals
 phenobarbitone
 phenobarbitones
 phenocryst
@@ -121331,8 +121281,6 @@ pipers
 pipes
 pipestone
 pipestones
-pipet
-pipets
 pipette
 pipettes
 pipework
@@ -122511,6 +122459,8 @@ podesta
 podestas
 podestà
 podestàs
+podgier
+podgiest
 podgy
 podiatric
 podiatrist
@@ -127152,10 +127102,7 @@ pudencies
 pudency
 pudenda
 pudendum
-pudgier
-pudgiest
 pudginess
-pudgy
 puds
 pueblo
 pueblo's
@@ -128661,12 +128608,12 @@ racial
 racialisation
 racialisation's
 racialise
+racialised
 racialism
 racialist
 racialist's
 racialistic
 racialists
-racialized
 racially
 racier
 raciest
@@ -131111,10 +131058,7 @@ reenacting
 reenactment
 reenactments
 reenacts
-reenergize
-reenergized
-reenergizes
-reenergizing
+reenergise
 reengage
 reengaged
 reengages
@@ -143856,8 +143800,6 @@ snores
 snoring
 snorings
 snorkel
-snorkeler
-snorkelers
 snorkelled
 snorkeller
 snorkelling
@@ -148303,13 +148245,13 @@ strategical
 strategically
 strategics
 strategies
+strategise
+strategised
+strategises
+strategising
 strategist
 strategist's
 strategists
-strategize
-strategized
-strategizes
-strategizing
 strategy
 strategy's
 strath
@@ -150224,8 +150166,6 @@ supercargo
 supercargo's
 supercargoes
 supercars
-supercenter
-supercenters
 supercentre
 supercharge
 supercharged
@@ -151365,10 +151305,6 @@ swoosh
 swooshed
 swooshes
 swooshing
-swop
-swopped
-swopping
-swops
 sword
 sword's
 swordbill
@@ -158532,8 +158468,6 @@ turnovers
 turnpike
 turnpike's
 turnpikes
-turnround
-turnrounds
 turns
 turnsole
 turnsoles
@@ -160962,7 +160896,6 @@ unless
 unlettered
 unlicensed
 unlighted
-unlikable
 unlike
 unlikeable
 unlikelier
@@ -161930,7 +161863,6 @@ untransferable
 untransformed
 untranslatable
 untranslated
-untraveled
 untravelled
 untraversed
 untread
@@ -164658,8 +164590,6 @@ voluminously
 voluminousness
 volumise
 volumiser
-volumize
-volumizer
 voluntaries
 voluntarily
 voluntariness
@@ -165812,7 +165742,6 @@ weaponise
 weaponised
 weaponises
 weaponising
-weaponization
 weaponless
 weaponry
 weapons

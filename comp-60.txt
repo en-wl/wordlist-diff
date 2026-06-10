@@ -589,6 +589,7 @@ Missing words, upper:
   Celtics
   Centigrade
   Central
+  Cesarean
   Cherokees
   Cheyennes
   Chickasaws
@@ -995,7 +996,7 @@ Missing words, upper:
   Zions
   Zoroastrianisms
   Zoroastrians
-total: 499
+total: 500
 
 Missing words, variant:
   bauds
@@ -3191,6 +3192,7 @@ Missing words, ok, variant:
   humus
   kindergärtner
   kindergärtners
+  largess
   naiveté
   nonoccurence
   phoneyed
@@ -3206,5 +3208,5 @@ Missing words, ok, variant:
   unpeople
   zloties
   Ångström
-total: 37
+total: 38
 

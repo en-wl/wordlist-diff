@@ -4323,7 +4323,6 @@ Caesar
 Caesar's
 Caesarea
 Caesarean
-Caesareans
 Caesarism
 Caesarism's
 Caesarisms
@@ -5023,9 +5022,6 @@ Cervantes
 Cervantes's
 Cesar
 Cesar's
-Cesarean
-Cesarean's
-Cesareans
 Cessna
 Cessna's
 Cetus
@@ -5062,7 +5058,6 @@ Chaitin
 Chaitin's
 Chalcis
 Chalcis's
-Chaldaea
 Chaldea
 Chaldean
 Chaldean's
@@ -8567,8 +8562,8 @@ Europeanized
 Europeanizes
 Europeanizing
 Europeans
-Eurosceptic
-Eurosceptics
+Euroskeptic
+Euroskeptics
 Eurotrash
 Eurovision
 Eurozone
@@ -29902,11 +29897,10 @@ adjournments
 adjourns
 adjudge
 adjudged
-adjudgement
-adjudgements
 adjudges
 adjudging
 adjudgment
+adjudgments
 adjudicate
 adjudicated
 adjudicates
@@ -32592,9 +32586,6 @@ anamorphoses
 anamorphosis
 anandrous
 ananthous
-anapaest
-anapaestic
-anapaests
 anapest
 anapestic
 anapestics
@@ -33069,7 +33060,6 @@ annexationisms
 annexationist
 annexationists
 annexations
-annexe
 annexed
 annexes
 annexing
@@ -33542,7 +33532,6 @@ antigen
 antigenic
 antigenicity
 antigens
-antiglobalisation
 antiglobalization
 antigovernment
 antigravities
@@ -36825,6 +36814,7 @@ axed
 axel
 axels
 axeman
+axemen
 axenic
 axes
 axial
@@ -45178,11 +45168,9 @@ caduceus
 caducities
 caducity
 caducous
-caeca
 caecilian
 caecilian's
 caecilians
-caecum
 caenogenesis
 caeoma
 caeomas
@@ -48074,10 +48062,8 @@ cestodes
 cestoid
 cestus
 cestuses
-cesura
 cesurae
 cesural
-cesuras
 cetacean
 cetacean's
 cetaceans
@@ -52380,8 +52366,6 @@ colorway
 colorways
 colossal
 colossally
-colosseum
-colosseums
 colossi
 colossi's
 colossus
@@ -54168,7 +54152,6 @@ consciences
 conscientious
 conscientiously
 conscientiousness
-conscientise
 conscientize
 conscionable
 conscious
@@ -60354,8 +60337,6 @@ defacer
 defacers
 defaces
 defacing
-defaecate
-defaecation
 defalcate
 defalcated
 defalcates
@@ -65558,7 +65539,6 @@ dollar
 dollar's
 dollarfish
 dollarfish's
-dollarise
 dollarization
 dollarizations
 dollarize
@@ -66396,7 +66376,6 @@ draughtsman
 draughtsman's
 draughtsmen
 draughtsmen's
-draughtspeople
 draw
 draw's
 drawback
@@ -74175,7 +74154,6 @@ favorite's
 favorites
 favoritism
 favors
-favourability
 favus
 favuses
 fawn
@@ -80116,9 +80094,6 @@ gemmations
 gemmier
 gemmiest
 gemmiparous
-gemmologist
-gemmologists
-gemmology
 gemmulation
 gemmulations
 gemmule
@@ -81282,7 +81257,6 @@ globules
 globuliferous
 globulin
 globulous
-glocalisation
 glocalization
 glochidia
 glochidiate
@@ -81807,9 +81781,6 @@ gomutis
 gonad
 gonadal
 gonadic
-gonadotrophic
-gonadotrophin
-gonadotrophins
 gonadotropic
 gonadotropin
 gonadotropins
@@ -84671,8 +84642,6 @@ harbormaster
 harbormaster's
 harbormasters
 harbors
-harbourmaster
-harbourmasters
 hard
 hardback
 hardbacks
@@ -88316,7 +88285,6 @@ humorous
 humorously
 humorousness
 humors
-humourlessly
 hump
 humpback
 humpback's
@@ -88844,7 +88812,6 @@ hyperesthesia's
 hyperesthesias
 hyperextension
 hyperextensions
-hyperglycaemia
 hyperglycemia
 hyperglycemic
 hypergolic
@@ -91706,7 +91673,6 @@ infanticide
 infanticide's
 infanticides
 infantile
-infantilise
 infantilism
 infantilisms
 infantilize
@@ -98030,7 +97996,6 @@ largemouths
 largeness
 larger
 larges
-largess
 largesse
 largest
 larghetto
@@ -99064,8 +99029,6 @@ leucines
 leucite
 leucites
 leucocratic
-leucocyte
-leucocytes
 leucocytoses
 leucocytosis
 leucoderma
@@ -99080,7 +99043,6 @@ leucopoieses
 leucopoiesis
 leucotomies
 leucotomy
-leukaemic
 leukemia
 leukemic
 leukemics
@@ -100165,13 +100127,12 @@ liturgists
 liturgy
 lituus
 lituuses
+livabilities
 livability
 livable
 livableness
 livablenesses
 live
-liveabilities
-liveability
 livebearer
 livebearers
 lived
@@ -104015,7 +103976,6 @@ megatheres
 megaton
 megatonnage
 megatonnages
-megatonne
 megatons
 megavitamin
 megavitamins
@@ -105145,8 +105105,6 @@ microfarad
 microfarads
 microfiber
 microfibers
-microfibre
-microfibres
 microfiche
 microfilm
 microfilmed
@@ -108011,7 +107969,6 @@ mouflons
 moujik
 moujik's
 moujiks
-mouldiness
 moulin
 moulins
 mound
@@ -110206,8 +110163,6 @@ neuromuscular
 neuron
 neuron's
 neuronal
-neurone
-neurones
 neurons
 neuropath
 neuropathies
@@ -115286,7 +115241,6 @@ overfond
 overfull
 overgarment
 overgarments
-overgeneralisation
 overgeneralization
 overgeneralizations
 overgeneralize
@@ -116189,7 +116143,6 @@ paduasoy
 paduasoys
 paean
 paeans
-paederasty
 paella
 paellas
 paeon
@@ -116310,8 +116263,6 @@ palaces
 paladin
 paladin's
 paladins
-palaeographer
-palaeography
 palais
 palanquin
 palanquins
@@ -118001,8 +117952,6 @@ payback
 paybacks
 paycheck
 paychecks
-paycheque
-paycheques
 payday
 paydays
 payed
@@ -119777,8 +119726,7 @@ phenetoles
 phenix
 phenixes
 phenobarbital
-phenobarbitone
-phenobarbitones
+phenobarbitals
 phenocryst
 phenocrysts
 phenol
@@ -121052,8 +121000,6 @@ pipers
 pipes
 pipestone
 pipestones
-pipet
-pipets
 pipette
 pipettes
 pipework
@@ -122235,7 +122181,6 @@ podesta
 podestas
 podestà
 podestàs
-podgy
 podiatric
 podiatrist
 podiatrist's
@@ -143018,8 +142963,6 @@ smarminesses
 smarms
 smarmy
 smart
-smartarse
-smartarses
 smarted
 smarten
 smartened
@@ -143543,7 +143486,6 @@ snorkeled
 snorkeler
 snorkelers
 snorkeling
-snorkeller
 snorkels
 snort
 snorted
@@ -147771,7 +147713,6 @@ storeroom
 storerooms
 stores
 storewide
-storeyed
 storied
 stories
 storiette
@@ -149895,7 +149836,6 @@ supercargoes
 supercars
 supercenter
 supercenters
-supercentre
 supercharge
 supercharged
 supercharger
@@ -151032,10 +150972,6 @@ swoosh
 swooshed
 swooshes
 swooshing
-swop
-swopped
-swopping
-swops
 sword
 sword's
 swordbill
@@ -158167,8 +158103,6 @@ turnovers
 turnpike
 turnpike's
 turnpikes
-turnround
-turnrounds
 turns
 turnsole
 turnsoles
@@ -161559,7 +161493,6 @@ untransformed
 untranslatable
 untranslated
 untraveled
-untravelled
 untraversed
 untread
 untreading
@@ -164288,8 +164221,6 @@ volumetric
 voluminous
 voluminously
 voluminousness
-volumise
-volumiser
 volumize
 volumizer
 voluntaries
@@ -165431,7 +165362,6 @@ weapon
 weapon's
 weaponeer
 weaponeers
-weaponisation
 weaponization
 weaponize
 weaponized

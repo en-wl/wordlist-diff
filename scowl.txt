@@ -3833,10 +3833,8 @@
 
 50: adjudge <v>: adjudged, adjudging, adjudges
 
-70 [5d+2a] 85 [ukacd]: adjudgement <n>: adjudgements-
-
-70 [5d+2a] 85 [ukacd]: adjudgment <n>
-85 [ukacd]: - <n>: adjudgments!
+70 [5d+2a] 85 [ukacd]: A Bv C: adjudgment <n>: adjudgments!
+70 [5d+2a] 85 [ukacd]: B Cv: adjudgement <n>: adjudgements-
 
 40: adjudicate <v>: adjudicated, adjudicating, adjudicates
 
@@ -12124,17 +12122,16 @@
 
 70 [moby] 85 [ukacd]: ananthous <aj>
 
-70: anapaest <n>: anapaests
-
-70 [5d+2a] 85 [ukacd]: anapaestic <aj>
-
 85 [ukacd]: anapaestical <aj>
 
-50: anapest <n>: anapests
+50: A Bv C: anapest <n>: anapests
+50: AV B CV: anapaest <n>: anapaests
 
-60: anapestic <n>: anapestics
+60: A Bv C: anapestic <n>: anapestics
+60: AV B CV: anapaestic <n>: anapaestics
 
-60: anapestic <aj>
+60: A Bv C: anapestic <aj>
+60: AV B CV: anapaestic <aj>
 
 70 [moby] 80: anaphase <n>: anaphases
 
@@ -13708,7 +13705,11 @@
 
 50: Annette <n/person>: Annette's
 
-35: annex <n_v>: annexed, annexing, annexes
+35: A Z: annex <n>: annexes
+35: B: annexe <n>: annexes
+
+35: A B: annex <v>: annexed, annexing, annexes
+35: B-: annexe <v>: annexed, annexing, annexes
 
 35: annexation <n>: annexations
 
@@ -13717,11 +13718,6 @@
 70 [5d+2a] 80: annexationism <n>: annexationisms
 
 70 [5d+2a] 80: annexationist <n>: annexationists
-
-60: - <n>: annexes†
-70: annexe <n>
-
-85 [ukacd]: !annexe <v>: annexed†, annexing†, annexes†
 
 85 [ukacd]: annexion <n>: annexions
 
@@ -15189,9 +15185,8 @@
 
 80: antiglare <aj>
 
-70 [5d+2a]: antiglobalisation <n>
-
-70 [5d+2a]: antiglobalization <n>
+70 [5d+2a]: A Z: antiglobalization <n>
+70 [5d+2a]: B: antiglobalisation <n>
 
 80: antiglobulin <n>: antiglobulins
 
@@ -22553,11 +22548,10 @@
 
 50: Athena <n/upper>: Athena's
 
-70 [5d+2a] [moby] 80: athenaeum <n>: athenaeums, athenaeum's
+70 [5d+2a] [moby] 80: A B: athenaeum <n>: athenaeums, athenaeum's
+70 [5d+2a] [moby] 80: Av: atheneum <n>: atheneums, atheneum's
 
 60: Athene <n/upper>: Athene's
-
-70 [5d+2a] 80: atheneum <n>: atheneums, atheneum's
 
 50 [name] 60: Athenian <n/upper>: Athenian's
 65: - <n/upper>: Athenians-
@@ -25460,8 +25454,8 @@
 
 70 [5d+2a] 80: axel <n>: axels
 
-70 [5d+2a] 85 [stale] [ukacd]: axeman <n>
-85 [stale] [ukacd]: - <n>: axemen!
+70 [5d+2a] 80: A B: axeman <n>: axemen!
+70 [5d+2a] 80: A.: axman <n>: axmen
 
 70 [moby] 80: axenic <aj>
 
@@ -25549,8 +25543,6 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 80: axlike <aj>
-
-70 [5d+2a] 80: axman <n>: axmen
 
 70 [5d+2a] 80 [upper] 85 [ukacd]: Axminster <n/place>
 70 [5d+2a] 80 [upper]: - <n/place>: Axminsters
@@ -26355,9 +26347,8 @@
 
 80: backdown <n>: backdowns
 
-70 [5d+2a]: backdraft <n>
-
-70 [5d+2a]: backdraught <n>
+70 [5d+2a]: A BV C Dv: backdraft <n>
+70 [5d+2a]: A D: backdraught <n>
 
 85 [ukacd]: back-draught <n>: back-draughts
 
@@ -48240,7 +48231,7 @@
 
 70 [moby] 85 [ukacd]: Burmese cat <n/upper?>: Burmese cats-, Burmese cat's
 
-35: burn <n_v>: (burned | ~: burnt), burning, burns
+35: burn <n_v>: (burned | v: burnt), burning, burns
 
 80 [moby]: Burna <n/place>
 
@@ -50034,8 +50025,6 @@
 
 70 [moby] 80: caecilian <aj>
 
-70 [3of6] [5d+2a] [moby] 80: caecum <n>: caeca
-
 50 [name] 70 [5d+2a] 85 [ukacd]: Caedmon <n/name?>: Caedmon's
 
 70 [moby] 80 [upper]: Caelian </upper?>
@@ -50099,7 +50088,8 @@
 
 85 [ukacd]: caese
 
-50: caesura <n>: (caesuras | ~: caesurae)
+50: A B: caesura <n>: (caesuras | V: caesurae)
+50: AV: cesura <n>: cesuras
 
 80: caesuric <aj>
 
@@ -57272,7 +57262,8 @@
 
 80: cecropia <n>: cecropias
 
-60: cecum <n>: ceca
+60: A C: cecum <n>: ceca
+60: B CV: caecum <n>: caeca
 
 85 [ukacd]: cecutiency
 
@@ -58546,20 +58537,15 @@
 
 40: cervix <n>: (cervices | ~: cervixes)
 
-40: _: cesarean <n>: cesareans
-40: _v: caesarean <n>: caesareans
-40: _V {1}: caesarian <n>: caesarians
-40: _V {2}: cesarian <n>: cesarians
+40: A BV Cv: cesarean <n>: cesareans
+40: Av B C: caesarean <n>: caesareans
+40: AV BV CV {1}: caesarian <n>: caesarians
+40: AV BV CV {2}: cesarian <n>: cesarians
 
-40: _: cesarean <aj>
-40: _v: caesarean <aj>
-40: _V {1}: caesarian <aj>
-40: _V {2}: cesarian <aj>
-
-50 [name] 60: Cesarean <n/upper>: Cesarean's
-65: - <n/upper>: Cesareans-
-
-70 [3of6] 80 [upper] 85 [ukacd]: -Caesarean <n/upper>: Caesareans
+40: A BV Cv: cesarean <aj>
+40: Av B C: caesarean <aj>
+40: AV BV CV {1}: caesarian <aj>
+40: AV BV CV {2}: cesarian <aj>
 
 70: Caesarean <aj/upper>
 
@@ -58632,8 +58618,6 @@
 
 70 [moby] 80: A Dv: cestus <n>: cestuses
 70 [moby] 80: B D: caestus <n>: caestuses
-
-70 [5d+2a] [moby] 80: cesura <n>: cesuras-
 
 70 [5d+2a] 80: cesurae
 
@@ -59055,8 +59039,6 @@
 
 70 [5d+2a] [moby] 80: chalcopyrite <n>: chalcopyrites
 
-70 [5d+2a] 85 [ukacd]: Chaldaea <n/upper?>
-
 80 [upper] 85 [ukacd]: Chaldaean <n/upper?>
 
 80 [upper] 85 [ukacd]: Chaldaean <aj/upper?>
@@ -59066,7 +59048,8 @@
 
 85 [ukacd]: chaldaism <n>
 
-60: Chaldea <n/upper>
+60: _: Chaldea <n/place>
+60: _V: Chaldaea <n/place>
 
 50 [name] 70 [5d+2a] [moby] 80 [upper] 85 [ukacd]: Chaldean <n/upper>: Chaldean's
 
@@ -70279,7 +70262,10 @@
 
 80: coliphage <n>: coliphages
 
-50: coliseum <n>: coliseums, coliseum's
+50: A B: coliseum <n>: coliseums, coliseum's
+50: Bv: colosseum <n>: colosseums-
+
+50 [name] 70 [5d+2a] [moby]: Colosseum <n/name>: Colosseum's
 
 80: colistin <n>: colistins
 
@@ -71047,10 +71033,6 @@
 35: colossal <aj>
 
 50: colossally <av>
-
-50 [name] 70 [5d+2a] [moby]: Colosseum <n/name?>: Colosseum's
-
-70 [5d+2a] [moby] 80: colosseum <n>: colosseums-
 
 70 [moby] 80 [upper] 85 [ukacd]: Colossian <n/upper?>: Colossians-, Colossian's
 
@@ -75174,9 +75156,8 @@
 
 40: conscientious objector <n>: conscientious objectors, conscientious objector's
 
-70 [5d+2a]: conscientise <v>
-
-70 [5d+2a]: conscientize <v>
+70 [5d+2a]: A Z: conscientize <v>
+70 [5d+2a]: B: conscientise <v>
 
 70 [moby] 80: conscionable <aj>
 
@@ -91584,10 +91565,6 @@
 
 50: de facto <aj_av>
 
-70 [5d+2a]: defaecate <v>
-
-70 [5d+2a]: defaecation <n>
-
 60: defalcate <v>: defalcated, defalcating, defalcates
 
 60: defalcation <n>: defalcations
@@ -91643,10 +91620,13 @@
 
 80: defeature <n>: defeatures
 
-35: defecate <v>: defecated, defecating, defecates
+35: A B: defecate <v>: defecated, defecating, defecates
+35: BV: defaecate <v>
 
-50: defecation <n>
-80: - <n>: defecations~
+50: A B: defecation <n>
+50: BV: defaecation <n>
+80: A B: - <n>: defecations~
+80: BV: - <n>
 
 70 [5d+2a] 80: defecator <n>: defecators, defecator's
 
@@ -92609,7 +92589,8 @@
 
 80: delegitimization <n>: delegitimizations
 
-60 [coca-llm] 80: delegitimize <v>: delegitimized, delegitimizing, delegitimizes
+60 [coca-llm] 80: A Z: delegitimize <v>: delegitimized, delegitimizing, delegitimizes
+60 [coca-llm] 80: B: delegitimise <v>: delegitimised, delegitimising, delegitimises
 
 85 [ukacd]: delenda
 
@@ -94243,7 +94224,7 @@
 
 35 [ukfreq] 40: dependency <n>: dependencies
 
-35: A Bv: dependent <n>: dependents, dependent's
+35: A BV: dependent <n>: dependents, dependent's
 35: B: dependant <n>: dependants, dependant's
 
 35: A B: dependent <aj>
@@ -104026,12 +104007,11 @@
 
 80: dollarfishes
 
-70 [5d+2a]: dollarise <v>
-
 70 [5d+2a] 80: A Z: dollarization <n>: dollarizations
 70 [5d+2a] 80: B: dollarisation <n>: dollarisations
 
-70 [5d+2a]: dollarize <v>
+70 [5d+2a]: A Z: dollarize <v>
+70 [5d+2a]: B: dollarise <v>
 
 85 [ukacd]: dollarless <aj>
 
@@ -106222,10 +106202,11 @@
 80: A C: - <n>: draftsmanships~
 80: B: - <n>: draughtsmanships~
 
-70 [5d+2a]: draftspeople
+70 [5d+2a]: A C D: draftspeople <n>
+70 [5d+2a]: B DV: draughtspeople <n>
 
-70 [5d+2a] 80: A C: draftsperson <n>: draftspersons, draftsperson's
-70 [5d+2a] 80: B: draughtsperson <n>
+70 [5d+2a] 80: A C D: draftsperson <n>: draftspersons, draftsperson's
+70 [5d+2a] 80: B DV: draughtsperson <n>
 
 60: A C: draftswoman <n>: draftswomen
 60: B: draughtswoman <n>: draughtswomen
@@ -106504,8 +106485,6 @@
 70 [3of6]: draught excluder <n>: draught excluders
 
 85 [ukacd]: draughtman <n>: draughtmen
-
-70 [5d+2a]: draughtspeople
 
 80: drave
 
@@ -116747,8 +116726,6 @@
 
 80 [moby]: Enon <n/place>
 
-70 [5d+2a] 80: enophile <n>: enophiles, enophile's
-
 80 [moby]: Enoree <n/place>
 
 85 [stale] [ukacd]: enorm
@@ -121744,11 +121721,12 @@
 
 80 [upper]: Europocentrism <n/upper?>: Europocentrisms
 
-70 [3of6]: Eurosceptic <n>: Eurosceptics
+85 [ukacd]: Euroseat <n/upper?>: Euroseats
+
+70 [3of6]: A C DV: Euroskeptic <n>: Euroskeptics
+70 [3of6]: B Cv D: Eurosceptic <n>: Eurosceptics
 
 85 [ukacd]: Euro-sceptic <n/upper?>: Euro-sceptics
-
-85 [ukacd]: Euroseat <n/upper?>: Euroseats
 
 85 [ukacd]: Eurospeak <n/name>
 
@@ -127818,7 +127796,8 @@
 35: A Cv DV: favor <n_v>: favored, favoring, favors
 35: B C D: favour <n_v>: favoured, favouring, favours
 
-70 [5d+2a]: favorability <n>
+70 [5d+2a]: A Cv DV: favorability <n>
+70 [5d+2a]: B C D: favourability <n>
 
 35: A Cv DV: favorable <aj>
 35: B C D: favourable <aj>
@@ -127855,8 +127834,6 @@
 85 [ukacd]: B C D: favourless <n>: favourless
 
 85 [ukacd]: favose <aj>
-
-70 [5d+2a]: favourability <n>
 
 85 [ukacd]: favous <aj>
 
@@ -144326,24 +144303,22 @@
 
 80: gemmiparously <av>
 
-85 [ukacd]: gemmological <aj>
-
-70 [5d+2a] 80: gemmologist <n>: gemmologists-
-
 70 [moby] 80: gemmulation <n>: gemmulations
 
 70 [moby] 80: gemmule <n>: gemmules
 
 70 [5d+2a] 80: gemmy <aj>: gemmier, gemmiest
 
-60: gemological <aj>
+60: A BV Cv: gemological <aj>
+60: B C: gemmological <aj>
 
-60: gemologist <n>: gemologists
+60: A BV Cv: gemologist <n>: gemologists
+60: B C: gemmologist <n>: gemmologists-
 
-60: A C: gemology <n>
-60: Av B: gemmology <n>
-80: A C: - <n>: gemologies~
-80: Av B: - <n>: gemmologies~
+60: A BV Cv: gemology <n>
+60: B C: gemmology <n>
+80: A BV Cv: - <n>: gemologies~
+80: B C: - <n>: gemmologies~
 
 70 [moby] 80: gemot <n>: gemots
 
@@ -148038,9 +148013,8 @@
 
 85 [ukacd]: globy <aj>
 
-70 [5d+2a]: glocalisation <n>
-
-70 [5d+2a]: glocalization <n>
+70 [5d+2a]: A Z: glocalization <n>
+70 [5d+2a]: B: glocalisation <n>
 
 80: glochid <n>: glochids
 
@@ -149734,13 +149708,11 @@
 
 70 [5d+2a] 80: gonadic <aj>
 
-70 [5d+2a] 80: gonadotrophic <aj>
+70 [5d+2a] 80: A BV Z D: gonadotropic <aj>
+70 [5d+2a] 80: B: gonadotrophic <aj>
 
-70 [5d+2a] 80: gonadotrophin <n>: gonadotrophins
-
-70 [5d+2a] 80: gonadotropic <aj>
-
-70 [5d+2a] [moby] 80: gonadotropin <n>: gonadotropins
+70 [5d+2a] [moby] 80: A Bv C: gonadotropin <n>: gonadotropins
+70 [5d+2a] [moby] 80: B Cv: gonadotrophin <n>: gonadotrophins
 
 70 [moby]: Goncourt <n/upper?>: Goncourt's
 
@@ -158381,11 +158353,14 @@
 80: A Cv DV: harborless <n>: harborless
 80: B C D: harbourless <n>: harbourless
 
-60 [brif] 70 [3of6] [5d+2a] 80: _: harbormaster <n>: harbormasters
-60 [brif] 70 [3of6] [5d+2a] 80: _V: harbor master <n>: harbor masters
-70 [3of6] [5d+2a] 80: _: - <n>: harbormaster's
-70 [3of6] [5d+2a] 80: _V: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
+60 [brif] 70 [3of6] [5d+2a] 80: A: harbormaster <n>: harbormasters
+60 [brif] 70 [3of6] [5d+2a] 80: AV CV: harbor master <n>: harbor masters
+60 [brif] 70 [3of6] [5d+2a] 80: B C: harbour master <n>: harbour masters
+60 [brif] 70 [3of6] [5d+2a] 80: Bv CV: harbourmaster <n>: harbourmasters
+70 [3of6] [5d+2a] 80: A: - <n>: harbormaster's
+70 [3of6] [5d+2a] 80: AV CV: - <n>
+70 [3of6] [5d+2a] 80: B C: - <n>
+70 [3of6] [5d+2a] 80: Bv CV: - <n>
 
 70 [moby]: harbor seal <n>: harbor seal's
 
@@ -158395,10 +158370,6 @@
 80 [moby]: Harborside <n/place>
 
 80 [moby]: Harborton <n/place>
-
-70 [3of6] 85 [ukacd]: _: harbour master <n>: harbour masters
-70 [3of6] 85 [ukacd]: _v: harbourmaster <n>: harbourmasters
-## Compound variant levels are a best guess based on freq and other related info.
 
 80 [moby]: Harco <n/place>
 
@@ -164842,17 +164813,16 @@
 70 [3of6] 85 [ukacd]: -high-five <v>
 70 [3of6]: - <v>: high-fived, high-fiving, high-fives
 
-60 [coca-llm] 70 [3of6] [moby] 80: _: highflier <n>: highfliers
-60 [coca-llm] 70 [3of6] [moby] 80: _=: high-flier <n>: high-fliers
-70 [moby] 80: _: - <n>: highflier's
-70 [moby] 80: _=: - <n>
-## Compound variant levels are a best guess based on freq and other related info.
+60 [coca-llm] 70 [3of6] [moby] 80: A Cv: highflier <n>: highfliers
+60 [coca-llm] 70 [3of6] [moby] 80: Av: highflyer <n>: highflyers
+60 [coca-llm] 70 [3of6] [moby] 80: B C: high-flyer <n>: high-flyers
+60 [coca-llm] 70 [3of6] [moby] 80: Bv CV: high-flier <n>: high-fliers
+70 [moby] 80: A Cv: - <n>: highflier's
+70 [moby] 80: Av: - <n>
+70 [moby] 80: B C: - <n>
+70 [moby] 80: Bv CV: - <n>
 
 50: high-flown <aj>
-
-70 [3of6] 80: _: high-flyer <n>: high-flyers
-70 [3of6] 80: _v: highflyer <n>: highflyers
-## Compound variant levels are a best guess based on freq and other related info.
 
 60 [coca] 70 [3of6] 80: _: high-flying <aj>
 60 [coca] 70 [3of6] 80: _v: highflying <aj>
@@ -170802,7 +170772,8 @@
 85 [ukacd]: A Cv DV: !humorless <n>: humorless
 85 [ukacd]: B C D: !humourless <n>: humourless
 
-60: humorlessly <av>
+60: A Cv DV: humorlessly <av>
+60: B C D: humourlessly <av>
 
 50: A Cv DV: humorlessness <n>
 50: B C D: humourlessness <n>
@@ -170821,8 +170792,6 @@
 
 85 [ukacd]: A Cv DV: humorsomeness <n>
 85 [ukacd]: B C D: humoursomeness <n>
-
-70 [5d+2a]: humourlessly <av>
 
 85 [ukacd]: humous <n>
 
@@ -172644,12 +172613,12 @@
 
 80: hypergamy <n>: hypergamies
 
-70 [5d+2a] 85 [ukacd]: hyperglycaemia <n>
+60: A C Dv: hyperglycemia <n>
+60: B D: hyperglycaemia <n>
+80: A C Dv: - <n>: hyperglycemias~
+80: B D: - <n>
 
-60: hyperglycemia <n>
-80: - <n>: hyperglycemias~
-
-70 [5d+2a] 80: A Dv: hyperglycemic <aj>
+70 [5d+2a] 80: A C Dv: hyperglycemic <aj>
 70 [5d+2a] 80: B D: hyperglycaemic <aj>
 
 80: hypergol <n>: hypergols
@@ -180464,15 +180433,14 @@
 
 50: infantile paralysis <n>
 
-70 [5d+2a]: infantilise <v>
-
 70 [5d+2a] [moby] 80: infantilism <n>: infantilisms
 
 80: infantility <n>: infantilities
 
 80: infantilization <n>: infantilizations
 
-60 [coca-llm] 70 [5d+2a] 80: infantilize <v>: infantilized, infantilizing, infantilizes
+60 [coca-llm] 70 [5d+2a] 80: A Z: infantilize <v>: infantilized, infantilizing, infantilizes
+60 [coca-llm] 70 [5d+2a] 80: B: infantilise <v>: infantilised, infantilising, infantilises
 
 70 [moby] 80: infantine <aj>
 
@@ -191691,14 +191659,15 @@
 35: journal <n>: journals, journal's
 
 35 [ukfreq] 80: -journal <v>
-80: - <v>: (journaled | ~: journalled), (journaling | ~: journalling), journals
+80: - <v>: (A B: journaled | B?: journalled), (A B: journaling | B?: journalling), journals
 
 70 [moby]: journal box <n>
 
 50: journalese <n>
 80: - <n>: journaleses~
 
-60 [coca-llm]: journaling <n>
+60 [coca-llm]: A B: journaling <n>
+60 [coca-llm]: B?: journalling <n>
 
 35: journalism <n>: journalism's
 80: - <n>: journalisms~
@@ -201033,11 +201002,10 @@
 
 40: large-scale <aj>
 
-50: largess <n>
-80: - <n>: largesses~†
-
-60 [coca-llm] 70: largesse <n>
-80: - <n>: largesses~†
+50: _: largesse <n>
+50: _V: largess <n>
+80: _: - <n>: largesses~
+80: _V: - <n>: largesses~
 
 70 [moby] 80: larghetto <n>: larghettos
 
@@ -204643,8 +204611,6 @@
 
 70 [moby] 85 [ukacd]: leucocratic <aj>
 
-70 [3of6] [5d+2a] [moby] 80: leucocyte <n>: leucocytes
-
 85 [ukacd]: A: leucocythemia <n>
 85 [ukacd]: B: leucocythaemia <n>
 
@@ -204697,8 +204663,6 @@
 
 85 [stale]: leudes <n>
 
-70 [5d+2a]: leukaemic <aj>
-
 35: A C Dv: leukemia <n>
 35: B D: leukaemia <n>
 80: A C Dv: - <n>: leukemias~
@@ -204706,7 +204670,8 @@
 
 60: leukemic <n>: leukemics
 
-60: leukemic <aj>
+60: A C Dv: leukemic <aj>
+60: B D: leukaemic <aj>
 
 80: A Dv: leukemogenesis <n>: leukemogeneses
 80: B D: leukaemogenesis <n>: leukaemogeneses
@@ -204717,7 +204682,8 @@
 
 80 [moby]: leuko <pre>
 
-50: leukocyte <n>: leukocytes
+50: A C Dv: leukocyte <n>: leukocytes
+50: B D: leucocyte <n>: leucocytes
 
 70 [5d+2a] 80: leukocytic <aj>
 
@@ -206151,20 +206117,21 @@
 
 35 roman-numerals: lii <x>
 
-60: A Dv: likability <n>
-60: Av B D: likeability <n>
-80: A Dv: - <n>: likabilities~
-80: Av B D: - <n>: likeabilities~
+60: A Cv DV: likability <n>
+60: Av B C D: likeability <n>
+80: A Cv DV: - <n>: likabilities~
+80: Av B C D: - <n>: likeabilities~
 
-35: A Bv: likable <aj>
-35: Av B: likeable <aj>
+35: A Cv DV: likable <aj>
+35: Av B C D: likeable <aj>
 
-50: A Dv: likableness <n>
-50: Av B D: likeableness <n>
-80: A Dv: - <n>: likablenesses~
-80: Av B D: - <n>: likeablenesses~
+50: A Cv DV: likableness <n>
+50: Av B C D: likeableness <n>
+80: A Cv DV: - <n>: likablenesses~
+80: Av B C D: - <n>: likeablenesses~
 
-70 [5d+2a]: likably <av>
+70 [5d+2a]: A Cv DV: likably <av>
+70 [5d+2a]: Av B C D: likeably <av>
 
 35: like <n_v>: liked, liking, likes
 
@@ -206177,8 +206144,6 @@
 35: like <i>
 
 70 [moby] 85 [ukacd]: !like <suf>
-
-70 [5d+2a]: likeably <av>
 
 70 [3of6]: like crazy <av>
 
@@ -208068,8 +208033,10 @@
 
 80 [upper]: Litvak <n/upper?>: Litvaks
 
-50: livability <n>
-80: - <n>: livabilities~
+50: A C D: livability <n>
+50: AV B Cv Dv: liveability <n>
+70 [5d+2a] 80: A C D: - <n>: livabilities~
+70 [5d+2a] 80: AV B Cv Dv: - <n>: liveabilities
 
 35: A C D: livable <aj>
 35: AV B Cv Dv: liveable <aj>
@@ -208080,8 +208047,6 @@
 35: live <v>: lived, living, lives†
 
 35: live <aj_av>: liver, livest
-
-70 [5d+2a] 80: liveability <n>: liveabilities
 
 70 [5d+2a] 80: livebearer <n>: livebearers
 
@@ -221526,11 +221491,10 @@
 
 85 [ukacd]: Megatherium <n/upper?>
 
-35: megaton <n>: megatons
+35: A B: megaton <n>: megatons
+35: Bv: megatonne <n>
 
 70 [5d+2a] 80: megatonnage <n>: megatonnages
-
-70 [5d+2a]: megatonne <n>
 
 70 [5d+2a] 80: megavitamin <n>: megavitamins
 
@@ -225213,9 +225177,8 @@
 
 85 [ukacd]: microfelsitic <aj>
 
-60: microfiber <n>: microfibers
-
-70 [3of6] [5d+2a]: microfibre <n>: microfibres
+60: A: microfiber <n>: microfibers
+60: B: microfibre <n>: microfibres
 
 80: microfibril <n>: microfibrils
 
@@ -228260,7 +228223,7 @@
 60 [coca-llm] 80: B: mischaracterisation <n>: mischaracterisations
 
 60 [coca-llm] 70 [5d+2a] 80: A Z: mischaracterize <v>: mischaracterized, mischaracterizing, mischaracterizes
-60 [coca-llm] 70 [5d+2a] 80: B: mischaracterise <v>
+60 [coca-llm] 70 [5d+2a] 80: B: mischaracterise <v>: mischaracterised, mischaracterising, mischaracterises
 
 80: mischarge <v>: mischarged, mischarging, mischarges
 
@@ -230513,7 +230476,8 @@
 35: A Cv DV: mold <n_v>: molded, molding, molds, mold's
 35: B C D: mould <n_v>: moulded, moulding, moulds, mould's
 
-60 [coca-llm] 70 [5d+2a] 80: moldable <aj>
+60 [coca-llm] 70 [5d+2a] 80: A Cv DV: moldable <aj>
+60 [coca-llm] 70 [5d+2a] 80: B C D: mouldable <aj>
 
 50 [name] 60: Moldavia <n/upper>: Moldavia's
 
@@ -230530,8 +230494,10 @@
 50: A DV: molder <v>: moldered, moldering, molders
 50: B D: moulder <v>: mouldered, mouldering, moulders
 
-50: moldiness <n>
-80: - <n>: moldinesses~
+50: A Cv DV: moldiness <n>
+50: B C D: mouldiness <n>
+80: A Cv DV: - <n>: moldinesses~
+80: B C D: - <n>
 
 35: A Cv DV: molding <n>: moldings, molding's
 35: B C D: moulding <n>: mouldings, moulding's
@@ -233972,10 +233938,6 @@
 
 80: moulage <n>: moulages
 
-85 [ukacd]: mouldable <aj>
-
-70 [5d+2a] 85 [ukacd]: mouldiness <n>
-
 85 [ukacd]: mouldwarp <n>: mouldwarps
 
 70 [moby] 80: moulin <n>: moulins
@@ -235796,19 +235758,17 @@
 
 80: multistep <aj>
 
+80: multistoried <aj>
+
+60: A: multistory <aj>
+60: B: multistorey <aj>
+60: B-: multi-storey <aj>
+
 70 [3of6] 85 [ukacd]: _: -multi-storey <n>
 70 [3of6] 85 [ukacd]: _v: -multistorey <n>
 80 [3of6]: _: - <n>
 80 [3of6]: _v: - <n>: multistoreys
 ## Compound variant levels are a best guess based on freq and other related info.
-
-70 [3of6] [5d+2a] 85 [ukacd]: _: multi-storey <aj>
-70 [3of6] [5d+2a] 85 [ukacd]: _v: multistorey <aj>
-## Compound variant levels are a best guess based on freq and other related info.
-
-80: multistoried <aj>
-
-60: multistory <aj>
 
 85 [ukacd]: !multistory <n>: multistories
 
@@ -241643,15 +241603,15 @@
 
 70 [5d+2a] [moby] 80: neuromuscular <aj>
 
-35 [ukfreq] 50: neuron <n>: neurons
-50: - <n>: neuron's
+35 [ukfreq] 50: A B C: neuron <n>: neurons
+35 [ukfreq] 50: Bv: neurone <n>: neurones
+50: A B C: - <n>: neuron's
+50: Bv: - <n>
 
 60: _: neuronal <aj>
 60: _V: neuronic <aj>
 
 80: neuronally <av>
-
-70 [3of6] [5d+2a] [brif] 80: neurone <n>: neurones
 
 70 [moby] 80: neuropath <n>: neuropaths
 
@@ -246090,11 +246050,10 @@
 
 70 [5d+2a] 80: nonjoiner <n>: nonjoiners
 
-70 [5d+2a] 85 [ukacd]: nonjudgemental <aj>
-
 85 [ukacd]: nonjudgementally <av>
 
-50: nonjudgmental <aj>
+50: A Bv C: nonjudgmental <aj>
+50: Av B Cv: nonjudgemental <aj>
 
 80: nonjudgmentally <av>
 
@@ -251887,7 +251846,8 @@
 
 85 [ukacd]: oenophil <n>: oenophils
 
-60: oenophile <n>: oenophiles, oenophile's
+60: A B: oenophile <n>: oenophiles, oenophile's
+60: Av: enophile <n>: enophiles, enophile's
 
 70 [5d+2a] 85 [ukacd]: oenophilist <n>
 85 [ukacd]: - <n>: oenophilists!
@@ -259796,9 +259756,8 @@
 
 70 [5d+2a] 80: overgarment <n>: overgarments
 
-70 [5d+2a]: overgeneralisation <n>
-
-70 [5d+2a] 80: overgeneralization <n>: overgeneralizations
+70 [5d+2a] 80: A Z: overgeneralization <n>: overgeneralizations
+70 [5d+2a] 80: B: overgeneralisation <n>
 
 60: A Z: overgeneralize <v>: overgeneralized, overgeneralizing, overgeneralizes
 60: B: overgeneralise <v>: overgeneralised, overgeneralising, overgeneralises
@@ -262124,8 +262083,6 @@
 
 85 [ukacd]: paedagogue <n>: paedagogues
 
-70 [5d+2a] 85 [ukacd]: paederasty <n>
-
 85 [ukacd]: paedeutic <n>: paedeutics
 
 85 [ukacd]: paediatrist <n>: paediatrists
@@ -262501,11 +262458,6 @@
 
 70 [moby] 85 [ukacd]: Palaeogene <n/upper?>
 
-70 [5d+2a] 85 [ukacd]: palaeographer <n>
-85 [ukacd]: - <n>: palaeographers!
-
-70 [5d+2a] [moby] 85 [ukacd]: palaeography <n>
-
 80 [moby]: palaeontol. <abbr>
 
 85 [ukacd]: Palaeotherium <n/name>
@@ -262754,7 +262706,8 @@
 70 [moby] 80: A C Dv: paleogeography <n>: paleogeographies
 70 [moby] 80: B D: palaeogeography <n>: palaeogeographies
 
-60: paleographer <n>: paleographers, paleographer's
+60: A C: paleographer <n>: paleographers, paleographer's
+60: B Cv: palaeographer <n>: palaeographers!
 
 70 [5d+2a] 80: A Dv: paleographic <aj>
 70 [5d+2a] 80: B D: palaeographic <aj>
@@ -262768,8 +262721,10 @@
 85 [ukacd]: A Dv: paleographist <n>
 85 [ukacd]: B D: palaeographist <n>: palaeographists
 
-60: paleography <n>
-80: - <n>: paleographies~
+60: A C: paleography <n>
+60: B Cv: palaeography <n>
+80: A C: - <n>: paleographies~
+80: B Cv: - <n>
 
 85 [ukacd]: A Dv: paleolimnology <n>
 85 [ukacd]: B D: palaeolimnology <n>
@@ -267937,11 +267892,9 @@
 
 70 [moby] 85 [ukacd]: pay back <v>
 
-40: paycheck <n>: paychecks
-
-70 [3of6] [5d+2a]: _: pay cheque <n>: pay cheques
-70 [3of6] [5d+2a]: _.: paycheque <n>: paycheques
-## Compound variant levels are a best guess based on freq and other related info.
+40: A CV: paycheck <n>: paychecks
+40: B C.: pay cheque <n>: pay cheques
+40: BV C: paycheque <n>: paycheques
 
 40: payday <n>: paydays
 
@@ -268743,8 +268696,10 @@
 80: A: pederastically <av>
 80: B: paederastically <av>
 
-50: pederasty <n>
-80: - <n>: pederasties~
+50: A B: pederasty <n>
+50: BV: paederasty <n>
+80: A B: - <n>: pederasties~
+80: BV: - <n>
 
 85 [ukacd]: pederero <n>: (pedereroes | pedereros) #! unmarked variants: pedereroes, pedereros
 
@@ -273686,10 +273641,10 @@
 
 80: phenmetrazine <n>: phenmetrazines
 
-50: phenobarbital <n>
-80: - <n>: phenobarbitals~
-
-70 [moby] 80: phenobarbitone <n>: phenobarbitones
+50: A B: phenobarbital <n>
+50: Bv: phenobarbitone <n>
+70 [moby] 80: A B: - <n>: phenobarbitals~
+70 [moby] 80: Bv: - <n>: phenobarbitones
 
 80: phenocopy <n>: phenocopies
 
@@ -277854,9 +277809,8 @@
 
 80 [moby]: Pipestone <n/place>
 
-70 [5d+2a] 80: pipet <n>: pipets
-
-60: pipette <n>: pipettes
+60: A B: pipette <n>: pipettes
+60: AV: pipet <n>: pipets
 
 80: -pipette <v>: pipetted, pipetting, pipettes
 
@@ -281146,9 +281100,6 @@
 
 50 [name] 60: Podgorica <n/name?>: Podgorica's
 
-70 [3of6] [5d+2a] [brif] [moby] 80: podgy <aj>
-80: - <aj>: podgier, podgiest
-
 50 [name]: Podhoretz <n/name?>: Podhoretz's
 
 85 [ukacd]: podial <aj>
@@ -283943,9 +283894,8 @@
 
 35: portal <n>: portals, portal's
 
-70 [5d+2a] 80: portaled
-
-70 [5d+2a]: portalled
+70 [5d+2a] 80: A Bv: portaled <aj>
+70 [5d+2a] 80: Av B: portalled <aj>
 
 70 [5d+2a] 85 [ukacd]: Portaloo <n/name>
 85 [ukacd]: - <n/name>: Portaloos!
@@ -294482,7 +294432,8 @@
 60: pudginess <n>
 80: - <n>: pudginesses~
 
-35: pudgy <aj>: pudgier, pudgiest
+35: A C: pudgy <aj>: pudgier, pudgiest
+35: B: podgy <aj>: podgier, podgiest
 
 80: pudibund <aj>
 
@@ -299193,7 +299144,8 @@
 70 [5d+2a]: A Z: racialize <v>
 70 [5d+2a]: B: racialise <v>
 
-60 [coca-llm]: racialized <aj>
+60 [coca-llm]: A Z: racialized <aj>
+60 [coca-llm]: B: racialised <aj>
 
 35: racially <av>
 
@@ -304848,8 +304800,10 @@
 80: _=: re-endow <v>: re-endowed, re-endowing, re-endows
 ## Compound variant levels are a best guess based on freq and other related info.
 
-60 [coca-llm] 70 [5d+2a] 80: reenergize <v>
-70 [5d+2a] 80: - <v>: reenergized, reenergizing, reenergizes
+60 [coca-llm] 70 [5d+2a] 80: A Z: reenergize <v>
+60 [coca-llm] 70 [5d+2a] 80: B: reenergise <v>
+70 [5d+2a] 80: A Z: - <v>: reenergized, reenergizing, reenergizes
+70 [5d+2a] 80: B: - <v>
 
 60: reengage <v>: reengaged, reengaging, reengages
 
@@ -339895,13 +339849,10 @@
 
 60: smart-alecky
 
-70 [3of6] 85 [ukacd]: _: smart-arse <n>: smart-arses
-70 [3of6] 85 [ukacd]: _.: smartarse <n>: smartarses
-## Compound variant levels are a best guess based on freq and other related info.
-
-50: _: smart-ass <n>: smart-asses
-50: _V: smartass <n>: smartasses
-## Compound variant levels are a best guess based on freq and other related info.
+50: A C: smart-ass <n>: smart-asses
+50: AV: smartass <n>: smartasses
+50: B Cv: smart-arse <n>: smart-arses
+50: B. Cv: smartarse <n>: smartarses
 
 60: smart bomb <n>: smart bombs
 
@@ -341124,14 +341075,13 @@
 
 35: snorkel <n_v>: (A Cv: snorkeled | B C: snorkelled), (A Cv: snorkeling | B C: snorkelling), snorkels
 
-50: snorkeler <n>: snorkelers
+50: A: snorkeler <n>: snorkelers
+50: B: snorkeller <n>
 
 40: A Cv: snorkeling <n>
 40: B C: snorkelling <n>
 80: A Cv: - <n>: snorkelings~
 80: B C: - <n>
-
-70 [5d+2a]: snorkeller <n>
 
 35: snort <n_v>: snorted, snorting, snorts
 
@@ -353430,13 +353380,14 @@
 
 70 [5d+2a] 80: storewide <aj>
 
-70 [3of6] [5d+2a] 80: storeyed <aj>
-
 85 [ukacd]: storge <n>
 
 85 [ukacd]: storiated <aj>
 
-50: A B: storied <aj>
+50: A B: storied <aj> {book}
+
+50: A: storied <aj> {level of building}
+50: B: storeyed <aj> {level of building}
 
 70 [moby] 85 [ukacd]: storiette <n>: storiettes
 
@@ -354022,7 +353973,8 @@
 
 50: strategist <n>: strategists, strategist's
 
-60 [coca-llm] 70 [5d+2a] 80: strategize <v>: strategized, strategizing, strategizes
+60 [coca-llm] 70 [5d+2a] 80: A Z: strategize <v>: strategized, strategizing, strategizes
+60 [coca-llm] 70 [5d+2a] 80: B: strategise <v>: strategised, strategising, strategises
 
 35: strategy <n>: strategies, strategy's
 
@@ -359457,9 +359409,8 @@
 
 85 [ukacd]: supercelestial <aj>
 
-70 [5d+2a] 80: supercenter <n>: supercenters
-
-70 [5d+2a]: supercentre <n>
+70 [5d+2a] 80: A: supercenter <n>: supercenters
+70 [5d+2a] 80: B: supercentre <n>
 
 50: supercharge <v>: supercharged, supercharging, supercharges
 
@@ -361794,7 +361745,8 @@
 
 80 [moby]: Swanwick <n/place>
 
-35: swap <n_v>: swapped, swapping, swaps
+35: A B C: swap <n_v>: swapped, swapping, swaps
+35: BV: swop <n_v>: swopped, swopping, swops
 
 70 [3of6] 85 [ukacd]: swap meet <n>: swap meets
 
@@ -362633,8 +362585,6 @@
 80: swoopstake
 
 60: swoosh <n_v>: swooshed, swooshing, swooshes
-
-70: swop <n_v>: swopped, swopping, swops
 
 85 [ukacd]: swopper <n>: swoppers
 
@@ -384812,8 +384762,10 @@
 50: _-: turn-about <n>: turn-abouts
 ## Compound variant levels are a best guess based on freq and other related info.
 
-35 [ukfreq] 40: turnaround <n>
-40: - <n>: turnarounds
+35 [ukfreq] 40: A B: turnaround <n>
+35 [ukfreq] 40: BV: turnround <n>
+40: A B: - <n>: turnarounds
+40: BV: - <n>: turnrounds
 
 70 [moby] 85 [ukacd]: turn away <v>
 
@@ -384903,9 +384855,6 @@
 35: turnpike <n>: turnpikes, turnpike's
 
 70 [3of6]: turn Queen's evidence </upper?>
-
-70 [3of6] [5d+2a] [brif] [ukfreq] 85 [ukacd]: turnround <n>
-70 [3of6] [5d+2a] [brif] 85 [ukacd]: - <n>: turnrounds
 
 40: turn signal <n>: turn signals
 
@@ -393624,15 +393573,14 @@
 
 85 [ukacd]: unlightened <aj>
 
-60: unlikable <aj>
+60: A Cv DV: unlikable <aj>
+60: Av B C D: unlikeable <aj>
 
 35: unlike <aj>
 
 35: unlike <pp>
 
 85 [ukacd]: !unlike <n>: unlikes
-
-70 [5d+2a] 80: unlikeable <aj>
 
 80: unliked <aj>
 
@@ -397478,9 +397426,8 @@
 
 85 [ukacd]: untransparent <aj>
 
-60: untraveled <aj>
-
-70 [5d+2a] 80: untravelled <aj>
+60: A: untraveled <aj>
+60: B: untravelled <aj>
 
 85 [ukacd]: untraversable <aj>
 
@@ -406239,15 +406186,13 @@
 60: voluminousness <n>
 80: - <n>: voluminousnesses~
 
-70 [5d+2a]: volumise <v>
-
-70 [5d+2a]: volumiser
-
 85 [ukacd]: volumist <n>: volumists
 
-70 [5d+2a]: volumize <v>
+70 [5d+2a]: A Z: volumize <v>
+70 [5d+2a]: B: volumise <v>
 
-70 [5d+2a]: volumizer <n>
+70 [5d+2a]: A Z: volumizer <n>
+70 [5d+2a]: B: volumiser <n>
 
 85 [ukacd]: Volumnia <n/person>
 
@@ -410009,9 +409954,8 @@
 
 70 [moby] 80: weaponeer <n>: weaponeers
 
-70 [5d+2a]: weaponisation <n>
-
-60 [coca-llm] 70 [5d+2a]: weaponization <n>
+60 [coca-llm] 70 [5d+2a]: A Z: weaponization <n>
+60 [coca-llm] 70 [5d+2a]: B: weaponisation <n>
 
 60 [extra] 70 [3of6] [5d+2a]: A Z: weaponize <v>: weaponized, weaponizing, weaponizes
 60 [extra] 70 [3of6] [5d+2a]: B: weaponise <v>: weaponised, weaponising, weaponises
