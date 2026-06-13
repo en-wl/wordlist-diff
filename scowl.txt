@@ -199133,7 +199133,7 @@
 
 60: lade <v>: laded, lading, lades
 
-50 [ukfreq] 60 [brif] 70 [3of6] [5d+2a] [moby]: laden <aj>
+35: laden <aj>
 
 80: -laden <v>: ladened, ladening, ladens
 
@@ -334523,7 +334523,7 @@
 
 70 [moby] 85 [ukacd]: shrug off <v>
 
-50 [ukfreq] 60 [brif] 70 [3of6] [5d+2a] [moby] 80: shrunken <aj>
+35: shrunken <aj>
 
 85 [ukacd]: sh's
 
