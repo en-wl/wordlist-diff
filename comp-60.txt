@@ -74,6 +74,7 @@ New words, unclassified:
   parameterizes
   parameterizing
   pathologies
+  petrification
   phenols
   phonons
   plasmas
@@ -110,7 +111,7 @@ New words, unclassified:
   vicinities
   wools
   zenning
-total: 111
+total: 112
 
 New words, in 2of12id, but marked as a variant:
   backslidden
@@ -317,6 +318,7 @@ Missing words, unclassified:
   pencilings
   percents
   peristalses
+  petrifaction
   pfennigs
   piing
   plectrums
@@ -388,7 +390,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 173
+total: 174
 
 Missing words, closed form of compound word marked as variant:
   airbase

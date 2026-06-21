@@ -272806,14 +272806,15 @@
 
 70 [3of6] 85 [ukacd]: Petri dish <n/upper?>: Petri dishes
 
-50: petrifaction <n>
+70 [-] [5d+2a] [moby] 80: petrifaction <n>
 80: - <n>: petrifactions~
 
 80: petrifactive <aj>
 
 85 [ukacd]: petrific <aj>
 
-70 [5d+2a] 80: petrification <n>: petrifications
+50 [extra] 70 [5d+2a] 80: petrification <n>
+80: - <n>: petrifications~
 
 40: petrified <aj>
 
