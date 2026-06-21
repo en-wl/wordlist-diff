@@ -2930,8 +2930,6 @@ New words, ok, in 2of12id:
   loch
   lochs
   lovechildren
-  meagerer
-  meagerest
   millennials
   naivete
   nonexempts
@@ -2971,7 +2969,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 99
+total: 97
 
 New words, ok, other:
   Curaçao

@@ -26748,7 +26748,7 @@
 80: bacteremically <av>
 
 35: bacteria <n>: bacteria's
-80: - <n>: bacterias!
+85: - <n>: bacterias!
 
 35 [ukfreq] 50: bacterial <aj>
 
@@ -220499,8 +220499,8 @@
 
 35: A Cv: meager <aj>
 35: AV B C: meagre <aj>
-50: A Cv: - <aj>: meagerer-, meagerest-
-50: AV B C: - <aj>: meagrer-, meagrest-
+70: A Cv: - <aj>: meagerer-, meagerest-
+70: AV B C: - <aj>: meagrer-, meagrest-
 
 85 [ukacd]: A Cv: -meager <n>
 85 [ukacd]: B C: -meagre <n>: meagres
@@ -311360,7 +311360,7 @@
 60 [extra]: - <n>: rheumatologist's
 
 60 [extra] 70 [3of6] [5d+2a] 80: rheumatology <n>
-70 [5d+2a] 80: - <n>: rheumatologies~
+80: - <n>: rheumatologies~
 
 85 [ukacd]: rheumed <aj>
 
