@@ -1,26 +1,133 @@
 New words, unclassified:
+  acclamations
+  accuracies
+  adenocarcinomas
+  amygdalas
+  annuli
+  annuluses
+  antivenoms
+  assignees
+  atlantes
+  biotechs
+  blackfaces
+  boneyards
+  bullseyes
+  camerapersons
+  cardiomyopathies
+  checkboxes
+  checksums
+  clades
+  coenzymes
   colorizations
+  comae
+  detections
+  disassemblies
+  dobros
+  dognappers
+  dolors
+  duplications
+  durations
+  dyestuffs
+  dystopias
+  echidnas
+  editorships
+  embodiments
+  epithelia
+  equilibriums
+  flatbreads
+  formalisms
+  fossas
   fragged
   fragging
   globbed
   globbing
+  governorships
+  granites
+  greenstones
+  hadiths
+  heathers
+  hippocampi
+  hornbeams
+  hypercubes
+  hyperplanes
+  immunities
+  initialisms
+  instars
+  insulas
+  internments
+  intifadas
+  kanas
+  kleptocracies
+  lavas
+  lumens
   mammae
+  matings
+  mentorships
+  midnights
+  misdirections
+  moleskins
+  monads
+  morphologies
   munge
   munges
+  nanotubes
+  nucleotides
+  occupancies
+  oxidases
+  parameterizes
+  parameterizing
+  pathologies
+  phenols
+  phonons
+  plasmas
   po'boy
+  proficiencies
+  purities
+  quantized
+  quantizes
+  quantizing
+  rands
+  ratifications
+  reclamations
+  redefinitions
+  reintroductions
+  reticula
+  retinoblastomas
+  rhinoplasties
+  sakes
+  sandstones
+  secessions
+  sedges
+  splenectomies
+  sponsorships
+  subdominants
+  subparagraphs
+  subparts
+  swamplands
+  tannins
+  taskbars
+  tilapias
   tty
+  tubae
+  tzatzikis
+  verifications
+  vicinities
+  wools
   zenning
-total: 11
+total: 115
 
 New words, in 2of12id, but marked as a variant:
   backslidden
   disproven
+  geishas
   hewn
+  militaries
   mown
+  narcissi
   shorn
   strived
   sunburnt
-total: 7
+total: 10
 
 New words, upper:
   Black
@@ -66,6 +173,7 @@ New words, upper plural:
   Ivorians
   Jacuzzis
   Jeeps
+  Joneses
   Kurds
   Labradorians
   Ladies
@@ -108,7 +216,7 @@ New words, upper plural:
   Welshwomen
   Westerners
   Zeppelins
-total: 73
+total: 74
 
 Missing words, unclassified:
   anticked
@@ -151,7 +259,11 @@ Missing words, unclassified:
   evillest
   farmings
   fayer
+  fayest
+  flashest
   flooder
+  fragiler
+  fragilest
   frogging
   froggings
   furthest
@@ -222,7 +334,6 @@ Missing words, unclassified:
   raviolis
   reactance
   recursions
-  residua
   revelings
   ringings
   rollings
@@ -279,7 +390,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 168
+total: 171
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -375,13 +486,14 @@ Missing words, common variant:
   Kiev
   MasterCard
   amoebae
+  blinis
   coneys
   formulae
   fête
   fêtes
   hippy
   waldoes
-total: 9
+total: 10
 
 Missing words, upper:
   ABMs
@@ -887,7 +999,6 @@ total: 499
 
 Missing words, variant:
   bauds
-  blinis
   chateaus
   clitorides
   cloverleaves
@@ -911,7 +1022,7 @@ Missing words, variant:
   sicced
   siccing
   zeroes
-total: 25
+total: 24
 
 New words, ok, added:
   ADHD
@@ -2721,7 +2832,7 @@ New words, ok, closed form of compound word:
   boomtown
   boomtowns
   brownnoser
-  bubblegums
+  chatrooms
   chowchow
   clearheadedness
   cornpone
@@ -2739,21 +2850,26 @@ New words, ok, closed form of compound word:
   lightheadedness
   newsagencies
   newsagency
+  nonissues
   peacoat
   playdate
   playdates
   pushbutton
   ratfink
+  riverfronts
   rolltop
   simplemindedness
   sonofabitch
   sou'westers
+  spearguns
   stuntwoman
   warmheartedly
   waterskiing
+  wavefronts
   wetsuit
   wetsuits
-total: 40
+  workforces
+total: 45
 
 New words, ok, in 2of12id:
   attaches
@@ -2870,6 +2986,7 @@ New words, ok, other:
   entr'actes
   falafel
   falafels
+  meds
   mujahideen
   presidiums
   referenda
@@ -2880,7 +2997,7 @@ New words, ok, other:
   speccing
   woker
   wokest
-total: 22
+total: 23
 
 Missing words, ok, archaic:
   begat
@@ -2940,10 +3057,6 @@ Missing words, ok, uncommon derived aj/av:
   bloodthirstiest
   cutesier
   cutesiest
-  fayest
-  flashest
-  fragiler
-  fragilest
   hepper
   heppest
   impurer
@@ -2960,7 +3073,7 @@ Missing words, ok, uncommon derived aj/av:
   uncleanliest
   unsafer
   unsafest
-total: 33
+total: 29
 
 Missing words, ok, uncommon form:
   accessioned
