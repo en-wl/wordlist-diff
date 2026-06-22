@@ -2147,6 +2147,7 @@ New words, ok, added:
   noris
   norovirus
   numbingly
+  omnidirectional
   onesie
   onesies
   oolong
@@ -2238,6 +2239,8 @@ New words, ok, added:
   polentas
   policymaking
   polyamorous
+  polymorph
+  polymorphs
   ponytailed
   portabella
   portabellas
@@ -2769,7 +2772,7 @@ New words, ok, added:
   ziplock
   ziti
   zombielike
-total: 1743
+total: 1746
 
 New words, ok, all-upper lemma:
   ATMs

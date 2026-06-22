@@ -73441,6 +73441,7 @@ omitted
 omitting
 omnibus
 omnibuses
+omnidirectional
 omnipotence
 omnipotent
 omnipresence
@@ -79046,8 +79047,11 @@ polymerised
 polymerises
 polymerising
 polymers
+polymorph
+polymorph's
 polymorphic
 polymorphous
+polymorphs
 polynomial
 polynomials
 polyp

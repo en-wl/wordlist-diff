@@ -253415,7 +253415,8 @@
 
 70 [5d+2a] 80: omnicompetent <aj>
 
-70 [5d+2a] [moby] 80: omnidirectional <aj>
+60 [extra] 70 [5d+2a] [moby] 80: _: omnidirectional <aj>
+60 [extra] 70 [5d+2a] [moby] 80: _V: omni-directional <aj>
 
 85 [ukacd]: omniety <n>
 
@@ -282496,7 +282497,8 @@
 
 85 [ukacd]: Polymnia <n/name>
 
-80: polymorph <n>: polymorphs
+60 [extra] 80: polymorph <n>: polymorphs
+60 [extra]: - <n>: polymorph's
 
 50 [ukfreq] 60 [brif] 70 [5d+2a] 80: polymorphic <aj>
 

@@ -73429,6 +73429,7 @@ omitted
 omitting
 omnibus
 omnibuses
+omnidirectional
 omnipotence
 omnipotent
 omnipresence
@@ -79029,8 +79030,11 @@ polymerized
 polymerizes
 polymerizing
 polymers
+polymorph
+polymorph's
 polymorphic
 polymorphous
+polymorphs
 polynomial
 polynomials
 polyp
