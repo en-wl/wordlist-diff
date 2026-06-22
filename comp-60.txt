@@ -1124,6 +1124,7 @@ New words, ok, added:
   arcana
   archrival
   archrivals
+  aridification
   armoire
   armoires
   arrestee
@@ -1253,6 +1254,7 @@ New words, ok, added:
   bobbleheads
   boing
   boings
+  bolognese
   borderless
   bouldering
   brainiac
@@ -2772,7 +2774,7 @@ New words, ok, added:
   ziplock
   ziti
   zombielike
-total: 1746
+total: 1748
 
 New words, ok, all-upper lemma:
   ATMs

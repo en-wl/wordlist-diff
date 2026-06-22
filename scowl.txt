@@ -19375,6 +19375,8 @@
 35: arid <aj>
 80: - <aj>: arider-, aridest-
 
+60 [extra]: aridification <n>
+
 80: aridisol <n>: aridisols
 
 50: aridity <n>
@@ -40576,6 +40578,12 @@
 50 [name] 70 [5d+2a] [moby] 85 [ukacd]: Bologna <n/name?>: Bologna's
 
 70 [5d+2a] 80 [upper]: Bolognan <n/upper?>: Bolognans
+
+60 [extra]: A B: bolognese <n>
+60 [extra]: Bv: bolognaise <n>
+
+60 [extra]: A B: bolognese <aj>
+60 [extra]: Bv: bolognaise <aj>
 
 70 [5d+2a] [moby] 80 [upper] 85 [ukacd]: Bolognese <aj/upper?>
 
