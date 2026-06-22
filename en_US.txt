@@ -23585,7 +23585,6 @@ annulment
 annulments
 annuls
 annulus
-annuluses
 annunciation
 annunciations
 anode
@@ -25138,7 +25137,6 @@ athletics
 athwart
 atilt
 atishoo
-atlantes
 atlas
 atlas's
 atlases
@@ -25980,7 +25978,6 @@ baddest
 baddie
 baddie's
 baddies
-bade
 badge
 badger
 badger's
@@ -27767,7 +27764,6 @@ bicyclists
 bid
 bid's
 biddable
-bidden
 bidder
 bidder's
 bidders
@@ -35543,8 +35539,6 @@ columns
 com
 coma
 coma's
-comae
-comae's
 comaker
 comakers
 comas
@@ -36425,6 +36419,9 @@ coned
 coneflower
 coneflowers
 cones
+coney
+coney's
+coneys
 confab
 confabbed
 confabbing
@@ -37466,8 +37463,6 @@ convulsion
 convulsions
 convulsive
 convulsively
-cony
-cony's
 coo
 cooed
 cooing
@@ -102079,7 +102074,6 @@ ttys
 tub
 tub's
 tuba
-tubae
 tubal
 tubas
 tubbier

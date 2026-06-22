@@ -4,10 +4,8 @@ New words, unclassified:
   adenocarcinomas
   amygdalas
   annuli
-  annuluses
   antivenoms
   assignees
-  atlantes
   biotechs
   blackfaces
   boneyards
@@ -19,7 +17,6 @@ New words, unclassified:
   clades
   coenzymes
   colorizations
-  comae
   detections
   disassemblies
   dobros
@@ -108,13 +105,12 @@ New words, unclassified:
   taskbars
   tilapias
   tty
-  tubae
   tzatzikis
   verifications
   vicinities
   wools
   zenning
-total: 115
+total: 111
 
 New words, in 2of12id, but marked as a variant:
   backslidden
@@ -227,9 +223,11 @@ Missing words, unclassified:
   aphelions
   assaulter
   aviatrices
+  bade
   bandwidths
   barmier
   barmiest
+  bidden
   blamer
   bolivares
   buccaneering
@@ -390,7 +388,7 @@ Missing words, unclassified:
   yest
   yieldings
   yous
-total: 171
+total: 173
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -487,7 +485,7 @@ Missing words, common variant:
   MasterCard
   amoebae
   blinis
-  coneys
+  cony
   formulae
   fête
   fêtes
@@ -2893,6 +2891,7 @@ New words, ok, in 2of12id:
   collateralized
   collateralizes
   collateralizing
+  coney
   crawfish
   donut
   downscaled
@@ -2970,7 +2969,7 @@ New words, ok, in 2of12id:
   weirds
   wonton
   wontons
-total: 97
+total: 98
 
 New words, ok, other:
   Curaçao

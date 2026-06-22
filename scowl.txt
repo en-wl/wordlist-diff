@@ -13848,7 +13848,7 @@
 
 70 [moby] 85 [stale] [ukacd]: annulose <aj>
 
-60 [extra] 70 [5d+2a] [moby] 80: annulus <n>: (annuli | annuluses) #! unmarked variants: annuli, annuluses
+60 [extra] 70 [5d+2a] [moby] 80: annulus <n>: (annuli | V: annuluses)
 
 70 [5d+2a] [moby] 80: annunciate <v>: annunciated, annunciating, annunciates
 
@@ -22714,10 +22714,11 @@
 
 35: atlas <n> {book}: atlases, atlas's
 
-35: atlas <n> {sculpture}: atlantes, atlas's
-
 50: Atlas <n/upper>: Atlas's
 65: - <n/upper>: Atlases-
+
+70 [-] [3of6] [5d+2a] [moby] 80: atlas <n> {sculpture}: atlas's
+70 [-] [5d+2a] [moby] 80: - <n> {sculpture}: atlantes
 
 80 [moby]: Atlasburg <n/place>
 
@@ -25515,12 +25516,12 @@
 
 80: axion <n>: axions
 
-35: axis <n> {deer}: axis's
-65: - <n> {deer}: axises-
-
 35: axis <n> {line}: axes†, axis's
 
 60: Axis <n/upper>: Axis's
+
+70 [-] [3of6] [5d+2a] [moby] 80: axis <n> {deer}: axis's
+70 [-] [5d+2a] [moby] 80: - <n> {deer}: axises-
 
 80: axised <aj>
 
@@ -35106,9 +35107,9 @@
 
 35: bid <n>: bids, bid's
 
-35: bid <v> {command}: bade, bidden, bidding, bids
-
 35: bid <v> {offer}: bid, bidding, bids
+
+70 [-] [3of6] [5d+2a] [moby] 80: bid <v> {command}: bade, bidden, bidding, bids
 
 70 [moby] 80: bidarka <n>: bidarkas
 
@@ -51420,8 +51421,7 @@
 
 35: camera <n>: cameras, camera's
 
-35: camera <n> {chamber}: camera's
-65: - <n> {chamber}: camerae-, -, camerae's-
+80 [] [-]: camera <n> {chamber}: camerae-, camera's, camerae's-
 
 70 [moby] 80: cameral <aj>
 
@@ -71218,7 +71218,8 @@
 
 35: coma <n> {medicine}: comas, coma's
 
-35: coma <n> {optics}: comae, coma's, comae's
+70 [-] [3of6] [5d+2a] [moby] 80: coma <n> {optics}: coma's
+70 [-] [5d+2a] [moby] 80: - <n> {optics}: comae, -, comae's
 
 70 [moby] 85 [ukacd]: Coma Berenices <n/upper?>
 
@@ -74024,6 +74025,9 @@
 80 [moby]: Conesville <n/place>
 
 80 [moby]: Conetoe <n/place>
+
+60: _: coney <n>: coneys, coney's
+60: _v: cony <n>: conies, cony's
 
 50 [name] 70 [moby] 85 [ukacd]: Coney Island <n/name?>: Coney Island's
 
@@ -77108,9 +77112,6 @@
 50: Conway <n/place>: Conway's
 
 85 [ukacd]: Conwy <n/place>
-
-60: _: cony <n>: (- | v: conies), cony's #! missing non-variants: conies
-60: _v: coney <n>: coneys, coney's
 
 80 [moby]: Conyers <n/place>
 
@@ -97760,10 +97761,10 @@
 
 35: die <n> {gambling}: dice
 
-35: die <v> {shape}: died, -, dies
-65: - <v> {shape}: -, dieing-, -
-
 35: die <n> {tool}: dies
+
+70 [-] [3of6] [5d+2a] [moby] 80: die <v> {shape}: died, -, dies
+70 [-] [5d+2a] [moby] 80: - <v> {shape}: -, dieing-, -
 
 85 [ukacd]: dieb <n>: diebs
 
@@ -115798,8 +115799,8 @@
 
 80: endometritis <n>: endometritises
 
-60 [extra] 70 [5d+2a] [moby] 80: endometrium <n> # fixme: endometriums: check if variant
-65 [extra] 70 [5d+2a] [moby] 80: - <n>: (endometria- | -: endometriums-)
+60 [extra] 70 [5d+2a] [moby] 80: endometrium <n>
+70 [5d+2a] [extra] [moby] 80: - <n>: (endometria- | -: endometriums-)
 
 80: endomitosis <n>: endomitoses
 
@@ -118609,7 +118610,7 @@
 
 80: epitheliomatous <aj>
 
-60: epithelium <n>: (epithelia | ~: epitheliums)
+60: epithelium <n>: (epithelia | -: epitheliums)
 
 80: epithelization <n>: epithelizations
 
@@ -118930,7 +118931,7 @@
 
 85 [ukacd]: equilibrity <n>
 
-35: equilibrium <n>: (equilibriums | ~: equilibria)
+35: equilibrium <n>: (equilibriums | v: equilibria)
 
 80: equimolar <aj>
 
@@ -126962,10 +126963,9 @@
 
 35: farewell <n>: farewells
 
-35: farewell <v>
-80: - <v>: farewelled!, farewelling!, -
-
 35: farewell <i>
+
+50 AU 80: farewell <v>: farewelled, farewelling, farewells
 
 80: farfal <n>: farfals
 
@@ -195757,11 +195757,8 @@
 
 80 [moby]: Kimper <n/place>
 
-35: kin <n> {family}: kin's
-80: - <n> {family}: kin~
-
-35: kin <n> {relative}: kin's
-80: - <n> {relative}: kins~
+35: kin <n>: kin's #! unmarked variants: kin, kins
+80: - <n>: (kin~ | kins~)
 
 70 [5d+2a] 80: kina <n>: kinas
 
@@ -201497,7 +201494,7 @@
 ## Compound variant levels are a best guess based on freq and other related info.
 
 35: latex <n>
-65: - <n>: (latices- | ?: latexes-)
+65: - <n>: (latexes- | v: latices-)
 
 80 [moby]: Latexo <n/place>
 
@@ -251413,7 +251410,7 @@
 
 80: octopodous <aj>
 
-35: octopus <n>: (octopuses | ~: octopi), octopus's, (octopuses' | ~: octopi's)
+35: octopus <n>: (octopuses | v: octopi | V: octopodes), octopus's, (octopuses' | v: octopi's | V: octopodes's)
 
 85 [ukacd]: octopush
 
@@ -261228,8 +261225,7 @@
 
 35: ox <n> {animal}: (oxen | ~: ox), ox's, (- | oxen's)
 
-35: ox <n> {oaf}: ox's
-65: - <n> {oaf}: oxes-
+80 [] [-]: ox <n> {oaf}: oxes-, ox's
 
 80 [moby]: oxa <pre>
 
@@ -297192,8 +297188,8 @@
 
 70 [moby] 80: quadrivial <aj>
 
-60: quadrivium <n> # fixme: quadriviums: check if variant
-65: - <n>: (quadrivia- | -: quadriviums!)
+60: quadrivium <n>
+70: - <n>: (quadrivia- | -: quadriviums-)
 
 70 [5d+2a] [moby] 80: quadroon <n>: quadroons, quadroon's
 
@@ -308929,7 +308925,7 @@
 
 85 [ukacd]: residuous <aj>
 
-60: residuum <n>: (residua | -: residuums!), residuum's, (residua's | -: residuums'!) # fixme: residuums: check if variant
+60: residuum <n>: (residua | -: residuums), residuum's, (residua's | -: residuums')
 
 85 [stale]: resift <v>: resifted, resifting, resifts
 
@@ -309894,7 +309890,7 @@
 
 85 [ukacd]: reticulo-endothelial system
 
-60 [extra] 70 [moby] 80: reticulum <n>: (reticula | -: reticulums-), reticulum's, (reticula's | -: reticulums'-) # fixme: reticulums: check if variant
+60 [extra] 70 [moby] 80: reticulum <n>: (reticula | V: reticulums), reticulum's, (reticula's | V: reticulums')
 
 60: retie <v>: retied, retying, reties
 
@@ -339175,8 +339171,8 @@
 
 35: slit <v> {cut}: slit, slitting, slits
 
-35: slit <v> {narrow}: -, slitting, slits
-65: - <v> {narrow}: slitted-, -, -
+70 [-] [3of6] [5d+2a] [moby] 80: slit <v> {squint}: -, slitting, slits
+70 [-] [5d+2a] [moby] 80: - <v> {squint}: slitted, -, -
 
 35: slither <n_v>: slithered, slithering, slithers
 
@@ -383710,9 +383706,9 @@
 
 80: -tub <v>: tubbed, tubbing, tubs
 
-35: tuba <n> {Roman}: tubae
-
 35: tuba <n> {modern}: tubas
+
+80 [] [-]: tuba <n> {Roman}: tubae
 
 80 [moby]: Tubac <n/place>
 

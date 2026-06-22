@@ -32862,7 +32862,6 @@ annulments
 annulose
 annuls
 annulus
-annuluses
 annunciate
 annunciated
 annunciates
@@ -45397,8 +45396,6 @@ cameo
 cameos
 camera
 camera's
-camerae
-camerae's
 cameral
 cameraman
 cameraman's
@@ -70757,6 +70754,7 @@ equilibrates
 equilibrating
 equilibration
 equilibrations
+equilibria
 equilibrial
 equilibrist
 equilibrists
@@ -112885,6 +112883,8 @@ octogenarian's
 octogenarians
 octonaries
 octonary
+octopi
+octopi's
 octopod
 octopod's
 octopods
@@ -116037,7 +116037,6 @@ oxcart
 oxcarts
 oxen
 oxen's
-oxes
 oxford
 oxfords
 oxheart
@@ -158045,7 +158044,6 @@ tuataras
 tub
 tub's
 tuba
-tubae
 tubal
 tubas
 tubate
