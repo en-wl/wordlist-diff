@@ -30,7 +30,7 @@ update comm set ok = true, note = 'possessive'
 
 update comm set ok = true, note = 'archaic'
  where ok is null and old in (
-   select old from comm join v2.scowl_ on old=word where size <= 60 and spelling in ('_', 'A') group by old having bool_and(entry_rank = '@' or variant_level = 8)
+   select old from comm join v2.scowl_ on old=word join v2.variant_levels using (variant_level) where size <= 60 and spelling in ('_', 'A') group by old having bool_and(entry_rank = '@' or variant_symbol = '@')
  );
 
 update comm set ok = true, note = 'uncommon derived aj/av'
