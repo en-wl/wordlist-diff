@@ -20250,8 +20250,6 @@
 
 35: art <n>: arts, art's
 
-35: art <v>
-
 50: Art <n/person>: Art's
 
 60: _: art. <abbr>
@@ -30825,6 +30823,7 @@
 80 [moby]: B.D.S. <abbr>
 
 35: be <v>: (was | @: wast), were, been, being, am, (are | @: art), is, are
+70: +: be <v>: wast
 
 60: Be <n/upper>
 
@@ -32110,6 +32109,7 @@
 85 [ukacd]: begem <v>: begemmed, begemming, begems
 
 50: beget <v>: (begot | @: begat), (begotten | -: begot), begetting, begets
+60: +: beget <v>: begat
 
 60 [brif] 70 [3of6] [5d+2a] 80: begetter <n>: begetters
 70 [3of6] [5d+2a] 80: - <n>: begetter's
@@ -51785,7 +51785,8 @@
 
 35: can <n>: cans, can's
 
-35: can <v> {be able}: could, -, (can | @: canst)
+35: can <v> {be able}: could, -, -, -, can, -, -, can
+70: - <v> {be able}: -, -, -, -, -, canst@, -, -
 
 35: can <v> {preserve}: canned, canning, cans
 
@@ -103195,7 +103196,8 @@
 
 35: do <n>: (dos | -: do's)
 
-35: do <v>: (did | @: didst), done, doing, (does† | @: dost | @: doth)
+35: do <v>: (did | @: didst), -, done, doing, does†, dost@, doth@, -
+70: +: do <v>: didst
 
 80 [moby]: do. <abbr>
 
@@ -105031,8 +105033,6 @@
 50: dory <n>: dories, dory's
 
 50: DOS <n/upper>
-
-60 [brif] 70 [3of6] 80: dos <n>: doses†
 
 70 [5d+2a]: dosa <n>
 
@@ -159709,9 +159709,9 @@
 
 80: havdalah <n>: havdalahs
 
-35: have <n>: haves, have's
+35: have <n>: haves
 
-35: have <v>: (had | @: hadst), having, (has | @: hast | @: hath)
+35: have <v>: (had | @: hadst), -, -, having, has, hast@, hath@, -
 
 70 [moby] 85 [ukacd]: have at
 
@@ -219795,14 +219795,14 @@
 
 80 [moby]: Maxwelton <n/place>
 
-35: may <n>
-80: - <n>: mays~
-
-35: may <v>: might, -, (may | @: mayest | @: mayst)
+35: may <v>: might, -, -, -, may, -, -, may
+70: - <v>: -, -, -, -, -, (mayest@ | V: mayst@), -, -
 
 35: May <n>: Mays, May's
 
 50: May <n/person>: May's
+
+80: @may <n>: mays
 
 50: Maya <n/upper>: Maya's
 65: - <n/upper>: Mayas-
@@ -319017,8 +319017,6 @@
 
 80 [upper]: Saite <n/upper?>: Saites
 
-70 [5d+2a] [moby]: saith <v>
-
 85 [ukacd]: !saith <n>: saiths
 
 80: saithe <n>
@@ -322364,7 +322362,8 @@
 35: say <n>
 80: - <n>: says~
 
-35: say <v>: said, saying, (says | @: saith)
+35: say <v>: said, saying, says
+60: - <v>: -, -, -, -, -, -, saith@, -
 
 35: say <a>
 80: - <a>: sayer!, sayest!
@@ -331503,7 +331502,7 @@
 
 80 [moby]: Shalimar <n/place>
 
-35: shall <v>: should, -, (shall | @: shalt)
+35: shall <v>: should, -, -, -, shall, shalt@, -, shall
 
 85 [ukacd]: shalli
 
@@ -334076,8 +334075,6 @@
 70 [moby]: shot tower <n>
 
 85 [ukacd]: shough <n>: shoughs
-
-70 [5d+2a] [moby]: should <v>
 
 80: should <a>: shoulder, shouldest
 
@@ -345367,6 +345364,7 @@
 60: SPCA <n/abbr>
 
 35: speak <v>: (spoke | @: spake), (spoken | @: spoke), speaking, speaks
+70: +: speak <v>: spake
 
 70 [5d+2a] 80: speakable <aj>
 
@@ -408776,9 +408774,6 @@
 
 60: Wassermann test <n/upper>
 
-70 [5d+2a] 85 [stale] [ukacd]: !wast <v>: wasted†, wasting†, -
-70 [5d+2a] 85 [stale]: - <v>: -, -, wasts
-
 80 [moby]: Wasta <n/place>
 
 80: wastable <aj>
@@ -413174,7 +413169,7 @@
 
 80: whosis <n>: whosises
 
-60: @whoso <pn>: whomso, -, whoseso, -
+70: @whoso <pn>: whomso, -, whoseso, -
 
 50: whosoever <pn>: whomsoever
 
@@ -413778,6 +413773,7 @@
 35: will <n_v>: willed, willing, wills
 
 35: will <v> {future}: (would | @: wouldst), -, (will | @: wilt)
+70: +: will <v> {future}: wouldst
 
 50: Will <n/person>: Will's
 
@@ -415066,9 +415062,8 @@
 
 35: wit <n>: wits, wit's
 
-60 [brif] 80: @wit <v>
-60: - <v>: wist, -, -
-80: - <v>: -, -, -, witting, wot, wost-, (wit- | ?: wite-), -
+60: @wit <v>
+80: - <v>: wist, -, -, witting, wot, wost-, wot-, -
 
 80: witan <n>: witans
 

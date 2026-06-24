@@ -27183,6 +27183,7 @@ befuddles
 befuddling
 beg
 began
+begat
 beget
 begets
 begetter
@@ -44290,6 +44291,7 @@ dosshouses
 dossier
 dossiers
 dossing
+dost
 dot
 dot's
 dotage
@@ -44303,6 +44305,7 @@ doted
 doter
 doters
 dotes
+doth
 doting
 dotingly
 dots
@@ -56103,6 +56106,7 @@ hassles
 hassling
 hassock
 hassocks
+hast
 haste
 hasted
 hasten
@@ -56154,6 +56158,7 @@ hater
 hater's
 haters
 hates
+hath
 hating
 hatpin
 hatpins
@@ -56196,7 +56201,6 @@ hauntingly
 haunts
 hauteur
 have
-have's
 haven
 haven's
 haven't
@@ -88074,6 +88078,7 @@ saintlike
 saintliness
 saintly
 saints
+saith
 sake
 sake's
 sakes
@@ -90499,6 +90504,7 @@ shallowly
 shallowness
 shallows
 shalom
+shalt
 sham
 sham's
 shaman
@@ -107554,7 +107560,6 @@ wholewheat
 wholly
 whom
 whomever
-whomso
 whomsoever
 whoop
 whooped
@@ -107587,8 +107592,6 @@ whorl
 whorled
 whorls
 whose
-whoseso
-whoso
 whosoever
 whup
 whupped
@@ -107996,7 +107999,6 @@ wispier
 wispiest
 wisps
 wispy
-wist
 wisteria
 wisterias
 wistful

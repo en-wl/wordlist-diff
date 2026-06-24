@@ -232,6 +232,7 @@ Missing words, unclassified:
   blamer
   bolivares
   buccaneering
+  canst
   catalyses
   cavilings
   cerebra
@@ -295,6 +296,7 @@ Missing words, unclassified:
   matzohs
   matzos
   matzot
+  mayst
   medias
   mesdemoiselles
   metempsychoses
@@ -384,13 +386,14 @@ Missing words, unclassified:
   weepings
   whats
   whelked
+  wist
   witherings
   woulds
   wounder
   yest
   yieldings
   yous
-total: 174
+total: 177
 
 Missing words, closed form of compound word marked as variant:
   airbase
@@ -2744,9 +2747,7 @@ New words, ok, added:
   weeklong
   wheatgrass
   where'd
-  whomso
   whoopie
-  whoseso
   wildland
   wildlands
   windings
@@ -2774,7 +2775,7 @@ New words, ok, added:
   ziplock
   ziti
   zombielike
-total: 1748
+total: 1746
 
 New words, ok, all-upper lemma:
   ATMs
@@ -3005,23 +3006,14 @@ New words, ok, other:
 total: 23
 
 Missing words, ok, archaic:
-  begat
-  canst
   didst
-  dost
-  doth
   durst
   hadst
-  hast
-  hath
   kine
-  mayst
-  saith
-  shalt
   spake
   wast
   wouldst
-total: 16
+total: 7
 
 Missing words, ok, improper derived:
   dimer
@@ -3173,7 +3165,8 @@ Missing words, ok, uncommon form:
   verdigrised
   verdigrising
   whoopees
-total: 92
+  whoso
+total: 93
 
 Missing words, ok, variant:
   Curacao

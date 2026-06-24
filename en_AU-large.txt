@@ -38986,6 +38986,7 @@ befuddling
 beg
 begad
 began
+begat
 beget
 begets
 begetter
@@ -45914,6 +45915,7 @@ canorous
 cans
 canso
 cansos
+canst
 cant
 cantabile
 cantaloupe
@@ -62999,6 +63001,7 @@ didn't
 dido
 didoes
 didos
+didst
 didymium
 didymiums
 didymous
@@ -65878,6 +65881,7 @@ dosshouses
 dossier
 dossiers
 dossing
+dost
 dot
 dot's
 dotage
@@ -65894,6 +65898,7 @@ doted
 doter
 doters
 dotes
+doth
 doting
 dotingly
 dots
@@ -84993,6 +84998,7 @@ hassles
 hassling
 hassock
 hassocks
+hast
 hastate
 haste
 hasted
@@ -85054,6 +85060,7 @@ hater
 hater's
 haters
 hates
+hath
 hating
 hatmaker
 hatmaker's
@@ -85115,7 +85122,6 @@ hautboy
 hautboys
 hauteur
 have
-have's
 havelock
 havelocks
 haven
@@ -103756,6 +103762,7 @@ maybe
 maybes
 mayday
 maydays
+mayest
 mayflies
 mayflower
 mayflowers
@@ -140322,6 +140329,7 @@ shallowly
 shallowness
 shallows
 shalom
+shalt
 shalwar
 shalwars
 shaly
@@ -144996,6 +145004,7 @@ spaghetti
 spagyric
 spahi
 spahis
+spake
 spall
 spallation
 spallations
@@ -165453,7 +165462,6 @@ wastings
 wastrel
 wastrel's
 wastrels
-wasts
 wat
 watch
 watch's
@@ -167858,6 +167866,7 @@ would
 would've
 wouldest
 wouldn't
+wouldst
 wound
 wounded
 wounded's
