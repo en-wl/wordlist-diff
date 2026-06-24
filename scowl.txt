@@ -421850,8 +421850,8 @@
 #:   v: 4: common
 #:   ~: 5: variant
 #:   V: 6: acceptable
-#:   -: 7: uncommon
-#:   @: 8: archaic
+#:   @: 7: archaic
+#:   -: 8: uncommon
 #:   x: 9: invalid
 #:
 #: Usage Notes:
